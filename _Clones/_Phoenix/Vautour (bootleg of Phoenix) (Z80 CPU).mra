@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Vautour (bootleg of Phoenix) (Z80 CPU)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>phoenix</rbf>
+	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
+		<part name='vautourz/vautour1.bin'/>
+		<part name='fenix/1.1f'/>
+		<part name='condor/cond03c.bin'/>
+		<part name='vautourz/vautour4.bin'/>
+		<part name='condor/cond05c.bin'/>
+		<part name='condor/cond06c.bin'/>
+		<part name='condor/cond07c.bin'/>
+		<part name='condor/cond08c.bin'/>
+		<part name='ic23.3d'/>
+		<part name='ic24.4d'/>
+		<part name='fenix/11.3h'/>
+		<part name='fenix/10.3j'/>
+	</rom>
+</misterromdescription>

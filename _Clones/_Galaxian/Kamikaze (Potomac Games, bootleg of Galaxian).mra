@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Kamikaze (Potomac Games, bootleg of Galaxian)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
+		<part name='kamikazp/kk1pmc.bin'/>
+		<part name='kamikazp/kk2pmc.bin'/>
+		<part name='kamikazp/kk3pmc.bin'/>
+		<part name='kamikazp/kk4pmc.bin'/>
+		<part name='kamikazp/kk5pmc.bin'/>
+		<part name='kamikazp/kk5pmc.bin'/>
+		<part name='kamikazp/kk5pmc.bin'/>
+		<part name='kamikazp/kk5pmc.bin'/>
+		<part name='kamikazp/kk8pmc.bin'/>
+		<part name='kamikazp/kk8pmc.bin'/>
+		<part name='kamikazp/kk7pmc.bin'/>
+		<part name='kamikazp/kk7pmc.bin'/>
+	</rom>
+</misterromdescription>

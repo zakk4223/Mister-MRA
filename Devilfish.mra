@@ -1,0 +1,15 @@
+<misterromdescription>
+	<name>Devil Fish</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<rbf>devilfish</rbf>
+	<rom index="0" zip="devilfsh.zip" md5="5a94e70ada06e9063ca4d448a4ffa04a" type="merged">
+		<part name="devilfsg/dfish1.7f"/>
+                <part name="devilfsg/dfish2.7h"/> 
+                <part name="devilfsg/dfish3.7k"/> 
+                <part name="devilfsg/dfish4.7m"/> 
+                <part name="devilfsg/dfish5.1h"/> 
+                <part name="devilfsg/dfish6.1k"/> 
+                <part name="c01s.6e"/> 
+	</rom>
+</misterromdescription>

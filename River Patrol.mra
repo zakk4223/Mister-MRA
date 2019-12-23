@@ -1,0 +1,25 @@
+<misterromdescription>
+  <rbf>RiverPatrol</rbf>
+  <rom index="0" zip="rpatroln.zip" md5="91a13a2b5d567b18edba8752438c9d14" type="nonmerged">
+        <part name="1_2.3k"/>
+        <part name="2_2.3l"/>
+        <part name="3_2.3n"/>
+        <part name="4_2.3p"/>
+        <part name="5_2.3r"/>
+        <part name="6.6l.2732"/>
+        <part name="7.6p.2732"/>
+        <part name="9.2t"/>
+        <part name="8.2s"/>
+  </rom>
+  <rom index="0" zip="rpatrol.zip" md5="91a13a2b5d567b18edba8752438c9d14" type="merged">
+        <part name="rpatroln/1_2.3k"/>
+        <part name="rpatrolb/rp2.4j"/>
+        <part name="rpatrolb/rp3.4f"/>
+        <part name="rpatrolb/rp4.4e"/>
+        <part name="rpatrolb/rp5.4c"/>
+        <part name="6.6l.2732"/>
+        <part name="7.6p.2732"/>
+        <part name="9.2t"/>
+        <part name="8.2s"/>
+  </rom>
+</misterromdescription>

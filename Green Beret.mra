@@ -1,0 +1,20 @@
+<misterromdescription>
+	<name>Green Beret</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<rbf>rshnatk</rbf>
+	<rom index="0" zip="gberet.zip" md5="5a94e70ada06e9063ca4d448a4ffa04a" type="merged">
+            <part name="577l03.10c"/>
+            <part name="577l02.8c"/>
+            <part name="577l01.7c"/>
+            <part name="577l01.7c"/>
+            <part name="577l06.5e"/>
+            <part name="577l05.4e"/>
+            <part name="577l08.4f"/>
+            <part name="577l04.3e"/>
+            <part name="577l07.3f"/>
+            <part name="577h10.5f"/>
+            <part name="577h11.6f"/>
+            <part name="577h09.2f"/>
+	</rom>
+</misterromdescription>

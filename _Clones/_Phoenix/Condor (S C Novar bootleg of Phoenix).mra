@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Condor (S C Novar bootleg of Phoenix)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>phoenix</rbf>
+	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
+		<part name='condor/cond01c.bin'/>
+		<part name='condor/cond02c.bin'/>
+		<part name='condor/cond03c.bin'/>
+		<part name='condorn/4.bin'/>
+		<part name='condor/cond05c.bin'/>
+		<part name='condor/cond06c.bin'/>
+		<part name='condor/cond07c.bin'/>
+		<part name='condor/cond08c.bin'/>
+		<part name='ic23.3d'/>
+		<part name='ic24.4d'/>
+		<part name='condorn/a.bin'/>
+		<part name='condor/cond12c.bin'/>
+	</rom>
+</misterromdescription>

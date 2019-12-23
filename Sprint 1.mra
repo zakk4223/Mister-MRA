@@ -1,0 +1,22 @@
+<misterromdescription>
+	<name>Sprint 1</name>
+	<mameversion>0216</mameversion>
+	<setname>sprint1</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1978</year>
+	<manufacturer>Atari (Kee Games)</manufacturer>
+	<category>Racing / Cars</category>
+	<rbf>sprint1</rbf>
+	<rom index="0" zip="sprint1.zip" md5="2a63b6ee5a63fdae0b71be6da31c27aa" type="merged|nonmerged">
+		<part name="6290-01.b1"/>
+		<part name="6291-01.c1"/>
+		<part name="6442-01.d1"/>
+		<part name="6443-01.e1"/>
+		<part name="6396-01.p4"/>
+		<part name="6397-01.r4"/>
+		<part name="6398-01.k6"/>
+		<part name="6399-01.j6"/>
+		<part name="6400-01.m2"/>
+		<part name="6401-01.e2"/>
+	</rom>
+</misterromdescription>

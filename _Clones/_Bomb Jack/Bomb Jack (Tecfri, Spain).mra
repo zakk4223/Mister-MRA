@@ -1,0 +1,25 @@
+<misterromdescription>
+	<name>Bomb Jack (Tecfri, Spain)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1984</year>
+	<manufacturer>Tehkan</manufacturer>
+	<category>Platform</category>
+	<rbf>bombjack</rbf>
+	<rom index='0' md5='32a4212e5f5754b756eaf690b9292c02' type='merged|nonmerged' zip='bombjack.zip'>
+		<part name='01_h03t.bin'/>
+		<part name='bombjackt/2.5n'/>
+		<part name='bombjackt/3.1e'/>
+		<part name='bombjackt/4.1h'/>
+		<part name='bombjackt/5.1k'/>
+		<part name='06_l08t.bin'/>
+		<part name='07_n08t.bin'/>
+		<part name='08_r08t.bin'/>
+		<part name='bombjackt/9.1j'/>
+		<part name='bombjackt/12.1n'/>
+		<part name='bombjackt/13.1r'/>
+		<part name='14_j07b.bin'/>
+		<part name='15_l07b.bin'/>
+		<part name='16_m07b.bin'/>
+	</rom>
+</misterromdescription>

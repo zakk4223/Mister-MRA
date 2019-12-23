@@ -1,0 +1,27 @@
+<misterromdescription>
+	<name>Bubbles (prototype version)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Bugs</category>
+	<rbf>bubbles</rbf>
+	<rom index='0' md5='cf1f9388016bf30fd6300050a8b19b2c' type='merged|nonmerged' zip='bubbles.zip'>
+		<part name='bubblesp/bub_prot.10b'/>
+		<part name='bubblesp/bub_prot.11b'/>
+		<part name='bubblesp/bub_prot.12b'/>
+		<part name='bubblesp/bub_prot.1b'/>
+		<part name='bubblesp/bub_prot.2b'/>
+		<part name='bubblesp/bub_prot.3b'/>
+		<part name='bubblesp/bub_prot.4b'/>
+		<part name='bubblesp/bub_prot.5b'/>
+		<part name='bubblesp/bub_prot.6b'/>
+		<part name='bubbles.7b'/>
+		<part name='bubblesp/bub_prot.8b'/>
+		<part name='bubblesp/bub_prot.9b'/>
+		<part name='bubbles.snd'/>
+		<part name='decoder.4'/>
+		<part name='decoder.6'/>
+	</rom>
+</misterromdescription>

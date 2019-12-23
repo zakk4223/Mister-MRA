@@ -1,0 +1,20 @@
+<misterromdescription>
+	<name>Scramble (Recreativos Franco, Spanish bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>scramble</rbf>
+	<rom index='0' md5='5a94e70ada06e9063ca4d448a4ffa04a' type='merged' zip='scramble.zip'>
+		<part name='scramrf/2c.cpu'/>
+		<part name='scrammr/302.e2'/>
+		<part name='scramrf/2j.cpu'/>
+		<part name='scramrf/2m.cpu'/>
+		<part name='c1.5h'/>
+		<part name='c2.5f'/>
+		<part name='kamikazesp/1-a.5c'/>
+		<part name='ot2.5d'/>
+		<part name='ot3.5e'/>
+	</rom>
+</misterromdescription>

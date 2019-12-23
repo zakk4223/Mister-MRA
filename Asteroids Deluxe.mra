@@ -1,0 +1,18 @@
+<misterromdescription>
+	<name>Asteroids Deluxe (rev 3)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Space / Asteroids</category>
+	<category>Space / Fighter</category>
+	<rbf>asteroidsdeluxe</rbf>
+	<rom index="0" zip="astdelux.zip" md5="6d4680945c22cb97863ac210fb5abf04" type="merged|nonmerged">
+		<part name="036430-02.d1"/>
+		<part name="036431-02.ef1"/>
+		<part name="036432-02.fh1"/>
+		<part name="036433-03.j1"/>
+		<part name="036800-02.r2"/>
+		<part name="036799-01.np2"/>
+	</rom>
+</misterromdescription>

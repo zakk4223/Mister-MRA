@@ -1,0 +1,34 @@
+<misterromdescription>
+	<name>Sprint 2 (set 1)</name>
+	<mameversion>0216</mameversion>
+	<setname>sprint2</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1976</year>
+	<manufacturer>Atari (Kee Games)</manufacturer>
+	<category>Racing / Cars</category>
+	<rbf>sprint2</rbf>
+	<rom index="0" zip="sprint2.zip" md5="39b513cba4455052bb88ca21707c15c3" type="nonmerged">
+		<part name="6290-01.b1"/>
+		<part name="6291-01.c1"/>
+		<part name="6404.d1"/>
+		<part name="6405.e1"/>
+		<part name="6396-01.p4"/>
+		<part name="6397-01.r4"/>
+		<part name="6398-01.k6"/>
+		<part name="6399-01.j6"/>
+		<part name="6400-01.m2"/>
+		<part name="6401-01.e2"/>
+	</rom>
+	<rom index="0" zip="sprint1.zip" md5="39b513cba4455052bb88ca21707c15c3" type="merged">
+		<part name="6290-01.b1"/>
+		<part name="6291-01.c1"/>
+		<part name="sprint2/6404.d1"/>
+		<part name="sprint2/6405.e1"/>
+		<part name="6396-01.p4"/>
+		<part name="6397-01.r4"/>
+		<part name="6398-01.k6"/>
+		<part name="6399-01.j6"/>
+		<part name="6400-01.m2"/>
+		<part name="6401-01.e2"/>
+	</rom>
+</misterromdescription>

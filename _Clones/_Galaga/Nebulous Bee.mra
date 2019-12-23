@@ -1,0 +1,15 @@
+<misterromdescription>
+  <rbf>Galaga</rbf>
+  <rom index='0' md5='32d57ddcdf7ab064ac43b47a7d7e92aa' type='merged' zip='galaga.zip'>
+        <part name='nebulbee/nebulbee.01'/>
+        <part name='nebulbee/nebulbee.02'/>
+        <part name='gg1_3.2m'/>
+        <part name='nebulbee/nebulbee.04'/>
+        <part name='galagamk/gg1-5.3f'/>
+        <part name='galagao/gg1-7.2c'/>
+        <part name='gg1_11.4d'/>
+        <part name='gg1_10.4f'/>
+        <part name='gg1_9.4l'/>
+        <part name='54xx.bin' zip='namco54.zip'/>
+  </rom>
+</misterromdescription>

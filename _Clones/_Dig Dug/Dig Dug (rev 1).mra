@@ -1,0 +1,29 @@
+<misterromdescription>
+	<name>Dig Dug (rev 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Maze / Digging</category>
+	<rbf>digdug</rbf>
+	<rom index='0' md5='d6790fb2893b2290b4ac74544e4d78e6' type='merged|nonmerged' zip='digdug.zip'>
+		<part name='digdug1/dd1.1'/>
+		<part name='digdug1/dd1.2'/>
+		<part name='digdug1/dd1.3'/>
+		<part name='digdug1/dd1.4b'/>
+		<part name='dd1.15'/>
+		<part name='dd1.14'/>
+		<part name='dd1.13'/>
+		<part name='dd1.12'/>
+		<part name='digdug1/dd1.5b'/>
+		<part name='digdug1/dd1.6b'/>
+		<part name='dd1.7'/>
+		<part name='dd1.10b'/>
+		<part name='dd1.11'/>
+		<part name='dd1.9'/>
+		<part name='136007.110'/>
+		<part name='136007.111'/>
+		<part name='136007.112'/>
+		<part name='136007.113'/>
+	</rom>
+</misterromdescription>

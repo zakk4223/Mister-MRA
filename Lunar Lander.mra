@@ -1,0 +1,19 @@
+<misterromdescription>
+	<name>Lunar Lander (rev 2)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Space / Moon</category>
+	<rbf>lunarlander</rbf>
+	<rom index="0" zip="llander.zip" md5="5b2971c7a10d7b454892374ea3f48515" type="merged|nonmerged">
+		<part name="034572-02.f1"/>
+		<part name="034571-02.de1"/>
+		<part name="034570-01.c1"/>
+		<part name="034569-02.b1"/>
+		<part name="034599-01.r3"/>
+		<part name="034598-01.np3"/>
+		<part name="034597-01.m3"/>
+		<part name="034599-01.r3"/>
+	</rom>
+</misterromdescription>

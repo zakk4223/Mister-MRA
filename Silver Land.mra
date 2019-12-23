@@ -1,0 +1,41 @@
+<misterromdescription>
+	<name>Silver Land</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Falcon</manufacturer>
+	<category>Sports / Ski</category>
+	<rbf>silverland</rbf>
+	<rom index="0" zip="silvland.zip" md5="b38a0b23d464a5dcf6a3335edfaab000" type="nonmerged">
+		<part name="7.2r"/>
+		<part name="8.1n"/>
+		<part name="rp3.4f"/>
+		<part name="10.2n"/>
+		<part name="11.1r"/>
+		<part name="12.2k"/>
+		<part name="7.2r"/>
+		<part name="8.1n"/>
+		<part name="6.6n"/>
+		<part name="5.6l"/>
+		<part name="4.6k"/>
+		<part name="3.6h"/>
+		<part name="2.6c"/>
+		<part name="1.6a"/>
+	</rom>
+	<rom index="0" zip="rpatrol.zip" md5="b38a0b23d464a5dcf6a3335edfaab000" type="merged">
+		<part name="silvland/7.2r"/>
+		<part name="silvland/8.1n"/>
+		<part name="rpatrolb/rp3.4f"/>
+		<part name="silvland/10.2n"/>
+		<part name="silvland/11.1r"/>
+		<part name="silvland/12.2k"/>
+		<part name="silvland/7.2r"/>
+		<part name="silvland/8.1n"/>
+		<part name="silvland/6.6n"/>
+		<part name="silvland/5.6l"/>
+		<part name="silvland/4.6k"/>
+		<part name="silvland/3.6h"/>
+		<part name="silvland/2.6c"/>
+		<part name="silvland/1.6a"/>
+	</rom>
+</misterromdescription>

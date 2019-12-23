@@ -1,0 +1,24 @@
+<misterromdescription>
+	<name>Scramble (bootleg?)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>scramble</rbf>
+	<rom index='0' md5='5a94e70ada06e9063ca4d448a4ffa04a' type='merged' zip='scramble.zip'>
+		<part name='scramblebb/1'/>
+		<part name='kamikazesp/5-b.2e'/>
+		<part name='kamikazesp/6-b.2f'/>
+		<part name='bomber/4.3f'/>
+		<part name='bomber/5.3e'/>
+		<part name='bomber/6.3d'/>
+		<part name='bomber/7.3c'/>
+		<part name='bomber/8.3a'/>
+		<part name='c1.5h'/>
+		<part name='c2.5f'/>
+		<part name='ot1.5c'/>
+		<part name='ot2.5d'/>
+		<part name='ot3.5e'/>
+	</rom>
+</misterromdescription>

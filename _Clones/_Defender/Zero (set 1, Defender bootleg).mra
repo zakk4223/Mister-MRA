@@ -1,0 +1,21 @@
+<misterromdescription>
+	<name>Zero (set 1, Defender bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>defender</rbf>
+	<rom index='0' md5='c30f51faa522769c684feafa3147354a' type='merged|nonmerged' zip='defender.zip'>
+		<part name='defndjeu/15'/>
+		<part name='tornado1/torna3.bin'/>
+		<part name='defndjeu/17'/>
+		<part name='zero/zero-21'/>
+		<part name='zero/zero-20'/>
+		<part name='tornado1/tornb1.bin'/>
+		<part name='defndjeu/18'/>
+		<part name='defend.snd'/>
+		<part name='decoder.2'/>
+		<part name='decoder.3'/>
+	</rom>
+</misterromdescription>

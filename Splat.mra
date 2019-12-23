@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Splat</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<rbf>splat</rbf>
+	<rom index="0" zip="splat.zip" md5="5a94e70ada06e9063ca4d448a4ffa04a" type="merged">
+            <part name="splat.10"/>
+            <part name="splat.11"/>
+            <part name="splat.12"/>
+            <part name="splat.01"/>
+            <part name="splat.02"/>
+            <part name="splat.03"/>
+            <part name="splat.04"/>
+            <part name="splat.05"/>
+            <part name="splat.06"/>
+            <part name="splat.07"/>
+            <part name="splat.08"/>
+            <part name="splat.09"/>
+            <part name="splat.snd"/>
+            <part name="decoder.4"/>
+            <part name="decoder.6"/>
+	</rom>
+</misterromdescription>

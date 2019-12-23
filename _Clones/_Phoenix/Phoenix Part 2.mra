@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Phoenix Part 2</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
+		<part name='phoenxp2/1'/>
+		<part name='phoenxp2/2'/>
+		<part name='phoenxp2/3'/>
+		<part name='phoenxp2/4'/>
+		<part name='phoenxp2/5'/>
+		<part name='phoenxp2/6'/>
+		<part name='phoenxp2/7'/>
+		<part name='phoenxp2/8'/>
+		<part name='batman2/09.bin'/>
+                <part name='batman2/11.bin'/>
+                <part name='batman2/10.bin'/>
+                <part name='batman2/12.bin'/>
+	</rom>
+</misterromdescription>

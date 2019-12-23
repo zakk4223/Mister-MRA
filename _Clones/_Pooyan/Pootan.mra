@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Pootan</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Maze / Balloons</category>
+	<category>Maze / Pigs</category>
+	<category>Sports / Shooting</category>
+	<rbf>pooyan</rbf>
+	<rom index='0' md5='de106fd90992460848b7856876a4e330' type='merged|nonmerged' zip='pooyan.zip'>
+		<part name='pootan/poo_ic22.bin'/>
+		<part name='pootan/poo_ic23.bin'/>
+		<part name='3.6a'/>
+		<part name='pootan/poo_ic25.bin'/>
+		<part name='pootan/poo_ic13.bin'/>
+		<part name='pootan/poo_ic14.bin'/>
+		<part name='6.9a'/>
+		<part name='5.8a'/>
+		<part name='xx.7a'/>
+		<part name='xx.8a'/>
+	</rom>
+</misterromdescription>

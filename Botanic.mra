@@ -1,0 +1,26 @@
+<misterromdescription>
+	<name>Botanic (English - Spanish, set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Itisa</manufacturer>
+	<category>Maze / Bugs</category>
+	<category>Platform</category>
+	<rbf>botanic</rbf>
+	<rom index="0" zip="botanic.zip" md5="8898a379db965e3d83263b1b8c4730ed" type="merged|nonmerged">
+		<part name="5.9e"/>
+		<part name="06.9f"/>
+		<part name="07.9j"/>
+		<part name="08.9k"/>
+		<part name="09.9m"/>
+		<part name="10.9n"/>
+		<part name="09.9m"/>
+		<part name="10.9n"/>
+		<part name="2.1e"/>
+		<part name="1.1c"/>
+		<part name="4.1j"/>
+		<part name="3.1f"/>
+		<part name="prom.3p"/>
+		<part name="prom.3r"/>
+	</rom>
+</misterromdescription>

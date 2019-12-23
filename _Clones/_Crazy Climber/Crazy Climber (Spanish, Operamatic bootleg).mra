@@ -1,0 +1,24 @@
+<misterromdescription>
+	<name>Crazy Climber (Spanish, Operamatic bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<category>Platform / Climbing</category>
+	<rbf>crazyclimber</rbf>
+	<rom index='0' md5='b6b06723da0f0e6e183723285b0bf5be' type='merged|nonmerged' zip='cclimber.zip'>
+		<part name='cclimbroper/cc5-2532.cpu'/>
+		<part name='cclimbroper/cc4-2532.cpu'/>
+		<part name='cclimbroper/cc3-2532.cpu'/>
+		<part name='cclimbroper/cc2-2532.cpu'/>
+		<part name='cclimbroper/cc1-2532.cpu'/>
+		<part name='cclimbroper/cc13-2716.cpu'/>
+		<part name='cclimbroper/cc12-2716.cpu'/>
+		<part name='cclimbroper/cc11-2716.cpu'/>
+		<part name='cclimbroper/cc10-2716.cpu'/>
+		<part name='cclimbroper/cc9-2716.cpu'/>
+		<part name='cclimbroper/cc8-2716.cpu'/>
+		<part name='ccboot/cc13j.bin'/>
+		<part name='ccboot/cc12j.bin'/>
+	</rom>
+</misterromdescription>

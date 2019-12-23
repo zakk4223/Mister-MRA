@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Next Fase (bootleg of Phoenix)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>phoenix</rbf>
+	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
+		<part name='nextfase/nf01.bin'/>
+		<part name='nextfase/nf02.bin'/>
+		<part name='nextfase/nf03.bin'/>
+		<part name='nextfase/nf04.bin'/>
+		<part name='nextfase/nf05.bin'/>
+		<part name='h6-ic50.6a'/>
+		<part name='h7-ic51.7a'/>
+		<part name='nextfase/nf08.bin'/>
+		<part name='ic23.3d'/>
+		<part name='ic24.4d'/>
+		<part name='nextfase/nf09.bin'/>
+		<part name='nextfase/nf10.bin'/>
+	</rom>
+</misterromdescription>

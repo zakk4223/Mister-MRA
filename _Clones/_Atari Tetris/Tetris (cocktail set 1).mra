@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tetris (cocktail set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<rbf>ataritetris</rbf>
+	<rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='merged' zip='atetris.zip'>
+		<part name='atetrisc/tetcktl1.rom'/>
+		<part name='atetrisc/136066-1103.35a'/>
+	</rom>
+</misterromdescription>

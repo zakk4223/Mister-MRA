@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Falcon (bootleg of Phoenix) (Z80 CPU)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>phoenix</rbf>
+	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
+		<part name='falconz/f45.bin'/>
+		<part name='falconz/f46.bin'/>
+		<part name='falconz/f47.bin'/>
+		<part name='falconz/f48.bin'/>
+		<part name='condor/cond05c.bin'/>
+		<part name='condor/cond06c.bin'/>
+		<part name='condor/cond07c.bin'/>
+		<part name='falconz/f52.bin'/>
+		<part name='ic23.3d'/>
+		<part name='ic24.4d'/>
+		<part name='condor/cond11c.bin'/>
+		<part name='condor/cond12c.bin'/>
+	</rom>
+</misterromdescription>

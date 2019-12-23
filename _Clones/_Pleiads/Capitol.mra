@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Capitol</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Tehkan</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>phoenix</rbf>
+	<rom index='0' md5='648468f93204c48ff27f39018828cb28' type='merged|nonmerged' zip='pleiads.zip'>
+		<part name='capitol/cp1.45'/>
+		<part name='capitol/cp2.46'/>
+		<part name='capitol/cp3.47'/>
+		<part name='capitol/cp4.48'/>
+		<part name='capitol/cp5.49'/>
+		<part name='capitol/cp6.50'/>
+		<part name='capitol/cp7.51'/>
+		<part name='capitol/cp8.52'/>
+		<part name='capitol/cp11.23'/>
+		<part name='capitol/cp12.24'/>
+		<part name='capitol/cp9.39'/>
+		<part name='capitol/cp10.40'/>
+	</rom>
+</misterromdescription>

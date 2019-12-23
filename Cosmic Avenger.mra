@@ -1,0 +1,21 @@
+<misterromdescription>
+	<name>Cosmic Avenger</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Universal</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>cosmicavenger</rbf>
+	<rom index="0" zip="cavenger.zip" md5="f1233ff57be1767247bdd18c7b0bdf69" type="merged|nonmerged">
+		<part name="1.c4"/>
+		<part name="2.d4"/>
+		<part name="3.e4"/>
+		<part name="4.h4"/>
+		<part name="5.j4"/>
+		<part name="6.k4"/>
+		<part name="8.l7"/>
+		<part name="8.l7"/>
+		<part name="9.f7"/>
+		<part name="0.h7"/>
+	</rom>
+</misterromdescription>

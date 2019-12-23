@@ -1,0 +1,20 @@
+<misterromdescription>
+	<name>Food Fight (rev 2)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<rbf>foodfight</rbf>
+	<rom index='0' md5='5a94e70ada06e9063ca4d448a4ffa04a' type='merged' zip='foodf.zip'>
+                <part name='foodf2/136020-201.8c'/>
+                <part name='foodf2/136020-202.9c'/>
+                <part name='foodf2/136020-203.8d'/>
+                <part name='foodf1/136020-104.9d'/>
+                <part name='foodf2/136020-205.8e'/> 
+                <part name='foodf2/136020-206.9e'/> 
+                <part name='foodf2/136020-207.8f'/> 
+                <part name='136020-208.9f'/> 
+                <part name='136020-109.6lm'/> 
+                <part name='136020-110.4e'/> 
+                <part name='136020-111.4d'/> 
+                <part name='foodf.nv'/>
+	</rom>
+</misterromdescription>

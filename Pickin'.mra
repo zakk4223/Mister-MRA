@@ -1,0 +1,25 @@
+<misterromdescription>
+	<name>Pickin'</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Valadon Automation</manufacturer>
+	<category>Maze</category>
+	<rbf>pickin</rbf>
+	<rom index="0" zip="pickin.zip" md5="9EBFA4E80A54E58B08E112FD29F02EF7" type="merged|nonmerged">
+		<part name="9e"/>
+		<part name="9f"/>
+		<part name="9j"/>
+		<part name="9k"/>
+		<part name="9m"/>
+		<part name="9n"/>
+		<part name="9m"/>
+		<part name="9n"/>
+		<part name="1f"/>
+		<part name="1f"/>
+		<part name="1j"/>
+		<part name="1j"/>
+		<part name="6331-1.3p"/>
+		<part name="6331-1.3r"/>
+	</rom>
+</misterromdescription>

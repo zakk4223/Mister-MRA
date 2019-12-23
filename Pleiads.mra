@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Pleiads (Tehkan)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Tehkan</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>phoenix</rbf>
+	<rom index="0" zip="pleiads.zip" md5="648468f93204c48ff27f39018828cb28" type="merged|nonmerged">
+		<part name="ic47.r1"/>
+		<part name="ic48.r2"/>
+		<part name="ic47.bin"/>
+		<part name="ic48.bin"/>
+		<part name="ic51.r5"/>
+		<part name="ic50.bin"/>
+		<part name="ic53.r7"/>
+		<part name="ic52.bin"/>
+		<part name="ic23.bin"/>
+		<part name="ic24.bin"/>
+		<part name="ic39.bin"/>
+		<part name="ic40.bin"/>
+	</rom>
+</misterromdescription>

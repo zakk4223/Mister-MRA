@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Fenix (Niemer bootleg of Phoenix)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>phoenix</rbf>
+	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
+		<part name='fenixn/2201.bin'/>
+		<part name='fenixn/1202.bin'/>
+		<part name='fenixn/1203.bin'/>
+		<part name='fenixn/1204.bin'/>
+		<part name='h5-ic49.5a'/>
+		<part name='fenixn/1206.bin'/>
+		<part name='h7-ic51.7a'/>
+		<part name='fenixn/1208.bin'/>
+		<part name='ic23.3d'/>
+		<part name='ic24.4d'/>
+		<part name='avefenixl/09_ic39.b3'/>
+		<part name='b2-ic40.4b'/>
+	</rom>
+</misterromdescription>

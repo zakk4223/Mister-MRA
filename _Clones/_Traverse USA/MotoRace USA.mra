@@ -1,0 +1,27 @@
+<misterromdescription>
+	<name>MotoRace USA</name>
+	<mameversion>0216</mameversion>
+	<setname>travrusa</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Irem</manufacturer>
+	<category>Racing / Motorbike</category>
+	<rbf>traverseusa</rbf>
+	<rom index='0' md5='67d6330459d5180670c25842fc3d1d11' type='merged|nonmerged' zip='travrusa.zip'>
+		<part name='motorace/mr.cpu'/>
+		<part name='motorace/mr1.3l'/>
+		<part name='motorace/mr2.3k'/>
+		<part name='motorace/mr3.3j'/>
+		<part name='mr10.1a'/>
+		<part name='mr10.1a'/>
+		<part name='motorace/mr7.3e'/>
+		<part name='mr8.3c'/>
+		<part name='mr9.3a'/>
+		<part name='motorace/mr4.3n'/>
+		<part name='motorace/mr5.3m'/>
+		<part name='motorace/mr6.3k'/>
+		<part name='mmi6349.ij'/>
+		<part name='tbp24s10.3'/>
+		<part name='tbp18s.2'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,22 @@
+<misterromdescription>
+	<name>Coccinelle (bootleg of Lady Bug, set 2)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Universal</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Bugs</category>
+	<rbf>ladybug</rbf>
+	<rom index='0' md5='89d961d878363b9859930a3e2c463867' type='merged|nonmerged' zip='ladybug.zip'>
+		<part name='ladybugb2/lb1b.cpu'/>
+		<part name='ladybugb2/lb2b.cpu'/>
+		<part name='ladybugb2/lb3b.cpu'/>
+		<part name='l4.h4'/>
+		<part name='l5.j4'/>
+		<part name='ladybugb2/lb6b.cpu'/>
+		<part name='l8.l7'/>
+		<part name='l7.m7'/>
+		<part name='l9.f7'/>
+		<part name='l0.h7'/>
+	</rom>
+</misterromdescription>

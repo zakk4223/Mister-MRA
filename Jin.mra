@@ -1,0 +1,19 @@
+<misterromdescription>
+	<name>Jin</name>
+	<mameversion>0216</mameversion>
+	<setname>jin</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Falcon</manufacturer>
+	<category>Maze / Qix</category>
+	<rbf>jin</rbf>
+	<rom index="0" zip="jin.zip" md5="F96C368DCC64F7661088E84CDCE9FCD1" type="merged|nonmerged">
+		<part name="jin11.6c"/>
+		<part name="jin12.7c"/>
+		<part name="jin13.6d"/>
+		<part name="jin14.4c"/>
+		<part name="jin15.3f"/>
+		<part name="jin.1a"/>
+		<part name="jin.1l"/>
+	</rom>
+</misterromdescription>

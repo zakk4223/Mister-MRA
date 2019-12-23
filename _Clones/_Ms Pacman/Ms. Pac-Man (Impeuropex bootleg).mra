@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
+        <part name='mspacmanbi/2.bin'/>
+        <part fixme='maincpu:1000' name='pacman.6f'/>
+        <part fixme='maincpu:2000' name='pacman.6h'/>
+        <part fixme='maincpu:3000' name='pacman.6j'/>
+        <part fixme='maincpu:8000' name='u5'/>
+        <part fixme='maincpu:8000' name='u5'/>
+        <part fixme='maincpu:9000' name='u6'/>
+        <part fixme='maincpu:b000' name='u7'/>
+        <part fixme='maincpu:b000' name='u7'/>
+        <part name='mspacmanbg2/13-chr.bin'/>
+        <part fixme='gfx1:1000' name='5f'/>
+        <part fixme='gfx1:1000' name='5f'/>
+        <part fixme='gfx1:1000' name='5f'/>
+        <part name='82s126.1m'/>
+        <part name='82s126.4a'/>
+        <part name='82s126.3m'/>
+        <part name='mspacmanbcc/82s123.h7'/>
+  </rom>
+</misterromdescription>

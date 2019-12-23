@@ -1,0 +1,12 @@
+<misterromdescription>
+  <rbf>TimePilot</rbf>
+  <rom index="0" zip="timeplt.zip" md5="62e6936e8fcfc4397d4e38a8136f5664" type="merged">
+        <part name="tm1"/>
+        <part name="tm2"/>
+        <part name="tm3"/>
+        <part name="tm6"/>
+        <part name="tm4"/>
+        <part name="tm5"/>
+        <part name="tm7"/>
+  </rom>
+</misterromdescription>

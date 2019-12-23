@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Galaxian (Irem)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
+		<part name='galaxiani/cp-1.8g'/>
+		<part name='galaxianbl2/j7.7j'/>
+		<part name='galap1/galaxian.w'/>
+		<part name='galaxiani/cp-4.8d'/>
+		<part name='galaxiana/7l.bin'/>
+		<part name='galaxiana/7l.bin'/>
+		<part name='galaxiana/7l.bin'/>
+		<part name='galaxiana/7l.bin'/>
+		<part name='galaxiani/cp-7.1k'/>
+		<part name='galaxiani/cp-7.1k'/>
+		<part name='galaxiani/cp-6.1j'/>
+		<part name='galaxiani/cp-6.1j'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,26 @@
+<misterromdescription>
+	<name>Squash (Itisa)</name>
+	<mameversion>0216</mameversion>
+	<setname>squaitsa</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1984</year>
+	<manufacturer>Itisa</manufacturer>
+	<category>Sports / Squash</category>
+	<rbf>squash</rbf>
+	<rom index="0" zip="squaitsa.zip" md5="6E96F7A0320CAF61BFEAF400EF2B538A" type="merged|nonmerged">
+		<part name="sq5.3.9e"/>
+		<part name="sq6.4.9f"/>
+		<part name="sq7.5.9j"/>
+		<part name="sq5.3.9e"/>
+		<part name="sq6.4.9f"/>
+		<part name="sq7.5.9j"/>
+		<part name="sq5.3.9e"/>
+		<part name="sq6.4.9f"/>
+		<part name="sq2.1.1e"/>
+		<part name="sq1.1c"/>
+		<part name="sq4.2.1j"/>
+		<part name="sq3.1f"/>
+		<part name="mmi6331.3p"/>
+		<part name="mmi6331.3r"/>
+	</rom>
+</misterromdescription>

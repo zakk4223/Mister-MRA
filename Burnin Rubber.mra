@@ -1,0 +1,19 @@
+<misterromdescription>
+	<name>Burnin' Rubber</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Data East</manufacturer>
+	<category>Racing / Cars</category>
+	<rbf>burningrubber</rbf>
+	<rom index="0" zip="brubber.zip" md5="c7d288bc1514495a741b17001e2400a2" type="merged|nonmerged">
+		<part name="brubber.12c"/>
+		<part name="brubber.12d"/>
+		<part name="bnj4e.bin"/>
+		<part name="bnj4f.bin"/>
+		<part name="bnj4h.bin"/>
+		<part name="bnj10e.bin"/>
+		<part name="bnj10f.bin"/>
+		<part name="bnj6c.bin"/>
+	</rom>
+</misterromdescription>

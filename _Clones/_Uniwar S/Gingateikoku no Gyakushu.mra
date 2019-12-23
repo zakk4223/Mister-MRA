@@ -1,0 +1,25 @@
+<misterromdescription>
+	<name>Gingateikoku no Gyakushu</name>
+	<mameversion>0216</mameversion>
+	<setname>uniwars</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Irem</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>uniwars</rbf>
+	<rom index='0' md5='b270e45e9d2ca2e73b081fed66d9f3db' type='merged|nonmerged' zip='uniwars.zip'>
+		<part name='f07_1a.bin'/>
+		<part name='h07_2a.bin'/>
+		<part name='k07_3a.bin'/>
+		<part name='m07_4a.bin'/>
+		<part name='d08p_5a.bin'/>
+		<part name='galemp/6'/>
+		<part name='m08p_7a.bin'/>
+		<part name='n08p_8a.bin'/>
+		<part name='gteikoku/h01_1.bin'/>
+		<part name='h01_2.bin'/>
+		<part name='gteikoku/k01_1.bin'/>
+		<part name='k01_2.bin'/>
+		<part name='galemp/l06_prom.bin'/>
+	</rom>
+</misterromdescription>

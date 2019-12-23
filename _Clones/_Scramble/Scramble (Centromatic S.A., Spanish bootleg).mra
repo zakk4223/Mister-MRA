@@ -1,0 +1,24 @@
+<misterromdescription>
+	<name>Scramble (Centromatic S.A., Spanish bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>scramble</rbf>
+	<rom index='0' md5='5a94e70ada06e9063ca4d448a4ffa04a' type='merged' zip='scramble.zip'>
+		<part name='scramce/es1.2c'/>
+		<part name='offensiv/2716-9e.bin'/>
+		<part name='offensiv/2716-9f.bin'/>
+		<part name='bomber/4.3f'/>
+		<part name='offensiv/2716-9j.bin'/>
+		<part name='bomber/6.3d'/>
+		<part name='bomber/7.3c'/>
+		<part name='scrambp/b8-2716.cpu'/>
+		<part name='c1.5h'/>
+		<part name='c2.5f'/>
+		<part name='kamikazesp/1-a.5c'/>
+		<part name='ot2.5d'/>
+		<part name='ot3.5e'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
+        <part name='pacgal2/pmg1.bin'/>
+        <part name='pacgal2/pmg2.bin'/>
+        <part name='pacgal2/pmg3.bin'/>
+        <part name='pacgal2/pmg4.bin'/>
+        <part name='u5'/>
+        <part name='u5'/>
+        <part name='pacgal2/u6a.bin'/>
+        <part name='pacgal2/u7a.bin'/>
+        <part name='pacgal2/u7a.bin'/>
+        <part name='pacgal2/pmg9.bin'/>
+        <part name='pacgal2/pmg10.bin'/>
+        <part name='pacgal2/pmg10.bin'/>
+        <part name='pacgal2/pmg10.bin'/>
+        <part name='82s126.1m'/>
+        <part name='82s126.4a'/>
+        <part name='82s126.3m'/>
+        <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

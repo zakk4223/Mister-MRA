@@ -1,0 +1,18 @@
+<misterromdescription>
+	<name>Zig Zag (Dig Dug conversion on Galaxian hardware, bootleg set 1)</name>
+	<mameversion>0216</mameversion>
+	<setname>zigzagb</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>bootleg (LAX)</manufacturer>
+	<category>Maze / Digging</category>
+	<rbf>zigzag</rbf>
+	<rom index="0" zip="zigzagb.zip" md5="273678b3c924d6c56072e56fa12944f2" type="merged|nonmerged">
+		<part name="zz_d1.7l"/>
+		<part name="zz_d2.7k"/>
+		<part name="zz_d4.7f"/>
+		<part name="zz_d3.7h"/>
+		<part name="zz_6.1h"/>
+		<part name="zz_5.1k"/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Astrians (clone of Swarm)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
+		<part name='astrians/astrians.7h'/>
+		<part name='astrians/astrians.7j'/>
+		<part name='astrians/astrians.7k'/>
+		<part name='astrians/astrians.7l'/>
+		<part name='astrians/astrians.7m'/>
+		<part name='astrians/astrians.7m'/>
+		<part name='astrians/astrians.7m'/>
+		<part name='astrians/astrians.7m'/>
+		<part name='astrians/astrians.1h'/>
+		<part name='astrians/astrians.1h'/>
+		<part name='astrians/astrians.1k'/>
+		<part name='astrians/astrians.1k'/>
+	</rom>
+</misterromdescription>

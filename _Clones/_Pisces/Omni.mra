@@ -1,0 +1,13 @@
+<misterromdescription>
+  <rbf>Pisces</rbf>
+  <rom index='0' md5='81d4f5479966ea8f79cac9b9c92725c5' type='merged' zip='pisces.zip'>
+        <part name='omni/omni1.7f'/>
+        <part name='omni/omni2.7j'/>
+        <part name='omni/omni3.7f'/>
+        <part name='omni/omni3.7f'/>
+        <part name='g09.bin'/>
+        <part name='g11.bin'/>
+        <part name='g10.bin'/>
+        <part name='g12.bin'/>
+  </rom>
+</misterromdescription>

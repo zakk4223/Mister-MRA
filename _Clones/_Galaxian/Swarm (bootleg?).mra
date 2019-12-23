@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Swarm (bootleg?)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
+		<part name='astrians/astrians.7h'/>
+		<part name='astrians/astrians.7j'/>
+		<part name='astrians/astrians.7k'/>
+		<part name='swarm/swarm4.bin'/>
+		<part name='swarm/swarm5.bin'/>
+		<part name='swarm/swarm5.bin'/>
+		<part name='swarm/swarm5.bin'/>
+		<part name='swarm/swarm5.bin'/>
+		<part name='swarm/swarma.bin'/>
+		<part name='swarm/swarma.bin'/>
+		<part name='swarm/swarmb.bin'/>
+		<part name='swarm/swarmb.bin'/>
+	</rom>
+</misterromdescription>

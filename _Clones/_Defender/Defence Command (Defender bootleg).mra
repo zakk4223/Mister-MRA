@@ -1,0 +1,24 @@
+<misterromdescription>
+	<name>Defence Command (Defender bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>defender</rbf>
+	<rom index='0' md5='c30f51faa522769c684feafa3147354a' type='merged|nonmerged' zip='defender.zip'>
+		<part name='defence/1'/>
+		<part name='defence/2'/>
+		<part name='defence/3'/>
+		<part name='defence/0'/>
+		<part name='defence/7'/>
+		<part name='defence/9'/>
+		<part name='defence/6'/>
+		<part name='defence/8'/>
+		<part name='defence/5'/>
+		<part name='defence/4'/>
+		<part name='defcmnd/defcmnda.snd'/>
+		<part name='decoder.2'/>
+		<part name='decoder.3'/>
+	</rom>
+</misterromdescription>

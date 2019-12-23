@@ -1,0 +1,33 @@
+<misterromdescription>
+	<name>Bagman</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Valadon Automation</manufacturer>
+	<category>Platform / Extra</category>
+	<rbf>bagman</rbf>
+	<rom index="0" zip="bagman.zip" md5="7f7855b1b6174c44e4d6a777c23fb368" type="merged|nonmerged">
+		<part name="e9_b05.bin"/>
+		<part name="f9_b06.bin"/>
+		<part name="f9_b07.bin"/>
+		<part name="k9_b08.bin"/>
+		<part name="m9_b09s.bin"/>
+		<part name="n9_b10.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="t9_b12.bin"/>
+		<part name="e1_b02.bin"/>
+		<part name="c1_b01.bin"/>
+		<part name="j1_b04.bin"/>
+		<part name="f1_b03s.bin"/>
+		<part name="r9_b11.bin"/>
+		<part name="t9_b12.bin"/>
+	</rom>
+</misterromdescription>

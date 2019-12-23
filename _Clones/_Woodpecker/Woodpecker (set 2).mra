@@ -1,0 +1,29 @@
+<misterromdescription>
+	<name>Woodpecker (set 2)</name>
+	<mameversion>0216</mameversion>
+	<setname>woodpeck</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Amenip (Palcom Queen River)</manufacturer>
+	<category>Maze / Cat &amp; Mouse</category>
+	<category>Platform</category>
+	<rbf>woodpecker</rbf>
+	<rom index='0' md5='00ede6f2234733c7f0d471c7c6edc15f' type='merged|nonmerged' zip='woodpeck.zip'>
+		<part name='woodpeca/0'/>
+		<part name='woodpeca/0'/>
+		<part name='woodpeca/0'/>
+		<part name='woodpeca/0'/>
+		<part name='woodpeca/1'/>
+		<part name='woodpeca/2'/>
+		<part name='woodpeca/3'/>
+		<part name='woodpeca/4'/>
+		<part name='woodpeca/10.5f'/>
+		<part name='woodpeca/11.5h'/>
+		<part name='woodpeca/10.5f'/>
+		<part name='woodpeca/11.5h'/>
+		<part name='pr.1k'/>
+		<part name='pr.4a'/>
+		<part name='pr.3k'/>
+		<part name='pr.8h'/>
+	</rom>
+</misterromdescription>

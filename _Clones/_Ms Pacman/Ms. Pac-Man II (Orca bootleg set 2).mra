@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
+        <part name='mspacii/p3.6e'/>
+        <part name='mspacii/p4.6f'/>
+        <part name='mspacii/p5.6h'/>
+        <part name='mspacii/p6.6j'/>
+        <part name='mspacii/p7.s1'/>
+        <part name='mspacii/p7.s1'/>
+        <part name='mspacii2/p1.bin'/>
+        <part fixme='maincpu:b000' name='u7'/>
+        <part fixme='maincpu:b000' name='u7'/>
+        <part name='mspacii/p1.5e'/>
+        <part name='5f'/>
+        <part name='5f'/>
+        <part name='5f'/>
+        <part name='82s126.1m'/>
+        <part name='82s126.4a'/>
+        <part name='82s126.3m'/>
+        <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Moon Alien</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
+		<part name='galapx/galx.u'/>
+		<part name='moonaln/prg2.bin'/>
+		<part name='moonaln/prg3.bin'/>
+		<part name='moonaln/superg.y'/>
+		<part name='moonaln/prg5.bin'/>
+		<part name='moonaln/prg5.bin'/>
+		<part name='moonaln/prg5.bin'/>
+		<part name='moonaln/prg5.bin'/>
+		<part name='moonaln/ca1.bin'/>
+		<part name='moonaln/ca1.bin'/>
+		<part name='moonaln/ca2.bin'/>
+		<part name='moonaln/ca2.bin'/>
+	</rom>
+</misterromdescription>

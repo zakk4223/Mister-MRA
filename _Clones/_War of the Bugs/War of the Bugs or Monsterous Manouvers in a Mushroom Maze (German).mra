@@ -1,0 +1,25 @@
+<misterromdescription>
+	<name>War of the Bugs or Monsterous Manouvers in a Mushroom Maze (German)</name>
+	<mameversion>0216</mameversion>
+	<setname>warofbug</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Armenia / Food and Fun Corp</manufacturer>
+	<category>Maze / Bugs</category>
+	<category>Maze / Centipede</category>
+	<rbf>warofthebugs</rbf>
+	<rom index='0' md5='163dce473299b77e3f473a1e51b26238' type='merged|nonmerged' zip='warofbug.zip'>
+		<part name='warofbugg/wotbg-u-1.bin'/>
+		<part name='warofbugg/wotbg-v-2.bin'/>
+		<part name='warofbugg/wotbg-w-3.bin'/>
+		<part name='warofbugg/wotbg-y-4.bin'/>
+		<part name='warofbugg/wotbg-z-5.bin'/>
+		<part name='warofbugg/wotbg-z-5.bin'/>
+		<part name='warofbugg/wotbg-z-5.bin'/>
+		<part name='warofbugg/wotbg-z-5.bin'/>
+		<part name='warofbug.1k'/>
+		<part name='warofbug.1k'/>
+		<part name='warofbug.1j'/>
+		<part name='warofbug.1j'/>
+	</rom>
+</misterromdescription>

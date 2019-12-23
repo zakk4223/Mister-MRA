@@ -1,0 +1,24 @@
+<misterromdescription>
+	<name>Crazy Climber (bootleg set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<category>Platform / Climbing</category>
+	<rbf>crazyclimber</rbf>
+	<rom index='0' md5='b6b06723da0f0e6e183723285b0bf5be' type='merged|nonmerged' zip='cclimber.zip'>
+		<part name='ccboot/m11.bin'/>
+		<part name='ccboot/m10.bin'/>
+		<part name='ccboot/cc09j.bin'/>
+		<part name='ccboot/m08.bin'/>
+		<part name='ccboot/cc07j.bin'/>
+		<part name='cc06'/>
+		<part name='ccboot/m05.bin'/>
+		<part name='ccboot/m04.bin'/>
+		<part fixme='gfx1:3000' name='cc03'/>
+		<part name='ccboot/m02.bin'/>
+		<part name='ccboot/m01.bin'/>
+		<part name='ccboot/cc13j.bin'/>
+		<part name='ccboot/cc12j.bin'/>
+	</rom>
+</misterromdescription>

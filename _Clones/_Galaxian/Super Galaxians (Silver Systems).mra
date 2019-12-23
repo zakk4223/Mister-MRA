@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Super Galaxians (Silver Systems)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
+		<part name='galap1/7f.bin'/>
+		<part fixme='maincpu:800' name='galmidw.v'/>
+		<part name='galturbo/superg.w'/>
+		<part name='moonaln/superg.y'/>
+		<part name='supergs/supergs.z'/>
+		<part name='supergs/supergs.z'/>
+		<part name='supergs/supergs.z'/>
+		<part name='supergs/supergs.z'/>
+		<part name='galap1/galmidw.1j'/>
+		<part name='galap1/galmidw.1j'/>
+		<part name='galap1/galmidw.1k'/>
+		<part name='galap1/galmidw.1k'/>
+	</rom>
+</misterromdescription>

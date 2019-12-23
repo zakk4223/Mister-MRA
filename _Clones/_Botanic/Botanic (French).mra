@@ -1,0 +1,26 @@
+<misterromdescription>
+	<name>Botanic (French)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Itisa</manufacturer>
+	<category>Maze / Bugs</category>
+	<category>Platform</category>
+	<rbf>botanic</rbf>
+	<rom index='0' md5='8898a379db965e3d83263b1b8c4730ed' type='merged|nonmerged' zip='botanic.zip'>
+		<part name='botanicf/bota_05.9e'/>
+		<part name='botanicf/bota_06.9f'/>
+		<part name='07.9j'/>
+		<part name='botanicf/bota_08.9k'/>
+		<part name='botanicf/bota_09.9m'/>
+		<part name='10.9n'/>
+		<part name='botanicf/bota_09.9m'/>
+		<part name='10.9n'/>
+		<part name='2.1e'/>
+		<part name='1.1c'/>
+		<part name='4.1j'/>
+		<part name='3.1f'/>
+		<part name='prom.3p'/>
+		<part name='prom.3r'/>
+	</rom>
+</misterromdescription>

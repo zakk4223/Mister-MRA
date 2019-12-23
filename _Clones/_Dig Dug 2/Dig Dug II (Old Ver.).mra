@@ -1,0 +1,21 @@
+<misterromdescription>
+  <rbf>Druaga</rbf>
+  <rom index='1'>
+        <part>03</part>
+  </rom>
+  <rom index='0' md5='2e652e5d6a114b7bd21a96e954b7f148' type='merged|nonmerged' zip='digdug2.zip'>
+        <part name='digdug2o/d21_3.1d'/>
+        <part name='digdug2o/d21_1.1b'/>
+        <part name='d21_6.3m'/>
+        <part name='d21_7.3n'/>
+        <part name='d21_4.1k'/>
+        <part name='d21_5.3b'/>
+        <part name='digdug2o/d2x-7.5k'/>
+        <part name='digdug2o/d2x-7.5k'/>
+        <part name='digdug2o/d2x-7.5k'/>
+        <part name='digdug2o/d2x-7.5k'/>
+        <part name='d21-6.4c'/>
+        <part name='d21-3.3m'/>
+        <part name='d21-5.5b'/>
+  </rom>
+</misterromdescription>

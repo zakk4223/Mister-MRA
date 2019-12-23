@@ -1,0 +1,27 @@
+<misterromdescription>
+	<name>MotoTour / Zippy Race (Tecfri license)</name>
+	<mameversion>0216</mameversion>
+	<setname>travrusa</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Irem</manufacturer>
+	<category>Racing / Motorbike</category>
+	<rbf>traverseusa</rbf>
+	<rom index='0' md5='67d6330459d5180670c25842fc3d1d11' type='merged|nonmerged' zip='travrusa.zip'>
+		<part name='mototour/mt1-4.m3'/>
+		<part name='mototour/mt1-5.l3'/>
+		<part name='mototour/mt1-6.k3'/>
+		<part name='mototour/mt1-7.j3'/>
+		<part name='mr10.1a'/>
+		<part name='mr10.1a'/>
+		<part name='zippyrac.001'/>
+		<part name='mr8.3c'/>
+		<part name='mr9.3a'/>
+		<part name='mototour/mt1-8..n3'/>
+		<part name='mototour/mt1-9..m3'/>
+		<part name='mototour/mt1-10..k3'/>
+		<part name='mmi6349.ij'/>
+		<part name='tbp24s10.3'/>
+		<part name='tbp18s.2'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Orbitron</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Comsoft (Signatron USA license)</manufacturer>
+	<category>Space / Shooter</category>
+	<rbf>orbitron</rbf>
+	<rom index="0" zip="orbitron.zip" md5="a7fe12b562282dd7fda795107c39decc" type="merged|nonmerged">
+		<part name="orbitron.3"/>
+		<part name="orbitron.4"/>
+		<part name="orbitron.1"/>
+		<part name="orbitron.2"/>
+		<part name="orbitron.5"/>
+		<part name="orbitron.5"/>
+		<part name="orbitron.5"/>
+		<part name="orbitron.5"/>
+		<part name="orbitron.6"/>
+		<part name="orbitron.6"/>
+		<part name="orbitron.7"/>
+		<part name="orbitron.7"/>
+	</rom>
+</misterromdescription>

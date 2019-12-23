@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Pooyan</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Maze / Balloons</category>
+	<category>Maze / Pigs</category>
+	<category>Sports / Shooting</category>
+	<rbf>pooyan</rbf>
+	<rom index="0" zip="pooyan.zip" md5="de106fd90992460848b7856876a4e330" type="merged|nonmerged">
+		<part name="1.4a"/>
+		<part name="2.5a"/>
+		<part name="3.6a"/>
+		<part name="4.7a"/>
+		<part name="8.10g"/>
+		<part name="7.9g"/>
+		<part name="6.9a"/>
+		<part name="5.8a"/>
+		<part name="xx.7a"/>
+		<part name="xx.8a"/>
+	</rom>
+</misterromdescription>

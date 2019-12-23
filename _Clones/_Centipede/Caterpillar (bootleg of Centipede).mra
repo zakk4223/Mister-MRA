@@ -1,0 +1,20 @@
+<misterromdescription>
+	<name>Caterpillar (bootleg of Centipede)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Maze / Bugs</category>
+	<category>Maze / Centipede</category>
+	<category>Maze / Spiders</category>
+	<rbf>centipede</rbf>
+	<rom index='0' md5='92ab4507356aca0896d5c4138e82b9c4' type='merged|nonmerged' zip='centiped.zip'>
+		<part name='caterplr/olympia.c28'/>
+		<part name='caterplr/olympia.c29'/>
+		<part name='caterplr/olympia.c30'/>
+		<part name='caterplr/olympia.c31'/>
+		<part name='caterplr/olympia.c32'/>
+		<part name='caterplr/olympia.c33'/>
+		<part name='136001-213.p4'/>
+	</rom>
+</misterromdescription>

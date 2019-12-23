@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Galaxian (Namco set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index="0" zip="frogger.zip" md5="d871350748c1cde3f45b8f33a3da7759" type="merged|nonmerged">
+		<part name="frogg/p1.bin"/>
+                <part name="frogg/p2.bin"/>
+                <part name="frogg/p3.bin"/>
+                <part name="frogg/p4.bin"/>
+                <part name="frogg/p5.bin"/>
+                <part name="frogg/p6.bin"/>
+                <part name="frogg/p7.bin"/>
+                <part name="frogg/p7.bin"/>
+		<part name="frogf/epr-1036.1k"/>
+		<part name="frogf/epr-1036.1k"/>
+		<part name="frogger.607"/>
+		<part name="frogger.607"/>
+	</rom>
+</misterromdescription>

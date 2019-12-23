@@ -1,0 +1,21 @@
+<misterromdescription>
+	<name>Tornado (set 2, Defender bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>defender</rbf>
+	<rom index='0' md5='c30f51faa522769c684feafa3147354a' type='merged|nonmerged' zip='defender.zip'>
+		<part name='tornado2/tto15.bin'/>
+		<part name='tornado2/to16.bin'/>
+		<part name='tornado2/tto17.bin'/>
+		<part name='tornado1/tornc4.bin'/>
+		<part name='tornado2/to20.bin'/>
+		<part name='tornado2/to19.bin'/>
+		<part name='tornado2/to18.bin'/>
+		<part name='defndjeu/s'/>
+		<part name='decoder.2'/>
+		<part name='decoder.3'/>
+	</rom>
+</misterromdescription>

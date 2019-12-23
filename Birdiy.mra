@@ -1,0 +1,25 @@
+<misterromdescription>
+	<name>Birdiy</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Mama Top</manufacturer>
+	<category>Maze / Bugs</category>
+	<category>Platform</category>
+	<category>Platform / Climbing</category>
+	<rbf>birdiy</rbf>
+	<rom index="0" zip="birdiy.zip" md5="b5ec192130477216de70bca409903cb1" type="merged|nonmerged">
+		<part name="a6.6a"/>
+		<part name="c6.6c"/>
+		<part name="a4.4a"/>
+		<part name="c4.4c"/>
+		<part name="c1.1c"/>
+		<part name="c3.3c"/>
+		<part name="c1.1c"/>
+		<part name="c3.3c"/>
+		<part name="n82s129n.4k"/>
+		<part name="n82s129n.9m"/>
+		<part name="n82s129n.6l"/>
+		<part name="n82s123n.10n"/>
+	</rom>
+</misterromdescription>

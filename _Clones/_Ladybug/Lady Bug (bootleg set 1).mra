@@ -1,0 +1,22 @@
+<misterromdescription>
+	<name>Lady Bug (bootleg set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Universal</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Bugs</category>
+	<rbf>ladybug</rbf>
+	<rom index='0' md5='89d961d878363b9859930a3e2c463867' type='merged|nonmerged' zip='ladybug.zip'>
+		<part name='ladybugb/lb1a.cpu'/>
+		<part name='ladybugb/lb2a.cpu'/>
+		<part name='ladybugb/lb3a.cpu'/>
+		<part name='l4.h4'/>
+		<part name='l5.j4'/>
+		<part name='ladybugb/lb6a.cpu'/>
+		<part name='l8.l7'/>
+		<part name='l7.m7'/>
+		<part name='l9.f7'/>
+		<part name='l0.h7'/>
+	</rom>
+</misterromdescription>

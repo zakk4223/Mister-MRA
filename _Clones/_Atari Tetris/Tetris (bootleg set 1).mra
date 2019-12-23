@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tetris (bootleg set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<rbf>ataritetris</rbf>
+	<rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='merged' zip='atetris.zip'>
+		<part name='atetrisb/tetris.01'/>
+		<part name='atetrisb/tetris.02'/>
+	</rom>
+</misterromdescription>

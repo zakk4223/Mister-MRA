@@ -1,0 +1,39 @@
+<misterromdescription>
+	<name>Crazy Kong Part II (set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Falcon</manufacturer>
+	<category>Maze / Monkeys</category>
+	<category>Platform</category>
+	<category>Platform / Mario Bros.</category>
+	<rbf>crazykong</rbf>
+	<rom index="0" zip="ckongpt2.zip" md5="a7e585c59a92577f1b4e7c583e143ea8" type="merged|nonmerged">
+		<part name="7.5d"/>
+		<part name="8.5e"/>
+		<part name="9.5h"/>
+		<part name="10.5k"/>
+		<part name="11.5l"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="12.5n"/>
+		<part name="6.11n"/>
+		<part name="5.11l"/>
+		<part name="4.11k"/>
+		<part name="3.11h"/>
+		<part name="2.11c"/>
+		<part name="1.11a"/>
+		<part name="2.11c"/>
+		<part name="1.11a"/>
+		<part name="14.5s"/>
+		<part name="13.5p"/>
+	</rom>
+</misterromdescription>

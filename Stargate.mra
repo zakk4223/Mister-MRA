@@ -1,0 +1,28 @@
+<misterromdescription>
+	<name>Stargate</name>
+	<mameversion>0216</mameversion>
+	<setname>stargate</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Williams / Vid Kidz</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>stargate</rbf>
+	<rom index="0" zip="stargate.zip" md5="B08B58A9C0B9564C61299CFC5B37E226" type="merged|nonmerged">
+		<part name="10"/>
+		<part name="11"/>
+		<part name="12"/>
+		<part name="01"/>
+		<part name="02"/>
+		<part name="03"/>
+		<part name="04"/>
+		<part name="05"/>
+		<part name="06"/>
+		<part name="07"/>
+		<part name="08"/>
+		<part name="09"/>
+		<part name="sg.snd"/>
+		<part name="sg.snd"/>
+		<part name="decoder.4"/>
+		<part name="decoder.5"/>
+	</rom>
+</misterromdescription>

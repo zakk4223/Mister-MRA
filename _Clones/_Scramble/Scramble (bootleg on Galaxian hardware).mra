@@ -1,0 +1,21 @@
+<misterromdescription>
+	<name>Scramble (bootleg on Galaxian hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='5a94e70ada06e9063ca4d448a4ffa04a' type='merged' zip='scramble.zip'>
+		<part name='scramblb/scramble.1k'/>
+		<part name='scramblb/scramble.2k'/>
+		<part name='scramblb/scramble.3k'/>
+		<part name='bomber/4.3f'/>
+		<part name='scramblb/scramble.5k'/>
+		<part name='scramblb/scramble.1j'/>
+		<part name='bomber/7.3c'/>
+		<part name='scramblb/scramble.3j'/>
+		<part name='c1.5h'/>
+		<part name='c2.5f'/>
+	</rom>
+</misterromdescription>

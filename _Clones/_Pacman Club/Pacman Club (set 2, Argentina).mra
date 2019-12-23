@@ -1,0 +1,25 @@
+<misterromdescription>
+	<name>Pacman Club (set 2, Argentina)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1989</year>
+	<manufacturer>Miky SRL</manufacturer>
+	<category>Maze / Pac-Man</category>
+	<rbf>pacmanclub</rbf>
+	<rom index='0' md5='7ecb94f8384ea92da503e670dc9f8397' type='merged|nonmerged' zip='clubpacm.zip'>
+		<part name='clubpacmb/new_club_d.bin'/>
+		<part name='12.5e'/>
+		<part name='14.5h'/>
+		<part name='13.5f'/>
+		<part name='15.5j'/>
+		<part name='12.5e'/>
+		<part name='14.5h'/>
+		<part name='13.5f'/>
+		<part name='15.5j'/>
+		<part name='12.5e'/>
+		<part name='m7611.1m'/>
+		<part name='m7611.4a'/>
+		<part name='m7611.3m'/>
+		<part name='n82s123n.7f'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,20 @@
+<misterromdescription>
+	<name>Millpac (bootleg of Centipede)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Maze / Bugs</category>
+	<category>Maze / Centipede</category>
+	<category>Maze / Spiders</category>
+	<rbf>centipede</rbf>
+	<rom index='0' md5='92ab4507356aca0896d5c4138e82b9c4' type='merged|nonmerged' zip='centiped.zip'>
+		<part name='millpac/millpac1.1d'/>
+		<part name='millpac/millpac2.1e'/>
+		<part name='millpac/millpac3.1h'/>
+		<part name='millpac/millpac4.1j'/>
+		<part name='millpac/millpac6.7f'/>
+		<part name='millpac/millpac7.7j'/>
+		<part name='millpac/millpac.4p'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,22 @@
+<misterromdescription>
+	<name>Lady Bug (bootleg on Galaxian hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='ladybug.zip'>
+		<part name='ladybugg/lbuggx.1'/>
+		<part name='ladybugg/lbuggx.2'/>
+                <part name='ladybugg/lbuggx.3'/>
+                <part name='ladybugg/lbuggx.4'/>
+                <part name='ladybugg/lbuggx.5'/>
+                <part name='ladybugg/lbuggx.6'/>
+                <part name='ladybugg/lbuggx.7'/>
+                <part name='ladybugg/lbuggx.8'/>
+                <part repeat="2048">00</part>
+                <part name='ladybugg/lbuggx.a'/>
+                <part name='ladybugg/lbuggx.b'/>
+	</rom>
+</misterromdescription>

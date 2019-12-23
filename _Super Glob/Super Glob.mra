@@ -1,0 +1,42 @@
+<misterromdescription>
+	<name>Super Glob (Pac-Man hardware) (German bootleg)</name>
+	<mameversion>0216</mameversion>
+	<setname>sprglbpg</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1984</year>
+	<manufacturer>bootleg (Software Labor)</manufacturer>
+	<category>Platform</category>
+	<rbf>superglob</rbf>
+	<rom index="0" zip="sprglbpg.zip" md5="83913a5076b208589e6c41fbaed16058" type="nonmerged">
+		<part name="ic8.1"/>
+		<part name="ic7.2"/>
+		<part name="ic15.3"/>
+		<part name="ic14.4"/>
+		<part name="ic8.1"/>
+		<part name="ic7.2"/>
+		<part name="ic15.3"/>
+		<part name="ic14.4"/>
+		<part name="ic92.5"/>
+		<part name="ic92.5"/>
+		<part name="ic51.prm"/>
+		<part name="ic88.prm"/>
+		<part name="ic70.prm"/>
+		<part name="ic78.prm"/>
+	</rom>
+	<rom index="0" zip="suprglob.zip" md5="83913a5076b208589e6c41fbaed16058" type="merged">
+		<part name="sprglbpg/ic8.1"/>
+		<part name="sprglbpg/ic7.2"/>
+		<part name="sprglbpg/ic15.3"/>
+		<part name="sprglbpg/ic14.4"/>
+		<part name="sprglbpg/ic8.1"/>
+		<part name="sprglbpg/ic7.2"/>
+		<part name="sprglbpg/ic15.3"/>
+		<part name="sprglbpg/ic14.4"/>
+		<part name="sprglbpg/ic92.5"/>
+		<part name="sprglbpg/ic92.5"/>
+		<part name="sprglbpg/ic51.prm"/>
+		<part name="beastfp/4_a_the_glob.4a"/>
+		<part name="beastfp/82s126.3m"/>
+		<part name="beastfp/7_f_the_glob.7f"/>
+	</rom>
+</misterromdescription>

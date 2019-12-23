@@ -1,0 +1,23 @@
+<misterromdescription>
+	<name>Star Fighter</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Space / Galaxian</category>
+	<rbf>galaxian</rbf>
+	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
+		<part name='starfght/ja.1'/>
+		<part name='galaxbsf/3.bn'/>
+		<part name='galaxbsf/5.bn'/>
+		<part name='starfght/jg.7'/>
+		<part name='starfght/ji.9'/>
+		<part name='starfght/ji.9'/>
+		<part name='starfght/ji.9'/>
+		<part name='starfght/ji.9'/>
+		<part name='galaxianbl2/kl1.1kl'/>
+		<part name='galaxianbl2/kl1.1kl'/>
+		<part name='starfght/k2.9a'/>
+		<part name='starfght/k2.9a'/>
+	</rom>
+</misterromdescription>

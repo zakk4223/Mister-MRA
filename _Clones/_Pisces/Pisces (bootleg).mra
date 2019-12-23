@@ -1,0 +1,17 @@
+<misterromdescription>
+  <rbf>Pisces</rbf>
+  <rom index='0' md5='81d4f5479966ea8f79cac9b9c92725c5' type='merged' zip='pisces.zip'>
+        <part name='piscesb/pisces.a1'/>
+        <part name='p2.bin'/>
+        <part name='piscesb/pisces.b2'/>
+        <part name='p4.bin'/>
+        <part name='p5.bin'/>
+        <part name='p6.bin'/>
+        <part name='p6.bin'/>
+        <part name='p6.bin'/>
+        <part name='g09.bin'/>
+        <part name='g11.bin'/>
+        <part name='g10.bin'/>
+        <part name='g12.bin'/>
+  </rom>
+</misterromdescription>

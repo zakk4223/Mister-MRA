@@ -1,0 +1,22 @@
+<misterromdescription>
+	<name>Frenzy (revision RA1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Stern Electronics</manufacturer>
+	<category>Maze</category>
+	<category>Space / Robots</category>
+	<rbf>frenzy</rbf>
+	<rom index="0" zip="frenzy.zip" md5="be40e91e83dda8882bd31f59e93fa75a" type="merged|nonmerged">
+		<part name="frenzy_ra1_rom1.1d"/>
+		<part name="frenzy_ra1_rom2.3d"/>
+		<part name="frenzy_ra1_rom3.5d"/>
+		<part name="frenzy_ra1_rom4.6d"/>
+		<part name="frenzy_ra1_rom5.5c"/>
+		<part name="frenzy_ra1_rom5.5c"/>
+		<part name="frenzy_ra1_rom5.5c"/>
+		<part name="frenzy_ra1_rom5.5c"/>
+		<part name="e169-1cvo.1c"/>
+		<part name="e169-2cvo.2c"/>
+	</rom>
+</misterromdescription>

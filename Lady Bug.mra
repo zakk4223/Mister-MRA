@@ -1,0 +1,22 @@
+<misterromdescription>
+	<name>Lady Bug</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Universal</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Bugs</category>
+	<rbf>ladybug</rbf>
+	<rom index="0" zip="ladybug.zip" md5="89d961d878363b9859930a3e2c463867" type="merged|nonmerged">
+		<part name="l1.c4"/>
+		<part name="l2.d4"/>
+		<part name="l3.e4"/>
+		<part name="l4.h4"/>
+		<part name="l5.j4"/>
+		<part name="l6.k4"/>
+		<part name="l8.l7"/>
+		<part name="l7.m7"/>
+		<part name="l9.f7"/>
+		<part name="l0.h7"/>
+	</rom>
+</misterromdescription>

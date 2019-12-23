@@ -1,0 +1,25 @@
+<misterromdescription>
+  <rbf>Xevious</rbf>
+  <rom index='0' md5='1b707668eb52408088e47c0f823f9fed' type='merged' zip='xevious.zip'>
+        <part name='battles2/bg1.h7'/>
+        <part name='battles2/bg2.h6'/>
+        <part name='xvi_3.2m'/>
+        <part name='battles2/bg4.h4'/>
+        <part name='xvi_5.3f'/>
+        <part name='xvi_6.3j'/>
+        <part name='xvi_7.2c'/>
+        <part name='battles2/bg17.f8'/>
+        <part name='battles/bg10.c8'/>
+        <part name='battles/bg11.c7'/>
+        <part name='xvi_15.4m'/>
+        <part name='xvi_17.4p'/>
+        <part name='xvi_16.4n'/>
+        <part name='battles2/bg16.d8'/>
+        <part name='battles2/bg10.d1'/>
+        <part name='xvi_10.2b'/>
+        <part name='battles2/bg12.d3'/>
+        <part name='50xx.bin' zip='namco50.zip'/>
+        <part name='51xx.bin' zip='namco51.zip'/>
+        <part name='54xx.bin' zip='namco54.zip'/>
+  </rom>
+</misterromdescription>
