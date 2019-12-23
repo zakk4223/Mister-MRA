@@ -8,7 +8,6 @@
 	<rbf>galaxian</rbf>
 	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
 		<part name='galap1/7f.bin'/>
-		<part fixme='maincpu:800' name='galmidw.v'/>
 		<part name='galturbo/superg.w'/>
 		<part name='moonaln/superg.y'/>
 		<part name='superg/superg.z'/>

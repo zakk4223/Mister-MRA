@@ -8,9 +8,7 @@
 	<rbf>galaxian</rbf>
 	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
 		<part name='galaxrcgg/7f.bin'/>
-		<part fixme='maincpu:800' name='galmidw.v'/>
 		<part name='galaxrcgg/7j.bin'/>
-		<part fixme='maincpu:1800' name='galmidw.y'/>
 		<part name='galaxrfgg/gxrf.7l'/>
 		<part name='galaxrfgg/gxrf.7l'/>
 		<part name='galaxrfgg/gxrf.7l'/>

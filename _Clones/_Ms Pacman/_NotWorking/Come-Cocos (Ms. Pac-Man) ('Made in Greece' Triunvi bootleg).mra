@@ -1,0 +1,11 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
+        <part name='mspacmanblt/triunvi.1.bin'/>
+        <part name='mspacmanblt/triunvi.2.bin'/>
+        <part name='82s126.1m'/>
+        <part name='82s126.4a'/>
+        <part name='82s126.3m'/>
+        <part name='mspacmanbcc/82s123.h7'/>
+  </rom>
+</misterromdescription>
