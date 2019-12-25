@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="669c446f8abc8000a08bff09d833ebbb" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="avefenixrf/601-ic45.a1"/>
-    <part name="avefenixrf/6002-ic46.a2"/>
-    <part name="avefenix/4103-8516.rom"/>
-    <part name="avefenixrf/6004-ic48.a4"/>
-    <part name="avefenixrf/6005-ic49.a5"/>
-    <part name="h6-ic50.6a"/>
-    <part name="h7-ic51.7a"/>
-    <part name="avefenixrf/f008-ic52.a8"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="avefenixl/09_ic39.b3"/>
-    <part name="avefenixl/10_ic40.b4"/>
+  <rom index='0' md5='669c446f8abc8000a08bff09d833ebbb' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='avefenixrf/601-ic45.a1'/>
+    <part name='avefenixrf/6002-ic46.a2'/>
+    <part name='avefenix/4103-8516.rom'/>
+    <part name='avefenixrf/6004-ic48.a4'/>
+    <part name='avefenixrf/6005-ic49.a5'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='avefenixrf/f008-ic52.a8'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='avefenixl/09_ic39.b3'/>
+    <part name='avefenixl/10_ic40.b4'/>
   </rom>
-  <rom index="0" md5="669c446f8abc8000a08bff09d833ebbb" type="split" zip="avefenixrf.zip">
-    <part name="601-ic45.a1"/>
-    <part name="6002-ic46.a2"/>
-    <part name="0003-ic47.a3"/>
-    <part name="6004-ic48.a4"/>
-    <part name="6005-ic49.a5"/>
-    <part name="h6-ic50.6a" zip="phoenix.zip"/>
-    <part name="h7-ic51.7a" zip="phoenix.zip"/>
-    <part name="f008-ic52.a8"/>
-    <part name="ic23.3d" zip="phoenix.zip"/>
-    <part name="ic24.4d" zip="phoenix.zip"/>
-    <part name="0009-ic39.b3"/>
-    <part name="0010-ic40.b4"/>
+  <rom index='0' md5='669c446f8abc8000a08bff09d833ebbb' type='split' zip='avefenixrf.zip'>
+    <part name='601-ic45.a1'/>
+    <part name='6002-ic46.a2'/>
+    <part name='0003-ic47.a3'/>
+    <part name='6004-ic48.a4'/>
+    <part name='6005-ic49.a5'/>
+    <part name='h6-ic50.6a' zip='phoenix.zip'/>
+    <part name='h7-ic51.7a' zip='phoenix.zip'/>
+    <part name='f008-ic52.a8'/>
+    <part name='ic23.3d' zip='phoenix.zip'/>
+    <part name='ic24.4d' zip='phoenix.zip'/>
+    <part name='0009-ic39.b3'/>
+    <part name='0010-ic40.b4'/>
   </rom>
-  <rom index="0" md5="669c446f8abc8000a08bff09d833ebbb" type="nonmerged" zip="avefenixrf.zip">
-    <part name="601-ic45.a1"/>
-    <part name="6002-ic46.a2"/>
-    <part name="0003-ic47.a3"/>
-    <part name="6004-ic48.a4"/>
-    <part name="6005-ic49.a5"/>
-    <part name="0006-ic50.a6"/>
-    <part name="6007-ic51.a7"/>
-    <part name="f008-ic52.a8"/>
-    <part name="0011-ic23.d3"/>
-    <part name="0012-ic24.d4"/>
-    <part name="0009-ic39.b3"/>
-    <part name="0010-ic40.b4"/>
+  <rom index='0' md5='669c446f8abc8000a08bff09d833ebbb' type='nonmerged' zip='avefenixrf.zip'>
+    <part name='601-ic45.a1'/>
+    <part name='6002-ic46.a2'/>
+    <part name='0003-ic47.a3'/>
+    <part name='6004-ic48.a4'/>
+    <part name='6005-ic49.a5'/>
+    <part name='0006-ic50.a6'/>
+    <part name='6007-ic51.a7'/>
+    <part name='f008-ic52.a8'/>
+    <part name='0011-ic23.d3'/>
+    <part name='0012-ic24.d4'/>
+    <part name='0009-ic39.b3'/>
+    <part name='0010-ic40.b4'/>
   </rom>
 </misterromdescription>

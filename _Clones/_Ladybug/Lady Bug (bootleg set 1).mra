@@ -7,40 +7,40 @@
   <category>Maze</category>
   <category>Maze / Bugs</category>
   <rbf>ladybug</rbf>
-  <rom index="0" md5="8422c93bd1d479f0a032e4052b69a072" type="merged|nonmerged" zip="ladybug.zip">
-    <part name="ladybugb/lb1a.cpu"/>
-    <part name="ladybugb/lb2a.cpu"/>
-    <part name="ladybugb/lb3a.cpu"/>
-    <part name="l4.h4"/>
-    <part name="l5.j4"/>
-    <part name="ladybugb/lb6a.cpu"/>
-    <part name="l8.l7"/>
-    <part name="l7.m7"/>
-    <part name="l9.f7"/>
-    <part name="l0.h7"/>
+  <rom index='0' md5='8422c93bd1d479f0a032e4052b69a072' type='merged|nonmerged' zip='ladybug.zip'>
+    <part name='ladybugb/lb1a.cpu'/>
+    <part name='ladybugb/lb2a.cpu'/>
+    <part name='ladybugb/lb3a.cpu'/>
+    <part name='l4.h4'/>
+    <part name='l5.j4'/>
+    <part name='ladybugb/lb6a.cpu'/>
+    <part name='l8.l7'/>
+    <part name='l7.m7'/>
+    <part name='l9.f7'/>
+    <part name='l0.h7'/>
   </rom>
-  <rom index="0" md5="8422c93bd1d479f0a032e4052b69a072" type="split" zip="ladybugb.zip">
-    <part name="lb1a.cpu"/>
-    <part name="lb2a.cpu"/>
-    <part name="lb3a.cpu"/>
-    <part name="l4.h4" zip="ladybug.zip"/>
-    <part name="l5.j4" zip="ladybug.zip"/>
-    <part name="lb6a.cpu"/>
-    <part name="l8.l7" zip="ladybug.zip"/>
-    <part name="l7.m7" zip="ladybug.zip"/>
-    <part name="l9.f7" zip="ladybug.zip"/>
-    <part name="l0.h7" zip="ladybug.zip"/>
+  <rom index='0' md5='8422c93bd1d479f0a032e4052b69a072' type='split' zip='ladybugb.zip'>
+    <part name='lb1a.cpu'/>
+    <part name='lb2a.cpu'/>
+    <part name='lb3a.cpu'/>
+    <part name='l4.h4' zip='ladybug.zip'/>
+    <part name='l5.j4' zip='ladybug.zip'/>
+    <part name='lb6a.cpu'/>
+    <part name='l8.l7' zip='ladybug.zip'/>
+    <part name='l7.m7' zip='ladybug.zip'/>
+    <part name='l9.f7' zip='ladybug.zip'/>
+    <part name='l0.h7' zip='ladybug.zip'/>
   </rom>
-  <rom index="0" md5="8422c93bd1d479f0a032e4052b69a072" type="nonmerged" zip="ladybugb.zip">
-    <part name="lb1a.cpu"/>
-    <part name="lb2a.cpu"/>
-    <part name="lb3a.cpu"/>
-    <part name="l4.h4"/>
-    <part name="l5.j4"/>
-    <part name="lb6a.cpu"/>
-    <part name="l8.l7"/>
-    <part name="l7.m7"/>
-    <part name="l9.f7"/>
-    <part name="l0.h7"/>
+  <rom index='0' md5='8422c93bd1d479f0a032e4052b69a072' type='nonmerged' zip='ladybugb.zip'>
+    <part name='lb1a.cpu'/>
+    <part name='lb2a.cpu'/>
+    <part name='lb3a.cpu'/>
+    <part name='l4.h4'/>
+    <part name='l5.j4'/>
+    <part name='lb6a.cpu'/>
+    <part name='l8.l7'/>
+    <part name='l7.m7'/>
+    <part name='l9.f7'/>
+    <part name='l0.h7'/>
   </rom>
 </misterromdescription>

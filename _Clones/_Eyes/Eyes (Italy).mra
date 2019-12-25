@@ -6,76 +6,76 @@
   <manufacturer>Techstar (Rock-Ola license)</manufacturer>
   <category>Maze</category>
   <rbf>eyes</rbf>
-  <rom index="0" md5="95c1de90a91e2db4504ad5aea8276500" type="merged|nonmerged" zip="eyes.zip">
-    <part name="eyeszac/1.7e"/>
-    <part name="eyeszac/2.7f"/>
-    <part name="eyeszac/3.7h"/>
-    <part name="eyeszac/4.7i"/>
-    <part name="eyeszac/1.7e"/>
-    <part name="eyeszac/2.7f"/>
-    <part name="eyeszac/3.7h"/>
-    <part name="eyeszac/4.7i"/>
-    <part name="d5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='95c1de90a91e2db4504ad5aea8276500' type='merged|nonmerged' zip='eyes.zip'>
+    <part name='eyeszac/1.7e'/>
+    <part name='eyeszac/2.7f'/>
+    <part name='eyeszac/3.7h'/>
+    <part name='eyeszac/4.7i'/>
+    <part name='eyeszac/1.7e'/>
+    <part name='eyeszac/2.7f'/>
+    <part name='eyeszac/3.7h'/>
+    <part name='eyeszac/4.7i'/>
+    <part name='d5'/>
+    <part name='e5'/>
+    <part name='e5'/>
+    <part name='e5'/>
+    <part name='82s126.1m'/>
+    <part name='82s129.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
-  <rom index="0" md5="95c1de90a91e2db4504ad5aea8276500" type="split" zip="eyeszac.zip">
-    <part name="1.7e"/>
-    <part name="2.7f"/>
-    <part name="3.7h"/>
-    <part name="4.7i"/>
-    <part name="1.7e"/>
-    <part name="2.7f"/>
-    <part name="3.7h"/>
-    <part name="4.7i"/>
-    <part name="d5" zip="eyes.zip"/>
-    <part name="e5" zip="eyes.zip"/>
-    <part name="e5" zip="eyes.zip"/>
-    <part name="e5" zip="eyes.zip"/>
-    <part name="82s126.1m" zip="eyes.zip"/>
-    <part name="82s129.4a" zip="eyes.zip"/>
-    <part name="82s126.3m" zip="eyes.zip"/>
-    <part name="82s123.7f" zip="eyes.zip"/>
+  <rom index='0' md5='95c1de90a91e2db4504ad5aea8276500' type='split' zip='eyeszac.zip'>
+    <part name='1.7e'/>
+    <part name='2.7f'/>
+    <part name='3.7h'/>
+    <part name='4.7i'/>
+    <part name='1.7e'/>
+    <part name='2.7f'/>
+    <part name='3.7h'/>
+    <part name='4.7i'/>
+    <part name='d5' zip='eyes.zip'/>
+    <part name='e5' zip='eyes.zip'/>
+    <part name='e5' zip='eyes.zip'/>
+    <part name='e5' zip='eyes.zip'/>
+    <part name='82s126.1m' zip='eyes.zip'/>
+    <part name='82s129.4a' zip='eyes.zip'/>
+    <part name='82s126.3m' zip='eyes.zip'/>
+    <part name='82s123.7f' zip='eyes.zip'/>
   </rom>
-  <rom index="0" md5="95c1de90a91e2db4504ad5aea8276500" type="split" zip="eyeszac.zip">
-    <part name="1.7e"/>
-    <part name="2.7f"/>
-    <part name="3.7h"/>
-    <part name="4.7i"/>
-    <part name="1.7e"/>
-    <part name="2.7f"/>
-    <part name="3.7h"/>
-    <part name="4.7i"/>
-    <part name="d5" zip="eyes.zip"/>
-    <part name="e5" zip="eyes.zip"/>
-    <part name="e5" zip="eyes.zip"/>
-    <part name="e5" zip="eyes.zip"/>
-    <part name="82s126.1m" zip="eyes.zip"/>
-    <part name="82s129.4a" zip="eyes.zip"/>
-    <part name="82s126.3m" zip="eyes.zip"/>
-    <part name="82s123.7f" zip="eyes.zip"/>
+  <rom index='0' md5='95c1de90a91e2db4504ad5aea8276500' type='split' zip='eyeszac.zip'>
+    <part name='1.7e'/>
+    <part name='2.7f'/>
+    <part name='3.7h'/>
+    <part name='4.7i'/>
+    <part name='1.7e'/>
+    <part name='2.7f'/>
+    <part name='3.7h'/>
+    <part name='4.7i'/>
+    <part name='d5' zip='eyes.zip'/>
+    <part name='e5' zip='eyes.zip'/>
+    <part name='e5' zip='eyes.zip'/>
+    <part name='e5' zip='eyes.zip'/>
+    <part name='82s126.1m' zip='eyes.zip'/>
+    <part name='82s129.4a' zip='eyes.zip'/>
+    <part name='82s126.3m' zip='eyes.zip'/>
+    <part name='82s123.7f' zip='eyes.zip'/>
   </rom>
-  <rom index="0" md5="95c1de90a91e2db4504ad5aea8276500" type="nonmerged" zip="eyeszac.zip">
-    <part name="1.7e"/>
-    <part name="2.7f"/>
-    <part name="3.7h"/>
-    <part name="4.7i"/>
-    <part name="1.7e"/>
-    <part name="2.7f"/>
-    <part name="3.7h"/>
-    <part name="4.7i"/>
-    <part name="5.5d"/>
-    <part name="6.5f"/>
-    <part name="6.5f"/>
-    <part name="6.5f"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='95c1de90a91e2db4504ad5aea8276500' type='nonmerged' zip='eyeszac.zip'>
+    <part name='1.7e'/>
+    <part name='2.7f'/>
+    <part name='3.7h'/>
+    <part name='4.7i'/>
+    <part name='1.7e'/>
+    <part name='2.7f'/>
+    <part name='3.7h'/>
+    <part name='4.7i'/>
+    <part name='5.5d'/>
+    <part name='6.5f'/>
+    <part name='6.5f'/>
+    <part name='6.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s129.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
 </misterromdescription>

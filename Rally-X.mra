@@ -1,10 +1,10 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index="0" md5="35ac219f18dd2559b3f3f31ce4d4a6f4" type="merged" zip="rallyx.zip">
-    <part name="1b"/>
-    <part name="rallyxn.1e"/>
-    <part name="rallyxn.1h"/>
-    <part name="rallyxn.1k"/>
+  <rom index='0' md5='35ac219f18dd2559b3f3f31ce4d4a6f4' type='merged|split|nonmerged' zip='rallyx.zip'>
+    <part name='1b'/>
+    <part name='rallyxn.1e'/>
+    <part name='rallyxn.1h'/>
+    <part name='rallyxn.1k'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
@@ -1031,32 +1031,12 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name="8e"/>
-    <part name="rx1-6.8m"/>
-    <part name="rx1-5.3p"/>
-    <part name="rx1-7.8p"/>
-    <part name="rx1-1.11n"/>
+    <part name='8e'/>
+    <part name='rx1-6.8m'/>
+    <part name='rx1-5.3p'/>
+    <part name='rx1-7.8p'/>
+    <part name='rx1-1.11n'/>
   </rom>
-  <rom index="0" md5="35ac219f18dd2559b3f3f31ce4d4a6f4" type="split" zip="rallyx.zip">
-    <part name="1b"/>
-    <part name="rallyxn.1e"/>
-    <part name="rallyxn.1h"/>
-    <part name="rallyxn.1k"/>
-    <part name="8e"/>
-    <part name="rx1-6.8m"/>
-    <part name="rx1-5.3p"/>
-    <part name="rx1-7.8p"/>
-    <part name="rx1-1.11n"/>
-  </rom>
-  <rom index="0" md5="35ac219f18dd2559b3f3f31ce4d4a6f4" type="nonmerged" zip="rallyx.zip">
-    <part name="1b"/>
-    <part name="rallyxn.1e"/>
-    <part name="rallyxn.1h"/>
-    <part name="rallyxn.1k"/>
-    <part name="8e"/>
-    <part name="rx1-6.8m"/>
-    <part name="rx1-5.3p"/>
-    <part name="rx1-7.8p"/>
-    <part name="rx1-1.11n"/>
-  </rom>
+  
+  
 </misterromdescription>

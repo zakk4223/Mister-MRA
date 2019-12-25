@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="62e2775c0f4b58a8539ca091d662fce5" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="phoenix2/ic45-pg1.1a"/>
-    <part name="phoenixass/ic46.bin"/>
-    <part name="avefenix/4103-8516.rom"/>
-    <part name="phoenixdal/dal.a4"/>
-    <part name="falcon/phoenixc.49"/>
-    <part name="h6-ic50.6a"/>
-    <part name="h7-ic51.7a"/>
-    <part name="phoenixdal/dal.a8"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="avefenixl/09_ic39.b3"/>
-    <part name="avefenixl/10_ic40.b4"/>
+  <rom index='0' md5='62e2775c0f4b58a8539ca091d662fce5' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='phoenix2/ic45-pg1.1a'/>
+    <part name='phoenixass/ic46.bin'/>
+    <part name='avefenix/4103-8516.rom'/>
+    <part name='phoenixdal/dal.a4'/>
+    <part name='falcon/phoenixc.49'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='phoenixdal/dal.a8'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='avefenixl/09_ic39.b3'/>
+    <part name='avefenixl/10_ic40.b4'/>
   </rom>
-  <rom index="0" md5="62e2775c0f4b58a8539ca091d662fce5" type="split" zip="phoenixdal.zip">
-    <part name="dal.a1"/>
-    <part name="dal.a2"/>
-    <part name="dal.a3"/>
-    <part name="dal.a4"/>
-    <part name="d2716,dal.a5"/>
-    <part name="h6-ic50.6a" zip="phoenix.zip"/>
-    <part name="h7-ic51.7a" zip="phoenix.zip"/>
-    <part name="dal.a8"/>
-    <part name="ic23.3d" zip="phoenix.zip"/>
-    <part name="ic24.4d" zip="phoenix.zip"/>
-    <part name="dal.b3"/>
-    <part name="dal.b4"/>
+  <rom index='0' md5='62e2775c0f4b58a8539ca091d662fce5' type='split' zip='phoenixdal.zip'>
+    <part name='dal.a1'/>
+    <part name='dal.a2'/>
+    <part name='dal.a3'/>
+    <part name='dal.a4'/>
+    <part name='d2716,dal.a5'/>
+    <part name='h6-ic50.6a' zip='phoenix.zip'/>
+    <part name='h7-ic51.7a' zip='phoenix.zip'/>
+    <part name='dal.a8'/>
+    <part name='ic23.3d' zip='phoenix.zip'/>
+    <part name='ic24.4d' zip='phoenix.zip'/>
+    <part name='dal.b3'/>
+    <part name='dal.b4'/>
   </rom>
-  <rom index="0" md5="62e2775c0f4b58a8539ca091d662fce5" type="nonmerged" zip="phoenixdal.zip">
-    <part name="dal.a1"/>
-    <part name="dal.a2"/>
-    <part name="dal.a3"/>
-    <part name="dal.a4"/>
-    <part name="d2716,dal.a5"/>
-    <part name="h6-ic50.6a"/>
-    <part name="h7-ic51.7a"/>
-    <part name="dal.a8"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="dal.b3"/>
-    <part name="dal.b4"/>
+  <rom index='0' md5='62e2775c0f4b58a8539ca091d662fce5' type='nonmerged' zip='phoenixdal.zip'>
+    <part name='dal.a1'/>
+    <part name='dal.a2'/>
+    <part name='dal.a3'/>
+    <part name='dal.a4'/>
+    <part name='d2716,dal.a5'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='dal.a8'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='dal.b3'/>
+    <part name='dal.b4'/>
   </rom>
 </misterromdescription>

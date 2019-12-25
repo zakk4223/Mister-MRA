@@ -6,46 +6,46 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="59c2710750f2a55613725a19314295b8" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="zerotime/zt-p01c.016"/>
-    <part name="galaxrf/princip2.v"/>
-    <part name="galaxrf/princip3.w"/>
-    <part name="zerotime/zt-4.016"/>
-    <part name="zerotime/zt-5.016"/>
-    <part name="zerotime/zt-5.016"/>
-    <part name="zerotime/zt-5.016"/>
-    <part name="zerotime/zt-5.016"/>
-    <part name="zerotime/ztc-2.016"/>
-    <part name="zerotime/ztc-2.016"/>
-    <part name="zerotime/ztc-1.016"/>
-    <part name="zerotime/ztc-1.016"/>
+  <rom index='0' md5='59c2710750f2a55613725a19314295b8' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='zerotime/zt-p01c.016'/>
+    <part name='galaxrf/princip2.v'/>
+    <part name='galaxrf/princip3.w'/>
+    <part name='zerotime/zt-4.016'/>
+    <part name='zerotime/zt-5.016'/>
+    <part name='zerotime/zt-5.016'/>
+    <part name='zerotime/zt-5.016'/>
+    <part name='zerotime/zt-5.016'/>
+    <part name='zerotime/ztc-2.016'/>
+    <part name='zerotime/ztc-2.016'/>
+    <part name='zerotime/ztc-1.016'/>
+    <part name='zerotime/ztc-1.016'/>
   </rom>
-  <rom index="0" md5="59c2710750f2a55613725a19314295b8" type="split" zip="zerotime.zip">
-    <part name="zt-p01c.016"/>
-    <part name="zt-2.016"/>
-    <part name="zt-3.016"/>
-    <part name="zt-4.016"/>
-    <part name="zt-5.016"/>
-    <part name="zt-5.016"/>
-    <part name="zt-5.016"/>
-    <part name="zt-5.016"/>
-    <part name="ztc-2.016"/>
-    <part name="ztc-2.016"/>
-    <part name="ztc-1.016"/>
-    <part name="ztc-1.016"/>
+  <rom index='0' md5='59c2710750f2a55613725a19314295b8' type='split' zip='zerotime.zip'>
+    <part name='zt-p01c.016'/>
+    <part name='zt-2.016'/>
+    <part name='zt-3.016'/>
+    <part name='zt-4.016'/>
+    <part name='zt-5.016'/>
+    <part name='zt-5.016'/>
+    <part name='zt-5.016'/>
+    <part name='zt-5.016'/>
+    <part name='ztc-2.016'/>
+    <part name='ztc-2.016'/>
+    <part name='ztc-1.016'/>
+    <part name='ztc-1.016'/>
   </rom>
-  <rom index="0" md5="59c2710750f2a55613725a19314295b8" type="nonmerged" zip="zerotime.zip">
-    <part name="zt-p01c.016"/>
-    <part name="zt-2.016"/>
-    <part name="zt-3.016"/>
-    <part name="zt-4.016"/>
-    <part name="zt-5.016"/>
-    <part name="zt-5.016"/>
-    <part name="zt-5.016"/>
-    <part name="zt-5.016"/>
-    <part name="ztc-2.016"/>
-    <part name="ztc-2.016"/>
-    <part name="ztc-1.016"/>
-    <part name="ztc-1.016"/>
+  <rom index='0' md5='59c2710750f2a55613725a19314295b8' type='nonmerged' zip='zerotime.zip'>
+    <part name='zt-p01c.016'/>
+    <part name='zt-2.016'/>
+    <part name='zt-3.016'/>
+    <part name='zt-4.016'/>
+    <part name='zt-5.016'/>
+    <part name='zt-5.016'/>
+    <part name='zt-5.016'/>
+    <part name='zt-5.016'/>
+    <part name='ztc-2.016'/>
+    <part name='ztc-2.016'/>
+    <part name='ztc-1.016'/>
+    <part name='ztc-1.016'/>
   </rom>
 </misterromdescription>

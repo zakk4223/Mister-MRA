@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="1b61d780a72453031618c70b84ed0150" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="vautourz/vautour1.bin"/>
-    <part name="fenix/1.1f"/>
-    <part name="condor/cond03c.bin"/>
-    <part name="vautourz/vautour4.bin"/>
-    <part name="condor/cond05c.bin"/>
-    <part name="condor/cond06c.bin"/>
-    <part name="condor/cond07c.bin"/>
-    <part name="condor/cond08c.bin"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="fenix/11.3h"/>
-    <part name="fenix/10.3j"/>
+  <rom index='0' md5='1b61d780a72453031618c70b84ed0150' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='vautourz/vautour1.bin'/>
+    <part name='fenix/1.1f'/>
+    <part name='condor/cond03c.bin'/>
+    <part name='vautourz/vautour4.bin'/>
+    <part name='condor/cond05c.bin'/>
+    <part name='condor/cond06c.bin'/>
+    <part name='condor/cond07c.bin'/>
+    <part name='condor/cond08c.bin'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='fenix/11.3h'/>
+    <part name='fenix/10.3j'/>
   </rom>
-  <rom index="0" md5="1b61d780a72453031618c70b84ed0150" type="split" zip="vautourz.zip">
-    <part name="vautour1.bin"/>
-    <part name="vautour2.bin"/>
-    <part name="vautour3.bin"/>
-    <part name="vautour4.bin"/>
-    <part name="vautour5.bin"/>
-    <part name="vautour6.bin"/>
-    <part name="vautour7.bin"/>
-    <part name="vautour8.bin"/>
-    <part name="ic23.3d" zip="phoenix.zip"/>
-    <part name="ic24.4d" zip="phoenix.zip"/>
-    <part name="vautor12.2h"/>
-    <part name="vautor11.2j"/>
+  <rom index='0' md5='1b61d780a72453031618c70b84ed0150' type='split' zip='vautourz.zip'>
+    <part name='vautour1.bin'/>
+    <part name='vautour2.bin'/>
+    <part name='vautour3.bin'/>
+    <part name='vautour4.bin'/>
+    <part name='vautour5.bin'/>
+    <part name='vautour6.bin'/>
+    <part name='vautour7.bin'/>
+    <part name='vautour8.bin'/>
+    <part name='ic23.3d' zip='phoenix.zip'/>
+    <part name='ic24.4d' zip='phoenix.zip'/>
+    <part name='vautor12.2h'/>
+    <part name='vautor11.2j'/>
   </rom>
-  <rom index="0" md5="1b61d780a72453031618c70b84ed0150" type="nonmerged" zip="vautourz.zip">
-    <part name="vautour1.bin"/>
-    <part name="vautour2.bin"/>
-    <part name="vautour3.bin"/>
-    <part name="vautour4.bin"/>
-    <part name="vautour5.bin"/>
-    <part name="vautour6.bin"/>
-    <part name="vautour7.bin"/>
-    <part name="vautour8.bin"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="vautor12.2h"/>
-    <part name="vautor11.2j"/>
+  <rom index='0' md5='1b61d780a72453031618c70b84ed0150' type='nonmerged' zip='vautourz.zip'>
+    <part name='vautour1.bin'/>
+    <part name='vautour2.bin'/>
+    <part name='vautour3.bin'/>
+    <part name='vautour4.bin'/>
+    <part name='vautour5.bin'/>
+    <part name='vautour6.bin'/>
+    <part name='vautour7.bin'/>
+    <part name='vautour8.bin'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='vautor12.2h'/>
+    <part name='vautor11.2j'/>
   </rom>
 </misterromdescription>

@@ -3,58 +3,24 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>ninjakun</rbf>
-  <rom index="0" md5="99e80f22f7a77cf1d574ce89486b385f" type="merged" zip="ninjakun.zip">
-    <part name="ninja-6.7n"/>
-    <part name="ninja-7.7p"/>
-    <part name="ninja-8.7s"/>
-    <part name="ninja-9.7t"/>
-    <part name="ninja-10.2c"/>
-    <part name="ninja-11.2d"/>
-    <part name="ninja-12.4c"/>
-    <part name="ninja-13.4d"/>
-    <part name="ninja-1.7a"/>
-    <part name="ninja-2.7b"/>
-    <part name="ninja-3.7d"/>
-    <part name="ninja-4.7e"/>
-    <part name="ninja-5.7h"/>
-    <part name="ninja-2.7b"/>
-    <part name="ninja-3.7d"/>
-    <part name="ninja-4.7e"/>
+  <rom index='0' md5='99e80f22f7a77cf1d574ce89486b385f' type='merged|split|nonmerged' zip='ninjakun.zip'>
+    <part name='ninja-6.7n'/>
+    <part name='ninja-7.7p'/>
+    <part name='ninja-8.7s'/>
+    <part name='ninja-9.7t'/>
+    <part name='ninja-10.2c'/>
+    <part name='ninja-11.2d'/>
+    <part name='ninja-12.4c'/>
+    <part name='ninja-13.4d'/>
+    <part name='ninja-1.7a'/>
+    <part name='ninja-2.7b'/>
+    <part name='ninja-3.7d'/>
+    <part name='ninja-4.7e'/>
+    <part name='ninja-5.7h'/>
+    <part name='ninja-2.7b'/>
+    <part name='ninja-3.7d'/>
+    <part name='ninja-4.7e'/>
   </rom>
-  <rom index="0" md5="99e80f22f7a77cf1d574ce89486b385f" type="split" zip="ninjakun.zip">
-    <part name="ninja-6.7n"/>
-    <part name="ninja-7.7p"/>
-    <part name="ninja-8.7s"/>
-    <part name="ninja-9.7t"/>
-    <part name="ninja-10.2c"/>
-    <part name="ninja-11.2d"/>
-    <part name="ninja-12.4c"/>
-    <part name="ninja-13.4d"/>
-    <part name="ninja-1.7a"/>
-    <part name="ninja-2.7b"/>
-    <part name="ninja-3.7d"/>
-    <part name="ninja-4.7e"/>
-    <part name="ninja-5.7h"/>
-    <part name="ninja-2.7b"/>
-    <part name="ninja-3.7d"/>
-    <part name="ninja-4.7e"/>
-  </rom>
-  <rom index="0" md5="99e80f22f7a77cf1d574ce89486b385f" type="nonmerged" zip="ninjakun.zip">
-    <part name="ninja-6.7n"/>
-    <part name="ninja-7.7p"/>
-    <part name="ninja-8.7s"/>
-    <part name="ninja-9.7t"/>
-    <part name="ninja-10.2c"/>
-    <part name="ninja-11.2d"/>
-    <part name="ninja-12.4c"/>
-    <part name="ninja-13.4d"/>
-    <part name="ninja-1.7a"/>
-    <part name="ninja-2.7b"/>
-    <part name="ninja-3.7d"/>
-    <part name="ninja-4.7e"/>
-    <part name="ninja-5.7h"/>
-    <part name="ninja-2.7b"/>
-    <part name="ninja-3.7d"/>
-    <part name="ninja-4.7e"/>
-  </rom>
+  
+  
 </misterromdescription>

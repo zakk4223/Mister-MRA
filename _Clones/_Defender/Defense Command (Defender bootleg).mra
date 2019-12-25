@@ -6,79 +6,79 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index="0" md5="cca9e5ecb15c90965b834511700bc48c" type="merged|nonmerged" zip="defender.zip">
-    <part name="defcmnd/defcmnda.1"/>
-    <part name="defcmnd/defcmnda.2"/>
-    <part name="defcmnd/defcmnda.3"/>
-    <part name="defcmnd/defcmnda.10"/>
-    <part name="defcmnd/defcmnda.7"/>
-    <part name="defcmnd/defcmnda.9"/>
-    <part name="defcmnd/defcmnda.6"/>
-    <part name="defcmnd/defcmnda.8"/>
-    <part name="defcmnd/defcmnda.5"/>
-    <part name="defcmnd/defcmnda.4"/>
-    <part name="defcmnd/defcmnda.snd"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='merged|nonmerged' zip='defender.zip'>
+    <part name='defcmnd/defcmnda.1'/>
+    <part name='defcmnd/defcmnda.2'/>
+    <part name='defcmnd/defcmnda.3'/>
+    <part name='defcmnd/defcmnda.10'/>
+    <part name='defcmnd/defcmnda.7'/>
+    <part name='defcmnd/defcmnda.9'/>
+    <part name='defcmnd/defcmnda.6'/>
+    <part name='defcmnd/defcmnda.8'/>
+    <part name='defcmnd/defcmnda.5'/>
+    <part name='defcmnd/defcmnda.4'/>
+    <part name='defcmnd/defcmnda.snd'/>
+    <part name='decoder.2'/>
+    <part name='decoder.3'/>
   </rom>
-  <rom index="0" md5="cca9e5ecb15c90965b834511700bc48c" type="split" zip="defcmnd.zip">
-    <part name="defcmnda.1"/>
-    <part name="defcmnda.2"/>
-    <part name="defcmnda.3"/>
-    <part name="defcmnda.10"/>
-    <part name="defcmnda.7"/>
-    <part name="defcmnda.9"/>
-    <part name="defcmnda.6"/>
-    <part name="defcmnda.8"/>
-    <part name="defcmnda.5"/>
-    <part name="defcmnda.4"/>
-    <part name="defcmnda.snd"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='split' zip='defcmnd.zip'>
+    <part name='defcmnda.1'/>
+    <part name='defcmnda.2'/>
+    <part name='defcmnda.3'/>
+    <part name='defcmnda.10'/>
+    <part name='defcmnda.7'/>
+    <part name='defcmnda.9'/>
+    <part name='defcmnda.6'/>
+    <part name='defcmnda.8'/>
+    <part name='defcmnda.5'/>
+    <part name='defcmnda.4'/>
+    <part name='defcmnda.snd'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="cca9e5ecb15c90965b834511700bc48c" type="split" zip="defcmnd.zip">
-    <part name="defcmnda.1"/>
-    <part name="defcmnda.2"/>
-    <part name="defcmnda.3"/>
-    <part name="defcmnda.10"/>
-    <part name="defcmnda.7"/>
-    <part name="defcmnda.9"/>
-    <part name="defcmnda.6"/>
-    <part name="defcmnda.8"/>
-    <part name="defcmnda.5"/>
-    <part name="defcmnda.4"/>
-    <part name="defcmnda.snd"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='split' zip='defcmnd.zip'>
+    <part name='defcmnda.1'/>
+    <part name='defcmnda.2'/>
+    <part name='defcmnda.3'/>
+    <part name='defcmnda.10'/>
+    <part name='defcmnda.7'/>
+    <part name='defcmnda.9'/>
+    <part name='defcmnda.6'/>
+    <part name='defcmnda.8'/>
+    <part name='defcmnda.5'/>
+    <part name='defcmnda.4'/>
+    <part name='defcmnda.snd'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="cca9e5ecb15c90965b834511700bc48c" type="split" zip="defcmnd.zip">
-    <part name="defcmnda.1"/>
-    <part name="defcmnda.2"/>
-    <part name="defcmnda.3"/>
-    <part name="defcmnda.10"/>
-    <part name="defcmnda.7"/>
-    <part name="defcmnda.9"/>
-    <part name="defcmnda.6"/>
-    <part name="defcmnda.8"/>
-    <part name="defcmnda.5"/>
-    <part name="defcmnda.4"/>
-    <part name="defcmnda.snd"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='split' zip='defcmnd.zip'>
+    <part name='defcmnda.1'/>
+    <part name='defcmnda.2'/>
+    <part name='defcmnda.3'/>
+    <part name='defcmnda.10'/>
+    <part name='defcmnda.7'/>
+    <part name='defcmnda.9'/>
+    <part name='defcmnda.6'/>
+    <part name='defcmnda.8'/>
+    <part name='defcmnda.5'/>
+    <part name='defcmnda.4'/>
+    <part name='defcmnda.snd'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="cca9e5ecb15c90965b834511700bc48c" type="nonmerged" zip="defcmnd.zip">
-    <part name="defcmnda.1"/>
-    <part name="defcmnda.2"/>
-    <part name="defcmnda.3"/>
-    <part name="defcmnda.10"/>
-    <part name="defcmnda.7"/>
-    <part name="defcmnda.9"/>
-    <part name="defcmnda.6"/>
-    <part name="defcmnda.8"/>
-    <part name="defcmnda.5"/>
-    <part name="defcmnda.4"/>
-    <part name="defcmnda.snd"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='nonmerged' zip='defcmnd.zip'>
+    <part name='defcmnda.1'/>
+    <part name='defcmnda.2'/>
+    <part name='defcmnda.3'/>
+    <part name='defcmnda.10'/>
+    <part name='defcmnda.7'/>
+    <part name='defcmnda.9'/>
+    <part name='defcmnda.6'/>
+    <part name='defcmnda.8'/>
+    <part name='defcmnda.5'/>
+    <part name='defcmnda.4'/>
+    <part name='defcmnda.snd'/>
+    <part name='decoder.2'/>
+    <part name='decoder.3'/>
   </rom>
 </misterromdescription>

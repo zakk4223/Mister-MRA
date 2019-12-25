@@ -6,46 +6,46 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="dba716932e95564c1d1c0e2198ad0477" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="galaxianbl2/h7.7h"/>
-    <part name="galaxianbl2/j7.7j"/>
-    <part name="galap1/galaxian.w"/>
-    <part name="galaxianbl2/l7.7l"/>
-    <part name="galaxianbl2/m7.7m"/>
-    <part name="galaxianbl2/m7.7m"/>
-    <part name="galaxianbl2/m7.7m"/>
-    <part name="galaxianbl2/m7.7m"/>
-    <part name="galaxianbl2/kl1.1kl"/>
-    <part name="galaxianbl2/kl1.1kl"/>
-    <part name="galaxianbl2/hj1.1hj"/>
-    <part name="galaxianbl2/hj1.1hj"/>
+  <rom index='0' md5='dba716932e95564c1d1c0e2198ad0477' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='galaxianbl2/h7.7h'/>
+    <part name='galaxianbl2/j7.7j'/>
+    <part name='galap1/galaxian.w'/>
+    <part name='galaxianbl2/l7.7l'/>
+    <part name='galaxianbl2/m7.7m'/>
+    <part name='galaxianbl2/m7.7m'/>
+    <part name='galaxianbl2/m7.7m'/>
+    <part name='galaxianbl2/m7.7m'/>
+    <part name='galaxianbl2/kl1.1kl'/>
+    <part name='galaxianbl2/kl1.1kl'/>
+    <part name='galaxianbl2/hj1.1hj'/>
+    <part name='galaxianbl2/hj1.1hj'/>
   </rom>
-  <rom index="0" md5="dba716932e95564c1d1c0e2198ad0477" type="split" zip="galaxianbl2.zip">
-    <part name="h7.7h"/>
-    <part name="j7.7j"/>
-    <part name="k7.7k"/>
-    <part name="l7.7l"/>
-    <part name="m7.7m"/>
-    <part name="m7.7m"/>
-    <part name="m7.7m"/>
-    <part name="m7.7m"/>
-    <part name="kl1.1kl"/>
-    <part name="kl1.1kl"/>
-    <part name="hj1.1hj"/>
-    <part name="hj1.1hj"/>
+  <rom index='0' md5='dba716932e95564c1d1c0e2198ad0477' type='split' zip='galaxianbl2.zip'>
+    <part name='h7.7h'/>
+    <part name='j7.7j'/>
+    <part name='k7.7k'/>
+    <part name='l7.7l'/>
+    <part name='m7.7m'/>
+    <part name='m7.7m'/>
+    <part name='m7.7m'/>
+    <part name='m7.7m'/>
+    <part name='kl1.1kl'/>
+    <part name='kl1.1kl'/>
+    <part name='hj1.1hj'/>
+    <part name='hj1.1hj'/>
   </rom>
-  <rom index="0" md5="dba716932e95564c1d1c0e2198ad0477" type="nonmerged" zip="galaxianbl2.zip">
-    <part name="h7.7h"/>
-    <part name="j7.7j"/>
-    <part name="k7.7k"/>
-    <part name="l7.7l"/>
-    <part name="m7.7m"/>
-    <part name="m7.7m"/>
-    <part name="m7.7m"/>
-    <part name="m7.7m"/>
-    <part name="kl1.1kl"/>
-    <part name="kl1.1kl"/>
-    <part name="hj1.1hj"/>
-    <part name="hj1.1hj"/>
+  <rom index='0' md5='dba716932e95564c1d1c0e2198ad0477' type='nonmerged' zip='galaxianbl2.zip'>
+    <part name='h7.7h'/>
+    <part name='j7.7j'/>
+    <part name='k7.7k'/>
+    <part name='l7.7l'/>
+    <part name='m7.7m'/>
+    <part name='m7.7m'/>
+    <part name='m7.7m'/>
+    <part name='m7.7m'/>
+    <part name='kl1.1kl'/>
+    <part name='kl1.1kl'/>
+    <part name='hj1.1hj'/>
+    <part name='hj1.1hj'/>
   </rom>
 </misterromdescription>

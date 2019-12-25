@@ -1,10 +1,10 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index="0" md5="0cd2366ab12493a0ed205b3f76288593" type="merged" zip="rallyx.zip">
-    <part name="rallyxa/rx1_prg_1.1b"/>
-    <part name="rallyxa/rx1_prg_3.1d"/>
-    <part name="rallyxa/rx1_prg_5.bin"/>
-    <part name="dngrtrck/1k-2716.bin"/>
+  <rom index='0' md5='0cd2366ab12493a0ed205b3f76288593' type='merged' zip='rallyx.zip'>
+    <part name='rallyxa/rx1_prg_1.1b'/>
+    <part name='rallyxa/rx1_prg_3.1d'/>
+    <part name='rallyxa/rx1_prg_5.bin'/>
+    <part name='dngrtrck/1k-2716.bin'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
@@ -1031,54 +1031,54 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name="rallyxa/rx1_chg_1.8e"/>
-    <part name="rx1-6.8m"/>
-    <part name="rx1-5.3p"/>
-    <part name="rx1-7.8p"/>
-    <part name="rx1-1.11n"/>
+    <part name='rallyxa/rx1_chg_1.8e'/>
+    <part name='rx1-6.8m'/>
+    <part name='rx1-5.3p'/>
+    <part name='rx1-7.8p'/>
+    <part name='rx1-1.11n'/>
   </rom>
-  <rom index="0" md5="0cd2366ab12493a0ed205b3f76288593" type="split" zip="rallyxa.zip">
-    <part name="rx1_prg_1.1b"/>
-    <part name="rx1_prg_3.1d"/>
-    <part name="rx1_prg_5.bin"/>
-    <part name="rx1_prg_7.1k"/>
-    <part name="rx1_chg_1.8e"/>
-    <part name="rx1-6.8m" zip="rallyx.zip"/>
-    <part name="rx1-5.3p" zip="rallyx.zip"/>
-    <part name="rx1-7.8p" zip="rallyx.zip"/>
-    <part name="rx1-1.11n" zip="rallyx.zip"/>
+  <rom index='0' md5='0cd2366ab12493a0ed205b3f76288593' type='split' zip='rallyxa.zip'>
+    <part name='rx1_prg_1.1b'/>
+    <part name='rx1_prg_3.1d'/>
+    <part name='rx1_prg_5.bin'/>
+    <part name='rx1_prg_7.1k'/>
+    <part name='rx1_chg_1.8e'/>
+    <part name='rx1-6.8m' zip='rallyx.zip'/>
+    <part name='rx1-5.3p' zip='rallyx.zip'/>
+    <part name='rx1-7.8p' zip='rallyx.zip'/>
+    <part name='rx1-1.11n' zip='rallyx.zip'/>
   </rom>
-  <rom index="0" md5="0cd2366ab12493a0ed205b3f76288593" type="nonmerged" zip="rallyxa.zip">
-    <part name="rx1_prg_1.1b"/>
-    <part name="rx1_prg_3.1d"/>
-    <part name="rx1_prg_5.bin"/>
-    <part name="rx1_prg_7.1k"/>
-    <part name="rx1_chg_1.8e"/>
-    <part name="rx1-6.8m"/>
-    <part name="rx1-5.3p"/>
-    <part name="rx1-7.8p"/>
-    <part name="rx1-1.11n"/>
+  <rom index='0' md5='0cd2366ab12493a0ed205b3f76288593' type='nonmerged' zip='rallyxa.zip'>
+    <part name='rx1_prg_1.1b'/>
+    <part name='rx1_prg_3.1d'/>
+    <part name='rx1_prg_5.bin'/>
+    <part name='rx1_prg_7.1k'/>
+    <part name='rx1_chg_1.8e'/>
+    <part name='rx1-6.8m'/>
+    <part name='rx1-5.3p'/>
+    <part name='rx1-7.8p'/>
+    <part name='rx1-1.11n'/>
   </rom>
-  <rom index="0" md5="0cd2366ab12493a0ed205b3f76288593" type="split" zip="rallyxa.zip">
-    <part name="rx1_prg_1.1b"/>
-    <part name="rx1_prg_3.1d"/>
-    <part name="rx1_prg_5.bin"/>
-    <part name="rx1_prg_7.1k"/>
-    <part name="rx1_chg_1.8e"/>
-    <part name="rx1-6.8m" zip="rallyx.zip"/>
-    <part name="rx1-5.3p" zip="rallyx.zip"/>
-    <part name="rx1-7.8p" zip="rallyx.zip"/>
-    <part name="rx1-1.11n" zip="rallyx.zip"/>
+  <rom index='0' md5='0cd2366ab12493a0ed205b3f76288593' type='split' zip='rallyxa.zip'>
+    <part name='rx1_prg_1.1b'/>
+    <part name='rx1_prg_3.1d'/>
+    <part name='rx1_prg_5.bin'/>
+    <part name='rx1_prg_7.1k'/>
+    <part name='rx1_chg_1.8e'/>
+    <part name='rx1-6.8m' zip='rallyx.zip'/>
+    <part name='rx1-5.3p' zip='rallyx.zip'/>
+    <part name='rx1-7.8p' zip='rallyx.zip'/>
+    <part name='rx1-1.11n' zip='rallyx.zip'/>
   </rom>
-  <rom index="0" md5="0cd2366ab12493a0ed205b3f76288593" type="nonmerged" zip="rallyxa.zip">
-    <part name="rx1_prg_1.1b"/>
-    <part name="rx1_prg_3.1d"/>
-    <part name="rx1_prg_5.bin"/>
-    <part name="rx1_prg_7.1k"/>
-    <part name="rx1_chg_1.8e"/>
-    <part name="rx1-6.8m"/>
-    <part name="rx1-5.3p"/>
-    <part name="rx1-7.8p"/>
-    <part name="rx1-1.11n"/>
+  <rom index='0' md5='0cd2366ab12493a0ed205b3f76288593' type='nonmerged' zip='rallyxa.zip'>
+    <part name='rx1_prg_1.1b'/>
+    <part name='rx1_prg_3.1d'/>
+    <part name='rx1_prg_5.bin'/>
+    <part name='rx1_prg_7.1k'/>
+    <part name='rx1_chg_1.8e'/>
+    <part name='rx1-6.8m'/>
+    <part name='rx1-5.3p'/>
+    <part name='rx1-7.8p'/>
+    <part name='rx1-1.11n'/>
   </rom>
 </misterromdescription>

@@ -1,45 +1,45 @@
 <misterromdescription>
   <rbf>MoonPatrol</rbf>
-  <rom index="0" md5="738ce687f4681fe1d32e4ba74db38e91" type="merged" zip="mpatrol.zip">
-    <part name="mpa-1.3m"/>
-    <part name="mranger/mra-2.3l"/>
-    <part name="mranger/mra-3.3k"/>
-    <part name="mranger/mra-4.3j"/>
-    <part name="mpe-5.3e"/>
-    <part name="mpe-4.3f"/>
-    <part name="mpb-2.3m"/>
-    <part name="mpb-1.3n"/>
-    <part name="mpe-3.3h"/>
-    <part name="mpe-2.3k"/>
-    <part name="mpe-1.3l"/>
-    <part name="mp-s1.1a"/>
+  <rom index='0' md5='738ce687f4681fe1d32e4ba74db38e91' type='merged' zip='mpatrol.zip'>
+    <part name='mpa-1.3m'/>
+    <part name='mranger/mra-2.3l'/>
+    <part name='mranger/mra-3.3k'/>
+    <part name='mranger/mra-4.3j'/>
+    <part name='mpe-5.3e'/>
+    <part name='mpe-4.3f'/>
+    <part name='mpb-2.3m'/>
+    <part name='mpb-1.3n'/>
+    <part name='mpe-3.3h'/>
+    <part name='mpe-2.3k'/>
+    <part name='mpe-1.3l'/>
+    <part name='mp-s1.1a'/>
   </rom>
-  <rom index="0" md5="738ce687f4681fe1d32e4ba74db38e91" type="split" zip="mranger.zip">
-    <part name="mpa-1.3m" zip="mpatrol.zip"/>
-    <part name="mra-2.3l"/>
-    <part name="mra-3.3k"/>
-    <part name="mra-4.3j"/>
-    <part name="mpe-5.3e" zip="mpatrol.zip"/>
-    <part name="mpe-4.3f" zip="mpatrol.zip"/>
-    <part name="mpb-2.3m" zip="mpatrol.zip"/>
-    <part name="mpb-1.3n" zip="mpatrol.zip"/>
-    <part name="mpe-3.3h" zip="mpatrol.zip"/>
-    <part name="mpe-2.3k" zip="mpatrol.zip"/>
-    <part name="mpe-1.3l" zip="mpatrol.zip"/>
-    <part name="mp-s1.1a" zip="mpatrol.zip"/>
+  <rom index='0' md5='738ce687f4681fe1d32e4ba74db38e91' type='split' zip='mranger.zip'>
+    <part name='mpa-1.3m' zip='mpatrol.zip'/>
+    <part name='mra-2.3l'/>
+    <part name='mra-3.3k'/>
+    <part name='mra-4.3j'/>
+    <part name='mpe-5.3e' zip='mpatrol.zip'/>
+    <part name='mpe-4.3f' zip='mpatrol.zip'/>
+    <part name='mpb-2.3m' zip='mpatrol.zip'/>
+    <part name='mpb-1.3n' zip='mpatrol.zip'/>
+    <part name='mpe-3.3h' zip='mpatrol.zip'/>
+    <part name='mpe-2.3k' zip='mpatrol.zip'/>
+    <part name='mpe-1.3l' zip='mpatrol.zip'/>
+    <part name='mp-s1.1a' zip='mpatrol.zip'/>
   </rom>
-  <rom index="0" md5="738ce687f4681fe1d32e4ba74db38e91" type="nonmerged" zip="mranger.zip">
-    <part name="mpa-1.3m"/>
-    <part name="mra-2.3l"/>
-    <part name="mra-3.3k"/>
-    <part name="mra-4.3j"/>
-    <part name="mpe-5.3e"/>
-    <part name="mpe-4.3f"/>
-    <part name="mpb-2.3m"/>
-    <part name="mpb-1.3n"/>
-    <part name="mpe-3.3h"/>
-    <part name="mpe-2.3k"/>
-    <part name="mpe-1.3l"/>
-    <part name="mp-s1.1a"/>
+  <rom index='0' md5='738ce687f4681fe1d32e4ba74db38e91' type='nonmerged' zip='mranger.zip'>
+    <part name='mpa-1.3m'/>
+    <part name='mra-2.3l'/>
+    <part name='mra-3.3k'/>
+    <part name='mra-4.3j'/>
+    <part name='mpe-5.3e'/>
+    <part name='mpe-4.3f'/>
+    <part name='mpb-2.3m'/>
+    <part name='mpb-1.3n'/>
+    <part name='mpe-3.3h'/>
+    <part name='mpe-2.3k'/>
+    <part name='mpe-1.3l'/>
+    <part name='mp-s1.1a'/>
   </rom>
 </misterromdescription>

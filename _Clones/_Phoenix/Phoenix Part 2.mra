@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="24bce670a4e201f5fcef459e05280339" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="phoenxp2/1"/>
-    <part name="phoenxp2/2"/>
-    <part name="phoenxp2/3"/>
-    <part name="phoenxp2/4"/>
-    <part name="phoenxp2/5"/>
-    <part name="phoenxp2/6"/>
-    <part name="phoenxp2/7"/>
-    <part name="phoenxp2/8"/>
-    <part name="batman2/09.bin"/>
-    <part name="batman2/11.bin"/>
-    <part name="batman2/10.bin"/>
-    <part name="batman2/12.bin"/>
+  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='phoenxp2/1'/>
+    <part name='phoenxp2/2'/>
+    <part name='phoenxp2/3'/>
+    <part name='phoenxp2/4'/>
+    <part name='phoenxp2/5'/>
+    <part name='phoenxp2/6'/>
+    <part name='phoenxp2/7'/>
+    <part name='phoenxp2/8'/>
+    <part name='batman2/09.bin'/>
+    <part name='batman2/11.bin'/>
+    <part name='batman2/10.bin'/>
+    <part name='batman2/12.bin'/>
   </rom>
-  <rom index="0" md5="24bce670a4e201f5fcef459e05280339" type="split" zip="phoenxp2.zip">
-    <part name="1"/>
-    <part name="2"/>
-    <part name="3"/>
-    <part name="4"/>
-    <part name="5"/>
-    <part name="6"/>
-    <part name="7"/>
-    <part name="8"/>
-    <part name="09"/>
-    <part name="11"/>
-    <part name="10"/>
-    <part name="12"/>
+  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='split' zip='phoenxp2.zip'>
+    <part name='1'/>
+    <part name='2'/>
+    <part name='3'/>
+    <part name='4'/>
+    <part name='5'/>
+    <part name='6'/>
+    <part name='7'/>
+    <part name='8'/>
+    <part name='09'/>
+    <part name='11'/>
+    <part name='10'/>
+    <part name='12'/>
   </rom>
-  <rom index="0" md5="24bce670a4e201f5fcef459e05280339" type="nonmerged" zip="phoenxp2.zip">
-    <part name="1"/>
-    <part name="2"/>
-    <part name="3"/>
-    <part name="4"/>
-    <part name="5"/>
-    <part name="6"/>
-    <part name="7"/>
-    <part name="8"/>
-    <part name="09"/>
-    <part name="11"/>
-    <part name="10"/>
-    <part name="12"/>
+  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='nonmerged' zip='phoenxp2.zip'>
+    <part name='1'/>
+    <part name='2'/>
+    <part name='3'/>
+    <part name='4'/>
+    <part name='5'/>
+    <part name='6'/>
+    <part name='7'/>
+    <part name='8'/>
+    <part name='09'/>
+    <part name='11'/>
+    <part name='10'/>
+    <part name='12'/>
   </rom>
 </misterromdescription>

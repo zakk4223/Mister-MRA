@@ -3,31 +3,31 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>devilfish</rbf>
-  <rom index="0" md5="3af9bea33dc72c07afb13e17e588289d" type="merged" zip="devilfsh.zip">
-    <part name="devilfsg/dfish1.7f"/>
-    <part name="devilfsg/dfish2.7h"/>
-    <part name="devilfsg/dfish3.7k"/>
-    <part name="devilfsg/dfish4.7m"/>
-    <part name="devilfsg/dfish5.1h"/>
-    <part name="devilfsg/dfish6.1k"/>
-    <part name="c01s.6e"/>
+  <rom index='0' md5='3af9bea33dc72c07afb13e17e588289d' type='merged' zip='devilfsh.zip'>
+    <part name='devilfsg/dfish1.7f'/>
+    <part name='devilfsg/dfish2.7h'/>
+    <part name='devilfsg/dfish3.7k'/>
+    <part name='devilfsg/dfish4.7m'/>
+    <part name='devilfsg/dfish5.1h'/>
+    <part name='devilfsg/dfish6.1k'/>
+    <part name='c01s.6e'/>
   </rom>
-  <rom index="0" md5="3af9bea33dc72c07afb13e17e588289d" type="split" zip="devilfsh.zip">
-    <part name="dfish1.7f" zip="devilfsg.zip"/>
-    <part name="dfish2.7h" zip="devilfsg.zip"/>
-    <part name="dfish3.7k" zip="devilfsg.zip"/>
-    <part name="dfish4.7m" zip="devilfsg.zip"/>
-    <part name="dfish5.1h" zip="devilfsg.zip"/>
-    <part name="dfish6.1k" zip="devilfsg.zip"/>
-    <part name="c01s.6e"/>
+  <rom index='0' md5='3af9bea33dc72c07afb13e17e588289d' type='split' zip='devilfsh.zip'>
+    <part name='dfish1.7f' zip='devilfsg.zip'/>
+    <part name='dfish2.7h' zip='devilfsg.zip'/>
+    <part name='dfish3.7k' zip='devilfsg.zip'/>
+    <part name='dfish4.7m' zip='devilfsg.zip'/>
+    <part name='dfish5.1h' zip='devilfsg.zip'/>
+    <part name='dfish6.1k' zip='devilfsg.zip'/>
+    <part name='c01s.6e'/>
   </rom>
-  <rom index="0" md5="3af9bea33dc72c07afb13e17e588289d" type="nonmerged" zip="devilfsh.zip">
-    <part name="dfish1.7f" zip="devilfsg.zip"/>
-    <part name="dfish2.7h" zip="devilfsg.zip"/>
-    <part name="dfish3.7k" zip="devilfsg.zip"/>
-    <part name="dfish4.7m" zip="devilfsg.zip"/>
-    <part name="dfish5.1h" zip="devilfsg.zip"/>
-    <part name="dfish6.1k" zip="devilfsg.zip"/>
-    <part name="c01s.6e"/>
+  <rom index='0' md5='3af9bea33dc72c07afb13e17e588289d' type='nonmerged' zip='devilfsh.zip'>
+    <part name='dfish1.7f' zip='devilfsg.zip'/>
+    <part name='dfish2.7h' zip='devilfsg.zip'/>
+    <part name='dfish3.7k' zip='devilfsg.zip'/>
+    <part name='dfish4.7m' zip='devilfsg.zip'/>
+    <part name='dfish5.1h' zip='devilfsg.zip'/>
+    <part name='dfish6.1k' zip='devilfsg.zip'/>
+    <part name='c01s.6e'/>
   </rom>
 </misterromdescription>

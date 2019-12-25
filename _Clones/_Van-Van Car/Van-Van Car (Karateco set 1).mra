@@ -9,52 +9,52 @@
   <category>Maze / Balloons</category>
   <category>Racing</category>
   <rbf>vanvancar</rbf>
-  <rom index="0" md5="34c46bb8afd9ec956d9c5cbaff42ae47" type="merged|nonmerged" zip="vanvan.zip">
-    <part name="vanvank/van1.bin"/>
-    <part name="van-2.51"/>
-    <part name="van-3.52"/>
-    <part name="vanvank/van4.bin"/>
-    <part name="vanvank/van5.bin"/>
-    <part name="vanvank/van5.bin"/>
-    <part name="vanvank/van5.bin"/>
-    <part name="vanvank/van5.bin"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
+  <rom index='0' md5='34c46bb8afd9ec956d9c5cbaff42ae47' type='merged|nonmerged' zip='vanvan.zip'>
+    <part name='vanvank/van1.bin'/>
+    <part name='van-2.51'/>
+    <part name='van-3.52'/>
+    <part name='vanvank/van4.bin'/>
+    <part name='vanvank/van5.bin'/>
+    <part name='vanvank/van5.bin'/>
+    <part name='vanvank/van5.bin'/>
+    <part name='vanvank/van5.bin'/>
+    <part name='van-20.18'/>
+    <part name='van-21.19'/>
+    <part name='van-20.18'/>
+    <part name='van-21.19'/>
+    <part name='6301-1.37'/>
+    <part name='6331-1.6'/>
   </rom>
-  <rom index="0" md5="34c46bb8afd9ec956d9c5cbaff42ae47" type="split" zip="vanvank.zip">
-    <part name="van1.bin"/>
-    <part name="van-2.51" zip="vanvan.zip"/>
-    <part name="van-3.52" zip="vanvan.zip"/>
-    <part name="van4.bin"/>
-    <part name="van5.bin"/>
-    <part name="van5.bin"/>
-    <part name="van5.bin"/>
-    <part name="van5.bin"/>
-    <part name="van-20.18" zip="vanvan.zip"/>
-    <part name="van-21.19" zip="vanvan.zip"/>
-    <part name="van-20.18" zip="vanvan.zip"/>
-    <part name="van-21.19" zip="vanvan.zip"/>
-    <part name="6301-1.37" zip="vanvan.zip"/>
-    <part name="6331-1.6" zip="vanvan.zip"/>
+  <rom index='0' md5='34c46bb8afd9ec956d9c5cbaff42ae47' type='split' zip='vanvank.zip'>
+    <part name='van1.bin'/>
+    <part name='van-2.51' zip='vanvan.zip'/>
+    <part name='van-3.52' zip='vanvan.zip'/>
+    <part name='van4.bin'/>
+    <part name='van5.bin'/>
+    <part name='van5.bin'/>
+    <part name='van5.bin'/>
+    <part name='van5.bin'/>
+    <part name='van-20.18' zip='vanvan.zip'/>
+    <part name='van-21.19' zip='vanvan.zip'/>
+    <part name='van-20.18' zip='vanvan.zip'/>
+    <part name='van-21.19' zip='vanvan.zip'/>
+    <part name='6301-1.37' zip='vanvan.zip'/>
+    <part name='6331-1.6' zip='vanvan.zip'/>
   </rom>
-  <rom index="0" md5="34c46bb8afd9ec956d9c5cbaff42ae47" type="nonmerged" zip="vanvank.zip">
-    <part name="van1.bin"/>
-    <part name="van-2.51"/>
-    <part name="van-3.52"/>
-    <part name="van4.bin"/>
-    <part name="van5.bin"/>
-    <part name="van5.bin"/>
-    <part name="van5.bin"/>
-    <part name="van5.bin"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
+  <rom index='0' md5='34c46bb8afd9ec956d9c5cbaff42ae47' type='nonmerged' zip='vanvank.zip'>
+    <part name='van1.bin'/>
+    <part name='van-2.51'/>
+    <part name='van-3.52'/>
+    <part name='van4.bin'/>
+    <part name='van5.bin'/>
+    <part name='van5.bin'/>
+    <part name='van5.bin'/>
+    <part name='van5.bin'/>
+    <part name='van-20.18'/>
+    <part name='van-21.19'/>
+    <part name='van-20.18'/>
+    <part name='van-21.19'/>
+    <part name='6301-1.37'/>
+    <part name='6331-1.6'/>
   </rom>
 </misterromdescription>

@@ -6,46 +6,46 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="e3a6600ea125e566498ab1682754ba03" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="galaxbsf/1.bn"/>
-    <part name="galaxbsf/3.bn"/>
-    <part name="galaxbsf/5.bn"/>
-    <part name="galaxbsf/7.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="1h.bin"/>
-    <part name="1h.bin"/>
-    <part name="1k.bin"/>
-    <part name="1k.bin"/>
+  <rom index='0' md5='e3a6600ea125e566498ab1682754ba03' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='galaxbsf/1.bn'/>
+    <part name='galaxbsf/3.bn'/>
+    <part name='galaxbsf/5.bn'/>
+    <part name='galaxbsf/7.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='1h.bin'/>
+    <part name='1h.bin'/>
+    <part name='1k.bin'/>
+    <part name='1k.bin'/>
   </rom>
-  <rom index="0" md5="e3a6600ea125e566498ab1682754ba03" type="split" zip="galaxbsf.zip">
-    <part name="1.bn"/>
-    <part name="3.bn"/>
-    <part name="5.bn"/>
-    <part name="7.bn"/>
-    <part name="9.bn"/>
-    <part name="9.bn"/>
-    <part name="9.bn"/>
-    <part name="9.bn"/>
-    <part name="1h.bin" zip="galaxian.zip"/>
-    <part name="1h.bin" zip="galaxian.zip"/>
-    <part name="1k.bin" zip="galaxian.zip"/>
-    <part name="1k.bin" zip="galaxian.zip"/>
+  <rom index='0' md5='e3a6600ea125e566498ab1682754ba03' type='split' zip='galaxbsf.zip'>
+    <part name='1.bn'/>
+    <part name='3.bn'/>
+    <part name='5.bn'/>
+    <part name='7.bn'/>
+    <part name='9.bn'/>
+    <part name='9.bn'/>
+    <part name='9.bn'/>
+    <part name='9.bn'/>
+    <part name='1h.bin' zip='galaxian.zip'/>
+    <part name='1h.bin' zip='galaxian.zip'/>
+    <part name='1k.bin' zip='galaxian.zip'/>
+    <part name='1k.bin' zip='galaxian.zip'/>
   </rom>
-  <rom index="0" md5="e3a6600ea125e566498ab1682754ba03" type="nonmerged" zip="galaxbsf.zip">
-    <part name="1.bn"/>
-    <part name="3.bn"/>
-    <part name="5.bn"/>
-    <part name="7.bn"/>
-    <part name="9.bn"/>
-    <part name="9.bn"/>
-    <part name="9.bn"/>
-    <part name="9.bn"/>
-    <part name="11.bn"/>
-    <part name="11.bn"/>
-    <part name="12.bn"/>
-    <part name="12.bn"/>
+  <rom index='0' md5='e3a6600ea125e566498ab1682754ba03' type='nonmerged' zip='galaxbsf.zip'>
+    <part name='1.bn'/>
+    <part name='3.bn'/>
+    <part name='5.bn'/>
+    <part name='7.bn'/>
+    <part name='9.bn'/>
+    <part name='9.bn'/>
+    <part name='9.bn'/>
+    <part name='9.bn'/>
+    <part name='11.bn'/>
+    <part name='11.bn'/>
+    <part name='12.bn'/>
+    <part name='12.bn'/>
   </rom>
 </misterromdescription>

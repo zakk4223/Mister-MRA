@@ -6,46 +6,20 @@
   <manufacturer>TDS &amp; MINTS</manufacturer>
   <category>Space / Shooter</category>
   <rbf>blackhole</rbf>
-  <rom index="0" md5="d976f7cbbed53dd8f6d8c3b014c8a404" type="merged|nonmerged" zip="blkhole.zip">
-    <part name="bh1"/>
-    <part name="bh2"/>
-    <part name="bh3"/>
-    <part name="bh4"/>
-    <part name="bh5"/>
-    <part name="bh6"/>
-    <part name="bh6"/>
-    <part name="bh6"/>
-    <part name="bh7"/>
-    <part name="bh7"/>
-    <part name="bh8"/>
-    <part name="bh8"/>
+  <rom index='0' md5='d976f7cbbed53dd8f6d8c3b014c8a404' type='merged|nonmerged|split' zip='blkhole.zip'>
+    <part name='bh1'/>
+    <part name='bh2'/>
+    <part name='bh3'/>
+    <part name='bh4'/>
+    <part name='bh5'/>
+    <part name='bh6'/>
+    <part name='bh6'/>
+    <part name='bh6'/>
+    <part name='bh7'/>
+    <part name='bh7'/>
+    <part name='bh8'/>
+    <part name='bh8'/>
   </rom>
-  <rom index="0" md5="d976f7cbbed53dd8f6d8c3b014c8a404" type="split" zip="blkhole.zip">
-    <part name="bh1"/>
-    <part name="bh2"/>
-    <part name="bh3"/>
-    <part name="bh4"/>
-    <part name="bh5"/>
-    <part name="bh6"/>
-    <part name="bh6"/>
-    <part name="bh6"/>
-    <part name="bh7"/>
-    <part name="bh7"/>
-    <part name="bh8"/>
-    <part name="bh8"/>
-  </rom>
-  <rom index="0" md5="d976f7cbbed53dd8f6d8c3b014c8a404" type="nonmerged" zip="blkhole.zip">
-    <part name="bh1"/>
-    <part name="bh2"/>
-    <part name="bh3"/>
-    <part name="bh4"/>
-    <part name="bh5"/>
-    <part name="bh6"/>
-    <part name="bh6"/>
-    <part name="bh6"/>
-    <part name="bh7"/>
-    <part name="bh7"/>
-    <part name="bh8"/>
-    <part name="bh8"/>
-  </rom>
+  
+  
 </misterromdescription>

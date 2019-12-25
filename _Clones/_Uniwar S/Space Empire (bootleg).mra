@@ -7,49 +7,49 @@
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
-  <rom index="0" md5="adfa077bb690bcd67ce3b18ca4fb6199" type="merged|nonmerged" zip="uniwars.zip">
-    <part name="spacempr/uw01"/>
-    <part name="h07_2a.bin"/>
-    <part name="k07_3a.bin"/>
-    <part name="spacempr/uw04"/>
-    <part name="spacempr/uw05"/>
-    <part name="galemp/6"/>
-    <part name="m08p_7a.bin"/>
-    <part name="spacempr/uw08"/>
-    <part name="skyraidr/sr.10"/>
-    <part name="h01_2.bin"/>
-    <part name="skyraidr/sr.09"/>
-    <part name="k01_2.bin"/>
-    <part name="galemp/l06_prom.bin"/>
+  <rom index='0' md5='adfa077bb690bcd67ce3b18ca4fb6199' type='merged|nonmerged' zip='uniwars.zip'>
+    <part name='spacempr/uw01'/>
+    <part name='h07_2a.bin'/>
+    <part name='k07_3a.bin'/>
+    <part name='spacempr/uw04'/>
+    <part name='spacempr/uw05'/>
+    <part name='galemp/6'/>
+    <part name='m08p_7a.bin'/>
+    <part name='spacempr/uw08'/>
+    <part name='skyraidr/sr.10'/>
+    <part name='h01_2.bin'/>
+    <part name='skyraidr/sr.09'/>
+    <part name='k01_2.bin'/>
+    <part name='galemp/l06_prom.bin'/>
   </rom>
-  <rom index="0" md5="adfa077bb690bcd67ce3b18ca4fb6199" type="split" zip="spacempr.zip">
-    <part name="uw01"/>
-    <part name="h07_2a.bin" zip="uniwars.zip"/>
-    <part name="k07_3a.bin" zip="uniwars.zip"/>
-    <part name="uw04"/>
-    <part name="uw05"/>
-    <part name="uw06"/>
-    <part name="m08p_7a.bin" zip="uniwars.zip"/>
-    <part name="uw08"/>
-    <part name="uw10"/>
-    <part name="h01_2.bin" zip="uniwars.zip"/>
-    <part name="uw09"/>
-    <part name="k01_2.bin" zip="uniwars.zip"/>
-    <part name="mmi6331"/>
+  <rom index='0' md5='adfa077bb690bcd67ce3b18ca4fb6199' type='split' zip='spacempr.zip'>
+    <part name='uw01'/>
+    <part name='h07_2a.bin' zip='uniwars.zip'/>
+    <part name='k07_3a.bin' zip='uniwars.zip'/>
+    <part name='uw04'/>
+    <part name='uw05'/>
+    <part name='uw06'/>
+    <part name='m08p_7a.bin' zip='uniwars.zip'/>
+    <part name='uw08'/>
+    <part name='uw10'/>
+    <part name='h01_2.bin' zip='uniwars.zip'/>
+    <part name='uw09'/>
+    <part name='k01_2.bin' zip='uniwars.zip'/>
+    <part name='mmi6331'/>
   </rom>
-  <rom index="0" md5="adfa077bb690bcd67ce3b18ca4fb6199" type="nonmerged" zip="spacempr.zip">
-    <part name="uw01"/>
-    <part name="uw02"/>
-    <part name="uw03"/>
-    <part name="uw04"/>
-    <part name="uw05"/>
-    <part name="uw06"/>
-    <part name="uw07"/>
-    <part name="uw08"/>
-    <part name="uw10"/>
-    <part name="uw12"/>
-    <part name="uw09"/>
-    <part name="uw11"/>
-    <part name="mmi6331"/>
+  <rom index='0' md5='adfa077bb690bcd67ce3b18ca4fb6199' type='nonmerged' zip='spacempr.zip'>
+    <part name='uw01'/>
+    <part name='uw02'/>
+    <part name='uw03'/>
+    <part name='uw04'/>
+    <part name='uw05'/>
+    <part name='uw06'/>
+    <part name='uw07'/>
+    <part name='uw08'/>
+    <part name='uw10'/>
+    <part name='uw12'/>
+    <part name='uw09'/>
+    <part name='uw11'/>
+    <part name='mmi6331'/>
   </rom>
 </misterromdescription>

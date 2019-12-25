@@ -6,15 +6,15 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index="0" md5="d713fe66a9f8816aa147246bac86243f" type="merged" zip="frogger.zip">
-    <part name="froggrs/frog4.bin"/>
-    <part name="froggrs/frog5.bin"/>
-    <part name="froggrs/frog6.bin"/>
-    <part name="froggrs/frog6.bin"/>
-    <part name="frogger.606"/>
-    <part name="frogger.607"/>
-    <part name="froggrs/frog3.bin"/>
-    <part name="froggrs/frog3.bin"/>
-    <part name="froggrs/frog3.bin"/>
+  <rom index='0' md5='d713fe66a9f8816aa147246bac86243f' type='merged' zip='frogger.zip'>
+    <part name='froggrs/frog4.bin'/>
+    <part name='froggrs/frog5.bin'/>
+    <part name='froggrs/frog6.bin'/>
+    <part name='froggrs/frog6.bin'/>
+    <part name='frogger.606'/>
+    <part name='frogger.607'/>
+    <part name='froggrs/frog3.bin'/>
+    <part name='froggrs/frog3.bin'/>
+    <part name='froggrs/frog3.bin'/>
   </rom>
 </misterromdescription>

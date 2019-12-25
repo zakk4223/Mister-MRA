@@ -6,44 +6,44 @@
   <manufacturer>Data East</manufacturer>
   <category>Racing / Cars</category>
   <rbf>burningrubber</rbf>
-  <rom index="0" md5="3b18ec160afa2379145f54ea1c228243" type="merged|nonmerged" zip="brubber.zip">
-    <part name="caractn2/7.c12"/>
-    <part name="caractn/c6.12d"/>
-    <part name="caractn/c0.4e"/>
-    <part name="caractn/c1.4f"/>
-    <part name="caractn/c2.4h"/>
-    <part name="bnj10e.bin"/>
-    <part name="bnj10f.bin"/>
-    <part name="bnj6c.bin"/>
+  <rom index='0' md5='3b18ec160afa2379145f54ea1c228243' type='merged|nonmerged' zip='brubber.zip'>
+    <part name='caractn2/7.c12'/>
+    <part name='caractn/c6.12d'/>
+    <part name='caractn/c0.4e'/>
+    <part name='caractn/c1.4f'/>
+    <part name='caractn/c2.4h'/>
+    <part name='bnj10e.bin'/>
+    <part name='bnj10f.bin'/>
+    <part name='bnj6c.bin'/>
   </rom>
-  <rom index="0" md5="3b18ec160afa2379145f54ea1c228243" type="split" zip="caractn2.zip">
-    <part name="7.c12"/>
-    <part name="c6.12d"/>
-    <part name="c0.4e"/>
-    <part name="c1.4f"/>
-    <part name="c2.4h"/>
-    <part name="bnj10e.bin" zip="brubber.zip"/>
-    <part name="bnj10f.bin" zip="brubber.zip"/>
-    <part name="bnj6c.bin" zip="brubber.zip"/>
+  <rom index='0' md5='3b18ec160afa2379145f54ea1c228243' type='split' zip='caractn2.zip'>
+    <part name='7.c12'/>
+    <part name='c6.12d'/>
+    <part name='c0.4e'/>
+    <part name='c1.4f'/>
+    <part name='c2.4h'/>
+    <part name='bnj10e.bin' zip='brubber.zip'/>
+    <part name='bnj10f.bin' zip='brubber.zip'/>
+    <part name='bnj6c.bin' zip='brubber.zip'/>
   </rom>
-  <rom index="0" md5="3b18ec160afa2379145f54ea1c228243" type="split" zip="caractn2.zip">
-    <part name="7.c12"/>
-    <part name="c6.12d"/>
-    <part name="c0.4e"/>
-    <part name="c1.4f"/>
-    <part name="c2.4h"/>
-    <part name="bnj10e.bin" zip="brubber.zip"/>
-    <part name="bnj10f.bin" zip="brubber.zip"/>
-    <part name="bnj6c.bin" zip="brubber.zip"/>
+  <rom index='0' md5='3b18ec160afa2379145f54ea1c228243' type='split' zip='caractn2.zip'>
+    <part name='7.c12'/>
+    <part name='c6.12d'/>
+    <part name='c0.4e'/>
+    <part name='c1.4f'/>
+    <part name='c2.4h'/>
+    <part name='bnj10e.bin' zip='brubber.zip'/>
+    <part name='bnj10f.bin' zip='brubber.zip'/>
+    <part name='bnj6c.bin' zip='brubber.zip'/>
   </rom>
-  <rom index="0" md5="3b18ec160afa2379145f54ea1c228243" type="nonmerged" zip="caractn2.zip">
-    <part name="7.c12"/>
-    <part name="c6.12d"/>
-    <part name="c0.4e"/>
-    <part name="c1.4f"/>
-    <part name="c2.4h"/>
-    <part name="c3.10e"/>
-    <part name="c4.10f"/>
-    <part name="c5.6c"/>
+  <rom index='0' md5='3b18ec160afa2379145f54ea1c228243' type='nonmerged' zip='caractn2.zip'>
+    <part name='7.c12'/>
+    <part name='c6.12d'/>
+    <part name='c0.4e'/>
+    <part name='c1.4f'/>
+    <part name='c2.4h'/>
+    <part name='c3.10e'/>
+    <part name='c4.10f'/>
+    <part name='c5.6c'/>
   </rom>
 </misterromdescription>

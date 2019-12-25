@@ -7,40 +7,40 @@
   <category>Army / Airforce</category>
   <category>Maze / Balloons</category>
   <rbf>canyonbomber</rbf>
-  <rom index="0" md5="3d7e82f962152c0f6959fce3e96a1cb0" type="merged|nonmerged" zip="canyon.zip">
-    <part name="canyonp/cbp3000m.p1"/>
-    <part name="canyonp/cbp3000m.p1"/>
-    <part name="canyonp/cbp3800m.r1"/>
-    <part name="9492-01.n8"/>
-    <part name="9505-01.n5"/>
-    <part name="9505-01.n5"/>
-    <part name="9491-01.j6"/>
+  <rom index='0' md5='3d7e82f962152c0f6959fce3e96a1cb0' type='merged|nonmerged' zip='canyon.zip'>
+    <part name='canyonp/cbp3000m.p1'/>
+    <part name='canyonp/cbp3000m.p1'/>
+    <part name='canyonp/cbp3800m.r1'/>
+    <part name='9492-01.n8'/>
+    <part name='9505-01.n5'/>
+    <part name='9505-01.n5'/>
+    <part name='9491-01.j6'/>
   </rom>
-  <rom index="0" md5="3d7e82f962152c0f6959fce3e96a1cb0" type="split" zip="canyonp.zip">
-    <part name="cbp3000m.p1"/>
-    <part name="cbp3000m.p1"/>
-    <part name="cbp3800m.r1"/>
-    <part name="9492-01.n8" zip="canyon.zip"/>
-    <part name="9505-01.n5" zip="canyon.zip"/>
-    <part name="9505-01.n5" zip="canyon.zip"/>
-    <part name="9491-01.j6" zip="canyon.zip"/>
+  <rom index='0' md5='3d7e82f962152c0f6959fce3e96a1cb0' type='split' zip='canyonp.zip'>
+    <part name='cbp3000m.p1'/>
+    <part name='cbp3000m.p1'/>
+    <part name='cbp3800m.r1'/>
+    <part name='9492-01.n8' zip='canyon.zip'/>
+    <part name='9505-01.n5' zip='canyon.zip'/>
+    <part name='9505-01.n5' zip='canyon.zip'/>
+    <part name='9491-01.j6' zip='canyon.zip'/>
   </rom>
-  <rom index="0" md5="3d7e82f962152c0f6959fce3e96a1cb0" type="split" zip="canyonp.zip">
-    <part name="cbp3000m.p1"/>
-    <part name="cbp3000m.p1"/>
-    <part name="cbp3800m.r1"/>
-    <part name="9492-01.n8" zip="canyon.zip"/>
-    <part name="9505-01.n5" zip="canyon.zip"/>
-    <part name="9505-01.n5" zip="canyon.zip"/>
-    <part name="9491-01.j6" zip="canyon.zip"/>
+  <rom index='0' md5='3d7e82f962152c0f6959fce3e96a1cb0' type='split' zip='canyonp.zip'>
+    <part name='cbp3000m.p1'/>
+    <part name='cbp3000m.p1'/>
+    <part name='cbp3800m.r1'/>
+    <part name='9492-01.n8' zip='canyon.zip'/>
+    <part name='9505-01.n5' zip='canyon.zip'/>
+    <part name='9505-01.n5' zip='canyon.zip'/>
+    <part name='9491-01.j6' zip='canyon.zip'/>
   </rom>
-  <rom index="0" md5="3d7e82f962152c0f6959fce3e96a1cb0" type="nonmerged" zip="canyonp.zip">
-    <part name="cbp3000m.p1"/>
-    <part name="cbp3000m.p1"/>
-    <part name="cbp3800m.r1"/>
-    <part name="9492-01.n8"/>
-    <part name="9505-01.n5"/>
-    <part name="9505-01.n5"/>
-    <part name="9491-01.j6"/>
+  <rom index='0' md5='3d7e82f962152c0f6959fce3e96a1cb0' type='nonmerged' zip='canyonp.zip'>
+    <part name='cbp3000m.p1'/>
+    <part name='cbp3000m.p1'/>
+    <part name='cbp3800m.r1'/>
+    <part name='9492-01.n8'/>
+    <part name='9505-01.n5'/>
+    <part name='9505-01.n5'/>
+    <part name='9491-01.j6'/>
   </rom>
 </misterromdescription>

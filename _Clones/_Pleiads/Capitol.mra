@@ -6,46 +6,46 @@
   <manufacturer>Tehkan</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="4779c5afc2648ea7a523287da194b9c0" type="merged|nonmerged" zip="pleiads.zip">
-    <part name="capitol/cp1.45"/>
-    <part name="capitol/cp2.46"/>
-    <part name="capitol/cp3.47"/>
-    <part name="capitol/cp4.48"/>
-    <part name="capitol/cp5.49"/>
-    <part name="capitol/cp6.50"/>
-    <part name="capitol/cp7.51"/>
-    <part name="capitol/cp8.52"/>
-    <part name="capitol/cp11.23"/>
-    <part name="capitol/cp12.24"/>
-    <part name="capitol/cp9.39"/>
-    <part name="capitol/cp10.40"/>
+  <rom index='0' md5='4779c5afc2648ea7a523287da194b9c0' type='merged|nonmerged' zip='pleiads.zip'>
+    <part name='capitol/cp1.45'/>
+    <part name='capitol/cp2.46'/>
+    <part name='capitol/cp3.47'/>
+    <part name='capitol/cp4.48'/>
+    <part name='capitol/cp5.49'/>
+    <part name='capitol/cp6.50'/>
+    <part name='capitol/cp7.51'/>
+    <part name='capitol/cp8.52'/>
+    <part name='capitol/cp11.23'/>
+    <part name='capitol/cp12.24'/>
+    <part name='capitol/cp9.39'/>
+    <part name='capitol/cp10.40'/>
   </rom>
-  <rom index="0" md5="4779c5afc2648ea7a523287da194b9c0" type="split" zip="capitol.zip">
-    <part name="cp1.45"/>
-    <part name="cp2.46"/>
-    <part name="cp3.47"/>
-    <part name="cp4.48"/>
-    <part name="cp5.49"/>
-    <part name="cp6.50"/>
-    <part name="cp7.51"/>
-    <part name="cp8.52"/>
-    <part name="cp11.23"/>
-    <part name="cp12.24"/>
-    <part name="cp9.39"/>
-    <part name="cp10.40"/>
+  <rom index='0' md5='4779c5afc2648ea7a523287da194b9c0' type='split' zip='capitol.zip'>
+    <part name='cp1.45'/>
+    <part name='cp2.46'/>
+    <part name='cp3.47'/>
+    <part name='cp4.48'/>
+    <part name='cp5.49'/>
+    <part name='cp6.50'/>
+    <part name='cp7.51'/>
+    <part name='cp8.52'/>
+    <part name='cp11.23'/>
+    <part name='cp12.24'/>
+    <part name='cp9.39'/>
+    <part name='cp10.40'/>
   </rom>
-  <rom index="0" md5="4779c5afc2648ea7a523287da194b9c0" type="nonmerged" zip="capitol.zip">
-    <part name="cp1.45"/>
-    <part name="cp2.46"/>
-    <part name="cp3.47"/>
-    <part name="cp4.48"/>
-    <part name="cp5.49"/>
-    <part name="cp6.50"/>
-    <part name="cp7.51"/>
-    <part name="cp8.52"/>
-    <part name="cp11.23"/>
-    <part name="cp12.24"/>
-    <part name="cp9.39"/>
-    <part name="cp10.40"/>
+  <rom index='0' md5='4779c5afc2648ea7a523287da194b9c0' type='nonmerged' zip='capitol.zip'>
+    <part name='cp1.45'/>
+    <part name='cp2.46'/>
+    <part name='cp3.47'/>
+    <part name='cp4.48'/>
+    <part name='cp5.49'/>
+    <part name='cp6.50'/>
+    <part name='cp7.51'/>
+    <part name='cp8.52'/>
+    <part name='cp11.23'/>
+    <part name='cp12.24'/>
+    <part name='cp9.39'/>
+    <part name='cp10.40'/>
   </rom>
 </misterromdescription>

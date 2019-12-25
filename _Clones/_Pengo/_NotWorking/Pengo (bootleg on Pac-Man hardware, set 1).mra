@@ -8,52 +8,52 @@
   <category>Maze / Blocks</category>
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
-  <rom index="0" md5="0d531ef42500d3e9cad37eacf155d5a9" type="merged|nonmerged" zip="pengo.zip">
-    <part fixme="maincpu:0" name="ep1689c.8"/>
-    <part fixme="maincpu:1000" name="ep1690b.7"/>
-    <part fixme="maincpu:2000" name="ep1691b.15"/>
-    <part fixme="maincpu:3000" name="ep1692b.14"/>
-    <part name="pengojpm/pengo1.bin"/>
-    <part name="pengojpm/pengo2.bin"/>
-    <part name="pengojpm/pengo3.bin"/>
-    <part name="pengojpm/pengo4.bin"/>
-    <part name="pengojpm/pengoa.bin"/>
-    <part name="pengojpm/pengob.bin"/>
-    <part name="pr1634.88"/>
-    <part name="pengojpm/82s126.1m"/>
-    <part name="pr1636.70"/>
-    <part name="pr1633.78"/>
+  <rom index='0' md5='0d531ef42500d3e9cad37eacf155d5a9' type='merged|nonmerged' zip='pengo.zip'>
+    <part fixme='maincpu:0' name='ep1689c.8'/>
+    <part fixme='maincpu:1000' name='ep1690b.7'/>
+    <part fixme='maincpu:2000' name='ep1691b.15'/>
+    <part fixme='maincpu:3000' name='ep1692b.14'/>
+    <part name='pengojpm/pengo1.bin'/>
+    <part name='pengojpm/pengo2.bin'/>
+    <part name='pengojpm/pengo3.bin'/>
+    <part name='pengojpm/pengo4.bin'/>
+    <part name='pengojpm/pengoa.bin'/>
+    <part name='pengojpm/pengob.bin'/>
+    <part name='pr1634.88'/>
+    <part name='pengojpm/82s126.1m'/>
+    <part name='pr1636.70'/>
+    <part name='pr1633.78'/>
   </rom>
-  <rom index="0" md5="0d531ef42500d3e9cad37eacf155d5a9" type="split" zip="pengojpm.zip">
-    <part name="ep1689c.8" zip="pengo.zip"/>
-    <part name="ep1690b.7" zip="pengo.zip"/>
-    <part name="ep1691b.15" zip="pengo.zip"/>
-    <part name="ep1692b.14" zip="pengo.zip"/>
-    <part name="pengo1.bin"/>
-    <part name="pengo2.bin"/>
-    <part name="pengo3.bin"/>
-    <part name="pengo4.bin"/>
-    <part name="pengoa.bin"/>
-    <part name="pengob.bin"/>
-    <part name="pr1634.88" zip="pengo.zip"/>
-    <part name="82s126.1m"/>
-    <part name="pr1636.70" zip="pengo.zip"/>
-    <part name="pr1633.78" zip="pengo.zip"/>
+  <rom index='0' md5='0d531ef42500d3e9cad37eacf155d5a9' type='split' zip='pengojpm.zip'>
+    <part name='ep1689c.8' zip='pengo.zip'/>
+    <part name='ep1690b.7' zip='pengo.zip'/>
+    <part name='ep1691b.15' zip='pengo.zip'/>
+    <part name='ep1692b.14' zip='pengo.zip'/>
+    <part name='pengo1.bin'/>
+    <part name='pengo2.bin'/>
+    <part name='pengo3.bin'/>
+    <part name='pengo4.bin'/>
+    <part name='pengoa.bin'/>
+    <part name='pengob.bin'/>
+    <part name='pr1634.88' zip='pengo.zip'/>
+    <part name='82s126.1m'/>
+    <part name='pr1636.70' zip='pengo.zip'/>
+    <part name='pr1633.78' zip='pengo.zip'/>
   </rom>
-  <rom index="0" md5="0d531ef42500d3e9cad37eacf155d5a9" type="nonmerged" zip="pengojpm.zip">
-    <part name="ep1689c.8"/>
-    <part name="ep1690b.7"/>
-    <part name="ep1691b.15"/>
-    <part name="ep1692b.14"/>
-    <part name="pengo1.bin"/>
-    <part name="pengo2.bin"/>
-    <part name="pengo3.bin"/>
-    <part name="pengo4.bin"/>
-    <part name="pengoa.bin"/>
-    <part name="pengob.bin"/>
-    <part name="pr1634.88"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.3m"/>
-    <part name="pr1633.78"/>
+  <rom index='0' md5='0d531ef42500d3e9cad37eacf155d5a9' type='nonmerged' zip='pengojpm.zip'>
+    <part name='ep1689c.8'/>
+    <part name='ep1690b.7'/>
+    <part name='ep1691b.15'/>
+    <part name='ep1692b.14'/>
+    <part name='pengo1.bin'/>
+    <part name='pengo2.bin'/>
+    <part name='pengo3.bin'/>
+    <part name='pengo4.bin'/>
+    <part name='pengoa.bin'/>
+    <part name='pengob.bin'/>
+    <part name='pr1634.88'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.3m'/>
+    <part name='pr1633.78'/>
   </rom>
 </misterromdescription>

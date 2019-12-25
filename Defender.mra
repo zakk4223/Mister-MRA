@@ -6,52 +6,22 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index="0" md5="c30f51faa522769c684feafa3147354a" type="merged|nonmerged" zip="defender.zip">
-    <part name="defend.1"/>
-    <part name="defend.4"/>
-    <part name="defend.2"/>
-    <part name="defend.3"/>
-    <part name="defend.9"/>
-    <part name="defend.12"/>
-    <part name="defend.8"/>
-    <part name="defend.11"/>
-    <part name="defend.7"/>
-    <part name="defend.10"/>
-    <part name="defend.6"/>
-    <part name="defend.snd"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='c30f51faa522769c684feafa3147354a' type='merged|nonmerged|split' zip='defender.zip'>
+    <part name='defend.1'/>
+    <part name='defend.4'/>
+    <part name='defend.2'/>
+    <part name='defend.3'/>
+    <part name='defend.9'/>
+    <part name='defend.12'/>
+    <part name='defend.8'/>
+    <part name='defend.11'/>
+    <part name='defend.7'/>
+    <part name='defend.10'/>
+    <part name='defend.6'/>
+    <part name='defend.snd'/>
+    <part name='decoder.2'/>
+    <part name='decoder.3'/>
   </rom>
-  <rom index="0" md5="c30f51faa522769c684feafa3147354a" type="split" zip="defender.zip">
-    <part name="defend.1"/>
-    <part name="defend.4"/>
-    <part name="defend.2"/>
-    <part name="defend.3"/>
-    <part name="defend.9"/>
-    <part name="defend.12"/>
-    <part name="defend.8"/>
-    <part name="defend.11"/>
-    <part name="defend.7"/>
-    <part name="defend.10"/>
-    <part name="defend.6"/>
-    <part name="defend.snd"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
-  </rom>
-  <rom index="0" md5="c30f51faa522769c684feafa3147354a" type="nonmerged" zip="defender.zip">
-    <part name="defend.1"/>
-    <part name="defend.4"/>
-    <part name="defend.2"/>
-    <part name="defend.3"/>
-    <part name="defend.9"/>
-    <part name="defend.12"/>
-    <part name="defend.8"/>
-    <part name="defend.11"/>
-    <part name="defend.7"/>
-    <part name="defend.10"/>
-    <part name="defend.6"/>
-    <part name="defend.snd"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
-  </rom>
+  
+  
 </misterromdescription>

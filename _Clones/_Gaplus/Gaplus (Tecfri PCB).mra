@@ -3,19 +3,19 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>gaplus</rbf>
-  <rom index="0" md5="314e9083b39beccb1dce68ba983d9d14" type="merged" zip="gaplus.zip">
-    <part name="gaplust/gp2_4.4"/>
-    <part name="gaplust/gp2_3.3"/>
-    <part name="gaplust/gp2_2.2"/>
-    <part name="gp2-1.4b"/>
-    <part name="galaga3c/gal3_6l.6l"/>
-    <part name="gp2-7.11c"/>
-    <part name="galaga3c/gal3_6n.6n"/>
-    <part name="gp2-5.8s"/>
-    <part name="gp2-11.11p"/>
-    <part name="gp2-10.11n"/>
-    <part name="gp2-12.11r"/>
-    <part name="gp2-9.11m"/>
+  <rom index='0' md5='314e9083b39beccb1dce68ba983d9d14' type='merged' zip='gaplus.zip'>
+    <part name='gaplust/gp2_4.4'/>
+    <part name='gaplust/gp2_3.3'/>
+    <part name='gaplust/gp2_2.2'/>
+    <part name='gp2-1.4b'/>
+    <part name='galaga3c/gal3_6l.6l'/>
+    <part name='gp2-7.11c'/>
+    <part name='galaga3c/gal3_6n.6n'/>
+    <part name='gp2-5.8s'/>
+    <part name='gp2-11.11p'/>
+    <part name='gp2-10.11n'/>
+    <part name='gp2-12.11r'/>
+    <part name='gp2-9.11m'/>
     <part>
 80 80 80 87 92 9b a5 aa ad ae ae b0 ae ad ad ab
 ab aa aa a8 a8 a7 a7 a5 a5 a4 a4 a2 a2 a1 a1 9f
@@ -2066,27 +2066,27 @@ a2 9f 9e 9c 9b 99 96 95 93 92 90 8f 8f 8f 90 90
 7a 7a 7a 7a 7a 7a 7a 7a 7a 7a 7a 7c 7c 7c 7d 7d
 7d 7d 7d 7d 7d 7d 7d 7d 7d 7d 7c 7c 7c 7c 7c 7c
             </part>
-    <part name="gp2-6.6p"/>
-    <part name="gp2-5.6n"/>
-    <part name="gp2-7.6s"/>
-    <part name="gp2-3.1p"/>
-    <part name="gp2-1.1n"/>
-    <part name="gp2-2.2n"/>
-    <part name="gp2-4.3f"/>
+    <part name='gp2-6.6p'/>
+    <part name='gp2-5.6n'/>
+    <part name='gp2-7.6s'/>
+    <part name='gp2-3.1p'/>
+    <part name='gp2-1.1n'/>
+    <part name='gp2-2.2n'/>
+    <part name='gp2-4.3f'/>
   </rom>
-  <rom index="0" md5="314e9083b39beccb1dce68ba983d9d14" type="split" zip="gaplust.zip">
-    <part name="gp2_4.4"/>
-    <part name="gp2_3.3"/>
-    <part name="gp2_2.2"/>
-    <part name="gp2-1.4b" zip="gaplus.zip"/>
-    <part name="gp2_8.8"/>
-    <part name="gp2-7.11c" zip="gaplus.zip"/>
-    <part name="gp2_6.6"/>
-    <part name="gp2-5.8s" zip="gaplus.zip"/>
-    <part name="gp2-11.11p" zip="gaplus.zip"/>
-    <part name="gp2-10.11n" zip="gaplus.zip"/>
-    <part name="gp2-12.11r" zip="gaplus.zip"/>
-    <part name="gp2-9.11m" zip="gaplus.zip"/>
+  <rom index='0' md5='314e9083b39beccb1dce68ba983d9d14' type='split' zip='gaplust.zip'>
+    <part name='gp2_4.4'/>
+    <part name='gp2_3.3'/>
+    <part name='gp2_2.2'/>
+    <part name='gp2-1.4b' zip='gaplus.zip'/>
+    <part name='gp2_8.8'/>
+    <part name='gp2-7.11c' zip='gaplus.zip'/>
+    <part name='gp2_6.6'/>
+    <part name='gp2-5.8s' zip='gaplus.zip'/>
+    <part name='gp2-11.11p' zip='gaplus.zip'/>
+    <part name='gp2-10.11n' zip='gaplus.zip'/>
+    <part name='gp2-12.11r' zip='gaplus.zip'/>
+    <part name='gp2-9.11m' zip='gaplus.zip'/>
     <part>
 80 80 80 87 92 9b a5 aa ad ae ae b0 ae ad ad ab
 ab aa aa a8 a8 a7 a7 a5 a5 a4 a4 a2 a2 a1 a1 9f
@@ -4137,27 +4137,27 @@ a2 9f 9e 9c 9b 99 96 95 93 92 90 8f 8f 8f 90 90
 7a 7a 7a 7a 7a 7a 7a 7a 7a 7a 7a 7c 7c 7c 7d 7d
 7d 7d 7d 7d 7d 7d 7d 7d 7d 7d 7c 7c 7c 7c 7c 7c
             </part>
-    <part name="gp2-6.6p" zip="gaplus.zip"/>
-    <part name="gp2-5.6n" zip="gaplus.zip"/>
-    <part name="gp2-7.6s" zip="gaplus.zip"/>
-    <part name="gp2-3.1p" zip="gaplus.zip"/>
-    <part name="gp2-1.1n" zip="gaplus.zip"/>
-    <part name="gp2-2.2n" zip="gaplus.zip"/>
-    <part name="gp2-4.3f" zip="gaplus.zip"/>
+    <part name='gp2-6.6p' zip='gaplus.zip'/>
+    <part name='gp2-5.6n' zip='gaplus.zip'/>
+    <part name='gp2-7.6s' zip='gaplus.zip'/>
+    <part name='gp2-3.1p' zip='gaplus.zip'/>
+    <part name='gp2-1.1n' zip='gaplus.zip'/>
+    <part name='gp2-2.2n' zip='gaplus.zip'/>
+    <part name='gp2-4.3f' zip='gaplus.zip'/>
   </rom>
-  <rom index="0" md5="314e9083b39beccb1dce68ba983d9d14" type="nonmerged" zip="gaplust.zip">
-    <part name="gp2_4.4"/>
-    <part name="gp2_3.3"/>
-    <part name="gp2_2.2"/>
-    <part name="gp2-1.4b"/>
-    <part name="gp2_8.8"/>
-    <part name="gp2_7.7"/>
-    <part name="gp2_6.6"/>
-    <part name="gp2-5.8s"/>
-    <part name="gp2-11.11p"/>
-    <part name="gp2-10.11n"/>
-    <part name="gp2-12.11r"/>
-    <part name="gp2-9.11m"/>
+  <rom index='0' md5='314e9083b39beccb1dce68ba983d9d14' type='nonmerged' zip='gaplust.zip'>
+    <part name='gp2_4.4'/>
+    <part name='gp2_3.3'/>
+    <part name='gp2_2.2'/>
+    <part name='gp2-1.4b'/>
+    <part name='gp2_8.8'/>
+    <part name='gp2_7.7'/>
+    <part name='gp2_6.6'/>
+    <part name='gp2-5.8s'/>
+    <part name='gp2-11.11p'/>
+    <part name='gp2-10.11n'/>
+    <part name='gp2-12.11r'/>
+    <part name='gp2-9.11m'/>
     <part>
 80 80 80 87 92 9b a5 aa ad ae ae b0 ae ad ad ab
 ab aa aa a8 a8 a7 a7 a5 a5 a4 a4 a2 a2 a1 a1 9f
@@ -6208,12 +6208,12 @@ a2 9f 9e 9c 9b 99 96 95 93 92 90 8f 8f 8f 90 90
 7a 7a 7a 7a 7a 7a 7a 7a 7a 7a 7a 7c 7c 7c 7d 7d
 7d 7d 7d 7d 7d 7d 7d 7d 7d 7d 7c 7c 7c 7c 7c 7c
             </part>
-    <part name="gp2-6.6p"/>
-    <part name="gp2-5.6n"/>
-    <part name="gp2-7.6s"/>
-    <part name="gp2-3.1p"/>
-    <part name="gp2-1.1n"/>
-    <part name="gp2-2.2n"/>
-    <part name="gp2-4.3f"/>
+    <part name='gp2-6.6p'/>
+    <part name='gp2-5.6n'/>
+    <part name='gp2-7.6s'/>
+    <part name='gp2-3.1p'/>
+    <part name='gp2-1.1n'/>
+    <part name='gp2-2.2n'/>
+    <part name='gp2-4.3f'/>
   </rom>
 </misterromdescription>

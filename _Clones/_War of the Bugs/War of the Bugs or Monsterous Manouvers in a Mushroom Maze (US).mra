@@ -8,46 +8,46 @@
   <category>Maze / Bugs</category>
   <category>Maze / Centipede</category>
   <rbf>warofthebugs</rbf>
-  <rom index="0" md5="f42c673a1ca66b3acabaf7014e8c6123" type="merged|nonmerged" zip="warofbug.zip">
-    <part name="warofbug.u"/>
-    <part name="warofbug.v"/>
-    <part name="warofbug.w"/>
-    <part name="warofbugu/wb-prog-4.7n"/>
-    <part name="warofbugu/wb-prog-5.7p"/>
-    <part name="warofbugu/wb-prog-5.7p"/>
-    <part name="warofbugu/wb-prog-5.7p"/>
-    <part name="warofbugu/wb-prog-5.7p"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1j"/>
-    <part name="warofbug.1j"/>
+  <rom index='0' md5='f42c673a1ca66b3acabaf7014e8c6123' type='merged|nonmerged' zip='warofbug.zip'>
+    <part name='warofbug.u'/>
+    <part name='warofbug.v'/>
+    <part name='warofbug.w'/>
+    <part name='warofbugu/wb-prog-4.7n'/>
+    <part name='warofbugu/wb-prog-5.7p'/>
+    <part name='warofbugu/wb-prog-5.7p'/>
+    <part name='warofbugu/wb-prog-5.7p'/>
+    <part name='warofbugu/wb-prog-5.7p'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1j'/>
+    <part name='warofbug.1j'/>
   </rom>
-  <rom index="0" md5="f42c673a1ca66b3acabaf7014e8c6123" type="split" zip="warofbugu.zip">
-    <part name="warofbug.u" zip="warofbug.zip"/>
-    <part name="warofbug.v" zip="warofbug.zip"/>
-    <part name="warofbug.w" zip="warofbug.zip"/>
-    <part name="wb-prog-4.7n"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="warofbug.1k" zip="warofbug.zip"/>
-    <part name="warofbug.1k" zip="warofbug.zip"/>
-    <part name="warofbug.1j" zip="warofbug.zip"/>
-    <part name="warofbug.1j" zip="warofbug.zip"/>
+  <rom index='0' md5='f42c673a1ca66b3acabaf7014e8c6123' type='split' zip='warofbugu.zip'>
+    <part name='warofbug.u' zip='warofbug.zip'/>
+    <part name='warofbug.v' zip='warofbug.zip'/>
+    <part name='warofbug.w' zip='warofbug.zip'/>
+    <part name='wb-prog-4.7n'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='warofbug.1k' zip='warofbug.zip'/>
+    <part name='warofbug.1k' zip='warofbug.zip'/>
+    <part name='warofbug.1j' zip='warofbug.zip'/>
+    <part name='warofbug.1j' zip='warofbug.zip'/>
   </rom>
-  <rom index="0" md5="f42c673a1ca66b3acabaf7014e8c6123" type="nonmerged" zip="warofbugu.zip">
-    <part name="wb-prog-1.7d"/>
-    <part name="wb-prog-2.7e"/>
-    <part name="wb-prog-3.7j"/>
-    <part name="wb-prog-4.7n"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="wb-prog-5.7p"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1j"/>
-    <part name="warofbug.1j"/>
+  <rom index='0' md5='f42c673a1ca66b3acabaf7014e8c6123' type='nonmerged' zip='warofbugu.zip'>
+    <part name='wb-prog-1.7d'/>
+    <part name='wb-prog-2.7e'/>
+    <part name='wb-prog-3.7j'/>
+    <part name='wb-prog-4.7n'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='wb-prog-5.7p'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1j'/>
+    <part name='warofbug.1j'/>
   </rom>
 </misterromdescription>

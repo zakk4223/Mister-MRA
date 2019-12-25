@@ -8,52 +8,52 @@
   <category>Maze / Blocks</category>
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
-  <rom index="0" md5="0a12646cfea8cd32eb94379c7ad2a751" type="merged|nonmerged" zip="pengo.zip">
-    <part name="pengo2u/epr5128.u8"/>
-    <part name="pengo2u/epr5129.u7"/>
-    <part name="pengo2u/epr5130.u15"/>
-    <part name="pengo2u/epr5131.u14"/>
-    <part name="pengo2u/ep5124.21"/>
-    <part name="pengo2u/epr5133.u20"/>
-    <part name="pengo2u/ep5126.32"/>
-    <part name="pengo2u/epr5135.u31"/>
-    <part name="ep1640.92"/>
-    <part name="ep1695.105"/>
-    <part name="pr1634.88"/>
-    <part name="pr1635.51"/>
-    <part name="pr1636.70"/>
-    <part name="pr1633.78"/>
+  <rom index='0' md5='0a12646cfea8cd32eb94379c7ad2a751' type='merged|nonmerged' zip='pengo.zip'>
+    <part name='pengo2u/epr5128.u8'/>
+    <part name='pengo2u/epr5129.u7'/>
+    <part name='pengo2u/epr5130.u15'/>
+    <part name='pengo2u/epr5131.u14'/>
+    <part name='pengo2u/ep5124.21'/>
+    <part name='pengo2u/epr5133.u20'/>
+    <part name='pengo2u/ep5126.32'/>
+    <part name='pengo2u/epr5135.u31'/>
+    <part name='ep1640.92'/>
+    <part name='ep1695.105'/>
+    <part name='pr1634.88'/>
+    <part name='pr1635.51'/>
+    <part name='pr1636.70'/>
+    <part name='pr1633.78'/>
   </rom>
-  <rom index="0" md5="0a12646cfea8cd32eb94379c7ad2a751" type="split" zip="pengo2u.zip">
-    <part name="epr5128.u8"/>
-    <part name="epr5129.u7"/>
-    <part name="epr5130.u15"/>
-    <part name="epr5131.u14"/>
-    <part name="ep5124.21"/>
-    <part name="epr5133.u20"/>
-    <part name="ep5126.32"/>
-    <part name="epr5135.u31"/>
-    <part name="ep1640.92" zip="pengo.zip"/>
-    <part name="ep1695.105" zip="pengo.zip"/>
-    <part name="pr1634.88" zip="pengo.zip"/>
-    <part name="pr1635.51" zip="pengo.zip"/>
-    <part name="pr1636.70" zip="pengo.zip"/>
-    <part name="pr1633.78" zip="pengo.zip"/>
+  <rom index='0' md5='0a12646cfea8cd32eb94379c7ad2a751' type='split' zip='pengo2u.zip'>
+    <part name='epr5128.u8'/>
+    <part name='epr5129.u7'/>
+    <part name='epr5130.u15'/>
+    <part name='epr5131.u14'/>
+    <part name='ep5124.21'/>
+    <part name='epr5133.u20'/>
+    <part name='ep5126.32'/>
+    <part name='epr5135.u31'/>
+    <part name='ep1640.92' zip='pengo.zip'/>
+    <part name='ep1695.105' zip='pengo.zip'/>
+    <part name='pr1634.88' zip='pengo.zip'/>
+    <part name='pr1635.51' zip='pengo.zip'/>
+    <part name='pr1636.70' zip='pengo.zip'/>
+    <part name='pr1633.78' zip='pengo.zip'/>
   </rom>
-  <rom index="0" md5="0a12646cfea8cd32eb94379c7ad2a751" type="nonmerged" zip="pengo2u.zip">
-    <part name="epr5128.u8"/>
-    <part name="epr5129.u7"/>
-    <part name="epr5130.u15"/>
-    <part name="epr5131.u14"/>
-    <part name="ep5124.21"/>
-    <part name="epr5133.u20"/>
-    <part name="ep5126.32"/>
-    <part name="epr5135.u31"/>
-    <part name="ep1640.92"/>
-    <part name="ep1695.105"/>
-    <part name="pr1634.88"/>
-    <part name="pr1635.51"/>
-    <part name="pr1636.70"/>
-    <part name="pr1633.78"/>
+  <rom index='0' md5='0a12646cfea8cd32eb94379c7ad2a751' type='nonmerged' zip='pengo2u.zip'>
+    <part name='epr5128.u8'/>
+    <part name='epr5129.u7'/>
+    <part name='epr5130.u15'/>
+    <part name='epr5131.u14'/>
+    <part name='ep5124.21'/>
+    <part name='epr5133.u20'/>
+    <part name='ep5126.32'/>
+    <part name='epr5135.u31'/>
+    <part name='ep1640.92'/>
+    <part name='ep1695.105'/>
+    <part name='pr1634.88'/>
+    <part name='pr1635.51'/>
+    <part name='pr1636.70'/>
+    <part name='pr1633.78'/>
   </rom>
 </misterromdescription>

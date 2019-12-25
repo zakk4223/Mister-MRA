@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="57e970210f05517a95643cfb7911354d" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="phoenix3/phoenix3.45"/>
-    <part name="phoenix3/phoenix3.46"/>
-    <part name="avefenix/4103-8516.rom"/>
-    <part name="phoenix3/phoenix3.48"/>
-    <part name="h5-ic49.5a"/>
-    <part name="h6-ic50.6a"/>
-    <part name="h7-ic51.7a"/>
-    <part name="phoenix3/phoenix3.52"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="b1-ic39.3b"/>
-    <part name="b2-ic40.4b"/>
+  <rom index='0' md5='57e970210f05517a95643cfb7911354d' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='phoenix3/phoenix3.45'/>
+    <part name='phoenix3/phoenix3.46'/>
+    <part name='avefenix/4103-8516.rom'/>
+    <part name='phoenix3/phoenix3.48'/>
+    <part name='h5-ic49.5a'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='phoenix3/phoenix3.52'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='b1-ic39.3b'/>
+    <part name='b2-ic40.4b'/>
   </rom>
-  <rom index="0" md5="57e970210f05517a95643cfb7911354d" type="split" zip="phoenix3.zip">
-    <part name="phoenix3.45"/>
-    <part name="phoenix3.46"/>
-    <part name="phoenix.47"/>
-    <part name="phoenix3.48"/>
-    <part name="h5-ic49.5a" zip="phoenix.zip"/>
-    <part name="h6-ic50.6a" zip="phoenix.zip"/>
-    <part name="h7-ic51.7a" zip="phoenix.zip"/>
-    <part name="phoenix3.52"/>
-    <part name="ic23.3d" zip="phoenix.zip"/>
-    <part name="ic24.4d" zip="phoenix.zip"/>
-    <part name="b1-ic39.3b" zip="phoenix.zip"/>
-    <part name="b2-ic40.4b" zip="phoenix.zip"/>
+  <rom index='0' md5='57e970210f05517a95643cfb7911354d' type='split' zip='phoenix3.zip'>
+    <part name='phoenix3.45'/>
+    <part name='phoenix3.46'/>
+    <part name='phoenix.47'/>
+    <part name='phoenix3.48'/>
+    <part name='h5-ic49.5a' zip='phoenix.zip'/>
+    <part name='h6-ic50.6a' zip='phoenix.zip'/>
+    <part name='h7-ic51.7a' zip='phoenix.zip'/>
+    <part name='phoenix3.52'/>
+    <part name='ic23.3d' zip='phoenix.zip'/>
+    <part name='ic24.4d' zip='phoenix.zip'/>
+    <part name='b1-ic39.3b' zip='phoenix.zip'/>
+    <part name='b2-ic40.4b' zip='phoenix.zip'/>
   </rom>
-  <rom index="0" md5="57e970210f05517a95643cfb7911354d" type="nonmerged" zip="phoenix3.zip">
-    <part name="phoenix3.45"/>
-    <part name="phoenix3.46"/>
-    <part name="phoenix.47"/>
-    <part name="phoenix3.48"/>
-    <part name="h5-ic49.5a"/>
-    <part name="h6-ic50.6a"/>
-    <part name="h7-ic51.7a"/>
-    <part name="phoenix3.52"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="b1-ic39.3b"/>
-    <part name="b2-ic40.4b"/>
+  <rom index='0' md5='57e970210f05517a95643cfb7911354d' type='nonmerged' zip='phoenix3.zip'>
+    <part name='phoenix3.45'/>
+    <part name='phoenix3.46'/>
+    <part name='phoenix.47'/>
+    <part name='phoenix3.48'/>
+    <part name='h5-ic49.5a'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='phoenix3.52'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='b1-ic39.3b'/>
+    <part name='b2-ic40.4b'/>
   </rom>
 </misterromdescription>

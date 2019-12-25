@@ -7,49 +7,21 @@
   <manufacturer>Taito</manufacturer>
   <category>Space / Shooter</category>
   <rbf>colony7</rbf>
-  <rom index="0" md5="42ea5d44a98636d09bec25e4a64886fd" type="merged|nonmerged" zip="colony7.zip">
-    <part name="cs03.bin"/>
-    <part name="cs02.bin"/>
-    <part name="cs01.bin"/>
-    <part name="cs06.bin"/>
-    <part name="cs04.bin"/>
-    <part name="cs07.bin"/>
-    <part name="cs05.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs11.bin"/>
-    <part name="cs10.bin"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='42ea5d44a98636d09bec25e4a64886fd' type='merged|nonmerged|split' zip='colony7.zip'>
+    <part name='cs03.bin'/>
+    <part name='cs02.bin'/>
+    <part name='cs01.bin'/>
+    <part name='cs06.bin'/>
+    <part name='cs04.bin'/>
+    <part name='cs07.bin'/>
+    <part name='cs05.bin'/>
+    <part name='cs08.bin'/>
+    <part name='cs08.bin'/>
+    <part name='cs08.bin'/>
+    <part name='cs11.bin'/>
+    <part name='cs10.bin'/>
+    <part name='decoder.3'/>
   </rom>
-  <rom index="0" md5="42ea5d44a98636d09bec25e4a64886fd" type="split" zip="colony7.zip">
-    <part name="cs03.bin"/>
-    <part name="cs02.bin"/>
-    <part name="cs01.bin"/>
-    <part name="cs06.bin"/>
-    <part name="cs04.bin"/>
-    <part name="cs07.bin"/>
-    <part name="cs05.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs11.bin"/>
-    <part name="cs10.bin"/>
-    <part name="decoder.3"/>
-  </rom>
-  <rom index="0" md5="42ea5d44a98636d09bec25e4a64886fd" type="nonmerged" zip="colony7.zip">
-    <part name="cs03.bin"/>
-    <part name="cs02.bin"/>
-    <part name="cs01.bin"/>
-    <part name="cs06.bin"/>
-    <part name="cs04.bin"/>
-    <part name="cs07.bin"/>
-    <part name="cs05.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs08.bin"/>
-    <part name="cs11.bin"/>
-    <part name="cs10.bin"/>
-    <part name="decoder.3"/>
-  </rom>
+  
+  
 </misterromdescription>

@@ -6,64 +6,26 @@
   <manufacturer>Namco</manufacturer>
   <category>Maze / Digging</category>
   <rbf>digdug</rbf>
-  <rom index="0" md5="d6790fb2893b2290b4ac74544e4d78e6" type="merged|nonmerged" zip="digdug.zip">
-    <part name="dd1a.1"/>
-    <part name="dd1a.2"/>
-    <part name="dd1a.3"/>
-    <part name="dd1a.4"/>
-    <part name="dd1.15"/>
-    <part name="dd1.14"/>
-    <part name="dd1.13"/>
-    <part name="dd1.12"/>
-    <part name="dd1a.5"/>
-    <part name="dd1a.6"/>
-    <part name="dd1.7"/>
-    <part name="dd1.10b"/>
-    <part name="dd1.11"/>
-    <part name="dd1.9"/>
-    <part name="136007.110"/>
-    <part name="136007.111"/>
-    <part name="136007.112"/>
-    <part name="136007.113"/>
+  <rom index='0' md5='d6790fb2893b2290b4ac74544e4d78e6' type='merged|nonmerged|split' zip='digdug.zip'>
+    <part name='dd1a.1'/>
+    <part name='dd1a.2'/>
+    <part name='dd1a.3'/>
+    <part name='dd1a.4'/>
+    <part name='dd1.15'/>
+    <part name='dd1.14'/>
+    <part name='dd1.13'/>
+    <part name='dd1.12'/>
+    <part name='dd1a.5'/>
+    <part name='dd1a.6'/>
+    <part name='dd1.7'/>
+    <part name='dd1.10b'/>
+    <part name='dd1.11'/>
+    <part name='dd1.9'/>
+    <part name='136007.110'/>
+    <part name='136007.111'/>
+    <part name='136007.112'/>
+    <part name='136007.113'/>
   </rom>
-  <rom index="0" md5="d6790fb2893b2290b4ac74544e4d78e6" type="split" zip="digdug.zip">
-    <part name="dd1a.1"/>
-    <part name="dd1a.2"/>
-    <part name="dd1a.3"/>
-    <part name="dd1a.4"/>
-    <part name="dd1.15"/>
-    <part name="dd1.14"/>
-    <part name="dd1.13"/>
-    <part name="dd1.12"/>
-    <part name="dd1a.5"/>
-    <part name="dd1a.6"/>
-    <part name="dd1.7"/>
-    <part name="dd1.10b"/>
-    <part name="dd1.11"/>
-    <part name="dd1.9"/>
-    <part name="136007.110"/>
-    <part name="136007.111"/>
-    <part name="136007.112"/>
-    <part name="136007.113"/>
-  </rom>
-  <rom index="0" md5="d6790fb2893b2290b4ac74544e4d78e6" type="nonmerged" zip="digdug.zip">
-    <part name="dd1a.1"/>
-    <part name="dd1a.2"/>
-    <part name="dd1a.3"/>
-    <part name="dd1a.4"/>
-    <part name="dd1.15"/>
-    <part name="dd1.14"/>
-    <part name="dd1.13"/>
-    <part name="dd1.12"/>
-    <part name="dd1a.5"/>
-    <part name="dd1a.6"/>
-    <part name="dd1.7"/>
-    <part name="dd1.10b"/>
-    <part name="dd1.11"/>
-    <part name="dd1.9"/>
-    <part name="136007.110"/>
-    <part name="136007.111"/>
-    <part name="136007.112"/>
-    <part name="136007.113"/>
-  </rom>
+  
+  
 </misterromdescription>

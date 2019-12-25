@@ -6,46 +6,20 @@
   <manufacturer>Tehkan</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="648468f93204c48ff27f39018828cb28" type="merged|nonmerged" zip="pleiads.zip">
-    <part name="ic47.r1"/>
-    <part name="ic48.r2"/>
-    <part name="ic47.bin"/>
-    <part name="ic48.bin"/>
-    <part name="ic51.r5"/>
-    <part name="ic50.bin"/>
-    <part name="ic53.r7"/>
-    <part name="ic52.bin"/>
-    <part name="ic23.bin"/>
-    <part name="ic24.bin"/>
-    <part name="ic39.bin"/>
-    <part name="ic40.bin"/>
+  <rom index='0' md5='648468f93204c48ff27f39018828cb28' type='merged|nonmerged|split' zip='pleiads.zip'>
+    <part name='ic47.r1'/>
+    <part name='ic48.r2'/>
+    <part name='ic47.bin'/>
+    <part name='ic48.bin'/>
+    <part name='ic51.r5'/>
+    <part name='ic50.bin'/>
+    <part name='ic53.r7'/>
+    <part name='ic52.bin'/>
+    <part name='ic23.bin'/>
+    <part name='ic24.bin'/>
+    <part name='ic39.bin'/>
+    <part name='ic40.bin'/>
   </rom>
-  <rom index="0" md5="648468f93204c48ff27f39018828cb28" type="split" zip="pleiads.zip">
-    <part name="ic47.r1"/>
-    <part name="ic48.r2"/>
-    <part name="ic47.bin"/>
-    <part name="ic48.bin"/>
-    <part name="ic51.r5"/>
-    <part name="ic50.bin"/>
-    <part name="ic53.r7"/>
-    <part name="ic52.bin"/>
-    <part name="ic23.bin"/>
-    <part name="ic24.bin"/>
-    <part name="ic39.bin"/>
-    <part name="ic40.bin"/>
-  </rom>
-  <rom index="0" md5="648468f93204c48ff27f39018828cb28" type="nonmerged" zip="pleiads.zip">
-    <part name="ic47.r1"/>
-    <part name="ic48.r2"/>
-    <part name="ic47.bin"/>
-    <part name="ic48.bin"/>
-    <part name="ic51.r5"/>
-    <part name="ic50.bin"/>
-    <part name="ic53.r7"/>
-    <part name="ic52.bin"/>
-    <part name="ic23.bin"/>
-    <part name="ic24.bin"/>
-    <part name="ic39.bin"/>
-    <part name="ic40.bin"/>
-  </rom>
+  
+  
 </misterromdescription>

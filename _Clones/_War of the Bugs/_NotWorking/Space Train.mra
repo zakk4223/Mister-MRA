@@ -8,40 +8,40 @@
   <category>Maze / Bugs</category>
   <category>Maze / Centipede</category>
   <rbf>warofthebugs</rbf>
-  <rom index="0" md5="31c8739737b7801f08fcdcec1bd85b8c" type="merged|nonmerged" zip="warofbug.zip">
-    <part name="spactrai/1cen.bin"/>
-    <part name="spactrai/2cen.bin"/>
-    <part name="spactrai/3cen.bin"/>
-    <part name="spactrai/3cen.bin"/>
-    <part name="spactrai/3cen.bin"/>
-    <part name="spactrai/3cen.bin"/>
-    <part name="spactrai/6cen.bin"/>
-    <part name="spactrai/6cen.bin"/>
-    <part name="spactrai/7cen.bin"/>
-    <part name="spactrai/7cen.bin"/>
+  <rom index='0' md5='31c8739737b7801f08fcdcec1bd85b8c' type='merged|nonmerged' zip='warofbug.zip'>
+    <part name='spactrai/1cen.bin'/>
+    <part name='spactrai/2cen.bin'/>
+    <part name='spactrai/3cen.bin'/>
+    <part name='spactrai/3cen.bin'/>
+    <part name='spactrai/3cen.bin'/>
+    <part name='spactrai/3cen.bin'/>
+    <part name='spactrai/6cen.bin'/>
+    <part name='spactrai/6cen.bin'/>
+    <part name='spactrai/7cen.bin'/>
+    <part name='spactrai/7cen.bin'/>
   </rom>
-  <rom index="0" md5="31c8739737b7801f08fcdcec1bd85b8c" type="split" zip="spactrai.zip">
-    <part name="1cen.bin"/>
-    <part name="2cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="6cen.bin"/>
-    <part name="6cen.bin"/>
-    <part name="7cen.bin"/>
-    <part name="7cen.bin"/>
+  <rom index='0' md5='31c8739737b7801f08fcdcec1bd85b8c' type='split' zip='spactrai.zip'>
+    <part name='1cen.bin'/>
+    <part name='2cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='6cen.bin'/>
+    <part name='6cen.bin'/>
+    <part name='7cen.bin'/>
+    <part name='7cen.bin'/>
   </rom>
-  <rom index="0" md5="31c8739737b7801f08fcdcec1bd85b8c" type="nonmerged" zip="spactrai.zip">
-    <part name="1cen.bin"/>
-    <part name="2cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="3cen.bin"/>
-    <part name="6cen.bin"/>
-    <part name="6cen.bin"/>
-    <part name="7cen.bin"/>
-    <part name="7cen.bin"/>
+  <rom index='0' md5='31c8739737b7801f08fcdcec1bd85b8c' type='nonmerged' zip='spactrai.zip'>
+    <part name='1cen.bin'/>
+    <part name='2cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='3cen.bin'/>
+    <part name='6cen.bin'/>
+    <part name='6cen.bin'/>
+    <part name='7cen.bin'/>
+    <part name='7cen.bin'/>
   </rom>
 </misterromdescription>

@@ -9,52 +9,22 @@
   <category>Maze / Balloons</category>
   <category>Racing</category>
   <rbf>vanvancar</rbf>
-  <rom index="0" md5="404d75472ba2d0bd3ce74f7fcb360f2e" type="merged|nonmerged" zip="vanvan.zip">
-    <part name="van-1.50"/>
-    <part name="van-2.51"/>
-    <part name="van-3.52"/>
-    <part name="van-4.53"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
+  <rom index='0' md5='404d75472ba2d0bd3ce74f7fcb360f2e' type='merged|nonmerged|split' zip='vanvan.zip'>
+    <part name='van-1.50'/>
+    <part name='van-2.51'/>
+    <part name='van-3.52'/>
+    <part name='van-4.53'/>
+    <part name='van-5.39'/>
+    <part name='van-5.39'/>
+    <part name='van-5.39'/>
+    <part name='van-5.39'/>
+    <part name='van-20.18'/>
+    <part name='van-21.19'/>
+    <part name='van-20.18'/>
+    <part name='van-21.19'/>
+    <part name='6301-1.37'/>
+    <part name='6331-1.6'/>
   </rom>
-  <rom index="0" md5="404d75472ba2d0bd3ce74f7fcb360f2e" type="split" zip="vanvan.zip">
-    <part name="van-1.50"/>
-    <part name="van-2.51"/>
-    <part name="van-3.52"/>
-    <part name="van-4.53"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
-  </rom>
-  <rom index="0" md5="404d75472ba2d0bd3ce74f7fcb360f2e" type="nonmerged" zip="vanvan.zip">
-    <part name="van-1.50"/>
-    <part name="van-2.51"/>
-    <part name="van-3.52"/>
-    <part name="van-4.53"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-5.39"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="van-20.18"/>
-    <part name="van-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
-  </rom>
+  
+  
 </misterromdescription>

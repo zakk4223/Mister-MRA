@@ -6,64 +6,64 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index="0" md5="e50580b8c63a9b2a055c192f205bc0a3" type="merged|nonmerged" zip="defender.zip">
-    <part name="defndjeu/15"/>
-    <part name="tornado1/torna3.bin"/>
-    <part name="defndjeu/17"/>
-    <part name="zero/zero-21"/>
-    <part name="zero/zero-20"/>
-    <part name="tornado1/tornb1.bin"/>
-    <part name="defndjeu/18"/>
-    <part name="defend.snd"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='e50580b8c63a9b2a055c192f205bc0a3' type='merged|nonmerged' zip='defender.zip'>
+    <part name='defndjeu/15'/>
+    <part name='tornado1/torna3.bin'/>
+    <part name='defndjeu/17'/>
+    <part name='zero/zero-21'/>
+    <part name='zero/zero-20'/>
+    <part name='tornado1/tornb1.bin'/>
+    <part name='defndjeu/18'/>
+    <part name='defend.snd'/>
+    <part name='decoder.2'/>
+    <part name='decoder.3'/>
   </rom>
-  <rom index="0" md5="e50580b8c63a9b2a055c192f205bc0a3" type="split" zip="zero.zip">
-    <part name="zero-15"/>
-    <part name="zero-16"/>
-    <part name="zero-17"/>
-    <part name="zero-21"/>
-    <part name="zero-20"/>
-    <part name="zero-19"/>
-    <part name="zero-18"/>
-    <part name="defend.snd" zip="defender.zip"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='e50580b8c63a9b2a055c192f205bc0a3' type='split' zip='zero.zip'>
+    <part name='zero-15'/>
+    <part name='zero-16'/>
+    <part name='zero-17'/>
+    <part name='zero-21'/>
+    <part name='zero-20'/>
+    <part name='zero-19'/>
+    <part name='zero-18'/>
+    <part name='defend.snd' zip='defender.zip'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="e50580b8c63a9b2a055c192f205bc0a3" type="split" zip="zero.zip">
-    <part name="zero-15"/>
-    <part name="zero-16"/>
-    <part name="zero-17"/>
-    <part name="zero-21"/>
-    <part name="zero-20"/>
-    <part name="zero-19"/>
-    <part name="zero-18"/>
-    <part name="defend.snd" zip="defender.zip"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='e50580b8c63a9b2a055c192f205bc0a3' type='split' zip='zero.zip'>
+    <part name='zero-15'/>
+    <part name='zero-16'/>
+    <part name='zero-17'/>
+    <part name='zero-21'/>
+    <part name='zero-20'/>
+    <part name='zero-19'/>
+    <part name='zero-18'/>
+    <part name='defend.snd' zip='defender.zip'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="e50580b8c63a9b2a055c192f205bc0a3" type="split" zip="zero.zip">
-    <part name="zero-15"/>
-    <part name="zero-16"/>
-    <part name="zero-17"/>
-    <part name="zero-21"/>
-    <part name="zero-20"/>
-    <part name="zero-19"/>
-    <part name="zero-18"/>
-    <part name="defend.snd" zip="defender.zip"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='e50580b8c63a9b2a055c192f205bc0a3' type='split' zip='zero.zip'>
+    <part name='zero-15'/>
+    <part name='zero-16'/>
+    <part name='zero-17'/>
+    <part name='zero-21'/>
+    <part name='zero-20'/>
+    <part name='zero-19'/>
+    <part name='zero-18'/>
+    <part name='defend.snd' zip='defender.zip'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="e50580b8c63a9b2a055c192f205bc0a3" type="nonmerged" zip="zero.zip">
-    <part name="zero-15"/>
-    <part name="zero-16"/>
-    <part name="zero-17"/>
-    <part name="zero-21"/>
-    <part name="zero-20"/>
-    <part name="zero-19"/>
-    <part name="zero-18"/>
-    <part name="defend.snd"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='e50580b8c63a9b2a055c192f205bc0a3' type='nonmerged' zip='zero.zip'>
+    <part name='zero-15'/>
+    <part name='zero-16'/>
+    <part name='zero-17'/>
+    <part name='zero-21'/>
+    <part name='zero-20'/>
+    <part name='zero-19'/>
+    <part name='zero-18'/>
+    <part name='defend.snd'/>
+    <part name='decoder.2'/>
+    <part name='decoder.3'/>
   </rom>
 </misterromdescription>

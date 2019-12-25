@@ -1,60 +1,60 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index="0" md5="ead49ba1a32c055432b5df90e05cc489" type="merged" zip="mspacman.zip">
-    <part name="pacman.6e"/>
-    <part name="pacman.6f"/>
-    <part name="pacman.6h"/>
-    <part name="pacman.6j"/>
-    <part name="u5"/>
-    <part name="u5"/>
-    <part name="u6"/>
-    <part name="mspacmancr/3.u7"/>
-    <part name="mspacmancr/3.u7"/>
-    <part name="mspacmancr/5.5e"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="mspacmancr/mb7051.7f"/>
+  <rom index='0' md5='ead49ba1a32c055432b5df90e05cc489' type='merged' zip='mspacman.zip'>
+    <part name='pacman.6e'/>
+    <part name='pacman.6f'/>
+    <part name='pacman.6h'/>
+    <part name='pacman.6j'/>
+    <part name='u5'/>
+    <part name='u5'/>
+    <part name='u6'/>
+    <part name='mspacmancr/3.u7'/>
+    <part name='mspacmancr/3.u7'/>
+    <part name='mspacmancr/5.5e'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='mspacmancr/mb7051.7f'/>
   </rom>
-  <rom index="0" md5="ead49ba1a32c055432b5df90e05cc489" type="split" zip="mspacmancr.zip">
-    <part name="pacman.6e" zip="mspacman.zip"/>
-    <part name="pacman.6f" zip="mspacman.zip"/>
-    <part name="pacman.6h" zip="mspacman.zip"/>
-    <part name="pacman.6j" zip="mspacman.zip"/>
-    <part name="u5" zip="mspacman.zip"/>
-    <part name="u5" zip="mspacman.zip"/>
-    <part name="u6" zip="mspacman.zip"/>
-    <part name="3.u7"/>
-    <part name="3.u7"/>
-    <part name="5.5e"/>
-    <part name="5f" zip="mspacman.zip"/>
-    <part name="5f" zip="mspacman.zip"/>
-    <part name="5f" zip="mspacman.zip"/>
-    <part name="82s126.1m" zip="mspacman.zip"/>
-    <part name="82s126.4a" zip="mspacman.zip"/>
-    <part name="82s126.3m" zip="mspacman.zip"/>
-    <part name="mb7051.7f"/>
+  <rom index='0' md5='ead49ba1a32c055432b5df90e05cc489' type='split' zip='mspacmancr.zip'>
+    <part name='pacman.6e' zip='mspacman.zip'/>
+    <part name='pacman.6f' zip='mspacman.zip'/>
+    <part name='pacman.6h' zip='mspacman.zip'/>
+    <part name='pacman.6j' zip='mspacman.zip'/>
+    <part name='u5' zip='mspacman.zip'/>
+    <part name='u5' zip='mspacman.zip'/>
+    <part name='u6' zip='mspacman.zip'/>
+    <part name='3.u7'/>
+    <part name='3.u7'/>
+    <part name='5.5e'/>
+    <part name='5f' zip='mspacman.zip'/>
+    <part name='5f' zip='mspacman.zip'/>
+    <part name='5f' zip='mspacman.zip'/>
+    <part name='82s126.1m' zip='mspacman.zip'/>
+    <part name='82s126.4a' zip='mspacman.zip'/>
+    <part name='82s126.3m' zip='mspacman.zip'/>
+    <part name='mb7051.7f'/>
   </rom>
-  <rom index="0" md5="ead49ba1a32c055432b5df90e05cc489" type="nonmerged" zip="mspacmancr.zip">
-    <part name="pacman.6e"/>
-    <part name="pacman.6f"/>
-    <part name="pacman.6h"/>
-    <part name="pacman.6j"/>
-    <part name="u5"/>
-    <part name="u5"/>
-    <part name="u6"/>
-    <part name="3.u7"/>
-    <part name="3.u7"/>
-    <part name="5.5e"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="mb7051.7f"/>
+  <rom index='0' md5='ead49ba1a32c055432b5df90e05cc489' type='nonmerged' zip='mspacmancr.zip'>
+    <part name='pacman.6e'/>
+    <part name='pacman.6f'/>
+    <part name='pacman.6h'/>
+    <part name='pacman.6j'/>
+    <part name='u5'/>
+    <part name='u5'/>
+    <part name='u6'/>
+    <part name='3.u7'/>
+    <part name='3.u7'/>
+    <part name='5.5e'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='mb7051.7f'/>
   </rom>
 </misterromdescription>

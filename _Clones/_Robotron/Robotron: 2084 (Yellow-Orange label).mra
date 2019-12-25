@@ -9,55 +9,55 @@
   <category>Maze</category>
   <category>Space / Robots</category>
   <rbf>robotron</rbf>
-  <rom index="0" md5="ef207c88a141fd07563a01ab482328c2" type="merged|nonmerged" zip="robotron.zip">
-    <part name="robotronyo/robotron.yoa"/>
-    <part name="robotronyo/robotron.yob"/>
-    <part name="robotronyo/robotron.yoc"/>
-    <part name="robotron.sb1"/>
-    <part name="robotron.sb2"/>
-    <part name="robotronyo/robotron.yo3"/>
-    <part name="robotronyo/robotron.yo4"/>
-    <part name="robotronyo/robotron.yo5"/>
-    <part name="robotronyo/robotron.yo6"/>
-    <part name="robotronyo/robotron.yo7"/>
-    <part name="robotron.sb8"/>
-    <part name="robotron.sb9"/>
-    <part name="robotron.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
+  <rom index='0' md5='ef207c88a141fd07563a01ab482328c2' type='merged|nonmerged' zip='robotron.zip'>
+    <part name='robotronyo/robotron.yoa'/>
+    <part name='robotronyo/robotron.yob'/>
+    <part name='robotronyo/robotron.yoc'/>
+    <part name='robotron.sb1'/>
+    <part name='robotron.sb2'/>
+    <part name='robotronyo/robotron.yo3'/>
+    <part name='robotronyo/robotron.yo4'/>
+    <part name='robotronyo/robotron.yo5'/>
+    <part name='robotronyo/robotron.yo6'/>
+    <part name='robotronyo/robotron.yo7'/>
+    <part name='robotron.sb8'/>
+    <part name='robotron.sb9'/>
+    <part name='robotron.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.6'/>
   </rom>
-  <rom index="0" md5="ef207c88a141fd07563a01ab482328c2" type="split" zip="robotronyo.zip">
-    <part name="robotron.yoa"/>
-    <part name="robotron.yob"/>
-    <part name="robotron.yoc"/>
-    <part name="robotron.sb1" zip="robotron.zip"/>
-    <part name="robotron.sb2" zip="robotron.zip"/>
-    <part name="robotron.yo3"/>
-    <part name="robotron.yo4"/>
-    <part name="robotron.yo5"/>
-    <part name="robotron.yo6"/>
-    <part name="robotron.yo7"/>
-    <part name="robotron.sb8" zip="robotron.zip"/>
-    <part name="robotron.sb9" zip="robotron.zip"/>
-    <part name="robotron.snd" zip="robotron.zip"/>
-    <part name="decoder.4" zip="robotron.zip"/>
-    <part name="decoder.6" zip="robotron.zip"/>
+  <rom index='0' md5='ef207c88a141fd07563a01ab482328c2' type='split' zip='robotronyo.zip'>
+    <part name='robotron.yoa'/>
+    <part name='robotron.yob'/>
+    <part name='robotron.yoc'/>
+    <part name='robotron.sb1' zip='robotron.zip'/>
+    <part name='robotron.sb2' zip='robotron.zip'/>
+    <part name='robotron.yo3'/>
+    <part name='robotron.yo4'/>
+    <part name='robotron.yo5'/>
+    <part name='robotron.yo6'/>
+    <part name='robotron.yo7'/>
+    <part name='robotron.sb8' zip='robotron.zip'/>
+    <part name='robotron.sb9' zip='robotron.zip'/>
+    <part name='robotron.snd' zip='robotron.zip'/>
+    <part name='decoder.4' zip='robotron.zip'/>
+    <part name='decoder.6' zip='robotron.zip'/>
   </rom>
-  <rom index="0" md5="ef207c88a141fd07563a01ab482328c2" type="nonmerged" zip="robotronyo.zip">
-    <part name="robotron.yoa"/>
-    <part name="robotron.yob"/>
-    <part name="robotron.yoc"/>
-    <part name="robotron.sb1"/>
-    <part name="robotron.sb2"/>
-    <part name="robotron.yo3"/>
-    <part name="robotron.yo4"/>
-    <part name="robotron.yo5"/>
-    <part name="robotron.yo6"/>
-    <part name="robotron.yo7"/>
-    <part name="robotron.sb8"/>
-    <part name="robotron.sb9"/>
-    <part name="robotron.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
+  <rom index='0' md5='ef207c88a141fd07563a01ab482328c2' type='nonmerged' zip='robotronyo.zip'>
+    <part name='robotron.yoa'/>
+    <part name='robotron.yob'/>
+    <part name='robotron.yoc'/>
+    <part name='robotron.sb1'/>
+    <part name='robotron.sb2'/>
+    <part name='robotron.yo3'/>
+    <part name='robotron.yo4'/>
+    <part name='robotron.yo5'/>
+    <part name='robotron.yo6'/>
+    <part name='robotron.yo7'/>
+    <part name='robotron.sb8'/>
+    <part name='robotron.sb9'/>
+    <part name='robotron.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.6'/>
   </rom>
 </misterromdescription>

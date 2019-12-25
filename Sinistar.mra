@@ -8,55 +8,23 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>sinistar</rbf>
-  <rom index="0" md5="d0628eadf60fe7f2fed1c2e541f55a22" type="merged|nonmerged" zip="sinistar.zip">
-    <part name="sinistar.10"/>
-    <part name="sinistar.10"/>
-    <part name="sinistar.11"/>
-    <part name="sinistar.01"/>
-    <part name="sinistar.02"/>
-    <part name="sinistar.03"/>
-    <part name="sinistar.04"/>
-    <part name="sinistar.05"/>
-    <part name="sinistar.06"/>
-    <part name="sinistar.07"/>
-    <part name="sinistar.08"/>
-    <part name="sinistar.09"/>
-    <part name="sinistar.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
+  <rom index='0' md5='d0628eadf60fe7f2fed1c2e541f55a22' type='merged|nonmerged|split' zip='sinistar.zip'>
+    <part name='sinistar.10'/>
+    <part name='sinistar.10'/>
+    <part name='sinistar.11'/>
+    <part name='sinistar.01'/>
+    <part name='sinistar.02'/>
+    <part name='sinistar.03'/>
+    <part name='sinistar.04'/>
+    <part name='sinistar.05'/>
+    <part name='sinistar.06'/>
+    <part name='sinistar.07'/>
+    <part name='sinistar.08'/>
+    <part name='sinistar.09'/>
+    <part name='sinistar.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.6'/>
   </rom>
-  <rom index="0" md5="d0628eadf60fe7f2fed1c2e541f55a22" type="split" zip="sinistar.zip">
-    <part name="sinistar.10"/>
-    <part name="sinistar.10"/>
-    <part name="sinistar.11"/>
-    <part name="sinistar.01"/>
-    <part name="sinistar.02"/>
-    <part name="sinistar.03"/>
-    <part name="sinistar.04"/>
-    <part name="sinistar.05"/>
-    <part name="sinistar.06"/>
-    <part name="sinistar.07"/>
-    <part name="sinistar.08"/>
-    <part name="sinistar.09"/>
-    <part name="sinistar.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
-  </rom>
-  <rom index="0" md5="d0628eadf60fe7f2fed1c2e541f55a22" type="nonmerged" zip="sinistar.zip">
-    <part name="sinistar.10"/>
-    <part name="sinistar.10"/>
-    <part name="sinistar.11"/>
-    <part name="sinistar.01"/>
-    <part name="sinistar.02"/>
-    <part name="sinistar.03"/>
-    <part name="sinistar.04"/>
-    <part name="sinistar.05"/>
-    <part name="sinistar.06"/>
-    <part name="sinistar.07"/>
-    <part name="sinistar.08"/>
-    <part name="sinistar.09"/>
-    <part name="sinistar.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
-  </rom>
+  
+  
 </misterromdescription>

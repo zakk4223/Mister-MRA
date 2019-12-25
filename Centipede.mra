@@ -8,31 +8,15 @@
   <category>Maze / Centipede</category>
   <category>Maze / Spiders</category>
   <rbf>centipede</rbf>
-  <rom index="0" md5="92ab4507356aca0896d5c4138e82b9c4" type="merged|nonmerged" zip="centiped.zip">
-    <part name="136001-407.d1"/>
-    <part name="136001-408.e1"/>
-    <part name="136001-409.fh1"/>
-    <part name="136001-410.j1"/>
-    <part name="136001-211.f7"/>
-    <part name="136001-212.hj7"/>
-    <part name="136001-213.p4"/>
+  <rom index='0' md5='92ab4507356aca0896d5c4138e82b9c4' type='merged|nonmerged|split' zip='centiped.zip'>
+    <part name='136001-407.d1'/>
+    <part name='136001-408.e1'/>
+    <part name='136001-409.fh1'/>
+    <part name='136001-410.j1'/>
+    <part name='136001-211.f7'/>
+    <part name='136001-212.hj7'/>
+    <part name='136001-213.p4'/>
   </rom>
-  <rom index="0" md5="92ab4507356aca0896d5c4138e82b9c4" type="split" zip="centiped.zip">
-    <part name="136001-407.d1"/>
-    <part name="136001-408.e1"/>
-    <part name="136001-409.fh1"/>
-    <part name="136001-410.j1"/>
-    <part name="136001-211.f7"/>
-    <part name="136001-212.hj7"/>
-    <part name="136001-213.p4"/>
-  </rom>
-  <rom index="0" md5="92ab4507356aca0896d5c4138e82b9c4" type="nonmerged" zip="centiped.zip">
-    <part name="136001-407.d1"/>
-    <part name="136001-408.e1"/>
-    <part name="136001-409.fh1"/>
-    <part name="136001-410.j1"/>
-    <part name="136001-211.f7"/>
-    <part name="136001-212.hj7"/>
-    <part name="136001-213.p4"/>
-  </rom>
+  
+  
 </misterromdescription>

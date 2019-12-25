@@ -6,64 +6,64 @@
   <manufacturer>Nichibutsu</manufacturer>
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
-  <rom index="0" md5="76c0010090975d37ff47d7ebd4a596a9" type="merged|nonmerged" zip="cclimber.zip">
-    <part name="cc11"/>
-    <part name="cclimbera/10"/>
-    <part name="cc09"/>
-    <part name="cc08"/>
-    <part name="cclimbera/7"/>
-    <part name="cc06"/>
-    <part name="cc05"/>
-    <part name="cc04"/>
-    <part name="cc03"/>
-    <part name="cc02"/>
-    <part name="cc01"/>
-    <part name="cc13"/>
-    <part name="cc12"/>
+  <rom index='0' md5='76c0010090975d37ff47d7ebd4a596a9' type='merged|nonmerged' zip='cclimber.zip'>
+    <part name='cc11'/>
+    <part name='cclimbera/10'/>
+    <part name='cc09'/>
+    <part name='cc08'/>
+    <part name='cclimbera/7'/>
+    <part name='cc06'/>
+    <part name='cc05'/>
+    <part name='cc04'/>
+    <part name='cc03'/>
+    <part name='cc02'/>
+    <part name='cc01'/>
+    <part name='cc13'/>
+    <part name='cc12'/>
   </rom>
-  <rom index="0" md5="76c0010090975d37ff47d7ebd4a596a9" type="split" zip="cclimbera.zip">
-    <part name="cc11" zip="cclimber.zip"/>
-    <part name="10"/>
-    <part name="cc09" zip="cclimber.zip"/>
-    <part name="cc08" zip="cclimber.zip"/>
-    <part name="7"/>
-    <part name="cc06" zip="cclimber.zip"/>
-    <part name="cc05" zip="cclimber.zip"/>
-    <part name="cc04" zip="cclimber.zip"/>
-    <part name="cc03" zip="cclimber.zip"/>
-    <part name="cc02" zip="cclimber.zip"/>
-    <part name="cc01" zip="cclimber.zip"/>
-    <part name="cc13" zip="cclimber.zip"/>
-    <part name="cc12" zip="cclimber.zip"/>
+  <rom index='0' md5='76c0010090975d37ff47d7ebd4a596a9' type='split' zip='cclimbera.zip'>
+    <part name='cc11' zip='cclimber.zip'/>
+    <part name='10'/>
+    <part name='cc09' zip='cclimber.zip'/>
+    <part name='cc08' zip='cclimber.zip'/>
+    <part name='7'/>
+    <part name='cc06' zip='cclimber.zip'/>
+    <part name='cc05' zip='cclimber.zip'/>
+    <part name='cc04' zip='cclimber.zip'/>
+    <part name='cc03' zip='cclimber.zip'/>
+    <part name='cc02' zip='cclimber.zip'/>
+    <part name='cc01' zip='cclimber.zip'/>
+    <part name='cc13' zip='cclimber.zip'/>
+    <part name='cc12' zip='cclimber.zip'/>
   </rom>
-  <rom index="0" md5="76c0010090975d37ff47d7ebd4a596a9" type="split" zip="cclimbera.zip">
-    <part name="cc11" zip="cclimber.zip"/>
-    <part name="10"/>
-    <part name="cc09" zip="cclimber.zip"/>
-    <part name="cc08" zip="cclimber.zip"/>
-    <part name="7"/>
-    <part name="cc06" zip="cclimber.zip"/>
-    <part name="cc05" zip="cclimber.zip"/>
-    <part name="cc04" zip="cclimber.zip"/>
-    <part name="cc03" zip="cclimber.zip"/>
-    <part name="cc02" zip="cclimber.zip"/>
-    <part name="cc01" zip="cclimber.zip"/>
-    <part name="cc13" zip="cclimber.zip"/>
-    <part name="cc12" zip="cclimber.zip"/>
+  <rom index='0' md5='76c0010090975d37ff47d7ebd4a596a9' type='split' zip='cclimbera.zip'>
+    <part name='cc11' zip='cclimber.zip'/>
+    <part name='10'/>
+    <part name='cc09' zip='cclimber.zip'/>
+    <part name='cc08' zip='cclimber.zip'/>
+    <part name='7'/>
+    <part name='cc06' zip='cclimber.zip'/>
+    <part name='cc05' zip='cclimber.zip'/>
+    <part name='cc04' zip='cclimber.zip'/>
+    <part name='cc03' zip='cclimber.zip'/>
+    <part name='cc02' zip='cclimber.zip'/>
+    <part name='cc01' zip='cclimber.zip'/>
+    <part name='cc13' zip='cclimber.zip'/>
+    <part name='cc12' zip='cclimber.zip'/>
   </rom>
-  <rom index="0" md5="76c0010090975d37ff47d7ebd4a596a9" type="nonmerged" zip="cclimbera.zip">
-    <part name="cc11"/>
-    <part name="10"/>
-    <part name="cc9"/>
-    <part name="cc8"/>
-    <part name="7"/>
-    <part name="cc6"/>
-    <part name="cc5"/>
-    <part name="cc4"/>
-    <part name="cc3"/>
-    <part name="cc2"/>
-    <part name="cc1"/>
-    <part name="cc13"/>
-    <part name="cc12"/>
+  <rom index='0' md5='76c0010090975d37ff47d7ebd4a596a9' type='nonmerged' zip='cclimbera.zip'>
+    <part name='cc11'/>
+    <part name='10'/>
+    <part name='cc9'/>
+    <part name='cc8'/>
+    <part name='7'/>
+    <part name='cc6'/>
+    <part name='cc5'/>
+    <part name='cc4'/>
+    <part name='cc3'/>
+    <part name='cc2'/>
+    <part name='cc1'/>
+    <part name='cc13'/>
+    <part name='cc12'/>
   </rom>
 </misterromdescription>

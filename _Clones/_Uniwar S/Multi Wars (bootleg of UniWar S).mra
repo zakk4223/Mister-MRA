@@ -7,43 +7,43 @@
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
-  <rom index="0" md5="72a4b9cff4aa22b92407869fd3dca505" type="merged|nonmerged" zip="uniwars.zip">
-    <part name="f07_1a.bin"/>
-    <part name="h07_2a.bin"/>
-    <part name="k07_3a.bin"/>
-    <part name="mltiwars/g4.bin"/>
-    <part name="mltiwars/g5.bin"/>
-    <part name="galemp/6"/>
-    <part name="m08p_7a.bin"/>
-    <part name="n08p_8a.bin"/>
-    <part name="mltiwars/g14.bin"/>
-    <part name="mltiwars/g15.bin"/>
-    <part name="galemp/l06_prom.bin"/>
+  <rom index='0' md5='72a4b9cff4aa22b92407869fd3dca505' type='merged|nonmerged' zip='uniwars.zip'>
+    <part name='f07_1a.bin'/>
+    <part name='h07_2a.bin'/>
+    <part name='k07_3a.bin'/>
+    <part name='mltiwars/g4.bin'/>
+    <part name='mltiwars/g5.bin'/>
+    <part name='galemp/6'/>
+    <part name='m08p_7a.bin'/>
+    <part name='n08p_8a.bin'/>
+    <part name='mltiwars/g14.bin'/>
+    <part name='mltiwars/g15.bin'/>
+    <part name='galemp/l06_prom.bin'/>
   </rom>
-  <rom index="0" md5="72a4b9cff4aa22b92407869fd3dca505" type="split" zip="mltiwars.zip">
-    <part name="f07_1a.bin" zip="uniwars.zip"/>
-    <part name="h07_2a.bin" zip="uniwars.zip"/>
-    <part name="k07_3a.bin" zip="uniwars.zip"/>
-    <part name="g4.bin"/>
-    <part name="g5.bin"/>
-    <part name="g6.bin"/>
-    <part name="m08p_7a.bin" zip="uniwars.zip"/>
-    <part name="n08p_8a.bin" zip="uniwars.zip"/>
-    <part name="g14.bin"/>
-    <part name="g15.bin"/>
-    <part name="prom.bin"/>
+  <rom index='0' md5='72a4b9cff4aa22b92407869fd3dca505' type='split' zip='mltiwars.zip'>
+    <part name='f07_1a.bin' zip='uniwars.zip'/>
+    <part name='h07_2a.bin' zip='uniwars.zip'/>
+    <part name='k07_3a.bin' zip='uniwars.zip'/>
+    <part name='g4.bin'/>
+    <part name='g5.bin'/>
+    <part name='g6.bin'/>
+    <part name='m08p_7a.bin' zip='uniwars.zip'/>
+    <part name='n08p_8a.bin' zip='uniwars.zip'/>
+    <part name='g14.bin'/>
+    <part name='g15.bin'/>
+    <part name='prom.bin'/>
   </rom>
-  <rom index="0" md5="72a4b9cff4aa22b92407869fd3dca505" type="nonmerged" zip="mltiwars.zip">
-    <part name="g1.bin"/>
-    <part name="g2.bin"/>
-    <part name="g3.bin"/>
-    <part name="g4.bin"/>
-    <part name="g5.bin"/>
-    <part name="g6.bin"/>
-    <part name="g7.bin"/>
-    <part name="g8.bin"/>
-    <part name="g14.bin"/>
-    <part name="g15.bin"/>
-    <part name="prom.bin"/>
+  <rom index='0' md5='72a4b9cff4aa22b92407869fd3dca505' type='nonmerged' zip='mltiwars.zip'>
+    <part name='g1.bin'/>
+    <part name='g2.bin'/>
+    <part name='g3.bin'/>
+    <part name='g4.bin'/>
+    <part name='g5.bin'/>
+    <part name='g6.bin'/>
+    <part name='g7.bin'/>
+    <part name='g8.bin'/>
+    <part name='g14.bin'/>
+    <part name='g15.bin'/>
+    <part name='prom.bin'/>
   </rom>
 </misterromdescription>

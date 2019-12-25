@@ -6,40 +6,40 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="36aac7a499ef0a224acbad1551206075" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="supergx/sg1"/>
-    <part name="supergx/sg2"/>
-    <part name="supergx/sg3"/>
-    <part name="supergx/sg4"/>
-    <part name="supergx/sg5"/>
-    <part name="supergx/sg5"/>
-    <part name="supergx/sg5"/>
-    <part name="supergx/sg5"/>
-    <part name="supergx/sgg1"/>
-    <part name="supergx/sgg2"/>
+  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='supergx/sg1'/>
+    <part name='supergx/sg2'/>
+    <part name='supergx/sg3'/>
+    <part name='supergx/sg4'/>
+    <part name='supergx/sg5'/>
+    <part name='supergx/sg5'/>
+    <part name='supergx/sg5'/>
+    <part name='supergx/sg5'/>
+    <part name='supergx/sgg1'/>
+    <part name='supergx/sgg2'/>
   </rom>
-  <rom index="0" md5="36aac7a499ef0a224acbad1551206075" type="split" zip="supergx.zip">
-    <part name="sg1"/>
-    <part name="sg2"/>
-    <part name="sg3"/>
-    <part name="sg4"/>
-    <part name="sg5"/>
-    <part name="sg5"/>
-    <part name="sg5"/>
-    <part name="sg5"/>
-    <part name="sgg1"/>
-    <part name="sgg2"/>
+  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='split' zip='supergx.zip'>
+    <part name='sg1'/>
+    <part name='sg2'/>
+    <part name='sg3'/>
+    <part name='sg4'/>
+    <part name='sg5'/>
+    <part name='sg5'/>
+    <part name='sg5'/>
+    <part name='sg5'/>
+    <part name='sgg1'/>
+    <part name='sgg2'/>
   </rom>
-  <rom index="0" md5="36aac7a499ef0a224acbad1551206075" type="nonmerged" zip="supergx.zip">
-    <part name="sg1"/>
-    <part name="sg2"/>
-    <part name="sg3"/>
-    <part name="sg4"/>
-    <part name="sg5"/>
-    <part name="sg5"/>
-    <part name="sg5"/>
-    <part name="sg5"/>
-    <part name="sgg1"/>
-    <part name="sgg2"/>
+  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='nonmerged' zip='supergx.zip'>
+    <part name='sg1'/>
+    <part name='sg2'/>
+    <part name='sg3'/>
+    <part name='sg4'/>
+    <part name='sg5'/>
+    <part name='sg5'/>
+    <part name='sg5'/>
+    <part name='sg5'/>
+    <part name='sgg1'/>
+    <part name='sgg2'/>
   </rom>
 </misterromdescription>

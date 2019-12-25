@@ -6,40 +6,18 @@
   <manufacturer>Universal</manufacturer>
   <category>Platform / Water Diving</category>
   <rbf>snapjack</rbf>
-  <rom index="0" md5="c84aa7495fa0af63de7a6c72c1c8b730" type="merged|nonmerged" zip="snapjack.zip">
-    <part name="sj1.c4"/>
-    <part name="sj2.d4"/>
-    <part name="sj3.e4"/>
-    <part name="sj4.h4"/>
-    <part name="sj5.j4"/>
-    <part name="sj6.k4"/>
-    <part name="sj8.l7"/>
-    <part name="sj7.m7"/>
-    <part name="sj9.f7"/>
-    <part name="sj0.h7"/>
+  <rom index='0' md5='c84aa7495fa0af63de7a6c72c1c8b730' type='merged|nonmerged|split' zip='snapjack.zip'>
+    <part name='sj1.c4'/>
+    <part name='sj2.d4'/>
+    <part name='sj3.e4'/>
+    <part name='sj4.h4'/>
+    <part name='sj5.j4'/>
+    <part name='sj6.k4'/>
+    <part name='sj8.l7'/>
+    <part name='sj7.m7'/>
+    <part name='sj9.f7'/>
+    <part name='sj0.h7'/>
   </rom>
-  <rom index="0" md5="c84aa7495fa0af63de7a6c72c1c8b730" type="split" zip="snapjack.zip">
-    <part name="sj1.c4"/>
-    <part name="sj2.d4"/>
-    <part name="sj3.e4"/>
-    <part name="sj4.h4"/>
-    <part name="sj5.j4"/>
-    <part name="sj6.k4"/>
-    <part name="sj8.l7"/>
-    <part name="sj7.m7"/>
-    <part name="sj9.f7"/>
-    <part name="sj0.h7"/>
-  </rom>
-  <rom index="0" md5="c84aa7495fa0af63de7a6c72c1c8b730" type="nonmerged" zip="snapjack.zip">
-    <part name="sj1.c4"/>
-    <part name="sj2.d4"/>
-    <part name="sj3.e4"/>
-    <part name="sj4.h4"/>
-    <part name="sj5.j4"/>
-    <part name="sj6.k4"/>
-    <part name="sj8.l7"/>
-    <part name="sj7.m7"/>
-    <part name="sj9.f7"/>
-    <part name="sj0.h7"/>
-  </rom>
+  
+  
 </misterromdescription>

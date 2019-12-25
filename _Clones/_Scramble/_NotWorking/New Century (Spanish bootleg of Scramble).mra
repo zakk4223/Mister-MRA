@@ -6,49 +6,49 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index="0" md5="dc45f671f3074727f937308b5255956c" type="merged" zip="scramble.zip">
-    <part name="ncentury/08.bin"/>
-    <part name="ncentury/04.bin"/>
-    <part name="ncentury/09.bin"/>
-    <part name="bomber/4.3f"/>
-    <part name="bomber/5.3e"/>
-    <part name="ncentury/06.bin"/>
-    <part name="bomber/7.3c"/>
-    <part name="ncentury/07.bin"/>
-    <part name="c1.5h"/>
-    <part name="c2.5f"/>
-    <part name="kamikazesp/1-a.5c"/>
-    <part name="ot2.5d"/>
-    <part name="ot3.5e"/>
+  <rom index='0' md5='dc45f671f3074727f937308b5255956c' type='merged' zip='scramble.zip'>
+    <part name='ncentury/08.bin'/>
+    <part name='ncentury/04.bin'/>
+    <part name='ncentury/09.bin'/>
+    <part name='bomber/4.3f'/>
+    <part name='bomber/5.3e'/>
+    <part name='ncentury/06.bin'/>
+    <part name='bomber/7.3c'/>
+    <part name='ncentury/07.bin'/>
+    <part name='c1.5h'/>
+    <part name='c2.5f'/>
+    <part name='kamikazesp/1-a.5c'/>
+    <part name='ot2.5d'/>
+    <part name='ot3.5e'/>
   </rom>
-  <rom index="0" md5="dc45f671f3074727f937308b5255956c" type="split" zip="ncentury.zip">
-    <part name="08.bin"/>
-    <part name="04.bin"/>
-    <part name="09.bin"/>
-    <part name="05.bin"/>
-    <part name="10.bin"/>
-    <part name="06.bin"/>
-    <part name="11.bin"/>
-    <part name="07.bin"/>
-    <part name="c1.5h" zip="scramble.zip"/>
-    <part name="c2.5f" zip="scramble.zip"/>
-    <part name="03.bin"/>
-    <part name="ot2.5d" zip="scramble.zip"/>
-    <part name="ot3.5e" zip="scramble.zip"/>
+  <rom index='0' md5='dc45f671f3074727f937308b5255956c' type='split' zip='ncentury.zip'>
+    <part name='08.bin'/>
+    <part name='04.bin'/>
+    <part name='09.bin'/>
+    <part name='05.bin'/>
+    <part name='10.bin'/>
+    <part name='06.bin'/>
+    <part name='11.bin'/>
+    <part name='07.bin'/>
+    <part name='c1.5h' zip='scramble.zip'/>
+    <part name='c2.5f' zip='scramble.zip'/>
+    <part name='03.bin'/>
+    <part name='ot2.5d' zip='scramble.zip'/>
+    <part name='ot3.5e' zip='scramble.zip'/>
   </rom>
-  <rom index="0" md5="dc45f671f3074727f937308b5255956c" type="nonmerged" zip="ncentury.zip">
-    <part name="08.bin"/>
-    <part name="04.bin"/>
-    <part name="09.bin"/>
-    <part name="05.bin"/>
-    <part name="10.bin"/>
-    <part name="06.bin"/>
-    <part name="11.bin"/>
-    <part name="07.bin"/>
-    <part name="13.bin"/>
-    <part name="12.bin"/>
-    <part name="03.bin"/>
-    <part name="02.bin"/>
-    <part name="01.bin"/>
+  <rom index='0' md5='dc45f671f3074727f937308b5255956c' type='nonmerged' zip='ncentury.zip'>
+    <part name='08.bin'/>
+    <part name='04.bin'/>
+    <part name='09.bin'/>
+    <part name='05.bin'/>
+    <part name='10.bin'/>
+    <part name='06.bin'/>
+    <part name='11.bin'/>
+    <part name='07.bin'/>
+    <part name='13.bin'/>
+    <part name='12.bin'/>
+    <part name='03.bin'/>
+    <part name='02.bin'/>
+    <part name='01.bin'/>
   </rom>
 </misterromdescription>

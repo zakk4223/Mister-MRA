@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="a9fbd97edaba4fb36d0bad905dfb3118" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="phoenix2/ic45-pg1.1a"/>
-    <part name="phoenixass/ic46.bin"/>
-    <part name="avefenix/4103-8516.rom"/>
-    <part name="phoenixha/ic48"/>
-    <part name="falcon/phoenixc.49"/>
-    <part name="h6-ic50.6a"/>
-    <part name="h7-ic51.7a"/>
-    <part name="phoenixha/ic52"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="avefenixl/09_ic39.b3"/>
-    <part name="avefenixl/10_ic40.b4"/>
+  <rom index='0' md5='a9fbd97edaba4fb36d0bad905dfb3118' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='phoenix2/ic45-pg1.1a'/>
+    <part name='phoenixass/ic46.bin'/>
+    <part name='avefenix/4103-8516.rom'/>
+    <part name='phoenixha/ic48'/>
+    <part name='falcon/phoenixc.49'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='phoenixha/ic52'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='avefenixl/09_ic39.b3'/>
+    <part name='avefenixl/10_ic40.b4'/>
   </rom>
-  <rom index="0" md5="a9fbd97edaba4fb36d0bad905dfb3118" type="split" zip="phoenixha.zip">
-    <part name="ic45"/>
-    <part name="ic46"/>
-    <part name="ic47"/>
-    <part name="ic48"/>
-    <part name="ic49"/>
-    <part name="h6-ic50.6a" zip="phoenix.zip"/>
-    <part name="h7-ic51.7a" zip="phoenix.zip"/>
-    <part name="ic52"/>
-    <part name="ic23.3d" zip="phoenix.zip"/>
-    <part name="ic24.4d" zip="phoenix.zip"/>
-    <part name="ic39"/>
-    <part name="ic40"/>
+  <rom index='0' md5='a9fbd97edaba4fb36d0bad905dfb3118' type='split' zip='phoenixha.zip'>
+    <part name='ic45'/>
+    <part name='ic46'/>
+    <part name='ic47'/>
+    <part name='ic48'/>
+    <part name='ic49'/>
+    <part name='h6-ic50.6a' zip='phoenix.zip'/>
+    <part name='h7-ic51.7a' zip='phoenix.zip'/>
+    <part name='ic52'/>
+    <part name='ic23.3d' zip='phoenix.zip'/>
+    <part name='ic24.4d' zip='phoenix.zip'/>
+    <part name='ic39'/>
+    <part name='ic40'/>
   </rom>
-  <rom index="0" md5="a9fbd97edaba4fb36d0bad905dfb3118" type="nonmerged" zip="phoenixha.zip">
-    <part name="ic45"/>
-    <part name="ic46"/>
-    <part name="ic47"/>
-    <part name="ic48"/>
-    <part name="ic49"/>
-    <part name="ic50"/>
-    <part name="ic51"/>
-    <part name="ic52"/>
-    <part name="ic23"/>
-    <part name="ic24"/>
-    <part name="ic39"/>
-    <part name="ic40"/>
+  <rom index='0' md5='a9fbd97edaba4fb36d0bad905dfb3118' type='nonmerged' zip='phoenixha.zip'>
+    <part name='ic45'/>
+    <part name='ic46'/>
+    <part name='ic47'/>
+    <part name='ic48'/>
+    <part name='ic49'/>
+    <part name='ic50'/>
+    <part name='ic51'/>
+    <part name='ic52'/>
+    <part name='ic23'/>
+    <part name='ic24'/>
+    <part name='ic39'/>
+    <part name='ic40'/>
   </rom>
 </misterromdescription>

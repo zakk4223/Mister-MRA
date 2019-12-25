@@ -6,52 +6,52 @@
   <manufacturer>Miky SRL</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacmanclub</rbf>
-  <rom index="0" md5="50e6c36b211f69bcab572dfd358273eb" type="merged|nonmerged" zip="clubpacm.zip">
-    <part name="clubpacmb/new_club_d.bin"/>
-    <part name="12.5e"/>
-    <part name="14.5h"/>
-    <part name="13.5f"/>
-    <part name="15.5j"/>
-    <part name="12.5e"/>
-    <part name="14.5h"/>
-    <part name="13.5f"/>
-    <part name="15.5j"/>
-    <part name="12.5e"/>
-    <part name="m7611.1m"/>
-    <part name="m7611.4a"/>
-    <part name="m7611.3m"/>
-    <part name="n82s123n.7f"/>
+  <rom index='0' md5='50e6c36b211f69bcab572dfd358273eb' type='merged|nonmerged' zip='clubpacm.zip'>
+    <part name='clubpacmb/new_club_d.bin'/>
+    <part name='12.5e'/>
+    <part name='14.5h'/>
+    <part name='13.5f'/>
+    <part name='15.5j'/>
+    <part name='12.5e'/>
+    <part name='14.5h'/>
+    <part name='13.5f'/>
+    <part name='15.5j'/>
+    <part name='12.5e'/>
+    <part name='m7611.1m'/>
+    <part name='m7611.4a'/>
+    <part name='m7611.3m'/>
+    <part name='n82s123n.7f'/>
   </rom>
-  <rom index="0" md5="50e6c36b211f69bcab572dfd358273eb" type="split" zip="clubpacmb.zip">
-    <part name="new_club_d.bin"/>
-    <part name="12.5e" zip="clubpacm.zip"/>
-    <part name="14.5h" zip="clubpacm.zip"/>
-    <part name="13.5f" zip="clubpacm.zip"/>
-    <part name="15.5j" zip="clubpacm.zip"/>
-    <part name="12.5e" zip="clubpacm.zip"/>
-    <part name="14.5h" zip="clubpacm.zip"/>
-    <part name="13.5f" zip="clubpacm.zip"/>
-    <part name="15.5j" zip="clubpacm.zip"/>
-    <part name="12.5e" zip="clubpacm.zip"/>
-    <part name="m7611.1m" zip="clubpacm.zip"/>
-    <part name="m7611.4a" zip="clubpacm.zip"/>
-    <part name="m7611.3m" zip="clubpacm.zip"/>
-    <part name="n82s123n.7f" zip="clubpacm.zip"/>
+  <rom index='0' md5='50e6c36b211f69bcab572dfd358273eb' type='split' zip='clubpacmb.zip'>
+    <part name='new_club_d.bin'/>
+    <part name='12.5e' zip='clubpacm.zip'/>
+    <part name='14.5h' zip='clubpacm.zip'/>
+    <part name='13.5f' zip='clubpacm.zip'/>
+    <part name='15.5j' zip='clubpacm.zip'/>
+    <part name='12.5e' zip='clubpacm.zip'/>
+    <part name='14.5h' zip='clubpacm.zip'/>
+    <part name='13.5f' zip='clubpacm.zip'/>
+    <part name='15.5j' zip='clubpacm.zip'/>
+    <part name='12.5e' zip='clubpacm.zip'/>
+    <part name='m7611.1m' zip='clubpacm.zip'/>
+    <part name='m7611.4a' zip='clubpacm.zip'/>
+    <part name='m7611.3m' zip='clubpacm.zip'/>
+    <part name='n82s123n.7f' zip='clubpacm.zip'/>
   </rom>
-  <rom index="0" md5="50e6c36b211f69bcab572dfd358273eb" type="nonmerged" zip="clubpacmb.zip">
-    <part name="new_club_d.bin"/>
-    <part name="12.5e"/>
-    <part name="14.5h"/>
-    <part name="13.5f"/>
-    <part name="15.5j"/>
-    <part name="12.5e"/>
-    <part name="14.5h"/>
-    <part name="13.5f"/>
-    <part name="15.5j"/>
-    <part name="12.5e"/>
-    <part name="m7611.1m"/>
-    <part name="m7611.4a"/>
-    <part name="m7611.3m"/>
-    <part name="n82s123n.7f"/>
+  <rom index='0' md5='50e6c36b211f69bcab572dfd358273eb' type='nonmerged' zip='clubpacmb.zip'>
+    <part name='new_club_d.bin'/>
+    <part name='12.5e'/>
+    <part name='14.5h'/>
+    <part name='13.5f'/>
+    <part name='15.5j'/>
+    <part name='12.5e'/>
+    <part name='14.5h'/>
+    <part name='13.5f'/>
+    <part name='15.5j'/>
+    <part name='12.5e'/>
+    <part name='m7611.1m'/>
+    <part name='m7611.4a'/>
+    <part name='m7611.3m'/>
+    <part name='n82s123n.7f'/>
   </rom>
 </misterromdescription>

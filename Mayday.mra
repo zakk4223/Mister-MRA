@@ -7,15 +7,15 @@
   <manufacturer>Hoei</manufacturer>
   <category>Space / Defender</category>
   <rbf>mayday</rbf>
-  <rom index="0" md5="121221f7d28bd6668ad5fc1209451c7e" type="merged|nonmerged" zip="mayday.zip">
-    <part name="ic03-3.bin"/>
-    <part name="ic02-2.bin"/>
-    <part name="ic01-1.bin"/>
-    <part name="ic04-4.bin"/>
-    <part name="ic05-5.bin"/>
-    <part name="ic06-6.bin"/>
-    <part name="ic07-7d.bin"/>
-    <part name="ic28-8.bin"/>
+  <rom index='0' md5='121221f7d28bd6668ad5fc1209451c7e' type='merged|nonmerged' zip='mayday.zip'>
+    <part name='ic03-3.bin'/>
+    <part name='ic02-2.bin'/>
+    <part name='ic01-1.bin'/>
+    <part name='ic04-4.bin'/>
+    <part name='ic05-5.bin'/>
+    <part name='ic06-6.bin'/>
+    <part name='ic07-7d.bin'/>
+    <part name='ic28-8.bin'/>
     <part>
 00 40 80 01 41 81 02 42 82 03 43 83 04 44 84 05 
 45 85 06 46 86 07 47 87 08 48 88 09 49 89 0a 4a 

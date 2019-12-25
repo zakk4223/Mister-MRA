@@ -6,46 +6,46 @@
   <manufacturer>Tehkan</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="d1be6fe1a83e4c7423484e7f825ff0ac" type="merged|nonmerged" zip="pleiads.zip">
-    <part name="pleiadsb2/ic47.r1"/>
-    <part name="ic48.r2"/>
-    <part name="pleiadsb2/ic47.bin"/>
-    <part name="pleiadsb2/ic48.bin"/>
-    <part name="ic51.r5"/>
-    <part name="ic50.bin"/>
-    <part name="pleiadce/pleiades.53"/>
-    <part name="pleiadsb2/ic52.bin"/>
-    <part name="ic23.bin"/>
-    <part name="ic24.bin"/>
-    <part name="ic39.bin"/>
-    <part name="ic40.bin"/>
+  <rom index='0' md5='d1be6fe1a83e4c7423484e7f825ff0ac' type='merged|nonmerged' zip='pleiads.zip'>
+    <part name='pleiadsb2/ic47.r1'/>
+    <part name='ic48.r2'/>
+    <part name='pleiadsb2/ic47.bin'/>
+    <part name='pleiadsb2/ic48.bin'/>
+    <part name='ic51.r5'/>
+    <part name='ic50.bin'/>
+    <part name='pleiadce/pleiades.53'/>
+    <part name='pleiadsb2/ic52.bin'/>
+    <part name='ic23.bin'/>
+    <part name='ic24.bin'/>
+    <part name='ic39.bin'/>
+    <part name='ic40.bin'/>
   </rom>
-  <rom index="0" md5="d1be6fe1a83e4c7423484e7f825ff0ac" type="split" zip="pleiadsb2.zip">
-    <part name="ic47.r1"/>
-    <part name="ic48.r2" zip="pleiads.zip"/>
-    <part name="ic47.bin"/>
-    <part name="ic48.bin"/>
-    <part name="ic51.r5" zip="pleiads.zip"/>
-    <part name="ic50.bin" zip="pleiads.zip"/>
-    <part name="ic53.r7"/>
-    <part name="ic52.bin"/>
-    <part name="ic23.bin" zip="pleiads.zip"/>
-    <part name="ic24.bin" zip="pleiads.zip"/>
-    <part name="ic39.bin" zip="pleiads.zip"/>
-    <part name="ic40.bin" zip="pleiads.zip"/>
+  <rom index='0' md5='d1be6fe1a83e4c7423484e7f825ff0ac' type='split' zip='pleiadsb2.zip'>
+    <part name='ic47.r1'/>
+    <part name='ic48.r2' zip='pleiads.zip'/>
+    <part name='ic47.bin'/>
+    <part name='ic48.bin'/>
+    <part name='ic51.r5' zip='pleiads.zip'/>
+    <part name='ic50.bin' zip='pleiads.zip'/>
+    <part name='ic53.r7'/>
+    <part name='ic52.bin'/>
+    <part name='ic23.bin' zip='pleiads.zip'/>
+    <part name='ic24.bin' zip='pleiads.zip'/>
+    <part name='ic39.bin' zip='pleiads.zip'/>
+    <part name='ic40.bin' zip='pleiads.zip'/>
   </rom>
-  <rom index="0" md5="d1be6fe1a83e4c7423484e7f825ff0ac" type="nonmerged" zip="pleiadsb2.zip">
-    <part name="ic47.r1"/>
-    <part name="ic48.r2"/>
-    <part name="ic47.bin"/>
-    <part name="ic48.bin"/>
-    <part name="ic51.r5"/>
-    <part name="ic50.bin"/>
-    <part name="ic53.r7"/>
-    <part name="ic52.bin"/>
-    <part name="ic23.bin"/>
-    <part name="ic24.bin"/>
-    <part name="ic39.bin"/>
-    <part name="ic40.bin"/>
+  <rom index='0' md5='d1be6fe1a83e4c7423484e7f825ff0ac' type='nonmerged' zip='pleiadsb2.zip'>
+    <part name='ic47.r1'/>
+    <part name='ic48.r2'/>
+    <part name='ic47.bin'/>
+    <part name='ic48.bin'/>
+    <part name='ic51.r5'/>
+    <part name='ic50.bin'/>
+    <part name='ic53.r7'/>
+    <part name='ic52.bin'/>
+    <part name='ic23.bin'/>
+    <part name='ic24.bin'/>
+    <part name='ic39.bin'/>
+    <part name='ic40.bin'/>
   </rom>
 </misterromdescription>

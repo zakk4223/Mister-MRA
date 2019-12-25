@@ -3,24 +3,24 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>ataritetris</rbf>
-  <rom index="0" md5="05d35812f40c3cb0889797a8cfe039d6" type="merged" zip="atetris.zip">
-    <part name="atetrisb2/k1-01"/>
-    <part name="136066-1101.35a"/>
+  <rom index='0' md5='05d35812f40c3cb0889797a8cfe039d6' type='merged' zip='atetris.zip'>
+    <part name='atetrisb2/k1-01'/>
+    <part name='136066-1101.35a'/>
   </rom>
-  <rom index="0" md5="05d35812f40c3cb0889797a8cfe039d6" type="split" zip="atetrisb2.zip">
-    <part name="k1-01"/>
-    <part name="136066-1101.35a" zip="atetris.zip"/>
+  <rom index='0' md5='05d35812f40c3cb0889797a8cfe039d6' type='split' zip='atetrisb2.zip'>
+    <part name='k1-01'/>
+    <part name='136066-1101.35a' zip='atetris.zip'/>
   </rom>
-  <rom index="0" md5="05d35812f40c3cb0889797a8cfe039d6" type="nonmerged" zip="atetrisb2.zip">
-    <part name="k1-01"/>
-    <part name="136066-1101.35a"/>
+  <rom index='0' md5='05d35812f40c3cb0889797a8cfe039d6' type='nonmerged' zip='atetrisb2.zip'>
+    <part name='k1-01'/>
+    <part name='136066-1101.35a'/>
   </rom>
-  <rom index="0" md5="05d35812f40c3cb0889797a8cfe039d6" type="split" zip="atetrisb2.zip">
-    <part name="k1-01"/>
-    <part name="136066-1101.35a" zip="atetris.zip"/>
+  <rom index='0' md5='05d35812f40c3cb0889797a8cfe039d6' type='split' zip='atetrisb2.zip'>
+    <part name='k1-01'/>
+    <part name='136066-1101.35a' zip='atetris.zip'/>
   </rom>
-  <rom index="0" md5="05d35812f40c3cb0889797a8cfe039d6" type="nonmerged" zip="atetrisb2.zip">
-    <part name="k1-01"/>
-    <part name="136066-1101.35a"/>
+  <rom index='0' md5='05d35812f40c3cb0889797a8cfe039d6' type='nonmerged' zip='atetrisb2.zip'>
+    <part name='k1-01'/>
+    <part name='136066-1101.35a'/>
   </rom>
 </misterromdescription>

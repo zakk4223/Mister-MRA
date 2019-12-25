@@ -6,64 +6,64 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index="0" md5="88dee3eac8e02552a111d81366609494" type="merged|nonmerged" zip="defender.zip">
-    <part name="zero2/15me.1a"/>
-    <part name="tornado1/torna3.bin"/>
-    <part name="zero2/17m5.4a"/>
-    <part name="zero/zero-21"/>
-    <part name="zero2/20m5.3b"/>
-    <part name="tornado1/tornb1.bin"/>
-    <part name="zero2/18m5.4b"/>
-    <part name="defndjeu/s"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='88dee3eac8e02552a111d81366609494' type='merged|nonmerged' zip='defender.zip'>
+    <part name='zero2/15me.1a'/>
+    <part name='tornado1/torna3.bin'/>
+    <part name='zero2/17m5.4a'/>
+    <part name='zero/zero-21'/>
+    <part name='zero2/20m5.3b'/>
+    <part name='tornado1/tornb1.bin'/>
+    <part name='zero2/18m5.4b'/>
+    <part name='defndjeu/s'/>
+    <part name='decoder.2'/>
+    <part name='decoder.3'/>
   </rom>
-  <rom index="0" md5="88dee3eac8e02552a111d81366609494" type="split" zip="zero2.zip">
-    <part name="15me.1a"/>
-    <part name="to16.3a"/>
-    <part name="17m5.4a"/>
-    <part name="21.4c"/>
-    <part name="20m5.3b"/>
-    <part name="to19.1b"/>
-    <part name="18m5.4b"/>
-    <part name="to4.6b"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='88dee3eac8e02552a111d81366609494' type='split' zip='zero2.zip'>
+    <part name='15me.1a'/>
+    <part name='to16.3a'/>
+    <part name='17m5.4a'/>
+    <part name='21.4c'/>
+    <part name='20m5.3b'/>
+    <part name='to19.1b'/>
+    <part name='18m5.4b'/>
+    <part name='to4.6b'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="88dee3eac8e02552a111d81366609494" type="split" zip="zero2.zip">
-    <part name="15me.1a"/>
-    <part name="to16.3a"/>
-    <part name="17m5.4a"/>
-    <part name="21.4c"/>
-    <part name="20m5.3b"/>
-    <part name="to19.1b"/>
-    <part name="18m5.4b"/>
-    <part name="to4.6b"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='88dee3eac8e02552a111d81366609494' type='split' zip='zero2.zip'>
+    <part name='15me.1a'/>
+    <part name='to16.3a'/>
+    <part name='17m5.4a'/>
+    <part name='21.4c'/>
+    <part name='20m5.3b'/>
+    <part name='to19.1b'/>
+    <part name='18m5.4b'/>
+    <part name='to4.6b'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="88dee3eac8e02552a111d81366609494" type="split" zip="zero2.zip">
-    <part name="15me.1a"/>
-    <part name="to16.3a"/>
-    <part name="17m5.4a"/>
-    <part name="21.4c"/>
-    <part name="20m5.3b"/>
-    <part name="to19.1b"/>
-    <part name="18m5.4b"/>
-    <part name="to4.6b"/>
-    <part name="decoder.2" zip="defender.zip"/>
-    <part name="decoder.3" zip="defender.zip"/>
+  <rom index='0' md5='88dee3eac8e02552a111d81366609494' type='split' zip='zero2.zip'>
+    <part name='15me.1a'/>
+    <part name='to16.3a'/>
+    <part name='17m5.4a'/>
+    <part name='21.4c'/>
+    <part name='20m5.3b'/>
+    <part name='to19.1b'/>
+    <part name='18m5.4b'/>
+    <part name='to4.6b'/>
+    <part name='decoder.2' zip='defender.zip'/>
+    <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index="0" md5="88dee3eac8e02552a111d81366609494" type="nonmerged" zip="zero2.zip">
-    <part name="15me.1a"/>
-    <part name="to16.3a"/>
-    <part name="17m5.4a"/>
-    <part name="21.4c"/>
-    <part name="20m5.3b"/>
-    <part name="to19.1b"/>
-    <part name="18m5.4b"/>
-    <part name="to4.6b"/>
-    <part name="decoder.2"/>
-    <part name="decoder.3"/>
+  <rom index='0' md5='88dee3eac8e02552a111d81366609494' type='nonmerged' zip='zero2.zip'>
+    <part name='15me.1a'/>
+    <part name='to16.3a'/>
+    <part name='17m5.4a'/>
+    <part name='21.4c'/>
+    <part name='20m5.3b'/>
+    <part name='to19.1b'/>
+    <part name='18m5.4b'/>
+    <part name='to4.6b'/>
+    <part name='decoder.2'/>
+    <part name='decoder.3'/>
   </rom>
 </misterromdescription>

@@ -6,88 +6,88 @@
   <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
   <category>Maze</category>
   <rbf>crushroller</rbf>
-  <rom index="0" md5="721e3ab2df18abaa81538bf747343a59" type="nonmerged" zip="crush2.zip">
-    <part name="tp1"/>
-    <part name="tp5a"/>
-    <part name="tp2"/>
-    <part name="tp6"/>
-    <part name="tp3"/>
-    <part name="tp7"/>
-    <part name="tp4"/>
-    <part name="tp8"/>
-    <part name="tp1"/>
-    <part name="tp5a"/>
-    <part name="tp2"/>
-    <part name="tp6"/>
-    <part name="tp3"/>
-    <part name="tp7"/>
-    <part name="tp4"/>
-    <part name="tp8"/>
-    <part name="tpa"/>
-    <part name="tpc"/>
-    <part name="tpb"/>
-    <part name="tpd"/>
-    <part name="tpd"/>
-    <part name="tpd"/>
-    <part name="tpd"/>
-    <part name="tpd"/>
-    <part name="82s126.1m"/>
-    <part name="2s140.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='721e3ab2df18abaa81538bf747343a59' type='nonmerged' zip='crush2.zip'>
+    <part name='tp1'/>
+    <part name='tp5a'/>
+    <part name='tp2'/>
+    <part name='tp6'/>
+    <part name='tp3'/>
+    <part name='tp7'/>
+    <part name='tp4'/>
+    <part name='tp8'/>
+    <part name='tp1'/>
+    <part name='tp5a'/>
+    <part name='tp2'/>
+    <part name='tp6'/>
+    <part name='tp3'/>
+    <part name='tp7'/>
+    <part name='tp4'/>
+    <part name='tp8'/>
+    <part name='tpa'/>
+    <part name='tpc'/>
+    <part name='tpb'/>
+    <part name='tpd'/>
+    <part name='tpd'/>
+    <part name='tpd'/>
+    <part name='tpd'/>
+    <part name='tpd'/>
+    <part name='82s126.1m'/>
+    <part name='2s140.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
-  <rom index="0" md5="721e3ab2df18abaa81538bf747343a59" type="merged" zip="crush.zip">
-    <part name="crush3/1.6e"/>
-    <part name="crush3/2.6f"/>
-    <part name="crush3/3.6h"/>
-    <part name="crush3/4.6j"/>
-    <part name="crush3/1.6e"/>
-    <part name="crush3/2.6f"/>
-    <part name="crush3/3.6h"/>
-    <part name="crush3/4.6j"/>
-    <part name="crush3/5.5e"/>
-    <part name="crush3/6.5f"/>
-    <part name="crush3/6.5f"/>
-    <part name="crush3/6.5f"/>
-    <part name="82s126.1m"/>
-    <part name="2s140.4a"/>
-    <part name="82s126.3m"/>
-    <part name="crush3/82s123.7f"/>
+  <rom index='0' md5='721e3ab2df18abaa81538bf747343a59' type='merged' zip='crush.zip'>
+    <part name='crush3/1.6e'/>
+    <part name='crush3/2.6f'/>
+    <part name='crush3/3.6h'/>
+    <part name='crush3/4.6j'/>
+    <part name='crush3/1.6e'/>
+    <part name='crush3/2.6f'/>
+    <part name='crush3/3.6h'/>
+    <part name='crush3/4.6j'/>
+    <part name='crush3/5.5e'/>
+    <part name='crush3/6.5f'/>
+    <part name='crush3/6.5f'/>
+    <part name='crush3/6.5f'/>
+    <part name='82s126.1m'/>
+    <part name='2s140.4a'/>
+    <part name='82s126.3m'/>
+    <part name='crush3/82s123.7f'/>
   </rom>
-  <rom index="0" md5="721e3ab2df18abaa81538bf747343a59" type="split" zip="crush3.zip">
-    <part name="1.6e"/>
-    <part name="2.6f"/>
-    <part name="3.6h"/>
-    <part name="4.6j"/>
-    <part name="1.6e"/>
-    <part name="2.6f"/>
-    <part name="3.6h"/>
-    <part name="4.6j"/>
-    <part name="5.5e"/>
-    <part name="6.5f"/>
-    <part name="6.5f"/>
-    <part name="6.5f"/>
-    <part name="82s126.1m" zip="crush.zip"/>
-    <part name="2s140.4a" zip="crush.zip"/>
-    <part name="82s126.3m" zip="crush.zip"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='721e3ab2df18abaa81538bf747343a59' type='split' zip='crush3.zip'>
+    <part name='1.6e'/>
+    <part name='2.6f'/>
+    <part name='3.6h'/>
+    <part name='4.6j'/>
+    <part name='1.6e'/>
+    <part name='2.6f'/>
+    <part name='3.6h'/>
+    <part name='4.6j'/>
+    <part name='5.5e'/>
+    <part name='6.5f'/>
+    <part name='6.5f'/>
+    <part name='6.5f'/>
+    <part name='82s126.1m' zip='crush.zip'/>
+    <part name='2s140.4a' zip='crush.zip'/>
+    <part name='82s126.3m' zip='crush.zip'/>
+    <part name='82s123.7f'/>
   </rom>
-  <rom index="0" md5="721e3ab2df18abaa81538bf747343a59" type="split" zip="crush3.zip">
-    <part name="1.6e"/>
-    <part name="2.6f"/>
-    <part name="3.6h"/>
-    <part name="4.6j"/>
-    <part name="1.6e"/>
-    <part name="2.6f"/>
-    <part name="3.6h"/>
-    <part name="4.6j"/>
-    <part name="5.5e"/>
-    <part name="6.5f"/>
-    <part name="6.5f"/>
-    <part name="6.5f"/>
-    <part name="82s126.1m" zip="crush.zip"/>
-    <part name="2s140.4a" zip="crush.zip"/>
-    <part name="82s126.3m" zip="crush.zip"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='721e3ab2df18abaa81538bf747343a59' type='split' zip='crush3.zip'>
+    <part name='1.6e'/>
+    <part name='2.6f'/>
+    <part name='3.6h'/>
+    <part name='4.6j'/>
+    <part name='1.6e'/>
+    <part name='2.6f'/>
+    <part name='3.6h'/>
+    <part name='4.6j'/>
+    <part name='5.5e'/>
+    <part name='6.5f'/>
+    <part name='6.5f'/>
+    <part name='6.5f'/>
+    <part name='82s126.1m' zip='crush.zip'/>
+    <part name='2s140.4a' zip='crush.zip'/>
+    <part name='82s126.3m' zip='crush.zip'/>
+    <part name='82s123.7f'/>
   </rom>
 </misterromdescription>

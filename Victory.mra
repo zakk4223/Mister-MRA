@@ -5,43 +5,43 @@
   <year>1982</year>
   <manufacturer>bootleg</manufacturer>
   <rbf>victory</rbf>
-  <rom index="0" md5="c0773c16b978e97936459c676f4c8c2f" type="nonmerged" zip="victorycb.zip">
-    <part name="v1.bin"/>
-    <part name="v2.bin"/>
-    <part name="v3.bin"/>
-    <part name="v4.bin"/>
-    <part name="v5.bin"/>
-    <part name="v5.bin"/>
-    <part name="v5.bin"/>
-    <part name="v5.bin"/>
-    <part name="v6.bin"/>
-    <part name="v7.bin"/>
-    <part name="prom.6l"/>
+  <rom index='0' md5='c0773c16b978e97936459c676f4c8c2f' type='nonmerged' zip='victorycb.zip'>
+    <part name='v1.bin'/>
+    <part name='v2.bin'/>
+    <part name='v3.bin'/>
+    <part name='v4.bin'/>
+    <part name='v5.bin'/>
+    <part name='v5.bin'/>
+    <part name='v5.bin'/>
+    <part name='v5.bin'/>
+    <part name='v6.bin'/>
+    <part name='v7.bin'/>
+    <part name='prom.6l'/>
   </rom>
-  <rom index="0" md5="c0773c16b978e97936459c676f4c8c2f" type="merged" zip="victoryc.zip">
-    <part name="victorycb/v1.bin"/>
-    <part name="victorycb/v2.bin"/>
-    <part name="victorycb/v3.bin"/>
-    <part name="victorycb/v4.bin"/>
-    <part name="victorycb/v5.bin"/>
-    <part name="victorycb/v5.bin"/>
-    <part name="victorycb/v5.bin"/>
-    <part name="victorycb/v5.bin"/>
-    <part name="df.1k"/>
-    <part name="a4.1h"/>
-    <part name="prom.6l"/>
+  <rom index='0' md5='c0773c16b978e97936459c676f4c8c2f' type='merged' zip='victoryc.zip'>
+    <part name='victorycb/v1.bin'/>
+    <part name='victorycb/v2.bin'/>
+    <part name='victorycb/v3.bin'/>
+    <part name='victorycb/v4.bin'/>
+    <part name='victorycb/v5.bin'/>
+    <part name='victorycb/v5.bin'/>
+    <part name='victorycb/v5.bin'/>
+    <part name='victorycb/v5.bin'/>
+    <part name='df.1k'/>
+    <part name='a4.1h'/>
+    <part name='prom.6l'/>
   </rom>
-  <rom index="0" md5="c0773c16b978e97936459c676f4c8c2f" type="split" zip="victoryc.zip">
-    <part name="v1.bin" zip="victorycb.zip"/>
-    <part name="v2.bin" zip="victorycb.zip"/>
-    <part name="v3.bin" zip="victorycb.zip"/>
-    <part name="v4.bin" zip="victorycb.zip"/>
-    <part name="v5.bin" zip="victorycb.zip"/>
-    <part name="v5.bin" zip="victorycb.zip"/>
-    <part name="v5.bin" zip="victorycb.zip"/>
-    <part name="v5.bin" zip="victorycb.zip"/>
-    <part name="df.1k"/>
-    <part name="a4.1h"/>
-    <part name="prom.6l"/>
+  <rom index='0' md5='c0773c16b978e97936459c676f4c8c2f' type='split' zip='victoryc.zip'>
+    <part name='v1.bin' zip='victorycb.zip'/>
+    <part name='v2.bin' zip='victorycb.zip'/>
+    <part name='v3.bin' zip='victorycb.zip'/>
+    <part name='v4.bin' zip='victorycb.zip'/>
+    <part name='v5.bin' zip='victorycb.zip'/>
+    <part name='v5.bin' zip='victorycb.zip'/>
+    <part name='v5.bin' zip='victorycb.zip'/>
+    <part name='v5.bin' zip='victorycb.zip'/>
+    <part name='df.1k'/>
+    <part name='a4.1h'/>
+    <part name='prom.6l'/>
   </rom>
 </misterromdescription>

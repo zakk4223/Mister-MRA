@@ -7,58 +7,24 @@
   <category>Maze</category>
   <category>Maze / Blocks</category>
   <rbf>dreamshopper</rbf>
-  <rom index="0" md5="3d1ab455cb02580e03249baf556fa3af" type="merged|nonmerged" zip="dremshpr.zip">
-    <part name="red_1.50"/>
-    <part name="red_2.51"/>
-    <part name="red_3.52"/>
-    <part name="red_4.53"/>
-    <part name="red_5.39"/>
-    <part name="red_6.40"/>
-    <part name="red_7.41"/>
-    <part name="red_7.41"/>
-    <part name="red-20.18"/>
-    <part name="red-21.19"/>
-    <part name="red-21.19"/>
-    <part name="red-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6301-1.37"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
+  <rom index='0' md5='3d1ab455cb02580e03249baf556fa3af' type='merged|nonmerged|split' zip='dremshpr.zip'>
+    <part name='red_1.50'/>
+    <part name='red_2.51'/>
+    <part name='red_3.52'/>
+    <part name='red_4.53'/>
+    <part name='red_5.39'/>
+    <part name='red_6.40'/>
+    <part name='red_7.41'/>
+    <part name='red_7.41'/>
+    <part name='red-20.18'/>
+    <part name='red-21.19'/>
+    <part name='red-21.19'/>
+    <part name='red-21.19'/>
+    <part name='6301-1.37'/>
+    <part name='6301-1.37'/>
+    <part name='6301-1.37'/>
+    <part name='6331-1.6'/>
   </rom>
-  <rom index="0" md5="3d1ab455cb02580e03249baf556fa3af" type="split" zip="dremshpr.zip">
-    <part name="red_1.50"/>
-    <part name="red_2.51"/>
-    <part name="red_3.52"/>
-    <part name="red_4.53"/>
-    <part name="red_5.39"/>
-    <part name="red_6.40"/>
-    <part name="red_7.41"/>
-    <part name="red_7.41"/>
-    <part name="red-20.18"/>
-    <part name="red-21.19"/>
-    <part name="red-21.19"/>
-    <part name="red-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6301-1.37"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
-  </rom>
-  <rom index="0" md5="3d1ab455cb02580e03249baf556fa3af" type="nonmerged" zip="dremshpr.zip">
-    <part name="red_1.50"/>
-    <part name="red_2.51"/>
-    <part name="red_3.52"/>
-    <part name="red_4.53"/>
-    <part name="red_5.39"/>
-    <part name="red_6.40"/>
-    <part name="red_7.41"/>
-    <part name="red_7.41"/>
-    <part name="red-20.18"/>
-    <part name="red-21.19"/>
-    <part name="red-21.19"/>
-    <part name="red-21.19"/>
-    <part name="6301-1.37"/>
-    <part name="6301-1.37"/>
-    <part name="6301-1.37"/>
-    <part name="6331-1.6"/>
-  </rom>
+  
+  
 </misterromdescription>

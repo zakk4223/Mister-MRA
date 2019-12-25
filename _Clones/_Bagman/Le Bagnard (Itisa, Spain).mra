@@ -6,100 +6,100 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index="0" md5="ac853c0fd919fa13c63e30cdcb8b2d61" type="merged|nonmerged" zip="bagman.zip">
-    <part name="e9_b05.bin"/>
-    <part name="bagnardi/bagnardi_06.f9"/>
-    <part name="bagnardi/bagnardi_07.j9"/>
-    <part name="bagnardi/bagnardi_08.k9"/>
-    <part name="bagmanf/05.l5.bin"/>
-    <part name="bagnardi/bagnardi_10.n9"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="e1_b02.bin"/>
-    <part name="bagmanf/09.l11.bin"/>
-    <part name="j1_b04.bin"/>
-    <part name="bagmanf/11.h11.bin"/>
-    <part name="r9_b11.bin"/>
-    <part name="t9_b12.bin"/>
+  <rom index='0' md5='ac853c0fd919fa13c63e30cdcb8b2d61' type='merged|nonmerged' zip='bagman.zip'>
+    <part name='e9_b05.bin'/>
+    <part name='bagnardi/bagnardi_06.f9'/>
+    <part name='bagnardi/bagnardi_07.j9'/>
+    <part name='bagnardi/bagnardi_08.k9'/>
+    <part name='bagmanf/05.l5.bin'/>
+    <part name='bagnardi/bagnardi_10.n9'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='e1_b02.bin'/>
+    <part name='bagmanf/09.l11.bin'/>
+    <part name='j1_b04.bin'/>
+    <part name='bagmanf/11.h11.bin'/>
+    <part name='r9_b11.bin'/>
+    <part name='t9_b12.bin'/>
   </rom>
-  <rom index="0" md5="ac853c0fd919fa13c63e30cdcb8b2d61" type="split" zip="bagman.zip">
-    <part name="e9_b05.bin"/>
-    <part name="f9_b06.bin"/>
-    <part name="f9_b07.bin"/>
-    <part name="k9_b08.bin"/>
-    <part name="m9_b09s.bin"/>
-    <part name="n9_b10.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="e1_b02.bin"/>
-    <part name="c1_b01.bin"/>
-    <part name="j1_b04.bin"/>
-    <part name="f1_b03s.bin"/>
-    <part name="r9_b11.bin"/>
-    <part name="t9_b12.bin"/>
+  <rom index='0' md5='ac853c0fd919fa13c63e30cdcb8b2d61' type='split' zip='bagman.zip'>
+    <part name='e9_b05.bin'/>
+    <part name='f9_b06.bin'/>
+    <part name='f9_b07.bin'/>
+    <part name='k9_b08.bin'/>
+    <part name='m9_b09s.bin'/>
+    <part name='n9_b10.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='e1_b02.bin'/>
+    <part name='c1_b01.bin'/>
+    <part name='j1_b04.bin'/>
+    <part name='f1_b03s.bin'/>
+    <part name='r9_b11.bin'/>
+    <part name='t9_b12.bin'/>
   </rom>
-  <rom index="0" md5="ac853c0fd919fa13c63e30cdcb8b2d61" type="nonmerged" zip="bagman.zip">
-    <part name="e9_b05.bin"/>
-    <part name="f9_b06.bin"/>
-    <part name="f9_b07.bin"/>
-    <part name="k9_b08.bin"/>
-    <part name="m9_b09s.bin"/>
-    <part name="n9_b10.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="e1_b02.bin"/>
-    <part name="c1_b01.bin"/>
-    <part name="j1_b04.bin"/>
-    <part name="f1_b03s.bin"/>
-    <part name="r9_b11.bin"/>
-    <part name="t9_b12.bin"/>
+  <rom index='0' md5='ac853c0fd919fa13c63e30cdcb8b2d61' type='nonmerged' zip='bagman.zip'>
+    <part name='e9_b05.bin'/>
+    <part name='f9_b06.bin'/>
+    <part name='f9_b07.bin'/>
+    <part name='k9_b08.bin'/>
+    <part name='m9_b09s.bin'/>
+    <part name='n9_b10.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='e1_b02.bin'/>
+    <part name='c1_b01.bin'/>
+    <part name='j1_b04.bin'/>
+    <part name='f1_b03s.bin'/>
+    <part name='r9_b11.bin'/>
+    <part name='t9_b12.bin'/>
   </rom>
-  <rom index="0" md5="ac853c0fd919fa13c63e30cdcb8b2d61" type="split" zip="bagnardi.zip">
-    <part name="e9_b05.bin" zip="bagman.zip"/>
-    <part name="bagnardi_06.f9"/>
-    <part name="bagnardi_07.j9"/>
-    <part name="bagnardi_08.k9"/>
-    <part name="bagnardi_09.m9"/>
-    <part name="bagnardi_10.n9"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="e1_b02.bin" zip="bagman.zip"/>
-    <part name="bagnardi_01.c1"/>
-    <part name="j1_b04.bin" zip="bagman.zip"/>
-    <part name="bagnardi_03.f1"/>
-    <part name="r9_b11.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
+  <rom index='0' md5='ac853c0fd919fa13c63e30cdcb8b2d61' type='split' zip='bagnardi.zip'>
+    <part name='e9_b05.bin' zip='bagman.zip'/>
+    <part name='bagnardi_06.f9'/>
+    <part name='bagnardi_07.j9'/>
+    <part name='bagnardi_08.k9'/>
+    <part name='bagnardi_09.m9'/>
+    <part name='bagnardi_10.n9'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='e1_b02.bin' zip='bagman.zip'/>
+    <part name='bagnardi_01.c1'/>
+    <part name='j1_b04.bin' zip='bagman.zip'/>
+    <part name='bagnardi_03.f1'/>
+    <part name='r9_b11.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
   </rom>
 </misterromdescription>

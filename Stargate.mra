@@ -7,58 +7,24 @@
   <manufacturer>Williams / Vid Kidz</manufacturer>
   <category>Space / Defender</category>
   <rbf>stargate</rbf>
-  <rom index="0" md5="b08b58a9c0b9564c61299cfc5b37e226" type="merged|nonmerged" zip="stargate.zip">
-    <part name="10"/>
-    <part name="11"/>
-    <part name="12"/>
-    <part name="01"/>
-    <part name="02"/>
-    <part name="03"/>
-    <part name="04"/>
-    <part name="05"/>
-    <part name="06"/>
-    <part name="07"/>
-    <part name="08"/>
-    <part name="09"/>
-    <part name="sg.snd"/>
-    <part name="sg.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.5"/>
+  <rom index='0' md5='b08b58a9c0b9564c61299cfc5b37e226' type='merged|nonmerged|split' zip='stargate.zip'>
+    <part name='10'/>
+    <part name='11'/>
+    <part name='12'/>
+    <part name='01'/>
+    <part name='02'/>
+    <part name='03'/>
+    <part name='04'/>
+    <part name='05'/>
+    <part name='06'/>
+    <part name='07'/>
+    <part name='08'/>
+    <part name='09'/>
+    <part name='sg.snd'/>
+    <part name='sg.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.5'/>
   </rom>
-  <rom index="0" md5="b08b58a9c0b9564c61299cfc5b37e226" type="split" zip="stargate.zip">
-    <part name="10"/>
-    <part name="11"/>
-    <part name="12"/>
-    <part name="01"/>
-    <part name="02"/>
-    <part name="03"/>
-    <part name="04"/>
-    <part name="05"/>
-    <part name="06"/>
-    <part name="07"/>
-    <part name="08"/>
-    <part name="09"/>
-    <part name="sg.snd"/>
-    <part name="sg.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.5"/>
-  </rom>
-  <rom index="0" md5="b08b58a9c0b9564c61299cfc5b37e226" type="nonmerged" zip="stargate.zip">
-    <part name="10"/>
-    <part name="11"/>
-    <part name="12"/>
-    <part name="01"/>
-    <part name="02"/>
-    <part name="03"/>
-    <part name="04"/>
-    <part name="05"/>
-    <part name="06"/>
-    <part name="07"/>
-    <part name="08"/>
-    <part name="09"/>
-    <part name="sg.snd"/>
-    <part name="sg.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.5"/>
-  </rom>
+  
+  
 </misterromdescription>

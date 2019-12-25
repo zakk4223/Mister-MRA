@@ -6,34 +6,34 @@
   <manufacturer>Atari</manufacturer>
   <category>Space / Moon</category>
   <rbf>lunarlander</rbf>
-  <rom index="0" md5="ef770f91fafa988eaf7bfc5a7b7e38ee" type="merged|nonmerged" zip="llander.zip">
-    <part name="llander1/034572-01.f1"/>
-    <part name="llander1/034571-01.de1"/>
-    <part name="034570-01.c1"/>
-    <part name="llander1/034569-01.b1"/>
-    <part name="034599-01.r3"/>
-    <part name="034598-01.np3"/>
-    <part name="034597-01.m3"/>
-    <part name="034599-01.r3"/>
+  <rom index='0' md5='ef770f91fafa988eaf7bfc5a7b7e38ee' type='merged|nonmerged' zip='llander.zip'>
+    <part name='llander1/034572-01.f1'/>
+    <part name='llander1/034571-01.de1'/>
+    <part name='034570-01.c1'/>
+    <part name='llander1/034569-01.b1'/>
+    <part name='034599-01.r3'/>
+    <part name='034598-01.np3'/>
+    <part name='034597-01.m3'/>
+    <part name='034599-01.r3'/>
   </rom>
-  <rom index="0" md5="ef770f91fafa988eaf7bfc5a7b7e38ee" type="split" zip="llander1.zip">
-    <part name="034572-01.f1"/>
-    <part name="034571-01.de1"/>
-    <part name="034570-01.c1" zip="llander.zip"/>
-    <part name="034569-01.b1"/>
-    <part name="034599-01.r3" zip="llander.zip"/>
-    <part name="034598-01.np3" zip="llander.zip"/>
-    <part name="034597-01.m3" zip="llander.zip"/>
-    <part name="034599-01.r3" zip="llander.zip"/>
+  <rom index='0' md5='ef770f91fafa988eaf7bfc5a7b7e38ee' type='split' zip='llander1.zip'>
+    <part name='034572-01.f1'/>
+    <part name='034571-01.de1'/>
+    <part name='034570-01.c1' zip='llander.zip'/>
+    <part name='034569-01.b1'/>
+    <part name='034599-01.r3' zip='llander.zip'/>
+    <part name='034598-01.np3' zip='llander.zip'/>
+    <part name='034597-01.m3' zip='llander.zip'/>
+    <part name='034599-01.r3' zip='llander.zip'/>
   </rom>
-  <rom index="0" md5="ef770f91fafa988eaf7bfc5a7b7e38ee" type="nonmerged" zip="llander1.zip">
-    <part name="034572-01.f1"/>
-    <part name="034571-01.de1"/>
-    <part name="034570-01.c1"/>
-    <part name="034569-01.b1"/>
-    <part name="034599-01.r3"/>
-    <part name="034598-01.np3"/>
-    <part name="034597-01.m3"/>
-    <part name="034599-01.r3"/>
+  <rom index='0' md5='ef770f91fafa988eaf7bfc5a7b7e38ee' type='nonmerged' zip='llander1.zip'>
+    <part name='034572-01.f1'/>
+    <part name='034571-01.de1'/>
+    <part name='034570-01.c1'/>
+    <part name='034569-01.b1'/>
+    <part name='034599-01.r3'/>
+    <part name='034598-01.np3'/>
+    <part name='034597-01.m3'/>
+    <part name='034599-01.r3'/>
   </rom>
 </misterromdescription>

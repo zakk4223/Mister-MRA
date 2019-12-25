@@ -6,46 +6,46 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="398ecdb79202322ee67cbbc04567ecfd" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="galaxiani/cp-1.8g"/>
-    <part name="galaxianbl2/j7.7j"/>
-    <part name="galap1/galaxian.w"/>
-    <part name="galaxiani/cp-4.8d"/>
-    <part name="galaxiana/7l.bin"/>
-    <part name="galaxiana/7l.bin"/>
-    <part name="galaxiana/7l.bin"/>
-    <part name="galaxiana/7l.bin"/>
-    <part name="galaxiant/gl-02.1k"/>
-    <part name="galaxiant/gl-02.1k"/>
-    <part name="galaxiant/gl-01.1j"/>
-    <part name="galaxiant/gl-01.1j"/>
+  <rom index='0' md5='398ecdb79202322ee67cbbc04567ecfd' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='galaxiani/cp-1.8g'/>
+    <part name='galaxianbl2/j7.7j'/>
+    <part name='galap1/galaxian.w'/>
+    <part name='galaxiani/cp-4.8d'/>
+    <part name='galaxiana/7l.bin'/>
+    <part name='galaxiana/7l.bin'/>
+    <part name='galaxiana/7l.bin'/>
+    <part name='galaxiana/7l.bin'/>
+    <part name='galaxiant/gl-02.1k'/>
+    <part name='galaxiant/gl-02.1k'/>
+    <part name='galaxiant/gl-01.1j'/>
+    <part name='galaxiant/gl-01.1j'/>
   </rom>
-  <rom index="0" md5="398ecdb79202322ee67cbbc04567ecfd" type="split" zip="galaxiant.zip">
-    <part name="gl-03.8g"/>
-    <part name="gl-04.8f"/>
-    <part name="gl-05.8e"/>
-    <part name="gl-06.8d"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-02.1k"/>
-    <part name="gl-02.1k"/>
-    <part name="gl-01.1j"/>
-    <part name="gl-01.1j"/>
+  <rom index='0' md5='398ecdb79202322ee67cbbc04567ecfd' type='split' zip='galaxiant.zip'>
+    <part name='gl-03.8g'/>
+    <part name='gl-04.8f'/>
+    <part name='gl-05.8e'/>
+    <part name='gl-06.8d'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-02.1k'/>
+    <part name='gl-02.1k'/>
+    <part name='gl-01.1j'/>
+    <part name='gl-01.1j'/>
   </rom>
-  <rom index="0" md5="398ecdb79202322ee67cbbc04567ecfd" type="nonmerged" zip="galaxiant.zip">
-    <part name="gl-03.8g"/>
-    <part name="gl-04.8f"/>
-    <part name="gl-05.8e"/>
-    <part name="gl-06.8d"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-07.8c"/>
-    <part name="gl-02.1k"/>
-    <part name="gl-02.1k"/>
-    <part name="gl-01.1j"/>
-    <part name="gl-01.1j"/>
+  <rom index='0' md5='398ecdb79202322ee67cbbc04567ecfd' type='nonmerged' zip='galaxiant.zip'>
+    <part name='gl-03.8g'/>
+    <part name='gl-04.8f'/>
+    <part name='gl-05.8e'/>
+    <part name='gl-06.8d'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-07.8c'/>
+    <part name='gl-02.1k'/>
+    <part name='gl-02.1k'/>
+    <part name='gl-01.1j'/>
+    <part name='gl-01.1j'/>
   </rom>
 </misterromdescription>

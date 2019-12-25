@@ -1,54 +1,54 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index="0" md5="c0a0656bee9f55f694b8d5b624f7106b" type="merged" zip="mspacman.zip">
-    <part name="mspacmab/boot1"/>
-    <part name="mspacmab/boot2"/>
-    <part name="mspacmab/boot3"/>
-    <part name="mspacmbmc/misspacmanfalgas_3.bin"/>
-    <part name="mspacmab/boot5"/>
-    <part name="mspacmab/boot5"/>
-    <part name="mspacmbe/6.bin"/>
-    <part name="5e"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='c0a0656bee9f55f694b8d5b624f7106b' type='merged' zip='mspacman.zip'>
+    <part name='mspacmab/boot1'/>
+    <part name='mspacmab/boot2'/>
+    <part name='mspacmab/boot3'/>
+    <part name='mspacmbmc/misspacmanfalgas_3.bin'/>
+    <part name='mspacmab/boot5'/>
+    <part name='mspacmab/boot5'/>
+    <part name='mspacmbe/6.bin'/>
+    <part name='5e'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
-  <rom index="0" md5="c0a0656bee9f55f694b8d5b624f7106b" type="split" zip="mspacmbmc.zip">
-    <part name="misspacmanfalgas_0.bin"/>
-    <part name="misspacmanfalgas_1.bin"/>
-    <part name="misspacmanfalgas_2.bin"/>
-    <part name="misspacmanfalgas_3.bin"/>
-    <part name="misspacmanfalgas_4.bin"/>
-    <part name="misspacmanfalgas_4.bin"/>
-    <part name="misspacmanfalgas_5.bin"/>
-    <part name="5e" zip="mspacman.zip"/>
-    <part name="5f" zip="mspacman.zip"/>
-    <part name="5f" zip="mspacman.zip"/>
-    <part name="5f" zip="mspacman.zip"/>
-    <part name="82s126.1m" zip="mspacman.zip"/>
-    <part name="82s126.4a" zip="mspacman.zip"/>
-    <part name="82s126.3m" zip="mspacman.zip"/>
-    <part name="82s123.7f" zip="mspacman.zip"/>
+  <rom index='0' md5='c0a0656bee9f55f694b8d5b624f7106b' type='split' zip='mspacmbmc.zip'>
+    <part name='misspacmanfalgas_0.bin'/>
+    <part name='misspacmanfalgas_1.bin'/>
+    <part name='misspacmanfalgas_2.bin'/>
+    <part name='misspacmanfalgas_3.bin'/>
+    <part name='misspacmanfalgas_4.bin'/>
+    <part name='misspacmanfalgas_4.bin'/>
+    <part name='misspacmanfalgas_5.bin'/>
+    <part name='5e' zip='mspacman.zip'/>
+    <part name='5f' zip='mspacman.zip'/>
+    <part name='5f' zip='mspacman.zip'/>
+    <part name='5f' zip='mspacman.zip'/>
+    <part name='82s126.1m' zip='mspacman.zip'/>
+    <part name='82s126.4a' zip='mspacman.zip'/>
+    <part name='82s126.3m' zip='mspacman.zip'/>
+    <part name='82s123.7f' zip='mspacman.zip'/>
   </rom>
-  <rom index="0" md5="c0a0656bee9f55f694b8d5b624f7106b" type="nonmerged" zip="mspacmbmc.zip">
-    <part name="misspacmanfalgas_0.bin"/>
-    <part name="misspacmanfalgas_1.bin"/>
-    <part name="misspacmanfalgas_2.bin"/>
-    <part name="misspacmanfalgas_3.bin"/>
-    <part name="misspacmanfalgas_4.bin"/>
-    <part name="misspacmanfalgas_4.bin"/>
-    <part name="misspacmanfalgas_5.bin"/>
-    <part name="5e"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="5f"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='c0a0656bee9f55f694b8d5b624f7106b' type='nonmerged' zip='mspacmbmc.zip'>
+    <part name='misspacmanfalgas_0.bin'/>
+    <part name='misspacmanfalgas_1.bin'/>
+    <part name='misspacmanfalgas_2.bin'/>
+    <part name='misspacmanfalgas_3.bin'/>
+    <part name='misspacmanfalgas_4.bin'/>
+    <part name='misspacmanfalgas_4.bin'/>
+    <part name='misspacmanfalgas_5.bin'/>
+    <part name='5e'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
 </misterromdescription>

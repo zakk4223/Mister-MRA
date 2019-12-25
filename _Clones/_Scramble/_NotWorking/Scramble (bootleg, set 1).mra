@@ -6,49 +6,49 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index="0" md5="9cb7357a6bf55f3516943de92213c0c6" type="merged" zip="scramble.zip">
-    <part name="scramb2/r1.7f1"/>
-    <part name="scramb2/r1.7f2"/>
-    <part name="scramb2/r2.7h1"/>
-    <part name="scramb2/r2.7h2"/>
-    <part name="scramb2/r3.7k1"/>
-    <part name="scramb2/r3.7k2"/>
-    <part name="bomber/7.3c"/>
-    <part name="scramb2/r4.7l2"/>
-    <part name="c1.5h"/>
-    <part name="c2.5f"/>
-    <part name="ot1.5c"/>
-    <part name="ot2.5d"/>
-    <part name="ot3.5e"/>
+  <rom index='0' md5='9cb7357a6bf55f3516943de92213c0c6' type='merged' zip='scramble.zip'>
+    <part name='scramb2/r1.7f1'/>
+    <part name='scramb2/r1.7f2'/>
+    <part name='scramb2/r2.7h1'/>
+    <part name='scramb2/r2.7h2'/>
+    <part name='scramb2/r3.7k1'/>
+    <part name='scramb2/r3.7k2'/>
+    <part name='bomber/7.3c'/>
+    <part name='scramb2/r4.7l2'/>
+    <part name='c1.5h'/>
+    <part name='c2.5f'/>
+    <part name='ot1.5c'/>
+    <part name='ot2.5d'/>
+    <part name='ot3.5e'/>
   </rom>
-  <rom index="0" md5="9cb7357a6bf55f3516943de92213c0c6" type="split" zip="scramb2.zip">
-    <part name="r1.7f1"/>
-    <part name="r1.7f2"/>
-    <part name="r2.7h1"/>
-    <part name="r2.7h2"/>
-    <part name="r3.7k1"/>
-    <part name="r3.7k2"/>
-    <part name="r4.7l1"/>
-    <part name="r4.7l2"/>
-    <part name="c1.5h" zip="scramble.zip"/>
-    <part name="c2.5f" zip="scramble.zip"/>
-    <part name="ot1.5c" zip="scramble.zip"/>
-    <part name="ot2.5d" zip="scramble.zip"/>
-    <part name="ot3.5e" zip="scramble.zip"/>
+  <rom index='0' md5='9cb7357a6bf55f3516943de92213c0c6' type='split' zip='scramb2.zip'>
+    <part name='r1.7f1'/>
+    <part name='r1.7f2'/>
+    <part name='r2.7h1'/>
+    <part name='r2.7h2'/>
+    <part name='r3.7k1'/>
+    <part name='r3.7k2'/>
+    <part name='r4.7l1'/>
+    <part name='r4.7l2'/>
+    <part name='c1.5h' zip='scramble.zip'/>
+    <part name='c2.5f' zip='scramble.zip'/>
+    <part name='ot1.5c' zip='scramble.zip'/>
+    <part name='ot2.5d' zip='scramble.zip'/>
+    <part name='ot3.5e' zip='scramble.zip'/>
   </rom>
-  <rom index="0" md5="9cb7357a6bf55f3516943de92213c0c6" type="nonmerged" zip="scramb2.zip">
-    <part name="r1.7f1"/>
-    <part name="r1.7f2"/>
-    <part name="r2.7h1"/>
-    <part name="r2.7h2"/>
-    <part name="r3.7k1"/>
-    <part name="r3.7k2"/>
-    <part name="r4.7l1"/>
-    <part name="r4.7l2"/>
-    <part name="r5.1l"/>
-    <part name="r6.1j"/>
-    <part name="ot1.5c"/>
-    <part name="ot2.5d"/>
-    <part name="ot3.5e"/>
+  <rom index='0' md5='9cb7357a6bf55f3516943de92213c0c6' type='nonmerged' zip='scramb2.zip'>
+    <part name='r1.7f1'/>
+    <part name='r1.7f2'/>
+    <part name='r2.7h1'/>
+    <part name='r2.7h2'/>
+    <part name='r3.7k1'/>
+    <part name='r3.7k2'/>
+    <part name='r4.7l1'/>
+    <part name='r4.7l2'/>
+    <part name='r5.1l'/>
+    <part name='r6.1j'/>
+    <part name='ot1.5c'/>
+    <part name='ot2.5d'/>
+    <part name='ot3.5e'/>
   </rom>
 </misterromdescription>

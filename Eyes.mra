@@ -6,58 +6,24 @@
   <manufacturer>Techstar (Rock-Ola license)</manufacturer>
   <category>Maze</category>
   <rbf>eyes</rbf>
-  <rom index="0" md5="6a14c3752f33a144760b4fe8f45ed5f7" type="merged|nonmerged" zip="eyes.zip">
-    <part name="d7"/>
-    <part name="e7"/>
-    <part name="f7"/>
-    <part name="h7"/>
-    <part name="d7"/>
-    <part name="e7"/>
-    <part name="f7"/>
-    <part name="h7"/>
-    <part name="d5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='6a14c3752f33a144760b4fe8f45ed5f7' type='merged|nonmerged|split' zip='eyes.zip'>
+    <part name='d7'/>
+    <part name='e7'/>
+    <part name='f7'/>
+    <part name='h7'/>
+    <part name='d7'/>
+    <part name='e7'/>
+    <part name='f7'/>
+    <part name='h7'/>
+    <part name='d5'/>
+    <part name='e5'/>
+    <part name='e5'/>
+    <part name='e5'/>
+    <part name='82s126.1m'/>
+    <part name='82s129.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
-  <rom index="0" md5="6a14c3752f33a144760b4fe8f45ed5f7" type="split" zip="eyes.zip">
-    <part name="d7"/>
-    <part name="e7"/>
-    <part name="f7"/>
-    <part name="h7"/>
-    <part name="d7"/>
-    <part name="e7"/>
-    <part name="f7"/>
-    <part name="h7"/>
-    <part name="d5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
-  </rom>
-  <rom index="0" md5="6a14c3752f33a144760b4fe8f45ed5f7" type="nonmerged" zip="eyes.zip">
-    <part name="d7"/>
-    <part name="e7"/>
-    <part name="f7"/>
-    <part name="h7"/>
-    <part name="d7"/>
-    <part name="e7"/>
-    <part name="f7"/>
-    <part name="h7"/>
-    <part name="d5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="e5"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
-  </rom>
+  
+  
 </misterromdescription>

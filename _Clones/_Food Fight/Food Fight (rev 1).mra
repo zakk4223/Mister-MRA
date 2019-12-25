@@ -3,74 +3,74 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>foodfight</rbf>
-  <rom index="0" md5="a1fa44e16242647a0196882d017e96ad" type="merged" zip="foodf.zip">
-    <part name="foodf1/136020-101.8c"/>
-    <part name="foodf1/136020-102.9c"/>
-    <part name="foodf1/136020-103.8d"/>
-    <part name="foodf1/136020-104.9d"/>
-    <part name="foodf1/136020-105.8e"/>
-    <part name="foodf1/136020-106.9e"/>
-    <part name="foodf1/136020-107.8f"/>
-    <part name="foodf1/136020-108.9f"/>
-    <part name="136020-109.6lm"/>
-    <part name="136020-110.4e"/>
-    <part name="136020-111.4d"/>
-    <part name="foodf.nv"/>
+  <rom index='0' md5='a1fa44e16242647a0196882d017e96ad' type='merged' zip='foodf.zip'>
+    <part name='foodf1/136020-101.8c'/>
+    <part name='foodf1/136020-102.9c'/>
+    <part name='foodf1/136020-103.8d'/>
+    <part name='foodf1/136020-104.9d'/>
+    <part name='foodf1/136020-105.8e'/>
+    <part name='foodf1/136020-106.9e'/>
+    <part name='foodf1/136020-107.8f'/>
+    <part name='foodf1/136020-108.9f'/>
+    <part name='136020-109.6lm'/>
+    <part name='136020-110.4e'/>
+    <part name='136020-111.4d'/>
+    <part name='foodf.nv'/>
   </rom>
-  <rom index="0" md5="a1fa44e16242647a0196882d017e96ad" type="split" zip="foodf1.zip">
-    <part name="136020-101.8c"/>
-    <part name="136020-102.9c"/>
-    <part name="136020-103.8d"/>
-    <part name="136020-104.9d"/>
-    <part name="136020-105.8e"/>
-    <part name="136020-106.9e"/>
-    <part name="136020-107.8f"/>
-    <part name="136020-108.9f"/>
-    <part name="136020-109.6lm" zip="foodf.zip"/>
-    <part name="136020-110.4e" zip="foodf.zip"/>
-    <part name="136020-111.4d" zip="foodf.zip"/>
-    <part name="foodf.nv" zip="foodf.zip"/>
+  <rom index='0' md5='a1fa44e16242647a0196882d017e96ad' type='split' zip='foodf1.zip'>
+    <part name='136020-101.8c'/>
+    <part name='136020-102.9c'/>
+    <part name='136020-103.8d'/>
+    <part name='136020-104.9d'/>
+    <part name='136020-105.8e'/>
+    <part name='136020-106.9e'/>
+    <part name='136020-107.8f'/>
+    <part name='136020-108.9f'/>
+    <part name='136020-109.6lm' zip='foodf.zip'/>
+    <part name='136020-110.4e' zip='foodf.zip'/>
+    <part name='136020-111.4d' zip='foodf.zip'/>
+    <part name='foodf.nv' zip='foodf.zip'/>
   </rom>
-  <rom index="0" md5="a1fa44e16242647a0196882d017e96ad" type="nonmerged" zip="foodf1.zip">
-    <part name="136020-101.8c"/>
-    <part name="136020-102.9c"/>
-    <part name="136020-103.8d"/>
-    <part name="136020-104.9d"/>
-    <part name="136020-105.8e"/>
-    <part name="136020-106.9e"/>
-    <part name="136020-107.8f"/>
-    <part name="136020-108.9f"/>
-    <part name="136020-109.6lm"/>
-    <part name="136020-110.4e"/>
-    <part name="136020-111.4d"/>
-    <part name="foodf.nv"/>
+  <rom index='0' md5='a1fa44e16242647a0196882d017e96ad' type='nonmerged' zip='foodf1.zip'>
+    <part name='136020-101.8c'/>
+    <part name='136020-102.9c'/>
+    <part name='136020-103.8d'/>
+    <part name='136020-104.9d'/>
+    <part name='136020-105.8e'/>
+    <part name='136020-106.9e'/>
+    <part name='136020-107.8f'/>
+    <part name='136020-108.9f'/>
+    <part name='136020-109.6lm'/>
+    <part name='136020-110.4e'/>
+    <part name='136020-111.4d'/>
+    <part name='foodf.nv'/>
   </rom>
-  <rom index="0" md5="a1fa44e16242647a0196882d017e96ad" type="split" zip="foodf1.zip">
-    <part name="136020-101.8c"/>
-    <part name="136020-102.9c"/>
-    <part name="136020-103.8d"/>
-    <part name="136020-104.9d"/>
-    <part name="136020-105.8e"/>
-    <part name="136020-106.9e"/>
-    <part name="136020-107.8f"/>
-    <part name="136020-108.9f"/>
-    <part name="136020-109.6lm" zip="foodf.zip"/>
-    <part name="136020-110.4e" zip="foodf.zip"/>
-    <part name="136020-111.4d" zip="foodf.zip"/>
-    <part name="foodf.nv" zip="foodf.zip"/>
+  <rom index='0' md5='a1fa44e16242647a0196882d017e96ad' type='split' zip='foodf1.zip'>
+    <part name='136020-101.8c'/>
+    <part name='136020-102.9c'/>
+    <part name='136020-103.8d'/>
+    <part name='136020-104.9d'/>
+    <part name='136020-105.8e'/>
+    <part name='136020-106.9e'/>
+    <part name='136020-107.8f'/>
+    <part name='136020-108.9f'/>
+    <part name='136020-109.6lm' zip='foodf.zip'/>
+    <part name='136020-110.4e' zip='foodf.zip'/>
+    <part name='136020-111.4d' zip='foodf.zip'/>
+    <part name='foodf.nv' zip='foodf.zip'/>
   </rom>
-  <rom index="0" md5="a1fa44e16242647a0196882d017e96ad" type="nonmerged" zip="foodf1.zip">
-    <part name="136020-101.8c"/>
-    <part name="136020-102.9c"/>
-    <part name="136020-103.8d"/>
-    <part name="136020-104.9d"/>
-    <part name="136020-105.8e"/>
-    <part name="136020-106.9e"/>
-    <part name="136020-107.8f"/>
-    <part name="136020-108.9f"/>
-    <part name="136020-109.6lm"/>
-    <part name="136020-110.4e"/>
-    <part name="136020-111.4d"/>
-    <part name="foodf.nv"/>
+  <rom index='0' md5='a1fa44e16242647a0196882d017e96ad' type='nonmerged' zip='foodf1.zip'>
+    <part name='136020-101.8c'/>
+    <part name='136020-102.9c'/>
+    <part name='136020-103.8d'/>
+    <part name='136020-104.9d'/>
+    <part name='136020-105.8e'/>
+    <part name='136020-106.9e'/>
+    <part name='136020-107.8f'/>
+    <part name='136020-108.9f'/>
+    <part name='136020-109.6lm'/>
+    <part name='136020-110.4e'/>
+    <part name='136020-111.4d'/>
+    <part name='foodf.nv'/>
   </rom>
 </misterromdescription>

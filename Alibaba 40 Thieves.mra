@@ -7,82 +7,32 @@
   <category>Adventure / Arabian</category>
   <category>Maze</category>
   <rbf>alibaba</rbf>
-  <rom index="0" md5="cee5eddb1e1bf4a764408b305629bb4e" type="merged|nonmerged" zip="alibaba.zip">
-    <part name="6e"/>
-    <part name="6f"/>
-    <part name="6h"/>
-    <part name="6k"/>
-    <part name="6l"/>
-    <part name="6l"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="5k"/>
-    <part name="5h"/>
-    <part name="5f"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.a4"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.e7"/>
+  <rom index='0' md5='cee5eddb1e1bf4a764408b305629bb4e' type='merged|nonmerged|split' zip='alibaba.zip'>
+    <part name='6e'/>
+    <part name='6f'/>
+    <part name='6h'/>
+    <part name='6k'/>
+    <part name='6l'/>
+    <part name='6l'/>
+    <part name='6m'/>
+    <part name='6m'/>
+    <part name='6m'/>
+    <part name='6m'/>
+    <part name='5k'/>
+    <part name='5h'/>
+    <part name='5f'/>
+    <part name='5k'/>
+    <part name='5k'/>
+    <part name='5k'/>
+    <part name='5k'/>
+    <part name='5k'/>
+    <part name='5k'/>
+    <part name='5k'/>
+    <part name='82s126.1m'/>
+    <part name='82s129.a4'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.e7'/>
   </rom>
-  <rom index="0" md5="cee5eddb1e1bf4a764408b305629bb4e" type="split" zip="alibaba.zip">
-    <part name="6e"/>
-    <part name="6f"/>
-    <part name="6h"/>
-    <part name="6k"/>
-    <part name="6l"/>
-    <part name="6l"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="5k"/>
-    <part name="5h"/>
-    <part name="5f"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.a4"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.e7"/>
-  </rom>
-  <rom index="0" md5="cee5eddb1e1bf4a764408b305629bb4e" type="nonmerged" zip="alibaba.zip">
-    <part name="6e"/>
-    <part name="6f"/>
-    <part name="6h"/>
-    <part name="6k"/>
-    <part name="6l"/>
-    <part name="6l"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="6m"/>
-    <part name="5k"/>
-    <part name="5h"/>
-    <part name="5f"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="5k"/>
-    <part name="82s126.1m"/>
-    <part name="82s129.a4"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.e7"/>
-  </rom>
+  
+  
 </misterromdescription>

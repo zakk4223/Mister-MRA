@@ -7,49 +7,49 @@
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
-  <rom index="0" md5="48b0424f842ab65e66725a1ea62edf37" type="merged|nonmerged" zip="uniwars.zip">
-    <part name="gteikokub2/94gnog.bin"/>
-    <part name="gteikokub2/92gnog.bin"/>
-    <part name="k07_3a.bin"/>
-    <part name="gteikokub2/1gnog.bin"/>
-    <part name="gteikokub/5.bin"/>
-    <part name="galemp/6"/>
-    <part name="m08p_7a.bin"/>
-    <part name="gteikokub2/98gnog.bin"/>
-    <part name="gteikoku/h01_1.bin"/>
-    <part name="h01_2.bin"/>
-    <part name="gteikoku/k01_1.bin"/>
-    <part name="k01_2.bin"/>
-    <part name="galemp/l06_prom.bin"/>
+  <rom index='0' md5='48b0424f842ab65e66725a1ea62edf37' type='merged|nonmerged' zip='uniwars.zip'>
+    <part name='gteikokub2/94gnog.bin'/>
+    <part name='gteikokub2/92gnog.bin'/>
+    <part name='k07_3a.bin'/>
+    <part name='gteikokub2/1gnog.bin'/>
+    <part name='gteikokub/5.bin'/>
+    <part name='galemp/6'/>
+    <part name='m08p_7a.bin'/>
+    <part name='gteikokub2/98gnog.bin'/>
+    <part name='gteikoku/h01_1.bin'/>
+    <part name='h01_2.bin'/>
+    <part name='gteikoku/k01_1.bin'/>
+    <part name='k01_2.bin'/>
+    <part name='galemp/l06_prom.bin'/>
   </rom>
-  <rom index="0" md5="48b0424f842ab65e66725a1ea62edf37" type="split" zip="gteikokub2.zip">
-    <part name="94gnog.bin"/>
-    <part name="92gnog.bin"/>
-    <part name="k07_3a.bin" zip="uniwars.zip"/>
-    <part name="1gnog.bin"/>
-    <part name="5.bin"/>
-    <part name="e08p_6a.bin"/>
-    <part name="m08p_7a.bin" zip="uniwars.zip"/>
-    <part name="98gnog.bin"/>
-    <part name="h01_1.bin"/>
-    <part name="h01_2.bin" zip="uniwars.zip"/>
-    <part name="k01_1.bin"/>
-    <part name="k01_2.bin" zip="uniwars.zip"/>
-    <part name="l06_prom.bin"/>
+  <rom index='0' md5='48b0424f842ab65e66725a1ea62edf37' type='split' zip='gteikokub2.zip'>
+    <part name='94gnog.bin'/>
+    <part name='92gnog.bin'/>
+    <part name='k07_3a.bin' zip='uniwars.zip'/>
+    <part name='1gnog.bin'/>
+    <part name='5.bin'/>
+    <part name='e08p_6a.bin'/>
+    <part name='m08p_7a.bin' zip='uniwars.zip'/>
+    <part name='98gnog.bin'/>
+    <part name='h01_1.bin'/>
+    <part name='h01_2.bin' zip='uniwars.zip'/>
+    <part name='k01_1.bin'/>
+    <part name='k01_2.bin' zip='uniwars.zip'/>
+    <part name='l06_prom.bin'/>
   </rom>
-  <rom index="0" md5="48b0424f842ab65e66725a1ea62edf37" type="nonmerged" zip="gteikokub2.zip">
-    <part name="94gnog.bin"/>
-    <part name="92gnog.bin"/>
-    <part name="k07_3a.bin"/>
-    <part name="1gnog.bin"/>
-    <part name="5.bin"/>
-    <part name="e08p_6a.bin"/>
-    <part name="m08p_7a.bin"/>
-    <part name="98gnog.bin"/>
-    <part name="h01_1.bin"/>
-    <part name="h01_2.bin"/>
-    <part name="k01_1.bin"/>
-    <part name="k01_2.bin"/>
-    <part name="l06_prom.bin"/>
+  <rom index='0' md5='48b0424f842ab65e66725a1ea62edf37' type='nonmerged' zip='gteikokub2.zip'>
+    <part name='94gnog.bin'/>
+    <part name='92gnog.bin'/>
+    <part name='k07_3a.bin'/>
+    <part name='1gnog.bin'/>
+    <part name='5.bin'/>
+    <part name='e08p_6a.bin'/>
+    <part name='m08p_7a.bin'/>
+    <part name='98gnog.bin'/>
+    <part name='h01_1.bin'/>
+    <part name='h01_2.bin'/>
+    <part name='k01_1.bin'/>
+    <part name='k01_2.bin'/>
+    <part name='l06_prom.bin'/>
   </rom>
 </misterromdescription>

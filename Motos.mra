@@ -1,51 +1,23 @@
 <misterromdescription>
   <rbf>Druaga</rbf>
-  <rom index="1">
+  <rom index='1'>
     <part>04</part>
   </rom>
-  <rom index="0" md5="446203961cff53598233d2c50db390d8" type="merged" zip="motos.zip">
-    <part name="mo1_3.1d"/>
-    <part name="mo1_1.1b"/>
-    <part name="mo1_6.3m"/>
-    <part name="mo1_7.3n"/>
-    <part name="mo1_4.1k"/>
-    <part name="mo1_5.3b"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-6.4c"/>
-    <part name="mo1-3.3m"/>
-    <part name="mo1-5.5b"/>
+  <rom index='0' md5='446203961cff53598233d2c50db390d8' type='merged|split|nonmerged' zip='motos.zip'>
+    <part name='mo1_3.1d'/>
+    <part name='mo1_1.1b'/>
+    <part name='mo1_6.3m'/>
+    <part name='mo1_7.3n'/>
+    <part name='mo1_4.1k'/>
+    <part name='mo1_5.3b'/>
+    <part name='mo1-7.5k'/>
+    <part name='mo1-7.5k'/>
+    <part name='mo1-7.5k'/>
+    <part name='mo1-7.5k'/>
+    <part name='mo1-6.4c'/>
+    <part name='mo1-3.3m'/>
+    <part name='mo1-5.5b'/>
   </rom>
-  <rom index="0" md5="446203961cff53598233d2c50db390d8" type="split" zip="motos.zip">
-    <part name="mo1_3.1d"/>
-    <part name="mo1_1.1b"/>
-    <part name="mo1_6.3m"/>
-    <part name="mo1_7.3n"/>
-    <part name="mo1_4.1k"/>
-    <part name="mo1_5.3b"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-6.4c"/>
-    <part name="mo1-3.3m"/>
-    <part name="mo1-5.5b"/>
-  </rom>
-  <rom index="0" md5="446203961cff53598233d2c50db390d8" type="nonmerged" zip="motos.zip">
-    <part name="mo1_3.1d"/>
-    <part name="mo1_1.1b"/>
-    <part name="mo1_6.3m"/>
-    <part name="mo1_7.3n"/>
-    <part name="mo1_4.1k"/>
-    <part name="mo1_5.3b"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-7.5k"/>
-    <part name="mo1-6.4c"/>
-    <part name="mo1-3.3m"/>
-    <part name="mo1-5.5b"/>
-  </rom>
+  
+  
 </misterromdescription>

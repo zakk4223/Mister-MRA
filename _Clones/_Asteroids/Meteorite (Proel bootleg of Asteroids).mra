@@ -7,26 +7,26 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroids</rbf>
-  <rom index="0" md5="9418b4ceffb2ccccf8d0ccdbe76ae6c9" type="merged|nonmerged" zip="asteroid.zip">
-    <part name="asterock/10505.2"/>
-    <part name="asterock/10505.3"/>
-    <part name="asterock/10505.4"/>
-    <part name="asterock/10505.5"/>
-    <part name="meteorite/6"/>
-    <part name="asterock/10505.7"/>
-    <part name="meteorite/0"/>
-    <part name="meteorho/b.bin"/>
-    <part name="034602-01.c8"/>
+  <rom index='0' md5='9418b4ceffb2ccccf8d0ccdbe76ae6c9' type='merged|nonmerged' zip='asteroid.zip'>
+    <part name='asterock/10505.2'/>
+    <part name='asterock/10505.3'/>
+    <part name='asterock/10505.4'/>
+    <part name='asterock/10505.5'/>
+    <part name='meteorite/6'/>
+    <part name='asterock/10505.7'/>
+    <part name='meteorite/0'/>
+    <part name='meteorho/b.bin'/>
+    <part name='034602-01.c8'/>
   </rom>
-  <rom index="0" md5="9418b4ceffb2ccccf8d0ccdbe76ae6c9" type="split" zip="meteorite.zip">
-    <part name="2"/>
-    <part name="3"/>
-    <part name="4"/>
-    <part name="5"/>
-    <part name="6"/>
-    <part name="7"/>
-    <part name="0"/>
-    <part name="1"/>
-    <part name="034602-01.c8" zip="asteroid.zip"/>
+  <rom index='0' md5='9418b4ceffb2ccccf8d0ccdbe76ae6c9' type='split' zip='meteorite.zip'>
+    <part name='2'/>
+    <part name='3'/>
+    <part name='4'/>
+    <part name='5'/>
+    <part name='6'/>
+    <part name='7'/>
+    <part name='0'/>
+    <part name='1'/>
+    <part name='034602-01.c8' zip='asteroid.zip'/>
   </rom>
 </misterromdescription>

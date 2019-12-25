@@ -8,46 +8,46 @@
   <category>Maze / Bugs</category>
   <category>Maze / Centipede</category>
   <rbf>warofthebugs</rbf>
-  <rom index="0" md5="123290fa02a74e3bef5b18ccbac3a692" type="merged|nonmerged" zip="warofbug.zip">
-    <part name="warofbugg/wotbg-u-1.bin"/>
-    <part name="warofbugg/wotbg-v-2.bin"/>
-    <part name="warofbugg/wotbg-w-3.bin"/>
-    <part name="warofbugg/wotbg-y-4.bin"/>
-    <part name="warofbugg/wotbg-z-5.bin"/>
-    <part name="warofbugg/wotbg-z-5.bin"/>
-    <part name="warofbugg/wotbg-z-5.bin"/>
-    <part name="warofbugg/wotbg-z-5.bin"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1j"/>
-    <part name="warofbug.1j"/>
+  <rom index='0' md5='123290fa02a74e3bef5b18ccbac3a692' type='merged|nonmerged' zip='warofbug.zip'>
+    <part name='warofbugg/wotbg-u-1.bin'/>
+    <part name='warofbugg/wotbg-v-2.bin'/>
+    <part name='warofbugg/wotbg-w-3.bin'/>
+    <part name='warofbugg/wotbg-y-4.bin'/>
+    <part name='warofbugg/wotbg-z-5.bin'/>
+    <part name='warofbugg/wotbg-z-5.bin'/>
+    <part name='warofbugg/wotbg-z-5.bin'/>
+    <part name='warofbugg/wotbg-z-5.bin'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1j'/>
+    <part name='warofbug.1j'/>
   </rom>
-  <rom index="0" md5="123290fa02a74e3bef5b18ccbac3a692" type="split" zip="warofbugg.zip">
-    <part name="wotbg-u-1.bin"/>
-    <part name="wotbg-v-2.bin"/>
-    <part name="wotbg-w-3.bin"/>
-    <part name="wotbg-y-4.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="warofbug.1k" zip="warofbug.zip"/>
-    <part name="warofbug.1k" zip="warofbug.zip"/>
-    <part name="warofbug.1j" zip="warofbug.zip"/>
-    <part name="warofbug.1j" zip="warofbug.zip"/>
+  <rom index='0' md5='123290fa02a74e3bef5b18ccbac3a692' type='split' zip='warofbugg.zip'>
+    <part name='wotbg-u-1.bin'/>
+    <part name='wotbg-v-2.bin'/>
+    <part name='wotbg-w-3.bin'/>
+    <part name='wotbg-y-4.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='warofbug.1k' zip='warofbug.zip'/>
+    <part name='warofbug.1k' zip='warofbug.zip'/>
+    <part name='warofbug.1j' zip='warofbug.zip'/>
+    <part name='warofbug.1j' zip='warofbug.zip'/>
   </rom>
-  <rom index="0" md5="123290fa02a74e3bef5b18ccbac3a692" type="nonmerged" zip="warofbugg.zip">
-    <part name="wotbg-u-1.bin"/>
-    <part name="wotbg-v-2.bin"/>
-    <part name="wotbg-w-3.bin"/>
-    <part name="wotbg-y-4.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="wotbg-z-5.bin"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1k"/>
-    <part name="warofbug.1j"/>
-    <part name="warofbug.1j"/>
+  <rom index='0' md5='123290fa02a74e3bef5b18ccbac3a692' type='nonmerged' zip='warofbugg.zip'>
+    <part name='wotbg-u-1.bin'/>
+    <part name='wotbg-v-2.bin'/>
+    <part name='wotbg-w-3.bin'/>
+    <part name='wotbg-y-4.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='wotbg-z-5.bin'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1k'/>
+    <part name='warofbug.1j'/>
+    <part name='warofbug.1j'/>
   </rom>
 </misterromdescription>

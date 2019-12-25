@@ -6,52 +6,52 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index="0" md5="67ecb51791908b129b580b51b679d485" type="merged|nonmerged" zip="bagman.zip">
-    <part name="e9_b05.bin"/>
-    <part name="f9_b06.bin"/>
-    <part name="f9_b07.bin"/>
-    <part name="bagmanf/04.k5.bin"/>
-    <part name="bagmanf/05.l5.bin"/>
-    <part name="bagmanf/2732 05 pos dboard.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
-    <part name="e1_b02.bin"/>
-    <part fixme="gfx2:0" name="c1_b01.bin"/>
-    <part name="bagmanf/11.h11.bin"/>
-    <part fixme="gfx2:1000" name="f1_b03s.bin"/>
-    <part fixme="tmsprom:0" name="r9_b11.bin"/>
-    <part fixme="tmsprom:1000" name="t9_b12.bin"/>
+  <rom index='0' md5='67ecb51791908b129b580b51b679d485' type='merged|nonmerged' zip='bagman.zip'>
+    <part name='e9_b05.bin'/>
+    <part name='f9_b06.bin'/>
+    <part name='f9_b07.bin'/>
+    <part name='bagmanf/04.k5.bin'/>
+    <part name='bagmanf/05.l5.bin'/>
+    <part name='bagmanf/2732 05 pos dboard.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
+    <part name='e1_b02.bin'/>
+    <part fixme='gfx2:0' name='c1_b01.bin'/>
+    <part name='bagmanf/11.h11.bin'/>
+    <part fixme='gfx2:1000' name='f1_b03s.bin'/>
+    <part fixme='tmsprom:0' name='r9_b11.bin'/>
+    <part fixme='tmsprom:1000' name='t9_b12.bin'/>
   </rom>
-  <rom index="0" md5="67ecb51791908b129b580b51b679d485" type="split" zip="bagmanf.zip">
-    <part name="e9_b05.bin" zip="bagman.zip"/>
-    <part name="f9_b06.bin" zip="bagman.zip"/>
-    <part name="f9_b07.bin" zip="bagman.zip"/>
-    <part name="04.k5.bin"/>
-    <part name="05.l5.bin"/>
-    <part name="2732 05 pos dboard.bin"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
-    <part name="e1_b02.bin" zip="bagman.zip"/>
-    <part name="c1_b01.bin" zip="bagman.zip"/>
-    <part name="11.h11.bin"/>
-    <part name="f1_b03s.bin" zip="bagman.zip"/>
-    <part name="r9_b11.bin" zip="bagman.zip"/>
-    <part name="t9_b12.bin" zip="bagman.zip"/>
+  <rom index='0' md5='67ecb51791908b129b580b51b679d485' type='split' zip='bagmanf.zip'>
+    <part name='e9_b05.bin' zip='bagman.zip'/>
+    <part name='f9_b06.bin' zip='bagman.zip'/>
+    <part name='f9_b07.bin' zip='bagman.zip'/>
+    <part name='04.k5.bin'/>
+    <part name='05.l5.bin'/>
+    <part name='2732 05 pos dboard.bin'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
+    <part name='e1_b02.bin' zip='bagman.zip'/>
+    <part name='c1_b01.bin' zip='bagman.zip'/>
+    <part name='11.h11.bin'/>
+    <part name='f1_b03s.bin' zip='bagman.zip'/>
+    <part name='r9_b11.bin' zip='bagman.zip'/>
+    <part name='t9_b12.bin' zip='bagman.zip'/>
   </rom>
 </misterromdescription>

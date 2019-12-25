@@ -1,30 +1,30 @@
 <misterromdescription>
   <rbf>TimePilot</rbf>
-  <rom index="0" md5="f4824c94d5ce8101be4964e117eadab9" type="merged" zip="timeplt.zip">
-    <part name="timepltc/cd1y"/>
-    <part name="timepltc/cd2y"/>
-    <part name="timepltc/cd3y"/>
-    <part name="tm6"/>
-    <part name="tm4"/>
-    <part name="tm5"/>
-    <part name="tm7"/>
+  <rom index='0' md5='f4824c94d5ce8101be4964e117eadab9' type='merged' zip='timeplt.zip'>
+    <part name='timepltc/cd1y'/>
+    <part name='timepltc/cd2y'/>
+    <part name='timepltc/cd3y'/>
+    <part name='tm6'/>
+    <part name='tm4'/>
+    <part name='tm5'/>
+    <part name='tm7'/>
   </rom>
-  <rom index="0" md5="f4824c94d5ce8101be4964e117eadab9" type="split" zip="timepltc.zip">
-    <part name="cd1y"/>
-    <part name="cd2y"/>
-    <part name="cd3y"/>
-    <part name="tm6" zip="timeplt.zip"/>
-    <part name="tm4" zip="timeplt.zip"/>
-    <part name="tm5" zip="timeplt.zip"/>
-    <part name="tm7" zip="timeplt.zip"/>
+  <rom index='0' md5='f4824c94d5ce8101be4964e117eadab9' type='split' zip='timepltc.zip'>
+    <part name='cd1y'/>
+    <part name='cd2y'/>
+    <part name='cd3y'/>
+    <part name='tm6' zip='timeplt.zip'/>
+    <part name='tm4' zip='timeplt.zip'/>
+    <part name='tm5' zip='timeplt.zip'/>
+    <part name='tm7' zip='timeplt.zip'/>
   </rom>
-  <rom index="0" md5="f4824c94d5ce8101be4964e117eadab9" type="nonmerged" zip="timepltc.zip">
-    <part name="cd1y"/>
-    <part name="cd2y"/>
-    <part name="cd3y"/>
-    <part name="tm6"/>
-    <part name="tm4"/>
-    <part name="tm5"/>
-    <part name="tm7"/>
+  <rom index='0' md5='f4824c94d5ce8101be4964e117eadab9' type='nonmerged' zip='timepltc.zip'>
+    <part name='cd1y'/>
+    <part name='cd2y'/>
+    <part name='cd3y'/>
+    <part name='tm6'/>
+    <part name='tm4'/>
+    <part name='tm5'/>
+    <part name='tm7'/>
   </rom>
 </misterromdescription>

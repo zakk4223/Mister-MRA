@@ -1,63 +1,63 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index="0" md5="5de9f3130b7686c85b60bac3310ffd05" type="merged" zip="xevious.zip">
-    <part name="battles2/bg1.h7"/>
-    <part name="battles2/bg2.h6"/>
-    <part name="xvi_3.2m"/>
-    <part name="battles2/bg4.h4"/>
-    <part name="xvi_5.3f"/>
-    <part name="xvi_6.3j"/>
-    <part name="xvi_7.2c"/>
-    <part name="battles2/bg17.f8"/>
-    <part name="battles/bg10.c8"/>
-    <part name="battles/bg11.c7"/>
-    <part name="xvi_15.4m"/>
-    <part name="xvi_17.4p"/>
-    <part name="xvi_16.4n"/>
-    <part name="battles2/bg16.d8"/>
-    <part name="battles2/bg10.d1"/>
-    <part name="xvi_10.2b"/>
-    <part name="battles2/bg12.d3"/>
-    <part name="50xx.bin" zip="namco50.zip"/>
-    <part name="51xx.bin" zip="namco51.zip"/>
-    <part name="54xx.bin" zip="namco54.zip"/>
+  <rom index='0' md5='5de9f3130b7686c85b60bac3310ffd05' type='merged' zip='xevious.zip'>
+    <part name='battles2/bg1.h7'/>
+    <part name='battles2/bg2.h6'/>
+    <part name='xvi_3.2m'/>
+    <part name='battles2/bg4.h4'/>
+    <part name='xvi_5.3f'/>
+    <part name='xvi_6.3j'/>
+    <part name='xvi_7.2c'/>
+    <part name='battles2/bg17.f8'/>
+    <part name='battles/bg10.c8'/>
+    <part name='battles/bg11.c7'/>
+    <part name='xvi_15.4m'/>
+    <part name='xvi_17.4p'/>
+    <part name='xvi_16.4n'/>
+    <part name='battles2/bg16.d8'/>
+    <part name='battles2/bg10.d1'/>
+    <part name='xvi_10.2b'/>
+    <part name='battles2/bg12.d3'/>
+    <part name='50xx.bin' zip='namco50.zip'/>
+    <part name='51xx.bin' zip='namco51.zip'/>
+    <part name='54xx.bin' zip='namco54.zip'/>
   </rom>
-  <rom index="0" md5="5de9f3130b7686c85b60bac3310ffd05" type="split" zip="battles2.zip">
-    <part name="bg1.h7"/>
-    <part name="bg2.h6"/>
-    <part name="xvi_3.2m" zip="xevious.zip"/>
-    <part name="bg4.h4"/>
-    <part name="xvi_5.3f" zip="xevious.zip"/>
-    <part name="xvi_6.3j" zip="xevious.zip"/>
-    <part name="xvi_7.2c" zip="xevious.zip"/>
-    <part name="bg17.f8"/>
-    <part name="bg18.f9"/>
-    <part name="bg19.f11"/>
-    <part name="xvi_15.4m" zip="xevious.zip"/>
-    <part name="xvi_17.4p" zip="xevious.zip"/>
-    <part name="xvi_16.4n" zip="xevious.zip"/>
-    <part name="bg16.d8"/>
-    <part name="bg10.d1"/>
-    <part name="xvi_10.2b" zip="xevious.zip"/>
-    <part name="bg12.d3"/>
+  <rom index='0' md5='5de9f3130b7686c85b60bac3310ffd05' type='split' zip='battles2.zip'>
+    <part name='bg1.h7'/>
+    <part name='bg2.h6'/>
+    <part name='xvi_3.2m' zip='xevious.zip'/>
+    <part name='bg4.h4'/>
+    <part name='xvi_5.3f' zip='xevious.zip'/>
+    <part name='xvi_6.3j' zip='xevious.zip'/>
+    <part name='xvi_7.2c' zip='xevious.zip'/>
+    <part name='bg17.f8'/>
+    <part name='bg18.f9'/>
+    <part name='bg19.f11'/>
+    <part name='xvi_15.4m' zip='xevious.zip'/>
+    <part name='xvi_17.4p' zip='xevious.zip'/>
+    <part name='xvi_16.4n' zip='xevious.zip'/>
+    <part name='bg16.d8'/>
+    <part name='bg10.d1'/>
+    <part name='xvi_10.2b' zip='xevious.zip'/>
+    <part name='bg12.d3'/>
   </rom>
-  <rom index="0" md5="5de9f3130b7686c85b60bac3310ffd05" type="nonmerged" zip="battles2.zip">
-    <part name="bg1.h7"/>
-    <part name="bg2.h6"/>
-    <part name="bg3.h5"/>
-    <part name="bg4.h4"/>
-    <part name="bg5.h2"/>
-    <part name="bg6.h1"/>
-    <part name="bg7.h8"/>
-    <part name="bg17.f8"/>
-    <part name="bg18.f9"/>
-    <part name="bg19.f11"/>
-    <part name="bg13.d4"/>
-    <part name="bg15.d7"/>
-    <part name="bg14.d6"/>
-    <part name="bg16.d8"/>
-    <part name="bg10.d1"/>
-    <part name="bg11.d2"/>
-    <part name="bg12.d3"/>
+  <rom index='0' md5='5de9f3130b7686c85b60bac3310ffd05' type='nonmerged' zip='battles2.zip'>
+    <part name='bg1.h7'/>
+    <part name='bg2.h6'/>
+    <part name='bg3.h5'/>
+    <part name='bg4.h4'/>
+    <part name='bg5.h2'/>
+    <part name='bg6.h1'/>
+    <part name='bg7.h8'/>
+    <part name='bg17.f8'/>
+    <part name='bg18.f9'/>
+    <part name='bg19.f11'/>
+    <part name='bg13.d4'/>
+    <part name='bg15.d7'/>
+    <part name='bg14.d6'/>
+    <part name='bg16.d8'/>
+    <part name='bg10.d1'/>
+    <part name='bg11.d2'/>
+    <part name='bg12.d3'/>
   </rom>
 </misterromdescription>

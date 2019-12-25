@@ -6,46 +6,46 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="cd3759dae8feaf55c98dbb6f29fee0b4" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="galaxbsf2/gal00eg.ic41"/>
-    <part name="galaxbsf/3.bn"/>
-    <part name="galaxbsf/5.bn"/>
-    <part name="galaxbsf/7.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="galaxbsf/9.bn"/>
-    <part name="1h.bin"/>
-    <part name="1h.bin"/>
-    <part name="1k.bin"/>
-    <part name="1k.bin"/>
+  <rom index='0' md5='cd3759dae8feaf55c98dbb6f29fee0b4' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='galaxbsf2/gal00eg.ic41'/>
+    <part name='galaxbsf/3.bn'/>
+    <part name='galaxbsf/5.bn'/>
+    <part name='galaxbsf/7.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='galaxbsf/9.bn'/>
+    <part name='1h.bin'/>
+    <part name='1h.bin'/>
+    <part name='1k.bin'/>
+    <part name='1k.bin'/>
   </rom>
-  <rom index="0" md5="cd3759dae8feaf55c98dbb6f29fee0b4" type="split" zip="galaxbsf2.zip">
-    <part name="gal00eg.ic41"/>
-    <part name="gal02.ic6"/>
-    <part name="gal04.ic8"/>
-    <part name="gal06.ic10"/>
-    <part name="gal08.ic12"/>
-    <part name="gal08.ic12"/>
-    <part name="gal08.ic12"/>
-    <part name="gal08.ic12"/>
-    <part name="1h.bin" zip="galaxian.zip"/>
-    <part name="1h.bin" zip="galaxian.zip"/>
-    <part name="1k.bin" zip="galaxian.zip"/>
-    <part name="1k.bin" zip="galaxian.zip"/>
+  <rom index='0' md5='cd3759dae8feaf55c98dbb6f29fee0b4' type='split' zip='galaxbsf2.zip'>
+    <part name='gal00eg.ic41'/>
+    <part name='gal02.ic6'/>
+    <part name='gal04.ic8'/>
+    <part name='gal06.ic10'/>
+    <part name='gal08.ic12'/>
+    <part name='gal08.ic12'/>
+    <part name='gal08.ic12'/>
+    <part name='gal08.ic12'/>
+    <part name='1h.bin' zip='galaxian.zip'/>
+    <part name='1h.bin' zip='galaxian.zip'/>
+    <part name='1k.bin' zip='galaxian.zip'/>
+    <part name='1k.bin' zip='galaxian.zip'/>
   </rom>
-  <rom index="0" md5="cd3759dae8feaf55c98dbb6f29fee0b4" type="nonmerged" zip="galaxbsf2.zip">
-    <part name="gal00eg.ic41"/>
-    <part name="gal02.ic6"/>
-    <part name="gal04.ic8"/>
-    <part name="gal06.ic10"/>
-    <part name="gal08.ic12"/>
-    <part name="gal08.ic12"/>
-    <part name="gal08.ic12"/>
-    <part name="gal08.ic12"/>
-    <part name="galaxian.1h"/>
-    <part name="galaxian.1h"/>
-    <part name="galaxian.1k"/>
-    <part name="galaxian.1k"/>
+  <rom index='0' md5='cd3759dae8feaf55c98dbb6f29fee0b4' type='nonmerged' zip='galaxbsf2.zip'>
+    <part name='gal00eg.ic41'/>
+    <part name='gal02.ic6'/>
+    <part name='gal04.ic8'/>
+    <part name='gal06.ic10'/>
+    <part name='gal08.ic12'/>
+    <part name='gal08.ic12'/>
+    <part name='gal08.ic12'/>
+    <part name='gal08.ic12'/>
+    <part name='galaxian.1h'/>
+    <part name='galaxian.1h'/>
+    <part name='galaxian.1k'/>
+    <part name='galaxian.1k'/>
   </rom>
 </misterromdescription>

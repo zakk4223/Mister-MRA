@@ -6,46 +6,46 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="cc94cd83f32bef8516845684b7acb1f2" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="galaxiani/cp-1.8g"/>
-    <part name="galapx/galx.v"/>
-    <part name="galturbo/superg.w"/>
-    <part name="galturbo/galturbo.y"/>
-    <part name="galturbo/galturbo.z"/>
-    <part name="galturbo/galturbo.z"/>
-    <part name="galturbo/galturbo.z"/>
-    <part name="galturbo/galturbo.z"/>
-    <part name="galturbo/galturbo.1h"/>
-    <part name="galturbo/galturbo.1h"/>
-    <part name="galturbo/galturbo.1k"/>
-    <part name="galturbo/galturbo.1k"/>
+  <rom index='0' md5='cc94cd83f32bef8516845684b7acb1f2' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='galaxiani/cp-1.8g'/>
+    <part name='galapx/galx.v'/>
+    <part name='galturbo/superg.w'/>
+    <part name='galturbo/galturbo.y'/>
+    <part name='galturbo/galturbo.z'/>
+    <part name='galturbo/galturbo.z'/>
+    <part name='galturbo/galturbo.z'/>
+    <part name='galturbo/galturbo.z'/>
+    <part name='galturbo/galturbo.1h'/>
+    <part name='galturbo/galturbo.1h'/>
+    <part name='galturbo/galturbo.1k'/>
+    <part name='galturbo/galturbo.1k'/>
   </rom>
-  <rom index="0" md5="cc94cd83f32bef8516845684b7acb1f2" type="split" zip="galturbo.zip">
-    <part name="galturbo.u"/>
-    <part name="galx.v"/>
-    <part name="superg.w"/>
-    <part name="galturbo.y"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.1h"/>
-    <part name="galturbo.1h"/>
-    <part name="galturbo.1k"/>
-    <part name="galturbo.1k"/>
+  <rom index='0' md5='cc94cd83f32bef8516845684b7acb1f2' type='split' zip='galturbo.zip'>
+    <part name='galturbo.u'/>
+    <part name='galx.v'/>
+    <part name='superg.w'/>
+    <part name='galturbo.y'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.1h'/>
+    <part name='galturbo.1h'/>
+    <part name='galturbo.1k'/>
+    <part name='galturbo.1k'/>
   </rom>
-  <rom index="0" md5="cc94cd83f32bef8516845684b7acb1f2" type="nonmerged" zip="galturbo.zip">
-    <part name="galturbo.u"/>
-    <part name="galx.v"/>
-    <part name="superg.w"/>
-    <part name="galturbo.y"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.z"/>
-    <part name="galturbo.1h"/>
-    <part name="galturbo.1h"/>
-    <part name="galturbo.1k"/>
-    <part name="galturbo.1k"/>
+  <rom index='0' md5='cc94cd83f32bef8516845684b7acb1f2' type='nonmerged' zip='galturbo.zip'>
+    <part name='galturbo.u'/>
+    <part name='galx.v'/>
+    <part name='superg.w'/>
+    <part name='galturbo.y'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.z'/>
+    <part name='galturbo.1h'/>
+    <part name='galturbo.1h'/>
+    <part name='galturbo.1k'/>
+    <part name='galturbo.1k'/>
   </rom>
 </misterromdescription>

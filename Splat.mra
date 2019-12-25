@@ -3,55 +3,23 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>splat</rbf>
-  <rom index="0" md5="7e37df07c0c0cfa76cb8a254bd457f15" type="merged" zip="splat.zip">
-    <part name="splat.10"/>
-    <part name="splat.11"/>
-    <part name="splat.12"/>
-    <part name="splat.01"/>
-    <part name="splat.02"/>
-    <part name="splat.03"/>
-    <part name="splat.04"/>
-    <part name="splat.05"/>
-    <part name="splat.06"/>
-    <part name="splat.07"/>
-    <part name="splat.08"/>
-    <part name="splat.09"/>
-    <part name="splat.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
+  <rom index='0' md5='7e37df07c0c0cfa76cb8a254bd457f15' type='merged|split|nonmerged' zip='splat.zip'>
+    <part name='splat.10'/>
+    <part name='splat.11'/>
+    <part name='splat.12'/>
+    <part name='splat.01'/>
+    <part name='splat.02'/>
+    <part name='splat.03'/>
+    <part name='splat.04'/>
+    <part name='splat.05'/>
+    <part name='splat.06'/>
+    <part name='splat.07'/>
+    <part name='splat.08'/>
+    <part name='splat.09'/>
+    <part name='splat.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.6'/>
   </rom>
-  <rom index="0" md5="7e37df07c0c0cfa76cb8a254bd457f15" type="split" zip="splat.zip">
-    <part name="splat.10"/>
-    <part name="splat.11"/>
-    <part name="splat.12"/>
-    <part name="splat.01"/>
-    <part name="splat.02"/>
-    <part name="splat.03"/>
-    <part name="splat.04"/>
-    <part name="splat.05"/>
-    <part name="splat.06"/>
-    <part name="splat.07"/>
-    <part name="splat.08"/>
-    <part name="splat.09"/>
-    <part name="splat.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
-  </rom>
-  <rom index="0" md5="7e37df07c0c0cfa76cb8a254bd457f15" type="nonmerged" zip="splat.zip">
-    <part name="splat.10"/>
-    <part name="splat.11"/>
-    <part name="splat.12"/>
-    <part name="splat.01"/>
-    <part name="splat.02"/>
-    <part name="splat.03"/>
-    <part name="splat.04"/>
-    <part name="splat.05"/>
-    <part name="splat.06"/>
-    <part name="splat.07"/>
-    <part name="splat.08"/>
-    <part name="splat.09"/>
-    <part name="splat.snd"/>
-    <part name="decoder.4"/>
-    <part name="decoder.6"/>
-  </rom>
+  
+  
 </misterromdescription>

@@ -6,58 +6,24 @@
   <manufacturer>Namco (Midway license)</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacmanplus</rbf>
-  <rom index="0" md5="52bf3257fe2f8ef6f3366565ac2d1740" type="merged|nonmerged" zip="pacplus.zip">
-    <part name="pacplus.6e"/>
-    <part name="pacplus.6f"/>
-    <part name="pacplus.6h"/>
-    <part name="pacplus.6j"/>
-    <part name="pacplus.6e"/>
-    <part name="pacplus.6f"/>
-    <part name="pacplus.6h"/>
-    <part name="pacplus.6j"/>
-    <part name="pacplus.5e"/>
-    <part name="pacplus.5f"/>
-    <part name="pacplus.5e"/>
-    <part name="pacplus.5f"/>
-    <part name="82s126.1m"/>
-    <part name="pacplus.4a"/>
-    <part name="82s126.3m"/>
-    <part name="pacplus.7f"/>
+  <rom index='0' md5='52bf3257fe2f8ef6f3366565ac2d1740' type='merged|nonmerged|split' zip='pacplus.zip'>
+    <part name='pacplus.6e'/>
+    <part name='pacplus.6f'/>
+    <part name='pacplus.6h'/>
+    <part name='pacplus.6j'/>
+    <part name='pacplus.6e'/>
+    <part name='pacplus.6f'/>
+    <part name='pacplus.6h'/>
+    <part name='pacplus.6j'/>
+    <part name='pacplus.5e'/>
+    <part name='pacplus.5f'/>
+    <part name='pacplus.5e'/>
+    <part name='pacplus.5f'/>
+    <part name='82s126.1m'/>
+    <part name='pacplus.4a'/>
+    <part name='82s126.3m'/>
+    <part name='pacplus.7f'/>
   </rom>
-  <rom index="0" md5="52bf3257fe2f8ef6f3366565ac2d1740" type="split" zip="pacplus.zip">
-    <part name="pacplus.6e"/>
-    <part name="pacplus.6f"/>
-    <part name="pacplus.6h"/>
-    <part name="pacplus.6j"/>
-    <part name="pacplus.6e"/>
-    <part name="pacplus.6f"/>
-    <part name="pacplus.6h"/>
-    <part name="pacplus.6j"/>
-    <part name="pacplus.5e"/>
-    <part name="pacplus.5f"/>
-    <part name="pacplus.5e"/>
-    <part name="pacplus.5f"/>
-    <part name="82s126.1m"/>
-    <part name="pacplus.4a"/>
-    <part name="82s126.3m"/>
-    <part name="pacplus.7f"/>
-  </rom>
-  <rom index="0" md5="52bf3257fe2f8ef6f3366565ac2d1740" type="nonmerged" zip="pacplus.zip">
-    <part name="pacplus.6e"/>
-    <part name="pacplus.6f"/>
-    <part name="pacplus.6h"/>
-    <part name="pacplus.6j"/>
-    <part name="pacplus.6e"/>
-    <part name="pacplus.6f"/>
-    <part name="pacplus.6h"/>
-    <part name="pacplus.6j"/>
-    <part name="pacplus.5e"/>
-    <part name="pacplus.5f"/>
-    <part name="pacplus.5e"/>
-    <part name="pacplus.5f"/>
-    <part name="82s126.1m"/>
-    <part name="pacplus.4a"/>
-    <part name="82s126.3m"/>
-    <part name="pacplus.7f"/>
-  </rom>
+  
+  
 </misterromdescription>

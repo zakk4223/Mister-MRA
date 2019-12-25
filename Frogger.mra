@@ -7,37 +7,37 @@
   <category>Maze</category>
   <category>Maze / Frogs</category>
   <rbf>frogger</rbf>
-  <rom index="0" md5="c519790f241fddb8032cf597d47bdcfd" type="nonmerged" zip="froggers2.zip">
-    <part name="epr-1012.ic5"/>
-    <part name="epr-1013a.ic6"/>
-    <part name="epr-1014.ic7"/>
-    <part name="epr-1015.ic8"/>
-    <part name="epr-606.ic102"/>
-    <part name="epr-607.ic101"/>
-    <part name="epr-608.ic32"/>
-    <part name="epr-609.ic33"/>
-    <part name="epr-610.ic34"/>
+  <rom index='0' md5='c519790f241fddb8032cf597d47bdcfd' type='nonmerged' zip='froggers2.zip'>
+    <part name='epr-1012.ic5'/>
+    <part name='epr-1013a.ic6'/>
+    <part name='epr-1014.ic7'/>
+    <part name='epr-1015.ic8'/>
+    <part name='epr-606.ic102'/>
+    <part name='epr-607.ic101'/>
+    <part name='epr-608.ic32'/>
+    <part name='epr-609.ic33'/>
+    <part name='epr-610.ic34'/>
   </rom>
-  <rom index="0" md5="c519790f241fddb8032cf597d47bdcfd" type="merged" zip="frogger.zip">
-    <part name="froggers2/epr-1012.ic5"/>
-    <part name="froggers2/epr-1013a.ic6"/>
-    <part name="froggers2/epr-1014.ic7"/>
-    <part name="froggers2/epr-1015.ic8"/>
-    <part name="frogger.606"/>
-    <part name="frogger.607"/>
-    <part name="frogger.608"/>
-    <part name="frogger.609"/>
-    <part name="frogger.610"/>
+  <rom index='0' md5='c519790f241fddb8032cf597d47bdcfd' type='merged' zip='frogger.zip'>
+    <part name='froggers2/epr-1012.ic5'/>
+    <part name='froggers2/epr-1013a.ic6'/>
+    <part name='froggers2/epr-1014.ic7'/>
+    <part name='froggers2/epr-1015.ic8'/>
+    <part name='frogger.606'/>
+    <part name='frogger.607'/>
+    <part name='frogger.608'/>
+    <part name='frogger.609'/>
+    <part name='frogger.610'/>
   </rom>
-  <rom index="0" md5="c519790f241fddb8032cf597d47bdcfd" type="split" zip="froggers2.zip">
-    <part name="epr-1012.ic5"/>
-    <part name="epr-1013a.ic6"/>
-    <part name="epr-1014.ic7"/>
-    <part name="epr-1015.ic8"/>
-    <part name="frogger.606" zip="frogger.zip"/>
-    <part name="frogger.607" zip="frogger.zip"/>
-    <part name="frogger.608" zip="frogger.zip"/>
-    <part name="frogger.609" zip="frogger.zip"/>
-    <part name="frogger.610" zip="frogger.zip"/>
+  <rom index='0' md5='c519790f241fddb8032cf597d47bdcfd' type='split' zip='froggers2.zip'>
+    <part name='epr-1012.ic5'/>
+    <part name='epr-1013a.ic6'/>
+    <part name='epr-1014.ic7'/>
+    <part name='epr-1015.ic8'/>
+    <part name='frogger.606' zip='frogger.zip'/>
+    <part name='frogger.607' zip='frogger.zip'/>
+    <part name='frogger.608' zip='frogger.zip'/>
+    <part name='frogger.609' zip='frogger.zip'/>
+    <part name='frogger.610' zip='frogger.zip'/>
   </rom>
 </misterromdescription>

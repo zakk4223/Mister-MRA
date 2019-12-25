@@ -7,18 +7,18 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroids</rbf>
-  <rom index="0" md5="8f5c7927818f4f8abacb56c2c32f6f03" type="merged|nonmerged" zip="asteroid.zip">
-    <part name="aerolitos/2516_1e.bin"/>
-    <part name="aerolitos/2516_1d.bin"/>
-    <part name="035143-02.j2"/>
-    <part name="035127-02.np3"/>
-    <part name="034602-01.c8"/>
+  <rom index='0' md5='8f5c7927818f4f8abacb56c2c32f6f03' type='merged|nonmerged' zip='asteroid.zip'>
+    <part name='aerolitos/2516_1e.bin'/>
+    <part name='aerolitos/2516_1d.bin'/>
+    <part name='035143-02.j2'/>
+    <part name='035127-02.np3'/>
+    <part name='034602-01.c8'/>
   </rom>
-  <rom index="0" md5="8f5c7927818f4f8abacb56c2c32f6f03" type="split" zip="asteroid2.zip">
-    <part name="035145-02.ef2"/>
-    <part name="035144-02.h2"/>
-    <part name="035143-02.j2" zip="asteroid.zip"/>
-    <part name="035127-02.np3" zip="asteroid.zip"/>
-    <part name="034602-01.c8" zip="asteroid.zip"/>
+  <rom index='0' md5='8f5c7927818f4f8abacb56c2c32f6f03' type='split' zip='asteroid2.zip'>
+    <part name='035145-02.ef2'/>
+    <part name='035144-02.h2'/>
+    <part name='035143-02.j2' zip='asteroid.zip'/>
+    <part name='035127-02.np3' zip='asteroid.zip'/>
+    <part name='034602-01.c8' zip='asteroid.zip'/>
   </rom>
 </misterromdescription>

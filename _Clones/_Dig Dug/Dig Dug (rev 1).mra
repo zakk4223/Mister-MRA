@@ -6,84 +6,84 @@
   <manufacturer>Namco</manufacturer>
   <category>Maze / Digging</category>
   <rbf>digdug</rbf>
-  <rom index="0" md5="2cec9f1428c97de2af61dfc25bd3ac55" type="merged|nonmerged" zip="digdug.zip">
-    <part name="digdug1/dd1.1"/>
-    <part name="digdug1/dd1.2"/>
-    <part name="digdug1/dd1.3"/>
-    <part name="digdug1/dd1.4b"/>
-    <part name="dd1.15"/>
-    <part name="dd1.14"/>
-    <part name="dd1.13"/>
-    <part name="dd1.12"/>
-    <part name="digdug1/dd1.5b"/>
-    <part name="digdug1/dd1.6b"/>
-    <part name="dd1.7"/>
-    <part name="dd1.10b"/>
-    <part name="dd1.11"/>
-    <part name="dd1.9"/>
-    <part name="136007.110"/>
-    <part name="136007.111"/>
-    <part name="136007.112"/>
-    <part name="136007.113"/>
+  <rom index='0' md5='2cec9f1428c97de2af61dfc25bd3ac55' type='merged|nonmerged' zip='digdug.zip'>
+    <part name='digdug1/dd1.1'/>
+    <part name='digdug1/dd1.2'/>
+    <part name='digdug1/dd1.3'/>
+    <part name='digdug1/dd1.4b'/>
+    <part name='dd1.15'/>
+    <part name='dd1.14'/>
+    <part name='dd1.13'/>
+    <part name='dd1.12'/>
+    <part name='digdug1/dd1.5b'/>
+    <part name='digdug1/dd1.6b'/>
+    <part name='dd1.7'/>
+    <part name='dd1.10b'/>
+    <part name='dd1.11'/>
+    <part name='dd1.9'/>
+    <part name='136007.110'/>
+    <part name='136007.111'/>
+    <part name='136007.112'/>
+    <part name='136007.113'/>
   </rom>
-  <rom index="0" md5="2cec9f1428c97de2af61dfc25bd3ac55" type="split" zip="digdug1.zip">
-    <part name="dd1.1"/>
-    <part name="dd1.2"/>
-    <part name="dd1.3"/>
-    <part name="dd1.4b"/>
-    <part name="dd1.15" zip="digdug.zip"/>
-    <part name="dd1.14" zip="digdug.zip"/>
-    <part name="dd1.13" zip="digdug.zip"/>
-    <part name="dd1.12" zip="digdug.zip"/>
-    <part name="dd1.5b"/>
-    <part name="dd1.6b"/>
-    <part name="dd1.7" zip="digdug.zip"/>
-    <part name="dd1.10b" zip="digdug.zip"/>
-    <part name="dd1.11" zip="digdug.zip"/>
-    <part name="dd1.9" zip="digdug.zip"/>
-    <part name="136007.110" zip="digdug.zip"/>
-    <part name="136007.111" zip="digdug.zip"/>
-    <part name="136007.112" zip="digdug.zip"/>
-    <part name="136007.113" zip="digdug.zip"/>
+  <rom index='0' md5='2cec9f1428c97de2af61dfc25bd3ac55' type='split' zip='digdug1.zip'>
+    <part name='dd1.1'/>
+    <part name='dd1.2'/>
+    <part name='dd1.3'/>
+    <part name='dd1.4b'/>
+    <part name='dd1.15' zip='digdug.zip'/>
+    <part name='dd1.14' zip='digdug.zip'/>
+    <part name='dd1.13' zip='digdug.zip'/>
+    <part name='dd1.12' zip='digdug.zip'/>
+    <part name='dd1.5b'/>
+    <part name='dd1.6b'/>
+    <part name='dd1.7' zip='digdug.zip'/>
+    <part name='dd1.10b' zip='digdug.zip'/>
+    <part name='dd1.11' zip='digdug.zip'/>
+    <part name='dd1.9' zip='digdug.zip'/>
+    <part name='136007.110' zip='digdug.zip'/>
+    <part name='136007.111' zip='digdug.zip'/>
+    <part name='136007.112' zip='digdug.zip'/>
+    <part name='136007.113' zip='digdug.zip'/>
   </rom>
-  <rom index="0" md5="2cec9f1428c97de2af61dfc25bd3ac55" type="split" zip="digdug1.zip">
-    <part name="dd1.1"/>
-    <part name="dd1.2"/>
-    <part name="dd1.3"/>
-    <part name="dd1.4b"/>
-    <part name="dd1.15" zip="digdug.zip"/>
-    <part name="dd1.14" zip="digdug.zip"/>
-    <part name="dd1.13" zip="digdug.zip"/>
-    <part name="dd1.12" zip="digdug.zip"/>
-    <part name="dd1.5b"/>
-    <part name="dd1.6b"/>
-    <part name="dd1.7" zip="digdug.zip"/>
-    <part name="dd1.10b" zip="digdug.zip"/>
-    <part name="dd1.11" zip="digdug.zip"/>
-    <part name="dd1.9" zip="digdug.zip"/>
-    <part name="136007.110" zip="digdug.zip"/>
-    <part name="136007.111" zip="digdug.zip"/>
-    <part name="136007.112" zip="digdug.zip"/>
-    <part name="136007.113" zip="digdug.zip"/>
+  <rom index='0' md5='2cec9f1428c97de2af61dfc25bd3ac55' type='split' zip='digdug1.zip'>
+    <part name='dd1.1'/>
+    <part name='dd1.2'/>
+    <part name='dd1.3'/>
+    <part name='dd1.4b'/>
+    <part name='dd1.15' zip='digdug.zip'/>
+    <part name='dd1.14' zip='digdug.zip'/>
+    <part name='dd1.13' zip='digdug.zip'/>
+    <part name='dd1.12' zip='digdug.zip'/>
+    <part name='dd1.5b'/>
+    <part name='dd1.6b'/>
+    <part name='dd1.7' zip='digdug.zip'/>
+    <part name='dd1.10b' zip='digdug.zip'/>
+    <part name='dd1.11' zip='digdug.zip'/>
+    <part name='dd1.9' zip='digdug.zip'/>
+    <part name='136007.110' zip='digdug.zip'/>
+    <part name='136007.111' zip='digdug.zip'/>
+    <part name='136007.112' zip='digdug.zip'/>
+    <part name='136007.113' zip='digdug.zip'/>
   </rom>
-  <rom index="0" md5="2cec9f1428c97de2af61dfc25bd3ac55" type="nonmerged" zip="digdug1.zip">
-    <part name="dd1.1"/>
-    <part name="dd1.2"/>
-    <part name="dd1.3"/>
-    <part name="dd1.4b"/>
-    <part name="dd1.15"/>
-    <part name="dd1.14"/>
-    <part name="dd1.13"/>
-    <part name="dd1.12"/>
-    <part name="dd1.5b"/>
-    <part name="dd1.6b"/>
-    <part name="dd1.7"/>
-    <part name="dd1.10b"/>
-    <part name="dd1.11"/>
-    <part name="dd1.9"/>
-    <part name="136007.110"/>
-    <part name="136007.111"/>
-    <part name="136007.112"/>
-    <part name="136007.113"/>
+  <rom index='0' md5='2cec9f1428c97de2af61dfc25bd3ac55' type='nonmerged' zip='digdug1.zip'>
+    <part name='dd1.1'/>
+    <part name='dd1.2'/>
+    <part name='dd1.3'/>
+    <part name='dd1.4b'/>
+    <part name='dd1.15'/>
+    <part name='dd1.14'/>
+    <part name='dd1.13'/>
+    <part name='dd1.12'/>
+    <part name='dd1.5b'/>
+    <part name='dd1.6b'/>
+    <part name='dd1.7'/>
+    <part name='dd1.10b'/>
+    <part name='dd1.11'/>
+    <part name='dd1.9'/>
+    <part name='136007.110'/>
+    <part name='136007.111'/>
+    <part name='136007.112'/>
+    <part name='136007.113'/>
   </rom>
 </misterromdescription>

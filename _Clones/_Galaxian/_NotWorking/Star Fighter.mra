@@ -6,46 +6,46 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="ee78e768073f2d62be1a319f748d4f4b" type="merged|nonmerged" zip="galaxian.zip">
-    <part name="starfght/ja.1"/>
-    <part name="galaxbsf/3.bn"/>
-    <part name="galaxbsf/5.bn"/>
-    <part name="starfght/jg.7"/>
-    <part name="starfght/ji.9"/>
-    <part name="starfght/ji.9"/>
-    <part name="starfght/ji.9"/>
-    <part name="starfght/ji.9"/>
-    <part name="galaxianbl2/kl1.1kl"/>
-    <part name="galaxianbl2/kl1.1kl"/>
-    <part name="starfght/k2.9a"/>
-    <part name="starfght/k2.9a"/>
+  <rom index='0' md5='ee78e768073f2d62be1a319f748d4f4b' type='merged|nonmerged' zip='galaxian.zip'>
+    <part name='starfght/ja.1'/>
+    <part name='galaxbsf/3.bn'/>
+    <part name='galaxbsf/5.bn'/>
+    <part name='starfght/jg.7'/>
+    <part name='starfght/ji.9'/>
+    <part name='starfght/ji.9'/>
+    <part name='starfght/ji.9'/>
+    <part name='starfght/ji.9'/>
+    <part name='galaxianbl2/kl1.1kl'/>
+    <part name='galaxianbl2/kl1.1kl'/>
+    <part name='starfght/k2.9a'/>
+    <part name='starfght/k2.9a'/>
   </rom>
-  <rom index="0" md5="ee78e768073f2d62be1a319f748d4f4b" type="split" zip="starfght.zip">
-    <part name="ja.1"/>
-    <part name="jc.3"/>
-    <part name="je.5"/>
-    <part name="jg.7"/>
-    <part name="ji.9"/>
-    <part name="ji.9"/>
-    <part name="ji.9"/>
-    <part name="ji.9"/>
-    <part name="k1.7a"/>
-    <part name="k1.7a"/>
-    <part name="k2.9a"/>
-    <part name="k2.9a"/>
+  <rom index='0' md5='ee78e768073f2d62be1a319f748d4f4b' type='split' zip='starfght.zip'>
+    <part name='ja.1'/>
+    <part name='jc.3'/>
+    <part name='je.5'/>
+    <part name='jg.7'/>
+    <part name='ji.9'/>
+    <part name='ji.9'/>
+    <part name='ji.9'/>
+    <part name='ji.9'/>
+    <part name='k1.7a'/>
+    <part name='k1.7a'/>
+    <part name='k2.9a'/>
+    <part name='k2.9a'/>
   </rom>
-  <rom index="0" md5="ee78e768073f2d62be1a319f748d4f4b" type="nonmerged" zip="starfght.zip">
-    <part name="ja.1"/>
-    <part name="jc.3"/>
-    <part name="je.5"/>
-    <part name="jg.7"/>
-    <part name="ji.9"/>
-    <part name="ji.9"/>
-    <part name="ji.9"/>
-    <part name="ji.9"/>
-    <part name="k1.7a"/>
-    <part name="k1.7a"/>
-    <part name="k2.9a"/>
-    <part name="k2.9a"/>
+  <rom index='0' md5='ee78e768073f2d62be1a319f748d4f4b' type='nonmerged' zip='starfght.zip'>
+    <part name='ja.1'/>
+    <part name='jc.3'/>
+    <part name='je.5'/>
+    <part name='jg.7'/>
+    <part name='ji.9'/>
+    <part name='ji.9'/>
+    <part name='ji.9'/>
+    <part name='ji.9'/>
+    <part name='k1.7a'/>
+    <part name='k1.7a'/>
+    <part name='k2.9a'/>
+    <part name='k2.9a'/>
   </rom>
 </misterromdescription>

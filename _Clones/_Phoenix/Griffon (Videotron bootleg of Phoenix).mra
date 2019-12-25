@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="843da225e4657e49e70f11003a987473" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="condor/cond01c.bin"/>
-    <part name="griffon/griffon1.a6"/>
-    <part name="condor/cond03c.bin"/>
-    <part name="griffon/griffon3.a8"/>
-    <part name="griffon/griffon4.a9"/>
-    <part name="condor/cond06c.bin"/>
-    <part name="condor/cond07c.bin"/>
-    <part name="griffon/griffon7.a12"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="condor/cond11c.bin"/>
-    <part name="condor/cond12c.bin"/>
+  <rom index='0' md5='843da225e4657e49e70f11003a987473' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='condor/cond01c.bin'/>
+    <part name='griffon/griffon1.a6'/>
+    <part name='condor/cond03c.bin'/>
+    <part name='griffon/griffon3.a8'/>
+    <part name='griffon/griffon4.a9'/>
+    <part name='condor/cond06c.bin'/>
+    <part name='condor/cond07c.bin'/>
+    <part name='griffon/griffon7.a12'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='condor/cond11c.bin'/>
+    <part name='condor/cond12c.bin'/>
   </rom>
-  <rom index="0" md5="843da225e4657e49e70f11003a987473" type="split" zip="griffon.zip">
-    <part name="griffon0.a5"/>
-    <part name="griffon1.a6"/>
-    <part name="griffon2.a7"/>
-    <part name="griffon3.a8"/>
-    <part name="griffon4.a9"/>
-    <part name="griffon5.a10"/>
-    <part name="griffon6.a11"/>
-    <part name="griffon7.a12"/>
-    <part name="ic23.3d" zip="phoenix.zip"/>
-    <part name="ic24.4d" zip="phoenix.zip"/>
-    <part name="griffon.d7"/>
-    <part name="griffon.d8"/>
+  <rom index='0' md5='843da225e4657e49e70f11003a987473' type='split' zip='griffon.zip'>
+    <part name='griffon0.a5'/>
+    <part name='griffon1.a6'/>
+    <part name='griffon2.a7'/>
+    <part name='griffon3.a8'/>
+    <part name='griffon4.a9'/>
+    <part name='griffon5.a10'/>
+    <part name='griffon6.a11'/>
+    <part name='griffon7.a12'/>
+    <part name='ic23.3d' zip='phoenix.zip'/>
+    <part name='ic24.4d' zip='phoenix.zip'/>
+    <part name='griffon.d7'/>
+    <part name='griffon.d8'/>
   </rom>
-  <rom index="0" md5="843da225e4657e49e70f11003a987473" type="nonmerged" zip="griffon.zip">
-    <part name="griffon0.a5"/>
-    <part name="griffon1.a6"/>
-    <part name="griffon2.a7"/>
-    <part name="griffon3.a8"/>
-    <part name="griffon4.a9"/>
-    <part name="griffon5.a10"/>
-    <part name="griffon6.a11"/>
-    <part name="griffon7.a12"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="griffon.d7"/>
-    <part name="griffon.d8"/>
+  <rom index='0' md5='843da225e4657e49e70f11003a987473' type='nonmerged' zip='griffon.zip'>
+    <part name='griffon0.a5'/>
+    <part name='griffon1.a6'/>
+    <part name='griffon2.a7'/>
+    <part name='griffon3.a8'/>
+    <part name='griffon4.a9'/>
+    <part name='griffon5.a10'/>
+    <part name='griffon6.a11'/>
+    <part name='griffon7.a12'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='griffon.d7'/>
+    <part name='griffon.d8'/>
   </rom>
 </misterromdescription>

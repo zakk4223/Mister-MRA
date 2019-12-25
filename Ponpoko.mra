@@ -6,58 +6,24 @@
   <manufacturer>Sigma Enterprises Inc.</manufacturer>
   <category>Platform</category>
   <rbf>ponpoko</rbf>
-  <rom index="0" md5="9000cca41cfa18130798595363a112ec" type="merged|nonmerged" zip="ponpoko.zip">
-    <part name="ppokoj1.bin"/>
-    <part name="ppokoj2.bin"/>
-    <part name="ppokoj3.bin"/>
-    <part name="ppokoj4.bin"/>
-    <part name="ppoko5.bin"/>
-    <part name="ppoko6.bin"/>
-    <part name="ppoko7.bin"/>
-    <part name="ppokoj8.bin"/>
-    <part name="ppoko9.bin"/>
-    <part name="ppoko10.bin"/>
-    <part name="ppoko9.bin"/>
-    <part name="ppoko10.bin"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='9000cca41cfa18130798595363a112ec' type='merged|nonmerged|split' zip='ponpoko.zip'>
+    <part name='ppokoj1.bin'/>
+    <part name='ppokoj2.bin'/>
+    <part name='ppokoj3.bin'/>
+    <part name='ppokoj4.bin'/>
+    <part name='ppoko5.bin'/>
+    <part name='ppoko6.bin'/>
+    <part name='ppoko7.bin'/>
+    <part name='ppokoj8.bin'/>
+    <part name='ppoko9.bin'/>
+    <part name='ppoko10.bin'/>
+    <part name='ppoko9.bin'/>
+    <part name='ppoko10.bin'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
-  <rom index="0" md5="9000cca41cfa18130798595363a112ec" type="split" zip="ponpoko.zip">
-    <part name="ppokoj1.bin"/>
-    <part name="ppokoj2.bin"/>
-    <part name="ppokoj3.bin"/>
-    <part name="ppokoj4.bin"/>
-    <part name="ppoko5.bin"/>
-    <part name="ppoko6.bin"/>
-    <part name="ppoko7.bin"/>
-    <part name="ppokoj8.bin"/>
-    <part name="ppoko9.bin"/>
-    <part name="ppoko10.bin"/>
-    <part name="ppoko9.bin"/>
-    <part name="ppoko10.bin"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
-  </rom>
-  <rom index="0" md5="9000cca41cfa18130798595363a112ec" type="nonmerged" zip="ponpoko.zip">
-    <part name="ppokoj1.bin"/>
-    <part name="ppokoj2.bin"/>
-    <part name="ppokoj3.bin"/>
-    <part name="ppokoj4.bin"/>
-    <part name="ppoko5.bin"/>
-    <part name="ppoko6.bin"/>
-    <part name="ppoko7.bin"/>
-    <part name="ppokoj8.bin"/>
-    <part name="ppoko9.bin"/>
-    <part name="ppoko10.bin"/>
-    <part name="ppoko9.bin"/>
-    <part name="ppoko10.bin"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
-  </rom>
+  
+  
 </misterromdescription>

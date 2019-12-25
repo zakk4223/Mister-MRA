@@ -7,15 +7,15 @@
   <category>Maze</category>
   <category>Maze / Frogs</category>
   <rbf>frogger</rbf>
-  <rom index="0" md5="7e52e3cc32819f46cdc1dda2143a5ca3" type="merged" zip="frogger.zip">
-    <part name="frogger.26"/>
-    <part name="frogger.27"/>
-    <part name="froggers1/epr-34.ic7"/>
-    <part repeat="4096">00</part>
-    <part name="frogger.606"/>
-    <part name="frogger.607"/>
-    <part name="frogger.608"/>
-    <part name="frogger.609"/>
-    <part name="frogger.610"/>
+  <rom index='0' md5='7e52e3cc32819f46cdc1dda2143a5ca3' type='merged' zip='frogger.zip'>
+    <part name='frogger.26'/>
+    <part name='frogger.27'/>
+    <part name='froggers1/epr-34.ic7'/>
+    <part repeat='4096'>00</part>
+    <part name='frogger.606'/>
+    <part name='frogger.607'/>
+    <part name='frogger.608'/>
+    <part name='frogger.609'/>
+    <part name='frogger.610'/>
   </rom>
 </misterromdescription>

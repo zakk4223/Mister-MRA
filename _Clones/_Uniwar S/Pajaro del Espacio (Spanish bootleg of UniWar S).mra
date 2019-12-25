@@ -7,49 +7,49 @@
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
-  <rom index="0" md5="412f91f40dd34c8ed4686002c734818b" type="merged|nonmerged" zip="uniwars.zip">
-    <part name="asideral/1401.7f"/>
-    <part name="asideral/1302.7h"/>
-    <part name="asideral/1203.7k"/>
-    <part name="asideral/1104.7m"/>
-    <part name="pajaroes/pe05.rom"/>
-    <part name="asideral/6.8f"/>
-    <part name="asideral/7.8f"/>
-    <part name="n08p_8a.bin"/>
-    <part name="egg10"/>
-    <part name="h01_2.bin"/>
-    <part name="egg9"/>
-    <part name="k01_2.bin"/>
-    <part name="uniwars.clr"/>
+  <rom index='0' md5='412f91f40dd34c8ed4686002c734818b' type='merged|nonmerged' zip='uniwars.zip'>
+    <part name='asideral/1401.7f'/>
+    <part name='asideral/1302.7h'/>
+    <part name='asideral/1203.7k'/>
+    <part name='asideral/1104.7m'/>
+    <part name='pajaroes/pe05.rom'/>
+    <part name='asideral/6.8f'/>
+    <part name='asideral/7.8f'/>
+    <part name='n08p_8a.bin'/>
+    <part name='egg10'/>
+    <part name='h01_2.bin'/>
+    <part name='egg9'/>
+    <part name='k01_2.bin'/>
+    <part name='uniwars.clr'/>
   </rom>
-  <rom index="0" md5="412f91f40dd34c8ed4686002c734818b" type="split" zip="pajaroes.zip">
-    <part name="pea.rom"/>
-    <part name="peb.rom"/>
-    <part name="pec.rom"/>
-    <part name="ped.rom"/>
-    <part name="pe05.rom"/>
-    <part name="pe04.rom"/>
-    <part name="pe03.rom"/>
-    <part name="n08p_8a.bin" zip="uniwars.zip"/>
-    <part name="egg10" zip="uniwars.zip"/>
-    <part name="h01_2.bin" zip="uniwars.zip"/>
-    <part name="egg9" zip="uniwars.zip"/>
-    <part name="k01_2.bin" zip="uniwars.zip"/>
-    <part name="uniwars.clr" zip="uniwars.zip"/>
+  <rom index='0' md5='412f91f40dd34c8ed4686002c734818b' type='split' zip='pajaroes.zip'>
+    <part name='pea.rom'/>
+    <part name='peb.rom'/>
+    <part name='pec.rom'/>
+    <part name='ped.rom'/>
+    <part name='pe05.rom'/>
+    <part name='pe04.rom'/>
+    <part name='pe03.rom'/>
+    <part name='n08p_8a.bin' zip='uniwars.zip'/>
+    <part name='egg10' zip='uniwars.zip'/>
+    <part name='h01_2.bin' zip='uniwars.zip'/>
+    <part name='egg9' zip='uniwars.zip'/>
+    <part name='k01_2.bin' zip='uniwars.zip'/>
+    <part name='uniwars.clr' zip='uniwars.zip'/>
   </rom>
-  <rom index="0" md5="412f91f40dd34c8ed4686002c734818b" type="nonmerged" zip="pajaroes.zip">
-    <part name="pea.rom"/>
-    <part name="peb.rom"/>
-    <part name="pec.rom"/>
-    <part name="ped.rom"/>
-    <part name="pe05.rom"/>
-    <part name="pe04.rom"/>
-    <part name="pe03.rom"/>
-    <part name="pe02.rom"/>
-    <part name="pe07.rom"/>
-    <part name="pe09.rom"/>
-    <part name="pe06.rom"/>
-    <part name="pe08.rom"/>
-    <part name="uniwars.clr"/>
+  <rom index='0' md5='412f91f40dd34c8ed4686002c734818b' type='nonmerged' zip='pajaroes.zip'>
+    <part name='pea.rom'/>
+    <part name='peb.rom'/>
+    <part name='pec.rom'/>
+    <part name='ped.rom'/>
+    <part name='pe05.rom'/>
+    <part name='pe04.rom'/>
+    <part name='pe03.rom'/>
+    <part name='pe02.rom'/>
+    <part name='pe07.rom'/>
+    <part name='pe09.rom'/>
+    <part name='pe06.rom'/>
+    <part name='pe08.rom'/>
+    <part name='uniwars.clr'/>
   </rom>
 </misterromdescription>

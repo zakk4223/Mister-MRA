@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="624cb5b5fe38661abf98eeddba672cf7" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="batman2/01.bin"/>
-    <part name="batman2/02.bin"/>
-    <part name="batman2/03.bin"/>
-    <part name="batman2/04.bin"/>
-    <part name="batman2/05.bin"/>
-    <part name="batman2/06.bin"/>
-    <part name="batman2/07.bin"/>
-    <part name="batman2/08.bin"/>
-    <part name="batman2/09.bin"/>
-    <part name="batman2/11.bin"/>
-    <part name="batman2/10.bin"/>
-    <part name="batman2/12.bin"/>
+  <rom index='0' md5='624cb5b5fe38661abf98eeddba672cf7' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='batman2/01.bin'/>
+    <part name='batman2/02.bin'/>
+    <part name='batman2/03.bin'/>
+    <part name='batman2/04.bin'/>
+    <part name='batman2/05.bin'/>
+    <part name='batman2/06.bin'/>
+    <part name='batman2/07.bin'/>
+    <part name='batman2/08.bin'/>
+    <part name='batman2/09.bin'/>
+    <part name='batman2/11.bin'/>
+    <part name='batman2/10.bin'/>
+    <part name='batman2/12.bin'/>
   </rom>
-  <rom index="0" md5="624cb5b5fe38661abf98eeddba672cf7" type="split" zip="batman2.zip">
-    <part name="01.bin"/>
-    <part name="02.bin"/>
-    <part name="03.bin"/>
-    <part name="04.bin"/>
-    <part name="05.bin"/>
-    <part name="06.bin"/>
-    <part name="07.bin"/>
-    <part name="08.bin"/>
-    <part name="09.bin"/>
-    <part name="11.bin"/>
-    <part name="10.bin"/>
-    <part name="12.bin"/>
+  <rom index='0' md5='624cb5b5fe38661abf98eeddba672cf7' type='split' zip='batman2.zip'>
+    <part name='01.bin'/>
+    <part name='02.bin'/>
+    <part name='03.bin'/>
+    <part name='04.bin'/>
+    <part name='05.bin'/>
+    <part name='06.bin'/>
+    <part name='07.bin'/>
+    <part name='08.bin'/>
+    <part name='09.bin'/>
+    <part name='11.bin'/>
+    <part name='10.bin'/>
+    <part name='12.bin'/>
   </rom>
-  <rom index="0" md5="624cb5b5fe38661abf98eeddba672cf7" type="nonmerged" zip="batman2.zip">
-    <part name="01.bin"/>
-    <part name="02.bin"/>
-    <part name="03.bin"/>
-    <part name="04.bin"/>
-    <part name="05.bin"/>
-    <part name="06.bin"/>
-    <part name="07.bin"/>
-    <part name="08.bin"/>
-    <part name="09.bin"/>
-    <part name="11.bin"/>
-    <part name="10.bin"/>
-    <part name="12.bin"/>
+  <rom index='0' md5='624cb5b5fe38661abf98eeddba672cf7' type='nonmerged' zip='batman2.zip'>
+    <part name='01.bin'/>
+    <part name='02.bin'/>
+    <part name='03.bin'/>
+    <part name='04.bin'/>
+    <part name='05.bin'/>
+    <part name='06.bin'/>
+    <part name='07.bin'/>
+    <part name='08.bin'/>
+    <part name='09.bin'/>
+    <part name='11.bin'/>
+    <part name='10.bin'/>
+    <part name='12.bin'/>
   </rom>
 </misterromdescription>

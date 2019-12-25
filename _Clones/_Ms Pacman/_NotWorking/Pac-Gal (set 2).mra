@@ -1,60 +1,60 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index="0" md5="8f74a75302a0c98bc72d7a961740f45a" type="merged" zip="mspacman.zip">
-    <part name="pacgal2/pmg1.bin"/>
-    <part name="pacgal2/pmg2.bin"/>
-    <part name="pacgal2/pmg3.bin"/>
-    <part name="pacgal2/pmg4.bin"/>
-    <part name="u5"/>
-    <part name="u5"/>
-    <part name="pacgal2/u6a.bin"/>
-    <part name="pacgal2/u7a.bin"/>
-    <part name="pacgal2/u7a.bin"/>
-    <part name="pacgal2/pmg9.bin"/>
-    <part name="pacgal2/pmg10.bin"/>
-    <part name="pacgal2/pmg10.bin"/>
-    <part name="pacgal2/pmg10.bin"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='8f74a75302a0c98bc72d7a961740f45a' type='merged' zip='mspacman.zip'>
+    <part name='pacgal2/pmg1.bin'/>
+    <part name='pacgal2/pmg2.bin'/>
+    <part name='pacgal2/pmg3.bin'/>
+    <part name='pacgal2/pmg4.bin'/>
+    <part name='u5'/>
+    <part name='u5'/>
+    <part name='pacgal2/u6a.bin'/>
+    <part name='pacgal2/u7a.bin'/>
+    <part name='pacgal2/u7a.bin'/>
+    <part name='pacgal2/pmg9.bin'/>
+    <part name='pacgal2/pmg10.bin'/>
+    <part name='pacgal2/pmg10.bin'/>
+    <part name='pacgal2/pmg10.bin'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
-  <rom index="0" md5="8f74a75302a0c98bc72d7a961740f45a" type="split" zip="pacgal2.zip">
-    <part name="pmg1.bin"/>
-    <part name="pmg2.bin"/>
-    <part name="pmg3.bin"/>
-    <part name="pmg4.bin"/>
-    <part name="u5" zip="mspacman.zip"/>
-    <part name="u5" zip="mspacman.zip"/>
-    <part name="u6a.bin"/>
-    <part name="u7a.bin"/>
-    <part name="u7a.bin"/>
-    <part name="pmg9.bin"/>
-    <part name="pmg10.bin"/>
-    <part name="pmg10.bin"/>
-    <part name="pmg10.bin"/>
-    <part name="82s126.1m" zip="mspacman.zip"/>
-    <part name="82s126.4a" zip="mspacman.zip"/>
-    <part name="82s126.3m" zip="mspacman.zip"/>
-    <part name="82s123.7f" zip="mspacman.zip"/>
+  <rom index='0' md5='8f74a75302a0c98bc72d7a961740f45a' type='split' zip='pacgal2.zip'>
+    <part name='pmg1.bin'/>
+    <part name='pmg2.bin'/>
+    <part name='pmg3.bin'/>
+    <part name='pmg4.bin'/>
+    <part name='u5' zip='mspacman.zip'/>
+    <part name='u5' zip='mspacman.zip'/>
+    <part name='u6a.bin'/>
+    <part name='u7a.bin'/>
+    <part name='u7a.bin'/>
+    <part name='pmg9.bin'/>
+    <part name='pmg10.bin'/>
+    <part name='pmg10.bin'/>
+    <part name='pmg10.bin'/>
+    <part name='82s126.1m' zip='mspacman.zip'/>
+    <part name='82s126.4a' zip='mspacman.zip'/>
+    <part name='82s126.3m' zip='mspacman.zip'/>
+    <part name='82s123.7f' zip='mspacman.zip'/>
   </rom>
-  <rom index="0" md5="8f74a75302a0c98bc72d7a961740f45a" type="nonmerged" zip="pacgal2.zip">
-    <part name="pmg1.bin"/>
-    <part name="pmg2.bin"/>
-    <part name="pmg3.bin"/>
-    <part name="pmg4.bin"/>
-    <part name="u5.bin"/>
-    <part name="u5.bin"/>
-    <part name="u6a.bin"/>
-    <part name="u7a.bin"/>
-    <part name="u7a.bin"/>
-    <part name="pmg9.bin"/>
-    <part name="pmg10.bin"/>
-    <part name="pmg10.bin"/>
-    <part name="pmg10.bin"/>
-    <part name="82s126.1m"/>
-    <part name="82s126.4a"/>
-    <part name="82s126.3m"/>
-    <part name="82s123.7f"/>
+  <rom index='0' md5='8f74a75302a0c98bc72d7a961740f45a' type='nonmerged' zip='pacgal2.zip'>
+    <part name='pmg1.bin'/>
+    <part name='pmg2.bin'/>
+    <part name='pmg3.bin'/>
+    <part name='pmg4.bin'/>
+    <part name='u5.bin'/>
+    <part name='u5.bin'/>
+    <part name='u6a.bin'/>
+    <part name='u7a.bin'/>
+    <part name='u7a.bin'/>
+    <part name='pmg9.bin'/>
+    <part name='pmg10.bin'/>
+    <part name='pmg10.bin'/>
+    <part name='pmg10.bin'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
   </rom>
 </misterromdescription>

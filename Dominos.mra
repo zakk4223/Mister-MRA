@@ -6,28 +6,14 @@
   <manufacturer>Atari</manufacturer>
   <category>Maze / Tron</category>
   <rbf>dominos</rbf>
-  <rom index="0" md5="3573ac6efbd7ef650d8f53542538e074" type="merged|nonmerged" zip="dominos.zip">
-    <part name="7352-02.d1"/>
-    <part name="7438-02.e1"/>
-    <part name="7439-01.p4"/>
-    <part name="7440-01.r4"/>
-    <part name="6400-01.m2"/>
-    <part name="6401-01.e2"/>
+  <rom index='0' md5='3573ac6efbd7ef650d8f53542538e074' type='merged|nonmerged|split' zip='dominos.zip'>
+    <part name='7352-02.d1'/>
+    <part name='7438-02.e1'/>
+    <part name='7439-01.p4'/>
+    <part name='7440-01.r4'/>
+    <part name='6400-01.m2'/>
+    <part name='6401-01.e2'/>
   </rom>
-  <rom index="0" md5="3573ac6efbd7ef650d8f53542538e074" type="split" zip="dominos.zip">
-    <part name="7352-02.d1"/>
-    <part name="7438-02.e1"/>
-    <part name="7439-01.p4"/>
-    <part name="7440-01.r4"/>
-    <part name="6400-01.m2"/>
-    <part name="6401-01.e2"/>
-  </rom>
-  <rom index="0" md5="3573ac6efbd7ef650d8f53542538e074" type="nonmerged" zip="dominos.zip">
-    <part name="7352-02.d1"/>
-    <part name="7438-02.e1"/>
-    <part name="7439-01.p4"/>
-    <part name="7440-01.r4"/>
-    <part name="6400-01.m2"/>
-    <part name="6401-01.e2"/>
-  </rom>
+  
+  
 </misterromdescription>

@@ -3,46 +3,20 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>rshnatk</rbf>
-  <rom index="0" md5="886c929e6db35548e44cfdd8d168bdb1" type="merged" zip="gberet.zip">
-    <part name="577l03.10c"/>
-    <part name="577l02.8c"/>
-    <part name="577l01.7c"/>
-    <part name="577l01.7c"/>
-    <part name="577l06.5e"/>
-    <part name="577l05.4e"/>
-    <part name="577l08.4f"/>
-    <part name="577l04.3e"/>
-    <part name="577l07.3f"/>
-    <part name="577h10.5f"/>
-    <part name="577h11.6f"/>
-    <part name="577h09.2f"/>
+  <rom index='0' md5='886c929e6db35548e44cfdd8d168bdb1' type='merged|split|nonmerged' zip='gberet.zip'>
+    <part name='577l03.10c'/>
+    <part name='577l02.8c'/>
+    <part name='577l01.7c'/>
+    <part name='577l01.7c'/>
+    <part name='577l06.5e'/>
+    <part name='577l05.4e'/>
+    <part name='577l08.4f'/>
+    <part name='577l04.3e'/>
+    <part name='577l07.3f'/>
+    <part name='577h10.5f'/>
+    <part name='577h11.6f'/>
+    <part name='577h09.2f'/>
   </rom>
-  <rom index="0" md5="886c929e6db35548e44cfdd8d168bdb1" type="split" zip="gberet.zip">
-    <part name="577l03.10c"/>
-    <part name="577l02.8c"/>
-    <part name="577l01.7c"/>
-    <part name="577l01.7c"/>
-    <part name="577l06.5e"/>
-    <part name="577l05.4e"/>
-    <part name="577l08.4f"/>
-    <part name="577l04.3e"/>
-    <part name="577l07.3f"/>
-    <part name="577h10.5f"/>
-    <part name="577h11.6f"/>
-    <part name="577h09.2f"/>
-  </rom>
-  <rom index="0" md5="886c929e6db35548e44cfdd8d168bdb1" type="nonmerged" zip="gberet.zip">
-    <part name="577l03.10c"/>
-    <part name="577l02.8c"/>
-    <part name="577l01.7c"/>
-    <part name="577l01.7c"/>
-    <part name="577l06.5e"/>
-    <part name="577l05.4e"/>
-    <part name="577l08.4f"/>
-    <part name="577l04.3e"/>
-    <part name="577l07.3f"/>
-    <part name="577h10.5f"/>
-    <part name="577h11.6f"/>
-    <part name="577h09.2f"/>
-  </rom>
+  
+  
 </misterromdescription>

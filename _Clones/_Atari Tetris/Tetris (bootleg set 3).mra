@@ -3,24 +3,24 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>ataritetris</rbf>
-  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="merged" zip="atetris.zip">
-    <part name="atetrisa/d1"/>
-    <part name="136066-1101.35a"/>
+  <rom index='0' md5='8a183ea4710afa65f3f0157fe3f14559' type='merged' zip='atetris.zip'>
+    <part name='atetrisa/d1'/>
+    <part name='136066-1101.35a'/>
   </rom>
-  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="split" zip="atetrisb3.zip">
-    <part name="prg.bin"/>
-    <part name="136066-1101.35a" zip="atetris.zip"/>
+  <rom index='0' md5='8a183ea4710afa65f3f0157fe3f14559' type='split' zip='atetrisb3.zip'>
+    <part name='prg.bin'/>
+    <part name='136066-1101.35a' zip='atetris.zip'/>
   </rom>
-  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="nonmerged" zip="atetrisb3.zip">
-    <part name="prg.bin"/>
-    <part name="gfx.bin"/>
+  <rom index='0' md5='8a183ea4710afa65f3f0157fe3f14559' type='nonmerged' zip='atetrisb3.zip'>
+    <part name='prg.bin'/>
+    <part name='gfx.bin'/>
   </rom>
-  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="split" zip="atetrisb3.zip">
-    <part name="prg.bin"/>
-    <part name="136066-1101.35a" zip="atetris.zip"/>
+  <rom index='0' md5='8a183ea4710afa65f3f0157fe3f14559' type='split' zip='atetrisb3.zip'>
+    <part name='prg.bin'/>
+    <part name='136066-1101.35a' zip='atetris.zip'/>
   </rom>
-  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="nonmerged" zip="atetrisb3.zip">
-    <part name="prg.bin"/>
-    <part name="gfx.bin"/>
+  <rom index='0' md5='8a183ea4710afa65f3f0157fe3f14559' type='nonmerged' zip='atetrisb3.zip'>
+    <part name='prg.bin'/>
+    <part name='gfx.bin'/>
   </rom>
 </misterromdescription>

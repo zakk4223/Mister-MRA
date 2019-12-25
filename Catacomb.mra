@@ -6,46 +6,20 @@
   <manufacturer>MTM Games</manufacturer>
   <category>Space / Force</category>
   <rbf>catacomb</rbf>
-  <rom index="0" md5="dfda39951da1cf12279a6dcf030ee09d" type="merged|nonmerged" zip="catacomb.zip">
-    <part name="catacomb.u"/>
-    <part name="catacomb.v"/>
-    <part name="catacomb.w"/>
-    <part name="catacomb.w"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="cat-gfx1"/>
-    <part name="cat-gfx1"/>
-    <part name="cat-gfx2"/>
-    <part name="cat-gfx2"/>
+  <rom index='0' md5='dfda39951da1cf12279a6dcf030ee09d' type='merged|nonmerged|split' zip='catacomb.zip'>
+    <part name='catacomb.u'/>
+    <part name='catacomb.v'/>
+    <part name='catacomb.w'/>
+    <part name='catacomb.w'/>
+    <part name='catacomb.y'/>
+    <part name='catacomb.y'/>
+    <part name='catacomb.y'/>
+    <part name='catacomb.y'/>
+    <part name='cat-gfx1'/>
+    <part name='cat-gfx1'/>
+    <part name='cat-gfx2'/>
+    <part name='cat-gfx2'/>
   </rom>
-  <rom index="0" md5="dfda39951da1cf12279a6dcf030ee09d" type="split" zip="catacomb.zip">
-    <part name="catacomb.u"/>
-    <part name="catacomb.v"/>
-    <part name="catacomb.w"/>
-    <part name="catacomb.w"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="cat-gfx1"/>
-    <part name="cat-gfx1"/>
-    <part name="cat-gfx2"/>
-    <part name="cat-gfx2"/>
-  </rom>
-  <rom index="0" md5="dfda39951da1cf12279a6dcf030ee09d" type="nonmerged" zip="catacomb.zip">
-    <part name="catacomb.u"/>
-    <part name="catacomb.v"/>
-    <part name="catacomb.w"/>
-    <part name="catacomb.w"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="catacomb.y"/>
-    <part name="cat-gfx1"/>
-    <part name="cat-gfx1"/>
-    <part name="cat-gfx2"/>
-    <part name="cat-gfx2"/>
-  </rom>
+  
+  
 </misterromdescription>

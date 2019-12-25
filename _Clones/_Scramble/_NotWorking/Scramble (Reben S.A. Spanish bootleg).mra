@@ -6,49 +6,49 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index="0" md5="e295c096921853d14b16338286611014" type="merged" zip="scramble.zip">
-    <part name="scrambler/principal 1.bin"/>
-    <part name="scrambler/principal 2.bin"/>
-    <part name="scrambler/principal 3.bin"/>
-    <part name="scrambler/principal 4.bin"/>
-    <part name="scrambler/principal 5.bin"/>
-    <part name="scrambler/principal 6.bin"/>
-    <part name="s7.2m"/>
-    <part name="scrambler/principal 8.bin"/>
-    <part name="scrambler/graph kl.bin"/>
-    <part name="scrambler/graph hj.bin"/>
-    <part name="ot1.5c"/>
-    <part name="ot2.5d"/>
-    <part name="ot3.5e"/>
+  <rom index='0' md5='e295c096921853d14b16338286611014' type='merged' zip='scramble.zip'>
+    <part name='scrambler/principal 1.bin'/>
+    <part name='scrambler/principal 2.bin'/>
+    <part name='scrambler/principal 3.bin'/>
+    <part name='scrambler/principal 4.bin'/>
+    <part name='scrambler/principal 5.bin'/>
+    <part name='scrambler/principal 6.bin'/>
+    <part name='s7.2m'/>
+    <part name='scrambler/principal 8.bin'/>
+    <part name='scrambler/graph kl.bin'/>
+    <part name='scrambler/graph hj.bin'/>
+    <part name='ot1.5c'/>
+    <part name='ot2.5d'/>
+    <part name='ot3.5e'/>
   </rom>
-  <rom index="0" md5="e295c096921853d14b16338286611014" type="split" zip="scrambler.zip">
-    <part name="principal 1.bin"/>
-    <part name="principal 2.bin"/>
-    <part name="principal 3.bin"/>
-    <part name="principal 4.bin"/>
-    <part name="principal 5.bin"/>
-    <part name="principal 6.bin"/>
-    <part name="s7.2m" zip="scramble.zip"/>
-    <part name="principal 8.bin"/>
-    <part name="graph kl.bin"/>
-    <part name="graph hj.bin"/>
-    <part name="ot1.5c" zip="scramble.zip"/>
-    <part name="ot2.5d" zip="scramble.zip"/>
-    <part name="ot3.5e" zip="scramble.zip"/>
+  <rom index='0' md5='e295c096921853d14b16338286611014' type='split' zip='scrambler.zip'>
+    <part name='principal 1.bin'/>
+    <part name='principal 2.bin'/>
+    <part name='principal 3.bin'/>
+    <part name='principal 4.bin'/>
+    <part name='principal 5.bin'/>
+    <part name='principal 6.bin'/>
+    <part name='s7.2m' zip='scramble.zip'/>
+    <part name='principal 8.bin'/>
+    <part name='graph kl.bin'/>
+    <part name='graph hj.bin'/>
+    <part name='ot1.5c' zip='scramble.zip'/>
+    <part name='ot2.5d' zip='scramble.zip'/>
+    <part name='ot3.5e' zip='scramble.zip'/>
   </rom>
-  <rom index="0" md5="e295c096921853d14b16338286611014" type="nonmerged" zip="scrambler.zip">
-    <part name="principal 1.bin"/>
-    <part name="principal 2.bin"/>
-    <part name="principal 3.bin"/>
-    <part name="principal 4.bin"/>
-    <part name="principal 5.bin"/>
-    <part name="principal 6.bin"/>
-    <part name="principal 7.bin"/>
-    <part name="principal 8.bin"/>
-    <part name="graph kl.bin"/>
-    <part name="graph hj.bin"/>
-    <part name="ot1.5c"/>
-    <part name="ot2.5d"/>
-    <part name="ot3.5e"/>
+  <rom index='0' md5='e295c096921853d14b16338286611014' type='nonmerged' zip='scrambler.zip'>
+    <part name='principal 1.bin'/>
+    <part name='principal 2.bin'/>
+    <part name='principal 3.bin'/>
+    <part name='principal 4.bin'/>
+    <part name='principal 5.bin'/>
+    <part name='principal 6.bin'/>
+    <part name='principal 7.bin'/>
+    <part name='principal 8.bin'/>
+    <part name='graph kl.bin'/>
+    <part name='graph hj.bin'/>
+    <part name='ot1.5c'/>
+    <part name='ot2.5d'/>
+    <part name='ot3.5e'/>
   </rom>
 </misterromdescription>

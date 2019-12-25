@@ -6,40 +6,40 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>galaxian</rbf>
-  <rom index="0" md5="1afd16da4e01425f8f0a65eabe2c61b6" type="merged" zip="scramble.zip">
-    <part name="scramblb/scramble.1k"/>
-    <part name="scramblb/scramble.2k"/>
-    <part name="scramblb/scramble.3k"/>
-    <part name="bomber/4.3f"/>
-    <part name="scramblb/scramble.5k"/>
-    <part name="scramblb/scramble.1j"/>
-    <part name="bomber/7.3c"/>
-    <part name="scramblb/scramble.3j"/>
-    <part name="c1.5h"/>
-    <part name="c2.5f"/>
+  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='merged' zip='scramble.zip'>
+    <part name='scramblb/scramble.1k'/>
+    <part name='scramblb/scramble.2k'/>
+    <part name='scramblb/scramble.3k'/>
+    <part name='bomber/4.3f'/>
+    <part name='scramblb/scramble.5k'/>
+    <part name='scramblb/scramble.1j'/>
+    <part name='bomber/7.3c'/>
+    <part name='scramblb/scramble.3j'/>
+    <part name='c1.5h'/>
+    <part name='c2.5f'/>
   </rom>
-  <rom index="0" md5="1afd16da4e01425f8f0a65eabe2c61b6" type="split" zip="scramblb.zip">
-    <part name="scramble.1k"/>
-    <part name="scramble.2k"/>
-    <part name="scramble.3k"/>
-    <part name="scramble.4k"/>
-    <part name="scramble.5k"/>
-    <part name="scramble.1j"/>
-    <part name="scramble.2j"/>
-    <part name="scramble.3j"/>
-    <part name="c1.5h" zip="scramble.zip"/>
-    <part name="c2.5f" zip="scramble.zip"/>
+  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='split' zip='scramblb.zip'>
+    <part name='scramble.1k'/>
+    <part name='scramble.2k'/>
+    <part name='scramble.3k'/>
+    <part name='scramble.4k'/>
+    <part name='scramble.5k'/>
+    <part name='scramble.1j'/>
+    <part name='scramble.2j'/>
+    <part name='scramble.3j'/>
+    <part name='c1.5h' zip='scramble.zip'/>
+    <part name='c2.5f' zip='scramble.zip'/>
   </rom>
-  <rom index="0" md5="1afd16da4e01425f8f0a65eabe2c61b6" type="nonmerged" zip="scramblb.zip">
-    <part name="scramble.1k"/>
-    <part name="scramble.2k"/>
-    <part name="scramble.3k"/>
-    <part name="scramble.4k"/>
-    <part name="scramble.5k"/>
-    <part name="scramble.1j"/>
-    <part name="scramble.2j"/>
-    <part name="scramble.3j"/>
-    <part name="5h.k"/>
-    <part name="5f.k"/>
+  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='nonmerged' zip='scramblb.zip'>
+    <part name='scramble.1k'/>
+    <part name='scramble.2k'/>
+    <part name='scramble.3k'/>
+    <part name='scramble.4k'/>
+    <part name='scramble.5k'/>
+    <part name='scramble.1j'/>
+    <part name='scramble.2j'/>
+    <part name='scramble.3j'/>
+    <part name='5h.k'/>
+    <part name='5f.k'/>
   </rom>
 </misterromdescription>

@@ -6,28 +6,28 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index="0" md5="a1dd7943271c22d610df5de3d500bade" type="merged|nonmerged" zip="bagman.zip">
-    <part name="bagmanj/bf8_06.e9"/>
-    <part name="bagmanj/bf8_07.f9"/>
-    <part name="bagmans/a4_9j.bin"/>
-    <part name="bagmanj/bf8_09.k9"/>
-    <part name="bagmanj/bf8_10.m9"/>
-    <part name="bagmanj/bf8_11.n9"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="t9_b12.bin"/>
-    <part name="bagmanj/bf8_03.e1"/>
-    <part name="bagmans/a2_1c.bin"/>
-    <part name="j1_b04.bin"/>
-    <part name="bagmans/a2_1f.bin"/>
-    <part name="r9_b11.bin"/>
-    <part name="t9_b12.bin"/>
+  <rom index='0' md5='a1dd7943271c22d610df5de3d500bade' type='merged|nonmerged' zip='bagman.zip'>
+    <part name='bagmanj/bf8_06.e9'/>
+    <part name='bagmanj/bf8_07.f9'/>
+    <part name='bagmans/a4_9j.bin'/>
+    <part name='bagmanj/bf8_09.k9'/>
+    <part name='bagmanj/bf8_10.m9'/>
+    <part name='bagmanj/bf8_11.n9'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='bagmanj/bf8_03.e1'/>
+    <part name='bagmans/a2_1c.bin'/>
+    <part name='j1_b04.bin'/>
+    <part name='bagmans/a2_1f.bin'/>
+    <part name='r9_b11.bin'/>
+    <part name='t9_b12.bin'/>
   </rom>
 </misterromdescription>

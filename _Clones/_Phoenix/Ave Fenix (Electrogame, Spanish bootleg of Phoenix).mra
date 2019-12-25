@@ -6,46 +6,46 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index="0" md5="9b74d8028f075587a373275fe558355d" type="merged|nonmerged" zip="phoenix.zip">
-    <part name="avefenix/4101-8516.rom"/>
-    <part name="avefenix/4102-2716.rom"/>
-    <part name="avefenix/4103-8516.rom"/>
-    <part name="avefenix/4104-8516.rom"/>
-    <part name="avefenix/4105-8516.rom"/>
-    <part name="h6-ic50.6a"/>
-    <part name="h7-ic51.7a"/>
-    <part name="avefenix/4108-8516.rom"/>
-    <part name="ic23.3d"/>
-    <part name="ic24.4d"/>
-    <part name="b1-ic39.3b"/>
-    <part name="b2-ic40.4b"/>
+  <rom index='0' md5='9b74d8028f075587a373275fe558355d' type='merged|nonmerged' zip='phoenix.zip'>
+    <part name='avefenix/4101-8516.rom'/>
+    <part name='avefenix/4102-2716.rom'/>
+    <part name='avefenix/4103-8516.rom'/>
+    <part name='avefenix/4104-8516.rom'/>
+    <part name='avefenix/4105-8516.rom'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='avefenix/4108-8516.rom'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='b1-ic39.3b'/>
+    <part name='b2-ic40.4b'/>
   </rom>
-  <rom index="0" md5="9b74d8028f075587a373275fe558355d" type="split" zip="avefenix.zip">
-    <part name="4101-8516.rom"/>
-    <part name="4102-2716.rom"/>
-    <part name="4103-8516.rom"/>
-    <part name="4104-8516.rom"/>
-    <part name="4105-8516.rom"/>
-    <part name="h6-ic50.6a" zip="phoenix.zip"/>
-    <part name="h7-ic51.7a" zip="phoenix.zip"/>
-    <part name="4108-8516.rom"/>
-    <part name="ic23.3d" zip="phoenix.zip"/>
-    <part name="ic24.4d" zip="phoenix.zip"/>
-    <part name="b1-ic39.3b" zip="phoenix.zip"/>
-    <part name="b2-ic40.4b" zip="phoenix.zip"/>
+  <rom index='0' md5='9b74d8028f075587a373275fe558355d' type='split' zip='avefenix.zip'>
+    <part name='4101-8516.rom'/>
+    <part name='4102-2716.rom'/>
+    <part name='4103-8516.rom'/>
+    <part name='4104-8516.rom'/>
+    <part name='4105-8516.rom'/>
+    <part name='h6-ic50.6a' zip='phoenix.zip'/>
+    <part name='h7-ic51.7a' zip='phoenix.zip'/>
+    <part name='4108-8516.rom'/>
+    <part name='ic23.3d' zip='phoenix.zip'/>
+    <part name='ic24.4d' zip='phoenix.zip'/>
+    <part name='b1-ic39.3b' zip='phoenix.zip'/>
+    <part name='b2-ic40.4b' zip='phoenix.zip'/>
   </rom>
-  <rom index="0" md5="9b74d8028f075587a373275fe558355d" type="nonmerged" zip="avefenix.zip">
-    <part name="4101-8516.rom"/>
-    <part name="4102-2716.rom"/>
-    <part name="4103-8516.rom"/>
-    <part name="4104-8516.rom"/>
-    <part name="4105-8516.rom"/>
-    <part name="4106-8516.rom"/>
-    <part name="4107-8516.rom"/>
-    <part name="4108-8516.rom"/>
-    <part name="41011-8516.rom"/>
-    <part name="41012-8516.rom"/>
-    <part name="4109-8516.rom"/>
-    <part name="41010-8516.rom"/>
+  <rom index='0' md5='9b74d8028f075587a373275fe558355d' type='nonmerged' zip='avefenix.zip'>
+    <part name='4101-8516.rom'/>
+    <part name='4102-2716.rom'/>
+    <part name='4103-8516.rom'/>
+    <part name='4104-8516.rom'/>
+    <part name='4105-8516.rom'/>
+    <part name='4106-8516.rom'/>
+    <part name='4107-8516.rom'/>
+    <part name='4108-8516.rom'/>
+    <part name='41011-8516.rom'/>
+    <part name='41012-8516.rom'/>
+    <part name='4109-8516.rom'/>
+    <part name='41010-8516.rom'/>
   </rom>
 </misterromdescription>

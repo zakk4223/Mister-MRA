@@ -6,34 +6,34 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index="0" md5="e6738036cf8d37b26dfd85ff377ea97b" type="merged" zip="scramble.zip">
-    <part name="explorer/10l.bin"/>
-    <part name="explorer/9l.bin"/>
-    <part name="explorer/8l.bin"/>
-    <part name="explorer/7l.bin"/>
-    <part name="c1.5h"/>
-    <part name="c2.5f"/>
-    <part name="explorer/3f.bin"/>
-    <part name="explorer/4b.bin"/>
+  <rom index='0' md5='e6738036cf8d37b26dfd85ff377ea97b' type='merged' zip='scramble.zip'>
+    <part name='explorer/10l.bin'/>
+    <part name='explorer/9l.bin'/>
+    <part name='explorer/8l.bin'/>
+    <part name='explorer/7l.bin'/>
+    <part name='c1.5h'/>
+    <part name='c2.5f'/>
+    <part name='explorer/3f.bin'/>
+    <part name='explorer/4b.bin'/>
   </rom>
-  <rom index="0" md5="e6738036cf8d37b26dfd85ff377ea97b" type="split" zip="explorer.zip">
-    <part name="10l.bin"/>
-    <part name="9l.bin"/>
-    <part name="8l.bin"/>
-    <part name="7l.bin"/>
-    <part name="c1.5h" zip="scramble.zip"/>
-    <part name="c2.5f" zip="scramble.zip"/>
-    <part name="3f.bin"/>
-    <part name="4b.bin"/>
+  <rom index='0' md5='e6738036cf8d37b26dfd85ff377ea97b' type='split' zip='explorer.zip'>
+    <part name='10l.bin'/>
+    <part name='9l.bin'/>
+    <part name='8l.bin'/>
+    <part name='7l.bin'/>
+    <part name='c1.5h' zip='scramble.zip'/>
+    <part name='c2.5f' zip='scramble.zip'/>
+    <part name='3f.bin'/>
+    <part name='4b.bin'/>
   </rom>
-  <rom index="0" md5="e6738036cf8d37b26dfd85ff377ea97b" type="nonmerged" zip="explorer.zip">
-    <part name="10l.bin"/>
-    <part name="9l.bin"/>
-    <part name="8l.bin"/>
-    <part name="7l.bin"/>
-    <part name="c1.5h"/>
-    <part name="c2.5f"/>
-    <part name="3f.bin"/>
-    <part name="4b.bin"/>
+  <rom index='0' md5='e6738036cf8d37b26dfd85ff377ea97b' type='nonmerged' zip='explorer.zip'>
+    <part name='10l.bin'/>
+    <part name='9l.bin'/>
+    <part name='8l.bin'/>
+    <part name='7l.bin'/>
+    <part name='c1.5h'/>
+    <part name='c2.5f'/>
+    <part name='3f.bin'/>
+    <part name='4b.bin'/>
   </rom>
 </misterromdescription>
