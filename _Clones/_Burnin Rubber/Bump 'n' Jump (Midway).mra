@@ -1,19 +1,50 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Bump &apos;n&apos; Jump (Midway)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Data East</manufacturer>
-	<category>Racing / Cars</category>
-	<rbf>burningrubber</rbf>
-	<rom index='0' md5='c7d288bc1514495a741b17001e2400a2' type='merged|nonmerged' zip='brubber.zip'>
-		<part name='bnjm/bnj12c.bin'/>
-		<part name='bnjm/bnj12d.bin'/>
-		<part name='bnj4e.bin'/>
-		<part name='bnj4f.bin'/>
-		<part name='bnj4h.bin'/>
-		<part name='bnj10e.bin'/>
-		<part name='bnj10f.bin'/>
-		<part name='bnj6c.bin'/>
-	</rom>
+  <name>Bump 'n' Jump (Midway)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Data East</manufacturer>
+  <category>Racing / Cars</category>
+  <rbf>burningrubber</rbf>
+  <rom index="0" md5="fabac565b5d9ae3a99f9988fea766ea1" type="merged|nonmerged" zip="brubber.zip">
+    <part name="bnjm/bnj12c.bin"/>
+    <part name="bnjm/bnj12d.bin"/>
+    <part name="bnj4e.bin"/>
+    <part name="bnj4f.bin"/>
+    <part name="bnj4h.bin"/>
+    <part name="bnj10e.bin"/>
+    <part name="bnj10f.bin"/>
+    <part name="bnj6c.bin"/>
+  </rom>
+  <rom index="0" md5="fabac565b5d9ae3a99f9988fea766ea1" type="split" zip="bnjm.zip">
+    <part name="bnj12c.bin"/>
+    <part name="bnj12d.bin"/>
+    <part name="bnj4e.bin" zip="brubber.zip"/>
+    <part name="bnj4f.bin" zip="brubber.zip"/>
+    <part name="bnj4h.bin" zip="brubber.zip"/>
+    <part name="bnj10e.bin" zip="brubber.zip"/>
+    <part name="bnj10f.bin" zip="brubber.zip"/>
+    <part name="bnj6c.bin" zip="brubber.zip"/>
+  </rom>
+  <rom index="0" md5="fabac565b5d9ae3a99f9988fea766ea1" type="split" zip="bnjm.zip">
+    <part name="bnj12c.bin"/>
+    <part name="bnj12d.bin"/>
+    <part name="bnj4e.bin" zip="brubber.zip"/>
+    <part name="bnj4f.bin" zip="brubber.zip"/>
+    <part name="bnj4h.bin" zip="brubber.zip"/>
+    <part name="bnj10e.bin" zip="brubber.zip"/>
+    <part name="bnj10f.bin" zip="brubber.zip"/>
+    <part name="bnj6c.bin" zip="brubber.zip"/>
+  </rom>
+  <rom index="0" md5="fabac565b5d9ae3a99f9988fea766ea1" type="nonmerged" zip="bnjm.zip">
+    <part name="bnj12c.bin"/>
+    <part name="bnj12d.bin"/>
+    <part name="bnj4e.bin"/>
+    <part name="bnj4f.bin"/>
+    <part name="bnj4h.bin"/>
+    <part name="bnj10e.bin"/>
+    <part name="bnj10f.bin"/>
+    <part name="bnj6c.bin"/>
+  </rom>
 </misterromdescription>

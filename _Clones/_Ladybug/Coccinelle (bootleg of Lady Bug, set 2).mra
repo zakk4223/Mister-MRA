@@ -1,22 +1,47 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Coccinelle (bootleg of Lady Bug, set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1981</year>
-	<manufacturer>Universal</manufacturer>
-	<category>Maze</category>
-	<category>Maze / Bugs</category>
-	<rbf>ladybug</rbf>
-	<rom index='0' md5='89d961d878363b9859930a3e2c463867' type='merged|nonmerged' zip='ladybug.zip'>
-		<part name='ladybugb2/lb1b.cpu'/>
-		<part name='ladybugb2/lb2b.cpu'/>
-		<part name='ladybugb2/lb3b.cpu'/>
-		<part name='l4.h4'/>
-		<part name='l5.j4'/>
-		<part name='ladybugb2/lb6b.cpu'/>
-		<part name='l8.l7'/>
-		<part name='l7.m7'/>
-		<part name='l9.f7'/>
-		<part name='l0.h7'/>
-	</rom>
+  <name>Coccinelle (bootleg of Lady Bug, set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Universal</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Bugs</category>
+  <rbf>ladybug</rbf>
+  <rom index="0" md5="530d955a6796e9890c9bdba469229e1e" type="merged|nonmerged" zip="ladybug.zip">
+    <part name="ladybugb2/lb1b.cpu"/>
+    <part name="ladybugb2/lb2b.cpu"/>
+    <part name="ladybugb2/lb3b.cpu"/>
+    <part name="l4.h4"/>
+    <part name="l5.j4"/>
+    <part name="ladybugb2/lb6b.cpu"/>
+    <part name="l8.l7"/>
+    <part name="l7.m7"/>
+    <part name="l9.f7"/>
+    <part name="l0.h7"/>
+  </rom>
+  <rom index="0" md5="530d955a6796e9890c9bdba469229e1e" type="split" zip="ladybugb2.zip">
+    <part name="lb1b.cpu"/>
+    <part name="lb2b.cpu"/>
+    <part name="lb3b.cpu"/>
+    <part name="l4.h4" zip="ladybug.zip"/>
+    <part name="l5.j4" zip="ladybug.zip"/>
+    <part name="lb6b.cpu"/>
+    <part name="l8.l7" zip="ladybug.zip"/>
+    <part name="l7.m7" zip="ladybug.zip"/>
+    <part name="l9.f7" zip="ladybug.zip"/>
+    <part name="l0.h7" zip="ladybug.zip"/>
+  </rom>
+  <rom index="0" md5="530d955a6796e9890c9bdba469229e1e" type="nonmerged" zip="ladybugb2.zip">
+    <part name="lb1b.cpu"/>
+    <part name="lb2b.cpu"/>
+    <part name="lb3b.cpu"/>
+    <part name="l4.h4"/>
+    <part name="l5.j4"/>
+    <part name="lb6b.cpu"/>
+    <part name="l8.l7"/>
+    <part name="l7.m7"/>
+    <part name="l9.f7"/>
+    <part name="l0.h7"/>
+  </rom>
 </misterromdescription>

@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Griffon (Olympia bootleg of Phoenix)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Amstar</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>phoenix</rbf>
-	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
-		<part name='condor/cond01c.bin'/>
-		<part name='griffono/griffon01.6a'/>
-		<part name='condor/cond03c.bin'/>
-		<part name='griffono/griffon03.8a'/>
-		<part name='griffon/griffon4.a9'/>
-		<part name='condor/cond06c.bin'/>
-		<part name='condor/cond07c.bin'/>
-		<part name='griffono/griffon07-0.12a'/>
-		<part name='ic23.3d'/>
-		<part name='ic24.4d'/>
-		<part name='griffono/griffond7-0.7d'/>
-		<part name='griffono/griffond8.8d'/>
-	</rom>
+  <name>Griffon (Olympia bootleg of Phoenix)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Amstar</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index="0" md5="3fbd6c1b68523f0bf052fd1208d71566" type="merged|nonmerged" zip="phoenix.zip">
+    <part name="condor/cond01c.bin"/>
+    <part name="griffono/griffon01.6a"/>
+    <part name="condor/cond03c.bin"/>
+    <part name="griffono/griffon03.8a"/>
+    <part name="griffon/griffon4.a9"/>
+    <part name="condor/cond06c.bin"/>
+    <part name="condor/cond07c.bin"/>
+    <part name="griffono/griffon07-0.12a"/>
+    <part name="ic23.3d"/>
+    <part name="ic24.4d"/>
+    <part name="griffono/griffond7-0.7d"/>
+    <part name="griffono/griffond8.8d"/>
+  </rom>
+  <rom index="0" md5="3fbd6c1b68523f0bf052fd1208d71566" type="split" zip="griffono.zip">
+    <part name="griffon00.5a"/>
+    <part name="griffon01.6a"/>
+    <part name="griffon02.7a"/>
+    <part name="griffon03.8a"/>
+    <part name="griffon04.9a"/>
+    <part name="griffon05.10a"/>
+    <part name="griffon06.11a"/>
+    <part name="griffon07-0.12a"/>
+    <part name="ic23.3d" zip="phoenix.zip"/>
+    <part name="ic24.4d" zip="phoenix.zip"/>
+    <part name="griffond7-0.7d"/>
+    <part name="griffond8.8d"/>
+  </rom>
+  <rom index="0" md5="3fbd6c1b68523f0bf052fd1208d71566" type="nonmerged" zip="griffono.zip">
+    <part name="griffon00.5a"/>
+    <part name="griffon01.6a"/>
+    <part name="griffon02.7a"/>
+    <part name="griffon03.8a"/>
+    <part name="griffon04.9a"/>
+    <part name="griffon05.10a"/>
+    <part name="griffon06.11a"/>
+    <part name="griffon07-0.12a"/>
+    <part name="griffonb7.7b"/>
+    <part name="griffonb8.8b"/>
+    <part name="griffond7-0.7d"/>
+    <part name="griffond8.8d"/>
+  </rom>
 </misterromdescription>

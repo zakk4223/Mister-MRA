@@ -1,24 +1,25 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Mandinga (Amidar bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Artemi</manufacturer>
-	<category>Maze</category>
-	<category>Maze / Qix</category>
-	<rbf>amidar</rbf>
-	<rom index="0" zip="mandinga.zip" md5="21142e8d631299f0a0121ce398a48c2b" type="merged">
-		<part name="1.bin"/>
-		<part name="2.bin"/>
-		<part name="3.bin"/>
-		<part name="4.bin"/>
-		<part name="5.bin"/>
-		<part name="6.bin"/>
-		<part name="7.bin"/>
-		<part name="8.bin"/>
-		<part name="9.bin"/>
-		<part name="10.bin"/>
-		<part zip="amidar.zip" name="s1.5c"/>
-		<part zip="amidar.zip" name="s2.5d"/>
-	</rom>
+  <name>Mandinga (Amidar bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Artemi</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Qix</category>
+  <rbf>amidar</rbf>
+  <rom index="0" md5="21142e8d631299f0a0121ce398a48c2b" type="merged" zip="mandinga.zip">
+    <part name="1.bin"/>
+    <part name="2.bin"/>
+    <part name="3.bin"/>
+    <part name="4.bin"/>
+    <part name="5.bin"/>
+    <part name="6.bin"/>
+    <part name="7.bin"/>
+    <part name="8.bin"/>
+    <part name="9.bin"/>
+    <part name="10.bin"/>
+    <part name="s1.5c" zip="amidar.zip"/>
+    <part name="s2.5d" zip="amidar.zip"/>
+  </rom>
 </misterromdescription>

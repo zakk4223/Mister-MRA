@@ -1,22 +1,49 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Super Galaxians (galaxiana hack)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1979</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>galaxian</rbf>
-	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
-		<part name='galap1/7f.bin'/>
-		<part name='galturbo/superg.w'/>
-		<part name='moonaln/superg.y'/>
-		<part name='superg/superg.z'/>
-		<part name='superg/superg.z'/>
-		<part name='superg/superg.z'/>
-		<part name='superg/superg.z'/>
-		<part name='galap1/galmidw.1j'/>
-		<part name='galap1/galmidw.1j'/>
-		<part name='galap1/galmidw.1k'/>
-		<part name='galap1/galmidw.1k'/>
-	</rom>
+  <name>Super Galaxians (galaxiana hack)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="0510da509ee29666719defd8efae1700" type="merged|nonmerged" zip="galaxian.zip">
+    <part name="galap1/7f.bin"/>
+    <part name="galturbo/superg.w"/>
+    <part name="moonaln/superg.y"/>
+    <part name="superg/superg.z"/>
+    <part name="superg/superg.z"/>
+    <part name="superg/superg.z"/>
+    <part name="superg/superg.z"/>
+    <part name="galap1/galmidw.1j"/>
+    <part name="galap1/galmidw.1j"/>
+    <part name="galap1/galmidw.1k"/>
+    <part name="galap1/galmidw.1k"/>
+  </rom>
+  <rom index="0" md5="0510da509ee29666719defd8efae1700" type="split" zip="superg.zip">
+    <part name="7f.bin"/>
+    <part name="superg.w"/>
+    <part name="superg.y"/>
+    <part name="superg.z"/>
+    <part name="superg.z"/>
+    <part name="superg.z"/>
+    <part name="superg.z"/>
+    <part name="galmidw.1j"/>
+    <part name="galmidw.1j"/>
+    <part name="galmidw.1k"/>
+    <part name="galmidw.1k"/>
+  </rom>
+  <rom index="0" md5="0510da509ee29666719defd8efae1700" type="nonmerged" zip="superg.zip">
+    <part name="7f.bin"/>
+    <part name="superg.w"/>
+    <part name="superg.y"/>
+    <part name="superg.z"/>
+    <part name="superg.z"/>
+    <part name="superg.z"/>
+    <part name="superg.z"/>
+    <part name="galmidw.1j"/>
+    <part name="galmidw.1j"/>
+    <part name="galmidw.1k"/>
+    <part name="galmidw.1k"/>
+  </rom>
 </misterromdescription>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Bagman (bootleg on Moon Cresta hardware, set 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Valadon Automation</manufacturer>
+  <category>Platform / Extra</category>
+  <rbf>bagman</rbf>
+  <rom index="0" md5="b2ab27031e65431202db1575f2d808bd" type="merged|nonmerged" zip="bagman.zip">
+    <part name="bagmanmc/b1.bin"/>
+    <part name="bagmanmc/b2.bin"/>
+    <part name="bagmanmc/b3.bin"/>
+    <part name="bagmanmc/b4.bin"/>
+    <part name="bagmanmc/b5.bin"/>
+    <part name="bagmanmc/b6.bin"/>
+    <part name="bagmanmc/g1-l.bin"/>
+    <part name="bagmanmc/g2-u.bin"/>
+  </rom>
+  <rom index="0" md5="b2ab27031e65431202db1575f2d808bd" type="split" zip="bagmanmc.zip">
+    <part name="b1.bin"/>
+    <part name="b2.bin"/>
+    <part name="b3.bin"/>
+    <part name="b4.bin"/>
+    <part name="b5.bin"/>
+    <part name="b6.bin"/>
+    <part name="g1-l.bin"/>
+    <part name="g2-u.bin"/>
+  </rom>
+</misterromdescription>

@@ -1,27 +1,64 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Candory (Ponpoko bootleg with Mario)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Sigma Enterprises Inc.</manufacturer>
-	<category>Platform</category>
-	<rbf>ponpoko</rbf>
-	<rom index='0' md5='9000cca41cfa18130798595363a112ec' type='merged|nonmerged' zip='ponpoko.zip'>
-		<part name='ppokoj1.bin'/>
-		<part name='ppokoj2.bin'/>
-		<part name='ppokoj3.bin'/>
-		<part name='ppokoj4.bin'/>
-		<part name='ppoko5.bin'/>
-		<part name='ppoko6.bin'/>
-		<part name='ppoko7.bin'/>
-		<part name='ppokoj8.bin'/>
-		<part name='candory/candory.v2'/>
-		<part name='candory/candory.v1'/>
-		<part name='candory/candory.v2'/>
-		<part name='candory/candory.v1'/>
-		<part name='82s126.1m'/>
-		<part name='82s126.4a'/>
-		<part name='82s126.3m'/>
-		<part name='82s123.7f'/>
-	</rom>
+  <name>Candory (Ponpoko bootleg with Mario)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Sigma Enterprises Inc.</manufacturer>
+  <category>Platform</category>
+  <rbf>ponpoko</rbf>
+  <rom index="0" md5="05063b591bba5fd5edb1c7985cb62ede" type="merged|nonmerged" zip="ponpoko.zip">
+    <part name="ppokoj1.bin"/>
+    <part name="ppokoj2.bin"/>
+    <part name="ppokoj3.bin"/>
+    <part name="ppokoj4.bin"/>
+    <part name="ppoko5.bin"/>
+    <part name="ppoko6.bin"/>
+    <part name="ppoko7.bin"/>
+    <part name="ppokoj8.bin"/>
+    <part name="candory/candory.v2"/>
+    <part name="candory/candory.v1"/>
+    <part name="candory/candory.v2"/>
+    <part name="candory/candory.v1"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="05063b591bba5fd5edb1c7985cb62ede" type="split" zip="candory.zip">
+    <part name="ppokoj1.bin" zip="ponpoko.zip"/>
+    <part name="ppokoj2.bin" zip="ponpoko.zip"/>
+    <part name="ppokoj3.bin" zip="ponpoko.zip"/>
+    <part name="ppokoj4.bin" zip="ponpoko.zip"/>
+    <part name="ppoko5.bin" zip="ponpoko.zip"/>
+    <part name="ppoko6.bin" zip="ponpoko.zip"/>
+    <part name="ppoko7.bin" zip="ponpoko.zip"/>
+    <part name="ppokoj8.bin" zip="ponpoko.zip"/>
+    <part name="candory.v2"/>
+    <part name="candory.v1"/>
+    <part name="candory.v2"/>
+    <part name="candory.v1"/>
+    <part name="82s126.1m" zip="ponpoko.zip"/>
+    <part name="82s126.4a" zip="ponpoko.zip"/>
+    <part name="82s126.3m" zip="ponpoko.zip"/>
+    <part name="82s123.7f" zip="ponpoko.zip"/>
+  </rom>
+  <rom index="0" md5="05063b591bba5fd5edb1c7985cb62ede" type="nonmerged" zip="candory.zip">
+    <part name="ppokoj1.bin"/>
+    <part name="ppokoj2.bin"/>
+    <part name="ppokoj3.bin"/>
+    <part name="ppokoj4.bin"/>
+    <part name="ppoko5.bin"/>
+    <part name="ppoko6.bin"/>
+    <part name="ppoko7.bin"/>
+    <part name="ppokoj8.bin"/>
+    <part name="candory.v2"/>
+    <part name="candory.v1"/>
+    <part name="candory.v2"/>
+    <part name="candory.v1"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
 </misterromdescription>

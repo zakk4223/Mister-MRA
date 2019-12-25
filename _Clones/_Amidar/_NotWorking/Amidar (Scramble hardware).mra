@@ -1,35 +1,36 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Amidar (Scramble hardware)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Konami</manufacturer>
-	<category>Maze</category>
-	<category>Maze / Qix</category>
-	<rbf>scramble</rbf>
-	<rom index="0" zip="amidars.zip" md5="29dbfb61bc9e45f2cebe63743de85a57" type="nonmerged">
-		<part name="am2d"/>
-		<part name="am2e"/>
-		<part name="am2f"/>
-		<part name="am2h"/>
-		<part name="am2j"/>
-		<part name="am2l"/>
-		<part name="am2m"/>
-		<part name="am2p"/>
-		<part name="2716.a5"/>
-		<part name="2716.a6"/>
-		<part name="amidarus.5c"/>
-		<part name="amidarus.5d"/>
-	</rom>
-	<rom index="0" zip="amidar.zip" md5="29dbfb61bc9e45f2cebe63743de85a57" type="merged">
-		<part name="1.2c"/>
-		<part name="2.2e"/>
-		<part name="3.2f"/>
-		<part name="4.2h"/>
-		<part name="5.2j"/>
-		<part name="c2.5d"/>
-		<part name="c2.5f"/>
-		<part name="s1.5c"/>
-		<part name="s2.5d"/>
-	</rom>
+  <name>Amidar (Scramble hardware)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Qix</category>
+  <rbf>scramble</rbf>
+  <rom index="0" md5="233da0a4ce249be9b068cbf604030f6e" type="nonmerged" zip="amidars.zip">
+    <part name="am2d"/>
+    <part name="am2e"/>
+    <part name="am2f"/>
+    <part name="am2h"/>
+    <part name="am2j"/>
+    <part name="am2l"/>
+    <part name="am2m"/>
+    <part name="am2p"/>
+    <part name="2716.a5"/>
+    <part name="2716.a6"/>
+    <part name="amidarus.5c"/>
+    <part name="amidarus.5d"/>
+  </rom>
+  <rom index="0" md5="233da0a4ce249be9b068cbf604030f6e" type="merged" zip="amidar.zip">
+    <part name="1.2c"/>
+    <part name="2.2e"/>
+    <part name="3.2f"/>
+    <part name="4.2h"/>
+    <part name="5.2j"/>
+    <part name="c2.5d"/>
+    <part name="c2.5f"/>
+    <part name="s1.5c"/>
+    <part name="s2.5d"/>
+  </rom>
 </misterromdescription>

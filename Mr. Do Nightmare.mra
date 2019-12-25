@@ -1,10 +1,11 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Mr. Do Nightmare</name>
-	<mameversion>0216</mameversion>
-	<setname></setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>2004</year>
-	<manufacturer>Crazy Ivan</manufacturer>
-	<category>Maze / Digging</category>
-	<rbf>mrdonightmare</rbf>
+  <name>Mr. Do Nightmare</name>
+  <mameversion>0216</mameversion>
+  <setname/>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>2004</year>
+  <manufacturer>Crazy Ivan</manufacturer>
+  <category>Maze / Digging</category>
+  <rbf>mrdonightmare</rbf>
 </misterromdescription>

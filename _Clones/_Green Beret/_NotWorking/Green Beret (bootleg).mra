@@ -1,20 +1,49 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Green Beret (bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<rbf>rshnatk</rbf>
-	<rom index='0' md5='5a94e70ada06e9063ca4d448a4ffa04a' type='merged' zip='gberet.zip'>
-            <part name='gberetb/2-ic82.10g'/>
-            <part fixme='maincpu:4000' name='577l02.8c'/>
-            <part name='gberetb/3-ic81.10f'/>
-            <part name='gberetb/3-ic81.10f'/>
-            <part name='gberetb/7-1c8.2b'/>
-            <part name='gberetb/6-ic9.2c'/>
-            <part name='gberetb/5-ic10.2d'/>
-            <part name='gberetb/4-ic11.2e'/>
-            <part name='gberetb/1-ic92.12c'/>
-            <part name='577h10.5f'/>
-            <part name='577h11.6f'/>
-            <part name='577h09.2f'/>
-	</rom>
+  <name>Green Beret (bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>rshnatk</rbf>
+  <rom index="0" md5="b18175f50548c0c6392193b027c06ce0" type="merged" zip="gberet.zip">
+    <part name="gberetb/2-ic82.10g"/>
+    <part fixme="maincpu:4000" name="577l02.8c"/>
+    <part name="gberetb/3-ic81.10f"/>
+    <part name="gberetb/3-ic81.10f"/>
+    <part name="gberetb/7-1c8.2b"/>
+    <part name="gberetb/6-ic9.2c"/>
+    <part name="gberetb/5-ic10.2d"/>
+    <part name="gberetb/4-ic11.2e"/>
+    <part name="gberetb/1-ic92.12c"/>
+    <part name="577h10.5f"/>
+    <part name="577h11.6f"/>
+    <part name="577h09.2f"/>
+  </rom>
+  <rom index="0" md5="b18175f50548c0c6392193b027c06ce0" type="split" zip="gberetb.zip">
+    <part name="2-ic82.10g"/>
+    <part name="577l02.8c" zip="gberet.zip"/>
+    <part name="3-ic81.10f"/>
+    <part name="3-ic81.10f"/>
+    <part name="7-1c8.2b"/>
+    <part name="6-ic9.2c"/>
+    <part name="5-ic10.2d"/>
+    <part name="4-ic11.2e"/>
+    <part name="1-ic92.12c"/>
+    <part name="577h10.5f" zip="gberet.zip"/>
+    <part name="577h11.6f" zip="gberet.zip"/>
+    <part name="577h09.2f" zip="gberet.zip"/>
+  </rom>
+  <rom index="0" md5="b18175f50548c0c6392193b027c06ce0" type="nonmerged" zip="gberetb.zip">
+    <part name="2-ic82.10g"/>
+    <part name="577l02.8c"/>
+    <part name="3-ic81.10f"/>
+    <part name="3-ic81.10f"/>
+    <part name="7-1c8.2b"/>
+    <part name="6-ic9.2c"/>
+    <part name="5-ic10.2d"/>
+    <part name="4-ic11.2e"/>
+    <part name="1-ic92.12c"/>
+    <part name="577h10.5f"/>
+    <part name="577h11.6f"/>
+    <part name="577h09"/>
+  </rom>
 </misterromdescription>

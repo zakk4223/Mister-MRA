@@ -1,69 +1,130 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Paint Roller (bootleg of Crush Roller)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1981</year>
-	<manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
-	<category>Maze</category>
-	<rbf>crushroller</rbf>
-	<rom index='0' md5='f8b85c0ec812b2a9d8ff7d78d2f7db25' type='nonmerged' zip='crush2.zip'>
-		<part name='tp1'/>
-		<part name='tp5a'/>
-		<part name='tp2'/>
-		<part name='tp6'/>
-		<part name='tp3'/>
-		<part name='tp7'/>
-		<part name='tp4'/>
-		<part name='tp8'/>
-		<part name='tp1'/>
-		<part name='tp5a'/>
-		<part name='tp2'/>
-		<part name='tp6'/>
-		<part name='tp3'/>
-		<part name='tp7'/>
-		<part name='tp4'/>
-		<part name='tp8'/>
-		<part name='tpa'/>
-		<part name='tpc'/>
-		<part name='tpb'/>
-		<part name='tpd'/>
-		<part name='tpd'/>
-		<part name='tpd'/>
-		<part name='tpd'/>
-		<part name='tpd'/>
-		<part name='82s126.1m'/>
-		<part name='2s140.4a'/>
-		<part name='82s126.3m'/>
-		<part name='82s123.7f'/>
-	</rom>
-	<rom index='0' md5='f8b85c0ec812b2a9d8ff7d78d2f7db25' type='merged' zip='crush.zip'>
-		<part name='paintrlr/paintrlr.1'/>
-		<part name='paintrlr/paintrlr.5'/>
-		<part name='paintrlr/paintrlr.2'/>
-		<part name='paintrlr/paintrlr.6'/>
-		<part name='paintrlr/paintrlr.3'/>
-		<part name='paintrlr/paintrlr.7'/>
-		<part name='paintrlr/paintrlr.4'/>
-		<part name='paintrlr/paintrlr.8'/>
-		<part name='paintrlr/paintrlr.1'/>
-		<part name='paintrlr/paintrlr.5'/>
-		<part name='paintrlr/paintrlr.2'/>
-		<part name='paintrlr/paintrlr.6'/>
-		<part name='paintrlr/paintrlr.3'/>
-		<part name='paintrlr/paintrlr.7'/>
-		<part name='paintrlr/paintrlr.4'/>
-		<part name='paintrlr/paintrlr.8'/>
-		<part name='crush2/tpa'/>
-		<part name='crushbl2/cr3.5h'/>
-		<part name='crushbl2/cr2.5f'/>
-		<part name='crush2/tpd'/>
-		<part name='crush2/tpd'/>
-		<part name='crush2/tpd'/>
-		<part name='crush2/tpd'/>
-		<part name='crush2/tpd'/>
-		<part name='82s126.1m'/>
-		<part name='2s140.4a'/>
-		<part name='82s126.3m'/>
-		<part name='82s123.7f'/>
-	</rom>
+  <name>Paint Roller (bootleg of Crush Roller)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
+  <category>Maze</category>
+  <rbf>crushroller</rbf>
+  <rom index="0" md5="afaa19f5b588dfb34706ce71a788e1cc" type="nonmerged" zip="crush2.zip">
+    <part name="tp1"/>
+    <part name="tp5a"/>
+    <part name="tp2"/>
+    <part name="tp6"/>
+    <part name="tp3"/>
+    <part name="tp7"/>
+    <part name="tp4"/>
+    <part name="tp8"/>
+    <part name="tp1"/>
+    <part name="tp5a"/>
+    <part name="tp2"/>
+    <part name="tp6"/>
+    <part name="tp3"/>
+    <part name="tp7"/>
+    <part name="tp4"/>
+    <part name="tp8"/>
+    <part name="tpa"/>
+    <part name="tpc"/>
+    <part name="tpb"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="82s126.1m"/>
+    <part name="2s140.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="afaa19f5b588dfb34706ce71a788e1cc" type="merged" zip="crush.zip">
+    <part name="paintrlr/paintrlr.1"/>
+    <part name="paintrlr/paintrlr.5"/>
+    <part name="paintrlr/paintrlr.2"/>
+    <part name="paintrlr/paintrlr.6"/>
+    <part name="paintrlr/paintrlr.3"/>
+    <part name="paintrlr/paintrlr.7"/>
+    <part name="paintrlr/paintrlr.4"/>
+    <part name="paintrlr/paintrlr.8"/>
+    <part name="paintrlr/paintrlr.1"/>
+    <part name="paintrlr/paintrlr.5"/>
+    <part name="paintrlr/paintrlr.2"/>
+    <part name="paintrlr/paintrlr.6"/>
+    <part name="paintrlr/paintrlr.3"/>
+    <part name="paintrlr/paintrlr.7"/>
+    <part name="paintrlr/paintrlr.4"/>
+    <part name="paintrlr/paintrlr.8"/>
+    <part name="crush2/tpa"/>
+    <part name="crushbl2/cr3.5h"/>
+    <part name="crushbl2/cr2.5f"/>
+    <part name="crush2/tpd"/>
+    <part name="crush2/tpd"/>
+    <part name="crush2/tpd"/>
+    <part name="crush2/tpd"/>
+    <part name="crush2/tpd"/>
+    <part name="82s126.1m"/>
+    <part name="2s140.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="afaa19f5b588dfb34706ce71a788e1cc" type="split" zip="paintrlr.zip">
+    <part name="paintrlr.1"/>
+    <part name="paintrlr.5"/>
+    <part name="paintrlr.2"/>
+    <part name="paintrlr.6"/>
+    <part name="paintrlr.3"/>
+    <part name="paintrlr.7"/>
+    <part name="paintrlr.4"/>
+    <part name="paintrlr.8"/>
+    <part name="paintrlr.1"/>
+    <part name="paintrlr.5"/>
+    <part name="paintrlr.2"/>
+    <part name="paintrlr.6"/>
+    <part name="paintrlr.3"/>
+    <part name="paintrlr.7"/>
+    <part name="paintrlr.4"/>
+    <part name="paintrlr.8"/>
+    <part name="tpa"/>
+    <part name="mbrush.5h"/>
+    <part name="mbrush.5f"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="82s126.1m" zip="crush.zip"/>
+    <part name="2s140.4a" zip="crush.zip"/>
+    <part name="82s126.3m" zip="crush.zip"/>
+    <part name="82s123.7f" zip="crush.zip"/>
+  </rom>
+  <rom index="0" md5="afaa19f5b588dfb34706ce71a788e1cc" type="split" zip="paintrlr.zip">
+    <part name="paintrlr.1"/>
+    <part name="paintrlr.5"/>
+    <part name="paintrlr.2"/>
+    <part name="paintrlr.6"/>
+    <part name="paintrlr.3"/>
+    <part name="paintrlr.7"/>
+    <part name="paintrlr.4"/>
+    <part name="paintrlr.8"/>
+    <part name="paintrlr.1"/>
+    <part name="paintrlr.5"/>
+    <part name="paintrlr.2"/>
+    <part name="paintrlr.6"/>
+    <part name="paintrlr.3"/>
+    <part name="paintrlr.7"/>
+    <part name="paintrlr.4"/>
+    <part name="paintrlr.8"/>
+    <part name="tpa"/>
+    <part name="mbrush.5h"/>
+    <part name="mbrush.5f"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="tpd"/>
+    <part name="82s126.1m" zip="crush.zip"/>
+    <part name="2s140.4a" zip="crush.zip"/>
+    <part name="82s126.3m" zip="crush.zip"/>
+    <part name="82s123.7f" zip="crush.zip"/>
+  </rom>
 </misterromdescription>

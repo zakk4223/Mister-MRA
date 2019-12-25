@@ -1,17 +1,46 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>Pisces</rbf>
-  <rom index="0" zip="pisces.zip" md5="81d4f5479966ea8f79cac9b9c92725c5" type="merged">
-        <part name="p1.bin"/>
-        <part name="p2.bin"/>
-        <part name="p3.bin"/>
-        <part name="p4.bin"/>
-        <part name="p5.bin"/>
-        <part name="p6.bin"/>
-        <part name="p6.bin"/>
-        <part name="p6.bin"/>
-        <part name="g09.bin"/>
-        <part name="g11.bin"/>
-        <part name="g10.bin"/>
-        <part name="g12.bin"/>
+  <rom index="0" md5="81d4f5479966ea8f79cac9b9c92725c5" type="merged" zip="pisces.zip">
+    <part name="p1.bin"/>
+    <part name="p2.bin"/>
+    <part name="p3.bin"/>
+    <part name="p4.bin"/>
+    <part name="p5.bin"/>
+    <part name="p6.bin"/>
+    <part name="p6.bin"/>
+    <part name="p6.bin"/>
+    <part name="g09.bin"/>
+    <part name="g11.bin"/>
+    <part name="g10.bin"/>
+    <part name="g12.bin"/>
+  </rom>
+  <rom index="0" md5="81d4f5479966ea8f79cac9b9c92725c5" type="split" zip="pisces.zip">
+    <part name="p1.bin"/>
+    <part name="p2.bin"/>
+    <part name="p3.bin"/>
+    <part name="p4.bin"/>
+    <part name="p5.bin"/>
+    <part name="p6.bin"/>
+    <part name="p6.bin"/>
+    <part name="p6.bin"/>
+    <part name="g09.bin"/>
+    <part name="g11.bin"/>
+    <part name="g10.bin"/>
+    <part name="g12.bin"/>
+  </rom>
+  <rom index="0" md5="81d4f5479966ea8f79cac9b9c92725c5" type="nonmerged" zip="pisces.zip">
+    <part name="p1.bin"/>
+    <part name="p2.bin"/>
+    <part name="p3.bin"/>
+    <part name="p4.bin"/>
+    <part name="p5.bin"/>
+    <part name="p6.bin"/>
+    <part name="p6.bin"/>
+    <part name="p6.bin"/>
+    <part name="g09.bin"/>
+    <part name="g11.bin"/>
+    <part name="g10.bin"/>
+    <part name="g12.bin"/>
   </rom>
 </misterromdescription>

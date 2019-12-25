@@ -1,11 +1,28 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
-        <part name='mspacmanbg2/11-prg.bin'/>
-        <part name='mspacmanbg2/13-chr.bin'/>
-        <part name='82s126.1m'/>
-        <part name='82s126.4a'/>
-        <part name='82s126.3m'/>
-        <part name='mspacmanbcc/82s123.h7'/>
+  <rom index="0" md5="aeaf72a81c746e3b347025733f97ca70" type="merged" zip="mspacman.zip">
+    <part name="mspacmanbg2/11-prg.bin"/>
+    <part name="mspacmanbg2/13-chr.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="mspacmanbcc/82s123.h7"/>
+  </rom>
+  <rom index="0" md5="aeaf72a81c746e3b347025733f97ca70" type="split" zip="mspacmanbg2.zip">
+    <part name="11-prg.bin"/>
+    <part name="13-chr.bin"/>
+    <part name="82s126.1m" zip="mspacman.zip"/>
+    <part name="82s126.4a" zip="mspacman.zip"/>
+    <part name="82s126.3m" zip="mspacman.zip"/>
+    <part name="82s123.h7"/>
+  </rom>
+  <rom index="0" md5="aeaf72a81c746e3b347025733f97ca70" type="nonmerged" zip="mspacmanbg2.zip">
+    <part name="11-prg.bin"/>
+    <part name="13-chr.bin"/>
+    <part name="82s129-1.a9"/>
+    <part name="82s129-3.d1"/>
+    <part name="82s129-2.c9"/>
+    <part name="82s123.h7"/>
   </rom>
 </misterromdescription>

@@ -1,28 +1,86 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Zig Zag (Dig Dug hardware)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Maze / Digging</category>
-	<rbf>digdug</rbf>
-	<rom index='0' md5='d6790fb2893b2290b4ac74544e4d78e6' type='merged|nonmerged' zip='digdug.zip'>
-		<part name='digdug1/dd1.1'/>
-		<part name='digdug1/dd1.2'/>
-		<part name='digdug1/dd1.3'/>
-		<part name='dzigzag/zigzag4'/>
-		<part name='dd1.15'/>
-		<part name='dzigzag/zigzag12'/>
-		<part name='dzigzag/zigzag13'/>
-		<part name='dd1.12'/>
-		<part name='dzigzag/zigzag5'/>
-		<part name='dd1.7'/>
-		<part name='dd1.10b'/>
-		<part name='dd1.11'/>
-		<part name='dzigzag/zigzag8'/>
-		<part name='136007.110'/>
-		<part name='136007.111'/>
-		<part name='136007.112'/>
-		<part name='136007.113'/>
-	</rom>
+  <name>Zig Zag (Dig Dug hardware)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Maze / Digging</category>
+  <rbf>digdug</rbf>
+  <rom index="0" md5="69a3c5ec67d349f2e7357a685c2cad74" type="merged|nonmerged" zip="digdug.zip">
+    <part name="digdug1/dd1.1"/>
+    <part name="digdug1/dd1.2"/>
+    <part name="digdug1/dd1.3"/>
+    <part name="dzigzag/zigzag4"/>
+    <part name="dd1.15"/>
+    <part name="dzigzag/zigzag12"/>
+    <part name="dzigzag/zigzag13"/>
+    <part name="dd1.12"/>
+    <part name="dzigzag/zigzag5"/>
+    <part name="dd1.7"/>
+    <part name="dd1.10b"/>
+    <part name="dd1.11"/>
+    <part name="dzigzag/zigzag8"/>
+    <part name="136007.110"/>
+    <part name="136007.111"/>
+    <part name="136007.112"/>
+    <part name="136007.113"/>
+  </rom>
+  <rom index="0" md5="69a3c5ec67d349f2e7357a685c2cad74" type="split" zip="dzigzag.zip">
+    <part name="136007.101"/>
+    <part name="136007.102"/>
+    <part name="136007.103"/>
+    <part name="zigzag4"/>
+    <part name="dd1.15" zip="digdug.zip"/>
+    <part name="zigzag12"/>
+    <part name="zigzag13"/>
+    <part name="dd1.12" zip="digdug.zip"/>
+    <part name="zigzag5"/>
+    <part name="dd1.7" zip="digdug.zip"/>
+    <part name="dd1.10b" zip="digdug.zip"/>
+    <part name="dd1.11" zip="digdug.zip"/>
+    <part name="zigzag8"/>
+    <part name="136007.110" zip="digdug.zip"/>
+    <part name="136007.111" zip="digdug.zip"/>
+    <part name="136007.112" zip="digdug.zip"/>
+    <part name="136007.113" zip="digdug.zip"/>
+  </rom>
+  <rom index="0" md5="69a3c5ec67d349f2e7357a685c2cad74" type="split" zip="dzigzag.zip">
+    <part name="136007.101"/>
+    <part name="136007.102"/>
+    <part name="136007.103"/>
+    <part name="zigzag4"/>
+    <part name="dd1.15" zip="digdug.zip"/>
+    <part name="zigzag12"/>
+    <part name="zigzag13"/>
+    <part name="dd1.12" zip="digdug.zip"/>
+    <part name="zigzag5"/>
+    <part name="dd1.7" zip="digdug.zip"/>
+    <part name="dd1.10b" zip="digdug.zip"/>
+    <part name="dd1.11" zip="digdug.zip"/>
+    <part name="zigzag8"/>
+    <part name="136007.110" zip="digdug.zip"/>
+    <part name="136007.111" zip="digdug.zip"/>
+    <part name="136007.112" zip="digdug.zip"/>
+    <part name="136007.113" zip="digdug.zip"/>
+  </rom>
+  <rom index="0" md5="69a3c5ec67d349f2e7357a685c2cad74" type="nonmerged" zip="dzigzag.zip">
+    <part name="136007.101"/>
+    <part name="136007.102"/>
+    <part name="136007.103"/>
+    <part name="zigzag4"/>
+    <part name="136007.116"/>
+    <part name="zigzag12"/>
+    <part name="zigzag13"/>
+    <part name="136007.119"/>
+    <part name="zigzag5"/>
+    <part name="136007.107"/>
+    <part name="dd1.10b"/>
+    <part name="dd1.11"/>
+    <part name="zigzag8"/>
+    <part name="136007.110"/>
+    <part name="136007.111"/>
+    <part name="136007.112"/>
+    <part name="136007.113"/>
+  </rom>
 </misterromdescription>

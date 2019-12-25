@@ -1,21 +1,62 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Tornado (set 1, Defender bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Williams</manufacturer>
-	<category>Space / Defender</category>
-	<rbf>defender</rbf>
-	<rom index='0' md5='c30f51faa522769c684feafa3147354a' type='merged|nonmerged' zip='defender.zip'>
-		<part name='defndjeu/15'/>
-		<part name='tornado1/torna3.bin'/>
-		<part name='tornado1/torna4.bin'/>
-		<part name='tornado1/tornc4.bin'/>
-		<part name='tornado1/tornb3.bin'/>
-		<part name='tornado1/tornb1.bin'/>
-		<part name='defndjeu/18'/>
-		<part name='tornado1/tornb6.bin'/>
-		<pppart name='decoder.2'/>
-		<pppart name='decoder.3'/>
-	</rom>
+  <name>Tornado (set 1, Defender bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Williams</manufacturer>
+  <category>Space / Defender</category>
+  <rbf>defender</rbf>
+  <rom index="0" md5="5ce75a6e74a6df537289d1a4bfe76a16" type="merged|nonmerged" zip="defender.zip">
+    <part name="defndjeu/15"/>
+    <part name="tornado1/torna3.bin"/>
+    <part name="tornado1/torna4.bin"/>
+    <part name="tornado1/tornc4.bin"/>
+    <part name="tornado1/tornb3.bin"/>
+    <part name="tornado1/tornb1.bin"/>
+    <part name="defndjeu/18"/>
+    <part name="tornado1/tornb6.bin"/>
+    <pppart name="decoder.2"/>
+    <pppart name="decoder.3"/>
+  </rom>
+  <rom index="0" md5="5ce75a6e74a6df537289d1a4bfe76a16" type="split" zip="tornado1.zip">
+    <part name="torna1.bin"/>
+    <part name="torna3.bin"/>
+    <part name="torna4.bin"/>
+    <part name="tornc4.bin"/>
+    <part name="tornb3.bin"/>
+    <part name="tornb1.bin"/>
+    <part name="tornb4.bin"/>
+    <part name="tornb6.bin"/>
+  </rom>
+  <rom index="0" md5="5ce75a6e74a6df537289d1a4bfe76a16" type="split" zip="tornado1.zip">
+    <part name="torna1.bin"/>
+    <part name="torna3.bin"/>
+    <part name="torna4.bin"/>
+    <part name="tornc4.bin"/>
+    <part name="tornb3.bin"/>
+    <part name="tornb1.bin"/>
+    <part name="tornb4.bin"/>
+    <part name="tornb6.bin"/>
+  </rom>
+  <rom index="0" md5="5ce75a6e74a6df537289d1a4bfe76a16" type="split" zip="tornado1.zip">
+    <part name="torna1.bin"/>
+    <part name="torna3.bin"/>
+    <part name="torna4.bin"/>
+    <part name="tornc4.bin"/>
+    <part name="tornb3.bin"/>
+    <part name="tornb1.bin"/>
+    <part name="tornb4.bin"/>
+    <part name="tornb6.bin"/>
+  </rom>
+  <rom index="0" md5="5ce75a6e74a6df537289d1a4bfe76a16" type="nonmerged" zip="tornado1.zip">
+    <part name="torna1.bin"/>
+    <part name="torna3.bin"/>
+    <part name="torna4.bin"/>
+    <part name="tornc4.bin"/>
+    <part name="tornb3.bin"/>
+    <part name="tornb1.bin"/>
+    <part name="tornb4.bin"/>
+    <part name="tornb6.bin"/>
+  </rom>
 </misterromdescription>

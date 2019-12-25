@@ -1,20 +1,41 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Super Breakout (Cocktail, prototype)</name>
-	<mameversion>0216</mameversion>
-	<setname>sbrkout</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1978</year>
-	<manufacturer>Atari</manufacturer>
-	<category>Platform / Breakout</category>
-	<rbf>superbreakout</rbf>
-	<rom index='0' md5='b80592e3c65a8c88bd48960d56c3e985' type='merged|nonmerged' zip='sbrkout.zip'>
-		<part name='sbrkoutct/034555-01.c1'/>
-		<part name='sbrkoutct/034556-01.d11'/>
-		<part name='sbrkoutct/034557-01.ef1'/>
-		<part name='sbrkoutct/034557-01.ef1'/>
-		<part name='sbrkoutct/034559-01.r4'/>
-		<part name='sbrkoutct/034558-01.p4'/>
-		<part name='006400.m2'/>
-		<part name='006401.e2'/>
-	</rom>
+  <name>Super Breakout (Cocktail, prototype)</name>
+  <mameversion>0216</mameversion>
+  <setname>sbrkout</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1978</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Platform / Breakout</category>
+  <rbf>superbreakout</rbf>
+  <rom index="0" md5="0dda802fa50b1e7c87bcb5d7c2a6a3bf" type="merged|nonmerged" zip="sbrkout.zip">
+    <part name="sbrkoutct/034555-01.c1"/>
+    <part name="sbrkoutct/034556-01.d11"/>
+    <part name="sbrkoutct/034557-01.ef1"/>
+    <part name="sbrkoutct/034557-01.ef1"/>
+    <part name="sbrkoutct/034559-01.r4"/>
+    <part name="sbrkoutct/034558-01.p4"/>
+    <part name="006400.m2"/>
+    <part name="006401.e2"/>
+  </rom>
+  <rom index="0" md5="0dda802fa50b1e7c87bcb5d7c2a6a3bf" type="split" zip="sbrkoutct.zip">
+    <part name="034555-01.c1"/>
+    <part name="034556-01.d11"/>
+    <part name="034557-01.ef1"/>
+    <part name="034557-01.ef1"/>
+    <part name="034559-01.r4"/>
+    <part name="034558-01.p4"/>
+    <part name="006400.m2" zip="sbrkout.zip"/>
+    <part name="006401.e2" zip="sbrkout.zip"/>
+  </rom>
+  <rom index="0" md5="0dda802fa50b1e7c87bcb5d7c2a6a3bf" type="nonmerged" zip="sbrkoutct.zip">
+    <part name="034555-01.c1"/>
+    <part name="034556-01.d11"/>
+    <part name="034557-01.ef1"/>
+    <part name="034557-01.ef1"/>
+    <part name="034559-01.r4"/>
+    <part name="034558-01.p4"/>
+    <part name="006400.m2"/>
+    <part name="006401.e2"/>
+  </rom>
 </misterromdescription>

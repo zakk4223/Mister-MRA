@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Hyperspace (bootleg of Asteroids)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Space / Asteroids</category>
+  <category>Space / Fighter</category>
+  <rbf>asteroids</rbf>
+  <rom index="0" md5="af82fb16ddf3881673dfc17cf32f0a7c" type="merged|nonmerged" zip="asteroid.zip">
+    <part name="asteroid1/035145-01.ef2"/>
+    <part name="asteroid1/035144-01.h2"/>
+    <part name="asteroid1/035143-01.j2"/>
+    <part name="hyperspc/035127-01.bin"/>
+    <part name="034602-01.c8"/>
+  </rom>
+  <rom index="0" md5="af82fb16ddf3881673dfc17cf32f0a7c" type="split" zip="hyperspc.zip">
+    <part name="035145-01.bin"/>
+    <part name="035144-01.bin"/>
+    <part name="035143-01.bin"/>
+    <part name="035127-01.bin"/>
+    <part name="034602-01.c8" zip="asteroid.zip"/>
+  </rom>
+</misterromdescription>

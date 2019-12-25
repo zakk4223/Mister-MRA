@@ -1,24 +1,67 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Berzerk (revision RC28)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Stern Electronics</manufacturer>
-	<category>Maze</category>
-	<category>Space / Robots</category>
-	<rbf>berzerk</rbf>
-	<rom index="0" zip="berzerk.zip" md5="e892f2597fb827d126cc047dec751cb5" type="merged|nonmerged">
-		<part name="berzerkb/berzerk_rc28_1d.rom1.1d"/>
-		<part name="berzerkb/berzerk_rc28_3d.rom2.3d"/>
-		<part name="berzerkb/berzerk_rc28_5d.rom3.5d"/>
-		<part name="berzerkb/berzerk_rc28_6d.rom4.6d"/>
-		<part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
-		<part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
-		<part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
-		<part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
-		<part name="berzerkb/berzerk_rc28_1c.rom0.1c"/>
-		<part name="berzerkb/berzerk_rc28_1c.rom0.1c"/>
-		<part name="berzerk_r_vo_1c.1c"/>
-		<part name="berzerk_r_vo_2c.2c"/>
-	</rom>
+  <name>Berzerk (revision RC28)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Stern Electronics</manufacturer>
+  <category>Maze</category>
+  <category>Space / Robots</category>
+  <rbf>berzerk</rbf>
+  <rom index="0" md5="d7a677dd82a3ac796aa518a18df4fc3f" type="merged|nonmerged" zip="berzerk.zip">
+    <part name="berzerkb/berzerk_rc28_1d.rom1.1d"/>
+    <part name="berzerkb/berzerk_rc28_3d.rom2.3d"/>
+    <part name="berzerkb/berzerk_rc28_5d.rom3.5d"/>
+    <part name="berzerkb/berzerk_rc28_6d.rom4.6d"/>
+    <part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerkb/berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerkb/berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerkb/berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerk_r_vo_1c.1c"/>
+    <part name="berzerk_r_vo_2c.2c"/>
+  </rom>
+  <rom index="0" md5="d7a677dd82a3ac796aa518a18df4fc3f" type="split" zip="berzerkb.zip">
+    <part name="berzerk_rc28_1d.rom1.1d"/>
+    <part name="berzerk_rc28_3d.rom2.3d"/>
+    <part name="berzerk_rc28_5d.rom3.5d"/>
+    <part name="berzerk_rc28_6d.rom4.6d"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerk_r_vo_1c.1c" zip="berzerk.zip"/>
+    <part name="berzerk_r_vo_2c.2c" zip="berzerk.zip"/>
+  </rom>
+  <rom index="0" md5="d7a677dd82a3ac796aa518a18df4fc3f" type="split" zip="berzerkb.zip">
+    <part name="berzerk_rc28_1d.rom1.1d"/>
+    <part name="berzerk_rc28_3d.rom2.3d"/>
+    <part name="berzerk_rc28_5d.rom3.5d"/>
+    <part name="berzerk_rc28_6d.rom4.6d"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerk_r_vo_1c.1c" zip="berzerk.zip"/>
+    <part name="berzerk_r_vo_2c.2c" zip="berzerk.zip"/>
+  </rom>
+  <rom index="0" md5="d7a677dd82a3ac796aa518a18df4fc3f" type="nonmerged" zip="berzerkb.zip">
+    <part name="berzerk_rc28_1d.rom1.1d"/>
+    <part name="berzerk_rc28_3d.rom2.3d"/>
+    <part name="berzerk_rc28_5d.rom3.5d"/>
+    <part name="berzerk_rc28_6d.rom4.6d"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_5c.rom5.5c"/>
+    <part name="berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerk_rc28_1c.rom0.1c"/>
+    <part name="berzerk_r_vo_1c.1c"/>
+    <part name="berzerk_r_vo_2c.2c"/>
+  </rom>
 </misterromdescription>

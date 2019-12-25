@@ -1,19 +1,50 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Car Action (set 1)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Data East</manufacturer>
-	<category>Racing / Cars</category>
-	<rbf>burningrubber</rbf>
-	<rom index='0' md5='c7d288bc1514495a741b17001e2400a2' type='merged|nonmerged' zip='brubber.zip'>
-		<part name='brubber.12c'/>
-		<part name='caractn/c6.12d'/>
-		<part name='caractn/c0.4e'/>
-		<part name='caractn/c1.4f'/>
-		<part name='caractn/c2.4h'/>
-		<part name='bnj10e.bin'/>
-		<part name='bnj10f.bin'/>
-		<part name='bnj6c.bin'/>
-	</rom>
+  <name>Car Action (set 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Data East</manufacturer>
+  <category>Racing / Cars</category>
+  <rbf>burningrubber</rbf>
+  <rom index="0" md5="cb87ce6dc5ee0765e2b9980768c064c3" type="merged|nonmerged" zip="brubber.zip">
+    <part name="brubber.12c"/>
+    <part name="caractn/c6.12d"/>
+    <part name="caractn/c0.4e"/>
+    <part name="caractn/c1.4f"/>
+    <part name="caractn/c2.4h"/>
+    <part name="bnj10e.bin"/>
+    <part name="bnj10f.bin"/>
+    <part name="bnj6c.bin"/>
+  </rom>
+  <rom index="0" md5="cb87ce6dc5ee0765e2b9980768c064c3" type="split" zip="caractn.zip">
+    <part name="brubber.12c" zip="brubber.zip"/>
+    <part name="c6.12d"/>
+    <part name="c0.4e"/>
+    <part name="c1.4f"/>
+    <part name="c2.4h"/>
+    <part name="bnj10e.bin" zip="brubber.zip"/>
+    <part name="bnj10f.bin" zip="brubber.zip"/>
+    <part name="bnj6c.bin" zip="brubber.zip"/>
+  </rom>
+  <rom index="0" md5="cb87ce6dc5ee0765e2b9980768c064c3" type="split" zip="caractn.zip">
+    <part name="brubber.12c" zip="brubber.zip"/>
+    <part name="c6.12d"/>
+    <part name="c0.4e"/>
+    <part name="c1.4f"/>
+    <part name="c2.4h"/>
+    <part name="bnj10e.bin" zip="brubber.zip"/>
+    <part name="bnj10f.bin" zip="brubber.zip"/>
+    <part name="bnj6c.bin" zip="brubber.zip"/>
+  </rom>
+  <rom index="0" md5="cb87ce6dc5ee0765e2b9980768c064c3" type="nonmerged" zip="caractn.zip">
+    <part name="c7.12c"/>
+    <part name="c6.12d"/>
+    <part name="c0.4e"/>
+    <part name="c1.4f"/>
+    <part name="c2.4h"/>
+    <part name="c3.10e"/>
+    <part name="c4.10f"/>
+    <part name="c5.6c"/>
+  </rom>
 </misterromdescription>

@@ -1,10 +1,19 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Atari Tetris</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<rbf>ataritetris</rbf>
-	<rom index="0" zip="atetris.zip" md5="29dbfb61bc9e45f2cebe63743de85a57" type="merged">
-		<part name="136066-1100.45f"/>
-		<part name="136066-1101.35a"/>
-	</rom>
+  <name>Atari Tetris</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>ataritetris</rbf>
+  <rom index="0" md5="a0c77ec919e7958798ce6ca999df4f85" type="merged" zip="atetris.zip">
+    <part name="136066-1100.45f"/>
+    <part name="136066-1101.35a"/>
+  </rom>
+  <rom index="0" md5="a0c77ec919e7958798ce6ca999df4f85" type="split" zip="atetris.zip">
+    <part name="136066-1100.45f"/>
+    <part name="136066-1101.35a"/>
+  </rom>
+  <rom index="0" md5="a0c77ec919e7958798ce6ca999df4f85" type="nonmerged" zip="atetris.zip">
+    <part name="136066-1100.45f"/>
+    <part name="136066-1101.35a"/>
+  </rom>
 </misterromdescription>

@@ -1,11 +1,28 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
-        <part name='mschamps/pm4.bin'/>
-        <part name='mschamps/pm5.bin'/>
-        <part name='82s126.1m'/>
-        <part name='82s126.4a'/>
-        <part name='82s126.3m'/>
-        <part name='82s123.7f'/>
+  <rom index="0" md5="b36e84103ecd4e5c813cac193a7f170d" type="merged" zip="mspacman.zip">
+    <part name="mschamps/pm4.bin"/>
+    <part name="mschamps/pm5.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="b36e84103ecd4e5c813cac193a7f170d" type="split" zip="mschamps.zip">
+    <part name="pm4.bin"/>
+    <part name="pm5.bin"/>
+    <part name="82s126.1m" zip="mspacman.zip"/>
+    <part name="82s126.4a" zip="mspacman.zip"/>
+    <part name="82s126.3m" zip="mspacman.zip"/>
+    <part name="82s123.7f" zip="mspacman.zip"/>
+  </rom>
+  <rom index="0" md5="b36e84103ecd4e5c813cac193a7f170d" type="nonmerged" zip="mschamps.zip">
+    <part name="pm4.bin"/>
+    <part name="pm5.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
   </rom>
 </misterromdescription>

@@ -1,27 +1,62 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>MotoRace USA</name>
-	<mameversion>0216</mameversion>
-	<setname>travrusa</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1983</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Racing / Motorbike</category>
-	<rbf>traverseusa</rbf>
-	<rom index='0' md5='67d6330459d5180670c25842fc3d1d11' type='merged|nonmerged' zip='travrusa.zip'>
-		<part name='motorace/mr.cpu'/>
-		<part name='motorace/mr1.3l'/>
-		<part name='motorace/mr2.3k'/>
-		<part name='motorace/mr3.3j'/>
-		<part name='mr10.1a'/>
-		<part name='mr10.1a'/>
-		<part name='motorace/mr7.3e'/>
-		<part name='mr8.3c'/>
-		<part name='mr9.3a'/>
-		<part name='motorace/mr4.3n'/>
-		<part name='motorace/mr5.3m'/>
-		<part name='motorace/mr6.3k'/>
-		<part name='mmi6349.ij'/>
-		<part name='tbp24s10.3'/>
-		<part name='tbp18s.2'/>
-	</rom>
+  <name>MotoRace USA</name>
+  <mameversion>0216</mameversion>
+  <setname>travrusa</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Irem</manufacturer>
+  <category>Racing / Motorbike</category>
+  <rbf>traverseusa</rbf>
+  <rom index="0" md5="edcdc6d02a1cb44e0babe843ffc74fb2" type="merged|nonmerged" zip="travrusa.zip">
+    <part name="motorace/mr.cpu"/>
+    <part name="motorace/mr1.3l"/>
+    <part name="motorace/mr2.3k"/>
+    <part name="motorace/mr3.3j"/>
+    <part name="mr10.1a"/>
+    <part name="mr10.1a"/>
+    <part name="motorace/mr7.3e"/>
+    <part name="mr8.3c"/>
+    <part name="mr9.3a"/>
+    <part name="motorace/mr4.3n"/>
+    <part name="motorace/mr5.3m"/>
+    <part name="motorace/mr6.3k"/>
+    <part name="mmi6349.ij"/>
+    <part name="tbp24s10.3"/>
+    <part name="tbp18s.2"/>
+  </rom>
+  <rom index="0" md5="edcdc6d02a1cb44e0babe843ffc74fb2" type="split" zip="motorace.zip">
+    <part name="mr.cpu"/>
+    <part name="mr1.3l"/>
+    <part name="mr2.3k"/>
+    <part name="mr3.3j"/>
+    <part name="mr10.1a" zip="travrusa.zip"/>
+    <part name="mr10.1a" zip="travrusa.zip"/>
+    <part name="mr7.3e"/>
+    <part name="mr8.3c" zip="travrusa.zip"/>
+    <part name="mr9.3a" zip="travrusa.zip"/>
+    <part name="mr4.3n"/>
+    <part name="mr5.3m"/>
+    <part name="mr6.3k"/>
+    <part name="mmi6349.ij" zip="travrusa.zip"/>
+    <part name="tbp24s10.3" zip="travrusa.zip"/>
+    <part name="tbp18s.2" zip="travrusa.zip"/>
+  </rom>
+  <rom index="0" md5="edcdc6d02a1cb44e0babe843ffc74fb2" type="nonmerged" zip="motorace.zip">
+    <part name="mr.cpu"/>
+    <part name="mr1.3l"/>
+    <part name="mr2.3k"/>
+    <part name="mr3.3j"/>
+    <part name="mr10.1a"/>
+    <part name="mr10.1a"/>
+    <part name="mr7.3e"/>
+    <part name="mr8.3c"/>
+    <part name="mr9.3a"/>
+    <part name="mr4.3n"/>
+    <part name="mr5.3m"/>
+    <part name="mr6.3k"/>
+    <part name="mmi6349.ij"/>
+    <part name="tbp24s10.3"/>
+    <part name="tbp18s.2"/>
+  </rom>
 </misterromdescription>

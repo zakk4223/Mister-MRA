@@ -1,20 +1,55 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
-        <part name='mspacii/p3.6e'/>
-        <part name='mspacii/p4.6f'/>
-        <part name='mspacii/p5.6h'/>
-        <part name='mspacii/p6.6j'/>
-        <part name='mspacii/p7.s1'/>
-        <part name='mspacii/p7.s1'/>
-        <part name='mspacii/p8.s2'/>
-        <part name='mspacii/p1.5e'/>
-        <part name='5f'/>
-        <part name='5f'/>
-        <part name='5f'/>
-        <part name='82s126.1m'/>
-        <part name='82s126.4a'/>
-        <part name='82s126.3m'/>
-        <part name='82s123.7f'/>
+  <rom index="0" md5="3bbf8f99d74f8942fb02b6969532678b" type="merged" zip="mspacman.zip">
+    <part name="mspacii/p3.6e"/>
+    <part name="mspacii/p4.6f"/>
+    <part name="mspacii/p5.6h"/>
+    <part name="mspacii/p6.6j"/>
+    <part name="mspacii/p7.s1"/>
+    <part name="mspacii/p7.s1"/>
+    <part name="mspacii/p8.s2"/>
+    <part name="mspacii/p1.5e"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="3bbf8f99d74f8942fb02b6969532678b" type="split" zip="mspacii.zip">
+    <part name="p3.6e"/>
+    <part name="p4.6f"/>
+    <part name="p5.6h"/>
+    <part name="p6.6j"/>
+    <part name="p7.s1"/>
+    <part name="p7.s1"/>
+    <part name="p8.s2"/>
+    <part name="p1.5e"/>
+    <part name="5f" zip="mspacman.zip"/>
+    <part name="5f" zip="mspacman.zip"/>
+    <part name="5f" zip="mspacman.zip"/>
+    <part name="82s126.1m" zip="mspacman.zip"/>
+    <part name="82s126.4a" zip="mspacman.zip"/>
+    <part name="82s126.3m" zip="mspacman.zip"/>
+    <part name="82s123.7f" zip="mspacman.zip"/>
+  </rom>
+  <rom index="0" md5="3bbf8f99d74f8942fb02b6969532678b" type="nonmerged" zip="mspacii.zip">
+    <part name="p3.6e"/>
+    <part name="p4.6f"/>
+    <part name="p5.6h"/>
+    <part name="p6.6j"/>
+    <part name="p7.s1"/>
+    <part name="p7.s1"/>
+    <part name="p8.s2"/>
+    <part name="p1.5e"/>
+    <part name="p2.5f"/>
+    <part name="p2.5f"/>
+    <part name="p2.5f"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
   </rom>
 </misterromdescription>

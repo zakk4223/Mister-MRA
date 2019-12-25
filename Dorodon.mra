@@ -1,18 +1,37 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Dorodon (set 1)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>UPL (Falcon license?)</manufacturer>
-	<category>Maze</category>
-	<rbf>dorodon</rbf>
-	<rom index="0" zip="dorodon.zip" md5="72cf4f0a5baf5a53342df3908589c359" type="merged|nonmerged">
-		<part name="dorodon.0"/>
-		<part name="dorodon.1"/>
-		<part name="dorodon.2"/>
-		<part name="dorodon.4"/>
-		<part name="dorodon.3"/>
-		<part name="dorodon.5"/>
-		<part name="dorodon.6"/>
-	</rom>
+  <name>Dorodon (set 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>UPL (Falcon license?)</manufacturer>
+  <category>Maze</category>
+  <rbf>dorodon</rbf>
+  <rom index="0" md5="72cf4f0a5baf5a53342df3908589c359" type="merged|nonmerged" zip="dorodon.zip">
+    <part name="dorodon.0"/>
+    <part name="dorodon.1"/>
+    <part name="dorodon.2"/>
+    <part name="dorodon.4"/>
+    <part name="dorodon.3"/>
+    <part name="dorodon.5"/>
+    <part name="dorodon.6"/>
+  </rom>
+  <rom index="0" md5="72cf4f0a5baf5a53342df3908589c359" type="split" zip="dorodon.zip">
+    <part name="dorodon.0"/>
+    <part name="dorodon.1"/>
+    <part name="dorodon.2"/>
+    <part name="dorodon.4"/>
+    <part name="dorodon.3"/>
+    <part name="dorodon.5"/>
+    <part name="dorodon.6"/>
+  </rom>
+  <rom index="0" md5="72cf4f0a5baf5a53342df3908589c359" type="nonmerged" zip="dorodon.zip">
+    <part name="dorodon.0"/>
+    <part name="dorodon.1"/>
+    <part name="dorodon.2"/>
+    <part name="dorodon.4"/>
+    <part name="dorodon.3"/>
+    <part name="dorodon.5"/>
+    <part name="dorodon.6"/>
+  </rom>
 </misterromdescription>

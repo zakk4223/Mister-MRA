@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Vautour (bootleg of Phoenix) (Z80 CPU, single PROM)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Amstar</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>phoenix</rbf>
-	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
-		<part name='vautour/vautor01.1e'/>
-		<part name='fenix/1.1f'/>
-		<part name='avefenix/4103-8516.rom'/>
-		<part name='vautour/vautor04.1j'/>
-		<part name='falcon/phoenixc.49'/>
-		<part name='vautourza/6.h1'/>
-		<part name='condor/cond07c.bin'/>
-		<part name='condor/cond08c.bin'/>
-		<part name='ic23.3d'/>
-		<part name='ic24.4d'/>
-		<part name='fenix/11.3h'/>
-		<part name='fenix/10.3j'/>
-	</rom>
+  <name>Vautour (bootleg of Phoenix) (Z80 CPU, single PROM)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Amstar</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index="0" md5="815e735e2e40aa27facfbb64641ab1fc" type="merged|nonmerged" zip="phoenix.zip">
+    <part name="vautour/vautor01.1e"/>
+    <part name="fenix/1.1f"/>
+    <part name="avefenix/4103-8516.rom"/>
+    <part name="vautour/vautor04.1j"/>
+    <part name="falcon/phoenixc.49"/>
+    <part name="vautourza/6.h1"/>
+    <part name="condor/cond07c.bin"/>
+    <part name="condor/cond08c.bin"/>
+    <part name="ic23.3d"/>
+    <part name="ic24.4d"/>
+    <part name="fenix/11.3h"/>
+    <part name="fenix/10.3j"/>
+  </rom>
+  <rom index="0" md5="815e735e2e40aa27facfbb64641ab1fc" type="split" zip="vautourza.zip">
+    <part name="1.e1"/>
+    <part name="2.f1"/>
+    <part name="3.h1"/>
+    <part name="4.j1"/>
+    <part name="5.k1"/>
+    <part name="6.h1"/>
+    <part name="7.m1"/>
+    <part name="8.n1"/>
+    <part name="ic23.3d" zip="phoenix.zip"/>
+    <part name="ic24.4d" zip="phoenix.zip"/>
+    <part name="12.h4"/>
+    <part name="11.j4"/>
+  </rom>
+  <rom index="0" md5="815e735e2e40aa27facfbb64641ab1fc" type="nonmerged" zip="vautourza.zip">
+    <part name="1.e1"/>
+    <part name="2.f1"/>
+    <part name="3.h1"/>
+    <part name="4.j1"/>
+    <part name="5.k1"/>
+    <part name="6.h1"/>
+    <part name="7.m1"/>
+    <part name="8.n1"/>
+    <part name="10.h2"/>
+    <part name="9.j2"/>
+    <part name="12.h4"/>
+    <part name="11.j4"/>
+  </rom>
 </misterromdescription>

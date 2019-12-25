@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Phoenix (Irecsa / G.G.I Corp, set 4)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Amstar</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>phoenix</rbf>
-	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
-		<part name='phoenix2/ic45-pg1.1a'/>
-		<part name='phoenixass/ic46.bin'/>
-		<part name='avefenix/4103-8516.rom'/>
-		<part name='phoenixc4/phoenixd.48'/>
-		<part name='falcon/phoenixc.49'/>
-		<part name='condor/cond06c.bin'/>
-		<part name='phoenixc4/vautor07.1m'/>
-		<part name='phoenixc/phoenixc.52'/>
-		<part name='ic23.3d'/>
-		<part name='ic24.4d'/>
-		<part name='phoenixc4/phoenixd.3b'/>
-		<part name='avefenixl/10_ic40.b4'/>
-	</rom>
+  <name>Phoenix (Irecsa / G.G.I Corp, set 4)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Amstar</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index="0" md5="8ddb40c659a09dc846a81636f01f7c69" type="merged|nonmerged" zip="phoenix.zip">
+    <part name="phoenix2/ic45-pg1.1a"/>
+    <part name="phoenixass/ic46.bin"/>
+    <part name="avefenix/4103-8516.rom"/>
+    <part name="phoenixc4/phoenixd.48"/>
+    <part name="falcon/phoenixc.49"/>
+    <part name="condor/cond06c.bin"/>
+    <part name="phoenixc4/vautor07.1m"/>
+    <part name="phoenixc/phoenixc.52"/>
+    <part name="ic23.3d"/>
+    <part name="ic24.4d"/>
+    <part name="phoenixc4/phoenixd.3b"/>
+    <part name="avefenixl/10_ic40.b4"/>
+  </rom>
+  <rom index="0" md5="8ddb40c659a09dc846a81636f01f7c69" type="split" zip="phoenixc4.zip">
+    <part name="phoenix.45"/>
+    <part name="phoenix.46"/>
+    <part name="phoenix.47"/>
+    <part name="phoenixd.48"/>
+    <part name="phoenixc.49"/>
+    <part name="cond06c.bin"/>
+    <part name="vautor07.1m"/>
+    <part name="phoenixc.52"/>
+    <part name="ic23.3d" zip="phoenix.zip"/>
+    <part name="ic24.4d" zip="phoenix.zip"/>
+    <part name="phoenixd.3b"/>
+    <part name="phoenixc.40"/>
+  </rom>
+  <rom index="0" md5="8ddb40c659a09dc846a81636f01f7c69" type="nonmerged" zip="phoenixc4.zip">
+    <part name="phoenix.45"/>
+    <part name="phoenix.46"/>
+    <part name="phoenix.47"/>
+    <part name="phoenixd.48"/>
+    <part name="phoenixc.49"/>
+    <part name="cond06c.bin"/>
+    <part name="vautor07.1m"/>
+    <part name="phoenixc.52"/>
+    <part name="ic23.3d"/>
+    <part name="ic24.4d"/>
+    <part name="phoenixd.3b"/>
+    <part name="phoenixc.40"/>
+  </rom>
 </misterromdescription>

@@ -1,25 +1,56 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Space Battle (bootleg set 1)</name>
-	<mameversion>0216</mameversion>
-	<setname>uniwars</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>uniwars</rbf>
-	<rom index='0' md5='b270e45e9d2ca2e73b081fed66d9f3db' type='merged|nonmerged' zip='uniwars.zip'>
-		<part name='f07_1a.bin'/>
-		<part name='h07_2a.bin'/>
-		<part name='k07_3a.bin'/>
-		<part name='spacbat2/sb4'/>
-		<part name='spacbat2/sb5'/>
-		<part name='galemp/6'/>
-		<part name='m08p_7a.bin'/>
-		<part name='spacbat2/sb8'/>
-		<part name='gteikoku/h01_1.bin'/>
-		<part name='h01_2.bin'/>
-		<part name='gteikoku/k01_1.bin'/>
-		<part name='spacbatt/sb13'/>
-		<part name='spacbatt/6l.bpr'/>
-	</rom>
+  <name>Space Battle (bootleg set 1)</name>
+  <mameversion>0216</mameversion>
+  <setname>uniwars</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Irem</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>uniwars</rbf>
+  <rom index="0" md5="223e8f785e325595187863c924d96639" type="merged|nonmerged" zip="uniwars.zip">
+    <part name="f07_1a.bin"/>
+    <part name="h07_2a.bin"/>
+    <part name="k07_3a.bin"/>
+    <part name="spacbat2/sb4"/>
+    <part name="spacbat2/sb5"/>
+    <part name="galemp/6"/>
+    <part name="m08p_7a.bin"/>
+    <part name="spacbat2/sb8"/>
+    <part name="gteikoku/h01_1.bin"/>
+    <part name="h01_2.bin"/>
+    <part name="gteikoku/k01_1.bin"/>
+    <part name="spacbatt/sb13"/>
+    <part name="spacbatt/6l.bpr"/>
+  </rom>
+  <rom index="0" md5="223e8f785e325595187863c924d96639" type="split" zip="spacbatt.zip">
+    <part name="f07_1a.bin" zip="uniwars.zip"/>
+    <part name="h07_2a.bin" zip="uniwars.zip"/>
+    <part name="k07_3a.bin" zip="uniwars.zip"/>
+    <part name="sb4"/>
+    <part name="sb5"/>
+    <part name="sb6"/>
+    <part name="m08p_7a.bin" zip="uniwars.zip"/>
+    <part name="sb8"/>
+    <part name="sb12"/>
+    <part name="h01_2.bin" zip="uniwars.zip"/>
+    <part name="sb11"/>
+    <part name="sb13"/>
+    <part name="6l.bpr"/>
+  </rom>
+  <rom index="0" md5="223e8f785e325595187863c924d96639" type="nonmerged" zip="spacbatt.zip">
+    <part name="sb1"/>
+    <part name="sb2"/>
+    <part name="sb3"/>
+    <part name="sb4"/>
+    <part name="sb5"/>
+    <part name="sb6"/>
+    <part name="sb7"/>
+    <part name="sb8"/>
+    <part name="sb12"/>
+    <part name="sb14"/>
+    <part name="sb11"/>
+    <part name="sb13"/>
+    <part name="6l.bpr"/>
+  </rom>
 </misterromdescription>

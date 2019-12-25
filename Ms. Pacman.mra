@@ -1,22 +1,61 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index="0" zip="mspacman.zip" md5="6c75da1e5c32807fdff6eeb9f5a75ae3" type="merged">
-        <part name="pacman.6e"/>
-        <part name="pacman.6f"/>
-        <part name="pacman.6h"/>
-        <part name="pacman.6j"/>
-        <part name="u5"/>
-        <part name="u5"/>
-        <part name="u6"/>
-        <part name="u7"/>
-        <part name="u7"/>
-        <part name="5e"/>
-        <part name="5f"/>
-        <part name="5f"/>
-        <part name="5f"/>
-        <part name="82s126.1m"/>
-        <part name="82s126.4a"/>
-        <part name="82s126.3m"/>
-        <part name="82s123.7f"/>
+  <rom index="0" md5="6c75da1e5c32807fdff6eeb9f5a75ae3" type="merged" zip="mspacman.zip">
+    <part name="pacman.6e"/>
+    <part name="pacman.6f"/>
+    <part name="pacman.6h"/>
+    <part name="pacman.6j"/>
+    <part name="u5"/>
+    <part name="u5"/>
+    <part name="u6"/>
+    <part name="u7"/>
+    <part name="u7"/>
+    <part name="5e"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="6c75da1e5c32807fdff6eeb9f5a75ae3" type="split" zip="mspacman.zip">
+    <part name="pacman.6e"/>
+    <part name="pacman.6f"/>
+    <part name="pacman.6h"/>
+    <part name="pacman.6j"/>
+    <part name="u5"/>
+    <part name="u5"/>
+    <part name="u6"/>
+    <part name="u7"/>
+    <part name="u7"/>
+    <part name="5e"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="6c75da1e5c32807fdff6eeb9f5a75ae3" type="nonmerged" zip="mspacman.zip">
+    <part name="pacman.6e"/>
+    <part name="pacman.6f"/>
+    <part name="pacman.6h"/>
+    <part name="pacman.6j"/>
+    <part name="u5"/>
+    <part name="u5"/>
+    <part name="u6"/>
+    <part name="u7"/>
+    <part name="u7"/>
+    <part name="5e"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
   </rom>
 </misterromdescription>

@@ -1,38 +1,53 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Moon Cresta (Galaxian hardware)</name>
-	<mameversion>0216</mameversion>
-	<setname>mooncrgx</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>bootleg</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>mooncresta</rbf>
-	<rom index="0" zip="mooncrgx.zip" md5="e5c031ea5ceed5764d54aeb43890a796" type="nonmerged">
-		<part name="1"/>
-		<part name="2"/>
-		<part name="3"/>
-		<part name="4"/>
-		<part name="5"/>
-		<part name="6"/>
-		<part name="7"/>
-		<part name="8"/>
-		<part name="1h_1_10.bin"/>
-		<part name="12.chr"/>
-		<part name="9.chr"/>
-		<part name="11.chr"/>
-	</rom>
-	<rom index="0" zip="mooncrst.zip" md5="e5c031ea5ceed5764d54aeb43890a796" type="merged">
-		<part name="mooncrgx/1"/>
-		<part name="mooncrgx/2"/>
-		<part name="mooncrgx/3"/>
-		<part name="mooncrgx/4"/>
-		<part name="mooncrgx/5"/>
-		<part name="mooncrgx/6"/>
-		<part name="mooncrgx/7"/>
-		<part name="mooncrgx/8"/>
-		<part name="fantazia/1h_1_10.bin"/>
-		<part name="mooncptc/mc14.bin"/>
-		<part name="mooncrgx/9.chr"/>
-		<part name="mooncptc/mc13.bin"/>
-	</rom>
+  <name>Moon Cresta (Galaxian hardware)</name>
+  <mameversion>0216</mameversion>
+  <setname>mooncrgx</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>mooncresta</rbf>
+  <rom index="0" md5="e5c031ea5ceed5764d54aeb43890a796" type="nonmerged" zip="mooncrgx.zip">
+    <part name="1"/>
+    <part name="2"/>
+    <part name="3"/>
+    <part name="4"/>
+    <part name="5"/>
+    <part name="6"/>
+    <part name="7"/>
+    <part name="8"/>
+    <part name="1h_1_10.bin"/>
+    <part name="12.chr"/>
+    <part name="9.chr"/>
+    <part name="11.chr"/>
+  </rom>
+  <rom index="0" md5="e5c031ea5ceed5764d54aeb43890a796" type="merged" zip="mooncrst.zip">
+    <part name="mooncrgx/1"/>
+    <part name="mooncrgx/2"/>
+    <part name="mooncrgx/3"/>
+    <part name="mooncrgx/4"/>
+    <part name="mooncrgx/5"/>
+    <part name="mooncrgx/6"/>
+    <part name="mooncrgx/7"/>
+    <part name="mooncrgx/8"/>
+    <part name="fantazia/1h_1_10.bin"/>
+    <part name="mooncptc/mc14.bin"/>
+    <part name="mooncrgx/9.chr"/>
+    <part name="mooncptc/mc13.bin"/>
+  </rom>
+  <rom index="0" md5="e5c031ea5ceed5764d54aeb43890a796" type="split" zip="mooncrgx.zip">
+    <part name="1"/>
+    <part name="2"/>
+    <part name="3"/>
+    <part name="4"/>
+    <part name="5"/>
+    <part name="6"/>
+    <part name="7"/>
+    <part name="8"/>
+    <part name="1h_1_10.bin"/>
+    <part name="12.chr"/>
+    <part name="9.chr"/>
+    <part name="11.chr"/>
+  </rom>
 </misterromdescription>

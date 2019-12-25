@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Defender (bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Williams</manufacturer>
+  <category>Space / Defender</category>
+  <rbf>defender</rbf>
+  <rom index="0" md5="c2be24a391aac5be475011e457b1b6a6" type="merged|nonmerged" zip="defender.zip">
+    <part name="defndjeu/15"/>
+    <part name="defndjeu/16"/>
+    <part name="defndjeu/17"/>
+    <part name="defndjeu/21"/>
+    <part name="defndjeu/20"/>
+    <part name="defndjeu/19"/>
+    <part name="defndjeu/18"/>
+    <part name="defndjeu/s"/>
+  </rom>
+  <rom index="0" md5="c2be24a391aac5be475011e457b1b6a6" type="split" zip="defndjeu.zip">
+    <part name="15"/>
+    <part name="16"/>
+    <part name="17"/>
+    <part name="21"/>
+    <part name="20"/>
+    <part name="19"/>
+    <part name="18"/>
+    <part name="s"/>
+  </rom>
+  <rom index="0" md5="c2be24a391aac5be475011e457b1b6a6" type="split" zip="defndjeu.zip">
+    <part name="15"/>
+    <part name="16"/>
+    <part name="17"/>
+    <part name="21"/>
+    <part name="20"/>
+    <part name="19"/>
+    <part name="18"/>
+    <part name="s"/>
+  </rom>
+  <rom index="0" md5="c2be24a391aac5be475011e457b1b6a6" type="nonmerged" zip="defndjeu.zip">
+    <part name="15"/>
+    <part name="16"/>
+    <part name="17"/>
+    <part name="21"/>
+    <part name="20"/>
+    <part name="19"/>
+    <part name="18"/>
+    <part name="s"/>
+  </rom>
+</misterromdescription>

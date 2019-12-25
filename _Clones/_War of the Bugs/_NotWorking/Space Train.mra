@@ -1,23 +1,48 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Space Train</name>
-	<mameversion>0216</mameversion>
-	<setname>warofbug</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1981</year>
-	<manufacturer>Armenia / Food and Fun Corp</manufacturer>
-	<category>Maze / Bugs</category>
-	<category>Maze / Centipede</category>
-	<rbf>warofthebugs</rbf>
-	<rom index='0' md5='163dce473299b77e3f473a1e51b26238' type='merged|nonmerged' zip='warofbug.zip'>
-		<part name='spactrai/1cen.bin'/>
-		<part name='spactrai/2cen.bin'/>
-		<part name='spactrai/3cen.bin'/>
-		<part name='spactrai/3cen.bin'/>
-		<part name='spactrai/3cen.bin'/>
-		<part name='spactrai/3cen.bin'/>
-		<part name='spactrai/6cen.bin'/>
-		<part name='spactrai/6cen.bin'/>
-		<part name='spactrai/7cen.bin'/>
-		<part name='spactrai/7cen.bin'/>
-	</rom>
+  <name>Space Train</name>
+  <mameversion>0216</mameversion>
+  <setname>warofbug</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Armenia / Food and Fun Corp</manufacturer>
+  <category>Maze / Bugs</category>
+  <category>Maze / Centipede</category>
+  <rbf>warofthebugs</rbf>
+  <rom index="0" md5="31c8739737b7801f08fcdcec1bd85b8c" type="merged|nonmerged" zip="warofbug.zip">
+    <part name="spactrai/1cen.bin"/>
+    <part name="spactrai/2cen.bin"/>
+    <part name="spactrai/3cen.bin"/>
+    <part name="spactrai/3cen.bin"/>
+    <part name="spactrai/3cen.bin"/>
+    <part name="spactrai/3cen.bin"/>
+    <part name="spactrai/6cen.bin"/>
+    <part name="spactrai/6cen.bin"/>
+    <part name="spactrai/7cen.bin"/>
+    <part name="spactrai/7cen.bin"/>
+  </rom>
+  <rom index="0" md5="31c8739737b7801f08fcdcec1bd85b8c" type="split" zip="spactrai.zip">
+    <part name="1cen.bin"/>
+    <part name="2cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="6cen.bin"/>
+    <part name="6cen.bin"/>
+    <part name="7cen.bin"/>
+    <part name="7cen.bin"/>
+  </rom>
+  <rom index="0" md5="31c8739737b7801f08fcdcec1bd85b8c" type="nonmerged" zip="spactrai.zip">
+    <part name="1cen.bin"/>
+    <part name="2cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="3cen.bin"/>
+    <part name="6cen.bin"/>
+    <part name="6cen.bin"/>
+    <part name="7cen.bin"/>
+    <part name="7cen.bin"/>
+  </rom>
 </misterromdescription>

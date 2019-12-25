@@ -1,38 +1,53 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Amidar (Scramble hardware)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Konami</manufacturer>
-	<category>Maze</category>
-	<category>Maze / Qix</category>
-	<rbf>scramble</rbf>
-	<rom index="0" zip="amidars.zip" md5="29dbfb61bc9e45f2cebe63743de85a57" type="nonmerged">
-		<part name="am2d"/>
-		<part name="am2e"/>
-		<part name="am2f"/>
-		<part name="am2h"/>
-		<part name="am2j"/>
-		<part name="am2l"/>
-		<part name="am2m"/>
-		<part name="am2p"/>
-		<part name="2716.a5"/>
-		<part name="2716.a6"/>
-		<part name="amidarus.5c"/>
-		<part name="amidarus.5d"/>
-	</rom>
-	<rom index="0" zip="amidar.zip" md5="29dbfb61bc9e45f2cebe63743de85a57" type="merged">
-		<part name="amidars/am2d"/>
-		<part name="amidars/am2e"/>
-		<part name="amidars/am2f"/>
-		<part name="amidars/am2h"/>
-		<part name="amidars/am2j"/>
-		<part name="amidars/am2l"/>
-		<part name="amidars/am2m"/>
-		<part name="amidars/am2p"/>
-		<part name="amidarb/6.5h"/>
-		<part name="amidarb/5.5f"/>
-		<part name="s1.5c"/>
-		<part name="s2.5d"/>
-	</rom>
+  <name>Amidar (Scramble hardware)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Qix</category>
+  <rbf>scramble</rbf>
+  <rom index="0" md5="29dbfb61bc9e45f2cebe63743de85a57" type="nonmerged" zip="amidars.zip">
+    <part name="am2d"/>
+    <part name="am2e"/>
+    <part name="am2f"/>
+    <part name="am2h"/>
+    <part name="am2j"/>
+    <part name="am2l"/>
+    <part name="am2m"/>
+    <part name="am2p"/>
+    <part name="2716.a5"/>
+    <part name="2716.a6"/>
+    <part name="amidarus.5c"/>
+    <part name="amidarus.5d"/>
+  </rom>
+  <rom index="0" md5="29dbfb61bc9e45f2cebe63743de85a57" type="merged" zip="amidar.zip">
+    <part name="amidars/am2d"/>
+    <part name="amidars/am2e"/>
+    <part name="amidars/am2f"/>
+    <part name="amidars/am2h"/>
+    <part name="amidars/am2j"/>
+    <part name="amidars/am2l"/>
+    <part name="amidars/am2m"/>
+    <part name="amidars/am2p"/>
+    <part name="amidarb/6.5h"/>
+    <part name="amidarb/5.5f"/>
+    <part name="s1.5c"/>
+    <part name="s2.5d"/>
+  </rom>
+  <rom index="0" md5="29dbfb61bc9e45f2cebe63743de85a57" type="split" zip="amidar.zip">
+    <part name="am2d" zip="amidars.zip"/>
+    <part name="am2e" zip="amidars.zip"/>
+    <part name="am2f" zip="amidars.zip"/>
+    <part name="am2h" zip="amidars.zip"/>
+    <part name="am2j" zip="amidars.zip"/>
+    <part name="am2l" zip="amidars.zip"/>
+    <part name="am2m" zip="amidars.zip"/>
+    <part name="am2p" zip="amidars.zip"/>
+    <part name="6.5h" zip="amidarb.zip"/>
+    <part name="5.5f" zip="amidarb.zip"/>
+    <part name="s1.5c"/>
+    <part name="s2.5d"/>
+  </rom>
 </misterromdescription>

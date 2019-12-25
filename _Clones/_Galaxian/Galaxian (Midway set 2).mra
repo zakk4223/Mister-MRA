@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Galaxian (Midway set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1979</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>galaxian</rbf>
-	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
-		<part name='galaxianmo/galaxian.u'/>
-		<part name='galaxianbl2/j7.7j'/>
-		<part name='galap1/galaxian.w'/>
-		<part name='galaxianmo/galaxian.y'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='galap1/galmidw.1j'/>
-		<part name='galap1/galmidw.1j'/>
-		<part name='galap1/galmidw.1k'/>
-		<part name='galap1/galmidw.1k'/>
-	</rom>
+  <name>Galaxian (Midway set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="e7142a4a0a5ecf0f5ff88c8f98e3d6d5" type="merged|nonmerged" zip="galaxian.zip">
+    <part name="galaxianmo/galaxian.u"/>
+    <part name="galaxianbl2/j7.7j"/>
+    <part name="galap1/galaxian.w"/>
+    <part name="galaxianmo/galaxian.y"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="galap1/galmidw.1j"/>
+    <part name="galap1/galmidw.1j"/>
+    <part name="galap1/galmidw.1k"/>
+    <part name="galap1/galmidw.1k"/>
+  </rom>
+  <rom index="0" md5="e7142a4a0a5ecf0f5ff88c8f98e3d6d5" type="split" zip="galaxianmo.zip">
+    <part name="galaxian.u"/>
+    <part name="galaxian.v"/>
+    <part name="galaxian.w"/>
+    <part name="galaxian.y"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="galaxian.j1"/>
+    <part name="galaxian.j1"/>
+    <part name="galaxian.l1"/>
+    <part name="galaxian.l1"/>
+  </rom>
+  <rom index="0" md5="e7142a4a0a5ecf0f5ff88c8f98e3d6d5" type="nonmerged" zip="galaxianmo.zip">
+    <part name="galaxian.u"/>
+    <part name="galaxian.v"/>
+    <part name="galaxian.w"/>
+    <part name="galaxian.y"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="galaxian.j1"/>
+    <part name="galaxian.j1"/>
+    <part name="galaxian.l1"/>
+    <part name="galaxian.l1"/>
+  </rom>
 </misterromdescription>

@@ -1,27 +1,82 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Eyes (US set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Techstar (Rock-Ola license)</manufacturer>
-	<category>Maze</category>
-	<rbf>eyes</rbf>
-	<rom index='0' md5='6a14c3752f33a144760b4fe8f45ed5f7' type='merged|nonmerged' zip='eyes.zip'>
-		<part name='eyes2/g38201.7d'/>
-		<part name='eyes2/g38202.7e'/>
-		<part name='eyes2/g38203.7f'/>
-		<part name='eyes2/g38204.7h'/>
-		<part name='eyes2/g38201.7d'/>
-		<part name='eyes2/g38202.7e'/>
-		<part name='eyes2/g38203.7f'/>
-		<part name='eyes2/g38204.7h'/>
-		<part name='eyes2/g38205.5d'/>
-		<part name='e5'/>
-		<part name='e5'/>
-		<part name='e5'/>
-		<part name='82s126.1m'/>
-		<part name='82s129.4a'/>
-		<part name='82s126.3m'/>
-		<part name='82s123.7f'/>
-	</rom>
+  <name>Eyes (US set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Techstar (Rock-Ola license)</manufacturer>
+  <category>Maze</category>
+  <rbf>eyes</rbf>
+  <rom index="0" md5="8c7f43d5de254b941613c7293118a329" type="merged|nonmerged" zip="eyes.zip">
+    <part name="eyes2/g38201.7d"/>
+    <part name="eyes2/g38202.7e"/>
+    <part name="eyes2/g38203.7f"/>
+    <part name="eyes2/g38204.7h"/>
+    <part name="eyes2/g38201.7d"/>
+    <part name="eyes2/g38202.7e"/>
+    <part name="eyes2/g38203.7f"/>
+    <part name="eyes2/g38204.7h"/>
+    <part name="eyes2/g38205.5d"/>
+    <part name="e5"/>
+    <part name="e5"/>
+    <part name="e5"/>
+    <part name="82s126.1m"/>
+    <part name="82s129.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="8c7f43d5de254b941613c7293118a329" type="split" zip="eyes2.zip">
+    <part name="g38201.7d"/>
+    <part name="g38202.7e"/>
+    <part name="g38203.7f"/>
+    <part name="g38204.7h"/>
+    <part name="g38201.7d"/>
+    <part name="g38202.7e"/>
+    <part name="g38203.7f"/>
+    <part name="g38204.7h"/>
+    <part name="g38205.5d"/>
+    <part name="e5" zip="eyes.zip"/>
+    <part name="e5" zip="eyes.zip"/>
+    <part name="e5" zip="eyes.zip"/>
+    <part name="82s126.1m" zip="eyes.zip"/>
+    <part name="82s129.4a" zip="eyes.zip"/>
+    <part name="82s126.3m" zip="eyes.zip"/>
+    <part name="82s123.7f" zip="eyes.zip"/>
+  </rom>
+  <rom index="0" md5="8c7f43d5de254b941613c7293118a329" type="split" zip="eyes2.zip">
+    <part name="g38201.7d"/>
+    <part name="g38202.7e"/>
+    <part name="g38203.7f"/>
+    <part name="g38204.7h"/>
+    <part name="g38201.7d"/>
+    <part name="g38202.7e"/>
+    <part name="g38203.7f"/>
+    <part name="g38204.7h"/>
+    <part name="g38205.5d"/>
+    <part name="e5" zip="eyes.zip"/>
+    <part name="e5" zip="eyes.zip"/>
+    <part name="e5" zip="eyes.zip"/>
+    <part name="82s126.1m" zip="eyes.zip"/>
+    <part name="82s129.4a" zip="eyes.zip"/>
+    <part name="82s126.3m" zip="eyes.zip"/>
+    <part name="82s123.7f" zip="eyes.zip"/>
+  </rom>
+  <rom index="0" md5="8c7f43d5de254b941613c7293118a329" type="nonmerged" zip="eyes2.zip">
+    <part name="g38201.7d"/>
+    <part name="g38202.7e"/>
+    <part name="g38203.7f"/>
+    <part name="g38204.7h"/>
+    <part name="g38201.7d"/>
+    <part name="g38202.7e"/>
+    <part name="g38203.7f"/>
+    <part name="g38204.7h"/>
+    <part name="g38205.5d"/>
+    <part name="g38206.5e"/>
+    <part name="g38206.5e"/>
+    <part name="g38206.5e"/>
+    <part name="82s126.1m"/>
+    <part name="82s129.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
 </misterromdescription>

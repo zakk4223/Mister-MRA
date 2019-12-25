@@ -1,29 +1,64 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Robotron 2084 (Solid Blue label)</name>
-	<mameversion>0216</mameversion>
-	<setname>robotron</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Williams / Vid Kidz</manufacturer>
-	<category>Adventure / Apocalyptic</category>
-	<category>Maze</category>
-	<category>Space / Robots</category>
-	<rbf>robotron</rbf>
-	<rom index="0" zip="robotron.zip" md5="75A314AE1F4E1C99EC8AD914ED6E1C4E" type="merged|nonmerged">
-		<part name="robotron.sba"/>
-		<part name="robotron.sbb"/>
-		<part name="robotron.sbc"/>
-		<part name="robotron.sb1"/>
-		<part name="robotron.sb2"/>
-		<part name="robotron.sb3"/>
-		<part name="robotron.sb4"/>
-		<part name="robotron.sb5"/>
-		<part name="robotron.sb6"/>
-		<part name="robotron.sb7"/>
-		<part name="robotron.sb8"/>
-		<part name="robotron.sb9"/>
-		<part name="robotron.snd"/>
-		<part name="decoder.4"/>
-		<part name="decoder.6"/>
-	</rom>
+  <name>Robotron 2084 (Solid Blue label)</name>
+  <mameversion>0216</mameversion>
+  <setname>robotron</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Williams / Vid Kidz</manufacturer>
+  <category>Adventure / Apocalyptic</category>
+  <category>Maze</category>
+  <category>Space / Robots</category>
+  <rbf>robotron</rbf>
+  <rom index="0" md5="75a314ae1f4e1c99ec8ad914ed6e1c4e" type="merged|nonmerged" zip="robotron.zip">
+    <part name="robotron.sba"/>
+    <part name="robotron.sbb"/>
+    <part name="robotron.sbc"/>
+    <part name="robotron.sb1"/>
+    <part name="robotron.sb2"/>
+    <part name="robotron.sb3"/>
+    <part name="robotron.sb4"/>
+    <part name="robotron.sb5"/>
+    <part name="robotron.sb6"/>
+    <part name="robotron.sb7"/>
+    <part name="robotron.sb8"/>
+    <part name="robotron.sb9"/>
+    <part name="robotron.snd"/>
+    <part name="decoder.4"/>
+    <part name="decoder.6"/>
+  </rom>
+  <rom index="0" md5="75a314ae1f4e1c99ec8ad914ed6e1c4e" type="split" zip="robotron.zip">
+    <part name="robotron.sba"/>
+    <part name="robotron.sbb"/>
+    <part name="robotron.sbc"/>
+    <part name="robotron.sb1"/>
+    <part name="robotron.sb2"/>
+    <part name="robotron.sb3"/>
+    <part name="robotron.sb4"/>
+    <part name="robotron.sb5"/>
+    <part name="robotron.sb6"/>
+    <part name="robotron.sb7"/>
+    <part name="robotron.sb8"/>
+    <part name="robotron.sb9"/>
+    <part name="robotron.snd"/>
+    <part name="decoder.4"/>
+    <part name="decoder.6"/>
+  </rom>
+  <rom index="0" md5="75a314ae1f4e1c99ec8ad914ed6e1c4e" type="nonmerged" zip="robotron.zip">
+    <part name="robotron.sba"/>
+    <part name="robotron.sbb"/>
+    <part name="robotron.sbc"/>
+    <part name="robotron.sb1"/>
+    <part name="robotron.sb2"/>
+    <part name="robotron.sb3"/>
+    <part name="robotron.sb4"/>
+    <part name="robotron.sb5"/>
+    <part name="robotron.sb6"/>
+    <part name="robotron.sb7"/>
+    <part name="robotron.sb8"/>
+    <part name="robotron.sb9"/>
+    <part name="robotron.snd"/>
+    <part name="decoder.4"/>
+    <part name="decoder.6"/>
+  </rom>
 </misterromdescription>

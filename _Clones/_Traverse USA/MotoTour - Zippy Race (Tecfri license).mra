@@ -1,27 +1,62 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>MotoTour / Zippy Race (Tecfri license)</name>
-	<mameversion>0216</mameversion>
-	<setname>travrusa</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1983</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Racing / Motorbike</category>
-	<rbf>traverseusa</rbf>
-	<rom index='0' md5='67d6330459d5180670c25842fc3d1d11' type='merged|nonmerged' zip='travrusa.zip'>
-		<part name='mototour/mt1-4.m3'/>
-		<part name='mototour/mt1-5.l3'/>
-		<part name='mototour/mt1-6.k3'/>
-		<part name='mototour/mt1-7.j3'/>
-		<part name='mr10.1a'/>
-		<part name='mr10.1a'/>
-		<part name='zippyrac.001'/>
-		<part name='mr8.3c'/>
-		<part name='mr9.3a'/>
-		<part name='mototour/mt1-8..n3'/>
-		<part name='mototour/mt1-9..m3'/>
-		<part name='mototour/mt1-10..k3'/>
-		<part name='mmi6349.ij'/>
-		<part name='tbp24s10.3'/>
-		<part name='tbp18s.2'/>
-	</rom>
+  <name>MotoTour / Zippy Race (Tecfri license)</name>
+  <mameversion>0216</mameversion>
+  <setname>travrusa</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Irem</manufacturer>
+  <category>Racing / Motorbike</category>
+  <rbf>traverseusa</rbf>
+  <rom index="0" md5="3d64b5c4bd781772f223aefd5990eab4" type="merged|nonmerged" zip="travrusa.zip">
+    <part name="mototour/mt1-4.m3"/>
+    <part name="mototour/mt1-5.l3"/>
+    <part name="mototour/mt1-6.k3"/>
+    <part name="mototour/mt1-7.j3"/>
+    <part name="mr10.1a"/>
+    <part name="mr10.1a"/>
+    <part name="zippyrac.001"/>
+    <part name="mr8.3c"/>
+    <part name="mr9.3a"/>
+    <part name="mototour/mt1-8..n3"/>
+    <part name="mototour/mt1-9..m3"/>
+    <part name="mototour/mt1-10..k3"/>
+    <part name="mmi6349.ij"/>
+    <part name="tbp24s10.3"/>
+    <part name="tbp18s.2"/>
+  </rom>
+  <rom index="0" md5="3d64b5c4bd781772f223aefd5990eab4" type="split" zip="mototour.zip">
+    <part name="mt1-4.m3"/>
+    <part name="mt1-5.l3"/>
+    <part name="mt1-6.k3"/>
+    <part name="mt1-7.j3"/>
+    <part name="mr10.1a" zip="travrusa.zip"/>
+    <part name="mr10.1a" zip="travrusa.zip"/>
+    <part name="zippyrac.001" zip="travrusa.zip"/>
+    <part name="mr8.3c" zip="travrusa.zip"/>
+    <part name="mr9.3a" zip="travrusa.zip"/>
+    <part name="mt1-8..n3"/>
+    <part name="mt1-9..m3"/>
+    <part name="mt1-10..k3"/>
+    <part name="mmi6349.ij" zip="travrusa.zip"/>
+    <part name="tbp24s10.3" zip="travrusa.zip"/>
+    <part name="tbp18s.2" zip="travrusa.zip"/>
+  </rom>
+  <rom index="0" md5="3d64b5c4bd781772f223aefd5990eab4" type="nonmerged" zip="mototour.zip">
+    <part name="mt1-4.m3"/>
+    <part name="mt1-5.l3"/>
+    <part name="mt1-6.k3"/>
+    <part name="mt1-7.j3"/>
+    <part name="snd.a1"/>
+    <part name="snd.a1"/>
+    <part name="mt1-1.e3"/>
+    <part name="mt1-2.c3"/>
+    <part name="mt1-3.a3"/>
+    <part name="mt1-8..n3"/>
+    <part name="mt1-9..m3"/>
+    <part name="mt1-10..k3"/>
+    <part name="mmi6349.k2"/>
+    <part name="prom2.h2"/>
+    <part name="prom1.f1"/>
+  </rom>
 </misterromdescription>

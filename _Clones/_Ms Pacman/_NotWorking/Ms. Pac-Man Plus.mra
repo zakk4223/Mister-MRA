@@ -1,20 +1,55 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
-        <part name='mspacmab/boot1'/>
-        <part name='mspacpls/mspacatk.2'/>
-        <part name='mspacmab/boot3'/>
-        <part name='mspacmab/boot4'/>
-        <part name='mspacpls/mspacatk.5'/>
-        <part name='mspacpls/mspacatk.5'/>
-        <part name='mspacpls/mspacatk.6'/>
-        <part name='5e'/>
-        <part name='5f'/>
-        <part name='5f'/>
-        <part name='5f'/>
-        <part name='82s126.1m'/>
-        <part name='82s126.4a'/>
-        <part name='82s126.3m'/>
-        <part name='82s123.7f'/>
+  <rom index="0" md5="3733037b678a93557d6d4fc83509c05b" type="merged" zip="mspacman.zip">
+    <part name="mspacmab/boot1"/>
+    <part name="mspacpls/mspacatk.2"/>
+    <part name="mspacmab/boot3"/>
+    <part name="mspacmab/boot4"/>
+    <part name="mspacpls/mspacatk.5"/>
+    <part name="mspacpls/mspacatk.5"/>
+    <part name="mspacpls/mspacatk.6"/>
+    <part name="5e"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="3733037b678a93557d6d4fc83509c05b" type="split" zip="mspacpls.zip">
+    <part name="boot1"/>
+    <part name="mspacatk.2"/>
+    <part name="boot3"/>
+    <part name="boot4"/>
+    <part name="mspacatk.5"/>
+    <part name="mspacatk.5"/>
+    <part name="mspacatk.6"/>
+    <part name="5e" zip="mspacman.zip"/>
+    <part name="5f" zip="mspacman.zip"/>
+    <part name="5f" zip="mspacman.zip"/>
+    <part name="5f" zip="mspacman.zip"/>
+    <part name="82s126.1m" zip="mspacman.zip"/>
+    <part name="82s126.4a" zip="mspacman.zip"/>
+    <part name="82s126.3m" zip="mspacman.zip"/>
+    <part name="82s123.7f" zip="mspacman.zip"/>
+  </rom>
+  <rom index="0" md5="3733037b678a93557d6d4fc83509c05b" type="nonmerged" zip="mspacpls.zip">
+    <part name="boot1"/>
+    <part name="mspacatk.2"/>
+    <part name="boot3"/>
+    <part name="boot4"/>
+    <part name="mspacatk.5"/>
+    <part name="mspacatk.5"/>
+    <part name="mspacatk.6"/>
+    <part name="5e"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="5f"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
   </rom>
 </misterromdescription>

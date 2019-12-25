@@ -1,20 +1,49 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Solomon's Key</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<rbf>solomonskey</rbf>
-	<rom index="0" zip="solomon.zip" md5="5a94e70ada06e9063ca4d448a4ffa04a" type="merged">
-            <part name="2.5lm"/>
-            <part name="3.6lm"/>
-            <part name="4.7lm"/>
-            <part name="5.8lm"/>
-            <part name="12.3t"/>
-            <part name="11.3r"/>
-            <part name="10.3p"/>
-            <part name="9.3m"/>
-            <part name="1.3jk"/>
-            <part name="6.3f"/>
-            <part name="7.3h"/>
-            <part name="8.3jk"/>
-	</rom>
+  <name>Solomon's Key</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>solomonskey</rbf>
+  <rom index="0" md5="1d44456556a62046505f20bc1b5bbda2" type="merged" zip="solomon.zip">
+    <part name="2.5lm"/>
+    <part name="3.6lm"/>
+    <part name="4.7lm"/>
+    <part name="5.8lm"/>
+    <part name="12.3t"/>
+    <part name="11.3r"/>
+    <part name="10.3p"/>
+    <part name="9.3m"/>
+    <part name="1.3jk"/>
+    <part name="6.3f"/>
+    <part name="7.3h"/>
+    <part name="8.3jk"/>
+  </rom>
+  <rom index="0" md5="1d44456556a62046505f20bc1b5bbda2" type="split" zip="solomon.zip">
+    <part name="2.5lm"/>
+    <part name="3.6lm"/>
+    <part name="4.7lm"/>
+    <part name="5.8lm"/>
+    <part name="12.3t"/>
+    <part name="11.3r"/>
+    <part name="10.3p"/>
+    <part name="9.3m"/>
+    <part name="1.3jk"/>
+    <part name="6.3f"/>
+    <part name="7.3h"/>
+    <part name="8.3jk"/>
+  </rom>
+  <rom index="0" md5="1d44456556a62046505f20bc1b5bbda2" type="nonmerged" zip="solomon.zip">
+    <part name="2.5lm"/>
+    <part name="3.6lm"/>
+    <part name="4.7lm"/>
+    <part name="5.8lm"/>
+    <part name="12.3t"/>
+    <part name="11.3r"/>
+    <part name="10.3p"/>
+    <part name="9.3m"/>
+    <part name="1.3jk"/>
+    <part name="6.3f"/>
+    <part name="7.3h"/>
+    <part name="8.3jk"/>
+  </rom>
 </misterromdescription>

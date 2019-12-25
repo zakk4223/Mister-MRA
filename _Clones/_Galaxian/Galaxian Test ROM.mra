@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Galaxian Test ROM</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1979</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>galaxian</rbf>
-	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
-		<part name='tst_galx/test.u'/>
-		<part name='galmidw.v'/>
-		<part name='galmidw.w'/>
-		<part name='galmidw.y'/>
-		<part name='7l'/>
-		<part name='7l'/>
-		<part name='7l'/>
-		<part name='7l'/>
-		<part name='1h.bin'/>
-		<part name='1h.bin'/>
-		<part name='1k.bin'/>
-		<part name='1k.bin'/>
-	</rom>
+  <name>Galaxian Test ROM</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="64cc73569d09f5f79ad91d2ed6c4ee82" type="merged|nonmerged" zip="galaxian.zip">
+    <part name="tst_galx/test.u"/>
+    <part name="galmidw.v"/>
+    <part name="galmidw.w"/>
+    <part name="galmidw.y"/>
+    <part name="7l"/>
+    <part name="7l"/>
+    <part name="7l"/>
+    <part name="7l"/>
+    <part name="1h.bin"/>
+    <part name="1h.bin"/>
+    <part name="1k.bin"/>
+    <part name="1k.bin"/>
+  </rom>
+  <rom index="0" md5="64cc73569d09f5f79ad91d2ed6c4ee82" type="split" zip="tst_galx.zip">
+    <part name="test.u"/>
+    <part name="galmidw.v" zip="galaxian.zip"/>
+    <part name="galmidw.w" zip="galaxian.zip"/>
+    <part name="galmidw.y" zip="galaxian.zip"/>
+    <part name="7l" zip="galaxian.zip"/>
+    <part name="7l" zip="galaxian.zip"/>
+    <part name="7l" zip="galaxian.zip"/>
+    <part name="7l" zip="galaxian.zip"/>
+    <part name="1h.bin" zip="galaxian.zip"/>
+    <part name="1h.bin" zip="galaxian.zip"/>
+    <part name="1k.bin" zip="galaxian.zip"/>
+    <part name="1k.bin" zip="galaxian.zip"/>
+  </rom>
+  <rom index="0" md5="64cc73569d09f5f79ad91d2ed6c4ee82" type="nonmerged" zip="tst_galx.zip">
+    <part name="test.u"/>
+    <part name="galmidw.v"/>
+    <part name="galmidw.w"/>
+    <part name="galmidw.y"/>
+    <part name="7l"/>
+    <part name="7l"/>
+    <part name="7l"/>
+    <part name="7l"/>
+    <part name="1h.bin"/>
+    <part name="1h.bin"/>
+    <part name="1k.bin"/>
+    <part name="1k.bin"/>
+  </rom>
 </misterromdescription>

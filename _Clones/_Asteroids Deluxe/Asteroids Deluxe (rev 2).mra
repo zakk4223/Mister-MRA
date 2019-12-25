@@ -1,29 +1,59 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Asteroids Deluxe (rev 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Atari</manufacturer>
-	<category>Space / Asteroids</category>
-	<category>Space / Fighter</category>
-	<rbf>asteroidsdeluxe</rbf>
-
-        <rom index="0" zip="astdelux.zip" md5="395f5f531f098e826a0dab03382e17fc" type="merged">
-                <part name="astdelux1/036430-01.d1"/>
-                <part name="astdelux1/036431-01.ef1"/>
-                <part name="astdelux1/036432-01.fh1"/>
-                <part name="astdelux2/036433-02.j1"/>
-                <part name="astdelux1/036800-01.r2"/>
-                <part name="036799-01.np2"/>
-        </rom>
-
-
-	<rom index="0" zip="astdelux2.zip" md5="395f5f531f098e826a0dab03382e17fc" type="nonmerged">
-		<part name="036430-01.d1"/>
-		<part name="036431-01.ef1"/>
-		<part name="036432-01.fh1"/>
-		<part name="036433-02.j1"/>
-		<part name="036800-01.r2"/>
-		<part name="036799-01.np2"/>
-	</rom>
+  <name>Asteroids Deluxe (rev 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Space / Asteroids</category>
+  <category>Space / Fighter</category>
+  <rbf>asteroidsdeluxe</rbf>
+  <rom index="0" md5="395f5f531f098e826a0dab03382e17fc" type="merged" zip="astdelux.zip">
+    <part name="astdelux1/036430-01.d1"/>
+    <part name="astdelux1/036431-01.ef1"/>
+    <part name="astdelux1/036432-01.fh1"/>
+    <part name="astdelux2/036433-02.j1"/>
+    <part name="astdelux1/036800-01.r2"/>
+    <part name="036799-01.np2"/>
+  </rom>
+  <rom index="0" md5="395f5f531f098e826a0dab03382e17fc" type="nonmerged" zip="astdelux2.zip">
+    <part name="036430-01.d1"/>
+    <part name="036431-01.ef1"/>
+    <part name="036432-01.fh1"/>
+    <part name="036433-02.j1"/>
+    <part name="036800-01.r2"/>
+    <part name="036799-01.np2"/>
+  </rom>
+  <rom index="0" md5="395f5f531f098e826a0dab03382e17fc" type="split" zip="astdelux2.zip">
+    <part name="036430-01.d1"/>
+    <part name="036431-01.ef1"/>
+    <part name="036432-01.fh1"/>
+    <part name="036433-02.j1"/>
+    <part name="036800-01.r2"/>
+    <part name="036799-01.np2" zip="astdelux.zip"/>
+  </rom>
+  <rom index="0" md5="395f5f531f098e826a0dab03382e17fc" type="nonmerged" zip="astdelux2.zip">
+    <part name="036430-01.d1"/>
+    <part name="036431-01.ef1"/>
+    <part name="036432-01.fh1"/>
+    <part name="036433-02.j1"/>
+    <part name="036800-01.r2"/>
+    <part name="036799-01.np2"/>
+  </rom>
+  <rom index="0" md5="395f5f531f098e826a0dab03382e17fc" type="split" zip="astdelux2.zip">
+    <part name="036430-01.d1"/>
+    <part name="036431-01.ef1"/>
+    <part name="036432-01.fh1"/>
+    <part name="036433-02.j1"/>
+    <part name="036800-01.r2"/>
+    <part name="036799-01.np2" zip="astdelux.zip"/>
+  </rom>
+  <rom index="0" md5="395f5f531f098e826a0dab03382e17fc" type="nonmerged" zip="astdelux2.zip">
+    <part name="036430-01.d1"/>
+    <part name="036431-01.ef1"/>
+    <part name="036432-01.fh1"/>
+    <part name="036433-02.j1"/>
+    <part name="036800-01.r2"/>
+    <part name="036799-01.np2"/>
+  </rom>
 </misterromdescription>

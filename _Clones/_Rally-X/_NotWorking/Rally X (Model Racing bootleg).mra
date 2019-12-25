@@ -1,12 +1,12 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<rbf>RallyX</rbf>
-	<rom index='0' md5='47b5dc3c2683e23b387115da19e2771a' type='merged' zip='rallyx.zip'>
-
-		<part name='rallyxa/rx1_prg_1.1b'/>
-		<part name='rallyxa/rx1_prg_3.1d'/>
-		<part name='rallyxa/rx1_prg_5.bin'/>
-		<part name='dngrtrck/1k-2716.bin'/>
-		<part>
+  <rbf>RallyX</rbf>
+  <rom index="0" md5="8b474ed158c9eedaaee8e418f1574e28" type="merged" zip="rallyx.zip">
+    <part name="rallyxa/rx1_prg_1.1b"/>
+    <part name="rallyxa/rx1_prg_3.1d"/>
+    <part name="rallyxa/rx1_prg_5.bin"/>
+    <part name="dngrtrck/1k-2716.bin"/>
+    <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
  0e 12 1b 1f 25 2a 2f 34 38 3c 40 44 47 4b 4e 51
@@ -1032,10 +1032,76 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-		<part name='dngrtrck/8e-2716.bin'/>
-		<part name='rx1-6.8m'/>
-		<part name='rx1-5.3p'/>
-		<part name='rx1-7.8p'/>
-		<part name='rx1-1.11n'/>
-	</rom>
+    <part name="dngrtrck/8e-2716.bin"/>
+    <part name="rx1-6.8m"/>
+    <part name="rx1-5.3p"/>
+    <part name="rx1-7.8p"/>
+    <part name="rx1-1.11n"/>
+  </rom>
+  <rom index="0" md5="8b474ed158c9eedaaee8e418f1574e28" type="split" zip="rallyxmr.zip">
+    <part name="166.bin"/>
+    <part name="168.bin"/>
+    <part name="170.bin"/>
+    <part name="172.bin"/>
+    <part name="175.bin"/>
+    <part name="rx1-6.8m" zip="rallyx.zip"/>
+    <part name="rx1-5.3p" zip="rallyx.zip"/>
+    <part name="rx1-7.8p" zip="rallyx.zip"/>
+    <part name="rx1-1.11n" zip="rallyx.zip"/>
+  </rom>
+  <rom index="0" md5="8b474ed158c9eedaaee8e418f1574e28" type="nonmerged" zip="rallyxmr.zip">
+    <part name="166.bin"/>
+    <part name="168.bin"/>
+    <part name="170.bin"/>
+    <part name="172.bin"/>
+    <part name="175.bin"/>
+    <part name="rx1-6.8m"/>
+    <part name="rx1-5.3p"/>
+    <part name="rx1-7.8p"/>
+    <part name="rx1-1.11n"/>
+  </rom>
+  <rom index="0" md5="8b474ed158c9eedaaee8e418f1574e28" type="split" zip="rallyxmr.zip">
+    <part name="166.bin"/>
+    <part name="168.bin"/>
+    <part name="170.bin"/>
+    <part name="172.bin"/>
+    <part name="175.bin"/>
+    <part name="rx1-6.8m" zip="rallyx.zip"/>
+    <part name="rx1-5.3p" zip="rallyx.zip"/>
+    <part name="rx1-7.8p" zip="rallyx.zip"/>
+    <part name="rx1-1.11n" zip="rallyx.zip"/>
+  </rom>
+  <rom index="0" md5="8b474ed158c9eedaaee8e418f1574e28" type="nonmerged" zip="rallyxmr.zip">
+    <part name="166.bin"/>
+    <part name="168.bin"/>
+    <part name="170.bin"/>
+    <part name="172.bin"/>
+    <part name="175.bin"/>
+    <part name="rx1-6.8m"/>
+    <part name="rx1-5.3p"/>
+    <part name="rx1-7.8p"/>
+    <part name="rx1-1.11n"/>
+  </rom>
+  <rom index="0" md5="8b474ed158c9eedaaee8e418f1574e28" type="split" zip="rallyxmr.zip">
+    <part name="166.bin"/>
+    <part name="168.bin"/>
+    <part name="170.bin"/>
+    <part name="172.bin"/>
+    <part name="175.bin"/>
+    <part name="rx1-6.8m" zip="rallyx.zip"/>
+    <part name="rx1-5.3p" zip="rallyx.zip"/>
+    <part name="rx1-7.8p" zip="rallyx.zip"/>
+    <part name="rx1-1.11n" zip="rallyx.zip"/>
+  </rom>
+  <rom index="0" md5="8b474ed158c9eedaaee8e418f1574e28" type="nonmerged" zip="rallyxmr.zip">
+    <part name="166.bin"/>
+    <part name="168.bin"/>
+    <part name="170.bin"/>
+    <part name="172.bin"/>
+    <part name="175.bin"/>
+    <part name="rx1-6.8m"/>
+    <part name="rx1-5.3p"/>
+    <part name="rx1-7.8p"/>
+    <part name="rx1-1.11n"/>
+  </rom>
 </misterromdescription>

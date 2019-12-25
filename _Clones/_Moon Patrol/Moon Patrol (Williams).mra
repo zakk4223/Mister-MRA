@@ -1,17 +1,46 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MoonPatrol</rbf>
-  <rom index='0' md5='b7307dcbec689186de808fa595952f1a' type='merged' zip='mpatrol.zip'>
-        <part name='mpatrolw/mpa-1w.3m'/>
-        <part name='mpatrolw/mpa-2w.3l'/>
-        <part name='mpatrolw/mpa-3w.3k'/>
-        <part name='mpatrolw/mpa-4w.3j'/>
-        <part name='mpatrolw/mpe-5w.3e'/>
-        <part name='mpatrolw/mpe-4w.3f'/>
-        <part name='mpb-2.3m'/>
-        <part name='mpb-1.3n'/>
-        <part name='mpe-3.3h'/>
-        <part name='mpe-2.3k'/>
-        <part name='mpe-1.3l'/>
-        <part name='mp-s1.1a'/>
+  <rom index="0" md5="2c2576d313ea8bc50149a101695b6094" type="merged" zip="mpatrol.zip">
+    <part name="mpatrolw/mpa-1w.3m"/>
+    <part name="mpatrolw/mpa-2w.3l"/>
+    <part name="mpatrolw/mpa-3w.3k"/>
+    <part name="mpatrolw/mpa-4w.3j"/>
+    <part name="mpatrolw/mpe-5w.3e"/>
+    <part name="mpatrolw/mpe-4w.3f"/>
+    <part name="mpb-2.3m"/>
+    <part name="mpb-1.3n"/>
+    <part name="mpe-3.3h"/>
+    <part name="mpe-2.3k"/>
+    <part name="mpe-1.3l"/>
+    <part name="mp-s1.1a"/>
+  </rom>
+  <rom index="0" md5="2c2576d313ea8bc50149a101695b6094" type="split" zip="mpatrolw.zip">
+    <part name="mpa-1w.3m"/>
+    <part name="mpa-2w.3l"/>
+    <part name="mpa-3w.3k"/>
+    <part name="mpa-4w.3j"/>
+    <part name="mpe-5w.3e"/>
+    <part name="mpe-4w.3f"/>
+    <part name="mpb-2.3m" zip="mpatrol.zip"/>
+    <part name="mpb-1.3n" zip="mpatrol.zip"/>
+    <part name="mpe-3.3h" zip="mpatrol.zip"/>
+    <part name="mpe-2.3k" zip="mpatrol.zip"/>
+    <part name="mpe-1.3l" zip="mpatrol.zip"/>
+    <part name="mp-s1.1a" zip="mpatrol.zip"/>
+  </rom>
+  <rom index="0" md5="2c2576d313ea8bc50149a101695b6094" type="nonmerged" zip="mpatrolw.zip">
+    <part name="mpa-1w.3m"/>
+    <part name="mpa-2w.3l"/>
+    <part name="mpa-3w.3k"/>
+    <part name="mpa-4w.3j"/>
+    <part name="mpe-5w.3e"/>
+    <part name="mpe-4w.3f"/>
+    <part name="mpb-2.3m"/>
+    <part name="mpb-1.3n"/>
+    <part name="mpe-3.3h"/>
+    <part name="mpe-2.3k"/>
+    <part name="mpe-1.3l"/>
+    <part name="mp-s1.1a"/>
   </rom>
 </misterromdescription>

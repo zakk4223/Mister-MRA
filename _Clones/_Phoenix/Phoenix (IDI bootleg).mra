@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Phoenix (IDI bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Amstar</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>phoenix</rbf>
-	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
-		<part name='condor/cond01c.bin'/>
-		<part name='condor/cond02c.bin'/>
-		<part name='condor/cond03c.bin'/>
-		<part name='phoenixi/0204.bin'/>
-		<part name='condor/cond05c.bin'/>
-		<part name='condor/cond06c.bin'/>
-		<part name='condor/cond07c.bin'/>
-		<part name='condor/cond08c.bin'/>
-		<part name='ic23.3d'/>
-		<part name='ic24.4d'/>
-		<part name='condor/cond11c.bin'/>
-		<part name='condor/cond12c.bin'/>
-	</rom>
+  <name>Phoenix (IDI bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Amstar</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index="0" md5="ae621c11dba66071df7efcf60aa55f5a" type="merged|nonmerged" zip="phoenix.zip">
+    <part name="condor/cond01c.bin"/>
+    <part name="condor/cond02c.bin"/>
+    <part name="condor/cond03c.bin"/>
+    <part name="phoenixi/0204.bin"/>
+    <part name="condor/cond05c.bin"/>
+    <part name="condor/cond06c.bin"/>
+    <part name="condor/cond07c.bin"/>
+    <part name="condor/cond08c.bin"/>
+    <part name="ic23.3d"/>
+    <part name="ic24.4d"/>
+    <part name="condor/cond11c.bin"/>
+    <part name="condor/cond12c.bin"/>
+  </rom>
+  <rom index="0" md5="ae621c11dba66071df7efcf60aa55f5a" type="split" zip="phoenixi.zip">
+    <part name="0201.bin"/>
+    <part name="0202.bin"/>
+    <part name="0203.bin"/>
+    <part name="0204.bin"/>
+    <part name="0205.bin"/>
+    <part name="0206.bin"/>
+    <part name="0207.bin"/>
+    <part name="cond08c.bin"/>
+    <part name="ic23.3d" zip="phoenix.zip"/>
+    <part name="ic24.4d" zip="phoenix.zip"/>
+    <part name="0211.bin"/>
+    <part name="0212.bin"/>
+  </rom>
+  <rom index="0" md5="ae621c11dba66071df7efcf60aa55f5a" type="nonmerged" zip="phoenixi.zip">
+    <part name="0201.bin"/>
+    <part name="0202.bin"/>
+    <part name="0203.bin"/>
+    <part name="0204.bin"/>
+    <part name="0205.bin"/>
+    <part name="0206.bin"/>
+    <part name="0207.bin"/>
+    <part name="cond08c.bin"/>
+    <part name="0209.bin"/>
+    <part name="0210.bin"/>
+    <part name="0211.bin"/>
+    <part name="0212.bin"/>
+  </rom>
 </misterromdescription>

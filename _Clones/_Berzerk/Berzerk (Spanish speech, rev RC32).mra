@@ -1,23 +1,63 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Berzerk (Spanish Speech, revision RC32)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Stern Electronics</manufacturer>
-	<category>Maze</category>
-	<category>Space / Robots</category>
-	<rbf>berzerk</rbf>
-	<rom index="0" zip="berzerk.zip" md5="e892f2597fb827d126cc047dec751cb5" type="merged|nonmerged">
-		<part name="berzerkg/berzerk_rc32_1d.rom1.1d"/> 
-		<part name="berzerks/berzerk_rc32_3d.rom2.3d"/> 
-		<part name="berzerkg/berzerk_rc32_5d.rom3.5d"/> 
-		<part name="berzerks/berzerk_rc32_6d.rom4.6d"/> 
-		<part name="berzerks/berzerk_rc32s_5c.rom5.5c"/> 
-		<part name="berzerks/berzerk_rc32s_5c.rom5.5c"/> 
-		<part name="berzerks/berzerk_rc32s_5c.rom5.5c"/> 
-		<part name="berzerks/berzerk_rc32s_5c.rom5.5c"/> 
-		<part name="berzerkg/berzerk_rc32_1c.rom0.1c"/> 
-		<part name="berzerkg/berzerk_rc32_1c.rom0.1c"/> 
-		<part name="berzerks/berzerk_rvos_1c.1c"/> 
-	</rom>
+  <name>Berzerk (Spanish Speech, revision RC32)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Stern Electronics</manufacturer>
+  <category>Maze</category>
+  <category>Space / Robots</category>
+  <rbf>berzerk</rbf>
+  <rom index="0" md5="c08dd5e37375798a1a02e2608078e54d" type="merged|nonmerged" zip="berzerk.zip">
+    <part name="berzerkg/berzerk_rc32_1d.rom1.1d"/>
+    <part name="berzerks/berzerk_rc32_3d.rom2.3d"/>
+    <part name="berzerkg/berzerk_rc32_5d.rom3.5d"/>
+    <part name="berzerks/berzerk_rc32_6d.rom4.6d"/>
+    <part name="berzerks/berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerks/berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerks/berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerks/berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerkg/berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerkg/berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerks/berzerk_rvos_1c.1c"/>
+  </rom>
+  <rom index="0" md5="c08dd5e37375798a1a02e2608078e54d" type="split" zip="berzerks.zip">
+    <part name="berzerk_rc32_1d.rom1.1d"/>
+    <part name="berzerk_rc32_3d.rom2.3d"/>
+    <part name="berzerk_rc32_5d.rom3.5d"/>
+    <part name="berzerk_rc32_6d.rom4.6d"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerk_rvos_1c.1c"/>
+  </rom>
+  <rom index="0" md5="c08dd5e37375798a1a02e2608078e54d" type="split" zip="berzerks.zip">
+    <part name="berzerk_rc32_1d.rom1.1d"/>
+    <part name="berzerk_rc32_3d.rom2.3d"/>
+    <part name="berzerk_rc32_5d.rom3.5d"/>
+    <part name="berzerk_rc32_6d.rom4.6d"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerk_rvos_1c.1c"/>
+  </rom>
+  <rom index="0" md5="c08dd5e37375798a1a02e2608078e54d" type="nonmerged" zip="berzerks.zip">
+    <part name="berzerk_rc32_1d.rom1.1d"/>
+    <part name="berzerk_rc32_3d.rom2.3d"/>
+    <part name="berzerk_rc32_5d.rom3.5d"/>
+    <part name="berzerk_rc32_6d.rom4.6d"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32s_5c.rom5.5c"/>
+    <part name="berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerk_rc32_1c.rom0.1c"/>
+    <part name="berzerk_rvos_1c.1c"/>
+  </rom>
 </misterromdescription>

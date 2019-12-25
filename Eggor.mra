@@ -1,33 +1,78 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Eggor</name>
-	<mameversion>0216</mameversion>
-	<setname>eggor</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1983</year>
-	<manufacturer>Telko</manufacturer>
-	<category>Maze</category>
-	<category>Maze / Chicken</category>
-	<rbf>eggor</rbf>
-	<rom index="0" zip="eggor.zip" md5="8F3DEFD64569EE6068A0952CD2AC8E11" type="merged|nonmerged">
-		<part name="1.bin"/>
-		<part name="5.bin"/>
-		<part name="2.bin"/>
-		<part name="6.bin"/>
-		<part name="3.bin"/>
-		<part name="7.bin"/>
-		<part name="4.bin"/>
-		<part name="8.bin"/>
-		<part name="9.bin"/>
-		<part name="11.bin"/>
-		<part name="10.bin"/>
-		<part name="12.bin"/>
-		<part name="9.bin"/>
-		<part name="11.bin"/>
-		<part name="10.bin"/>
-		<part name="12.bin"/>
-		<part name="82s126.1m"/>
-		<part name="82s126.4a"/>
-		<part name="82s126.3m"/>
-		<part name="82s123.7f"/>
-	</rom>
+  <name>Eggor</name>
+  <mameversion>0216</mameversion>
+  <setname>eggor</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Telko</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Chicken</category>
+  <rbf>eggor</rbf>
+  <rom index="0" md5="8f3defd64569ee6068a0952cd2ac8e11" type="merged|nonmerged" zip="eggor.zip">
+    <part name="1.bin"/>
+    <part name="5.bin"/>
+    <part name="2.bin"/>
+    <part name="6.bin"/>
+    <part name="3.bin"/>
+    <part name="7.bin"/>
+    <part name="4.bin"/>
+    <part name="8.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="8f3defd64569ee6068a0952cd2ac8e11" type="split" zip="eggor.zip">
+    <part name="1.bin"/>
+    <part name="5.bin"/>
+    <part name="2.bin"/>
+    <part name="6.bin"/>
+    <part name="3.bin"/>
+    <part name="7.bin"/>
+    <part name="4.bin"/>
+    <part name="8.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="8f3defd64569ee6068a0952cd2ac8e11" type="nonmerged" zip="eggor.zip">
+    <part name="1.bin"/>
+    <part name="5.bin"/>
+    <part name="2.bin"/>
+    <part name="6.bin"/>
+    <part name="3.bin"/>
+    <part name="7.bin"/>
+    <part name="4.bin"/>
+    <part name="8.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
 </misterromdescription>

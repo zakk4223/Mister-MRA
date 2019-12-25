@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Catacomb</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>MTM Games</manufacturer>
-	<category>Space / Force</category>
-	<rbf>catacomb</rbf>
-	<rom index="0" zip="catacomb.zip" md5="dfda39951da1cf12279a6dcf030ee09d" type="merged|nonmerged">
-		<part name="catacomb.u"/>
-		<part name="catacomb.v"/>
-		<part name="catacomb.w"/>
-		<part name="catacomb.w"/>
-		<part name="catacomb.y"/>
-		<part name="catacomb.y"/>
-		<part name="catacomb.y"/>
-		<part name="catacomb.y"/>
-		<part name="cat-gfx1"/>
-		<part name="cat-gfx1"/>
-		<part name="cat-gfx2"/>
-		<part name="cat-gfx2"/>
-	</rom>
+  <name>Catacomb</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>MTM Games</manufacturer>
+  <category>Space / Force</category>
+  <rbf>catacomb</rbf>
+  <rom index="0" md5="dfda39951da1cf12279a6dcf030ee09d" type="merged|nonmerged" zip="catacomb.zip">
+    <part name="catacomb.u"/>
+    <part name="catacomb.v"/>
+    <part name="catacomb.w"/>
+    <part name="catacomb.w"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="cat-gfx1"/>
+    <part name="cat-gfx1"/>
+    <part name="cat-gfx2"/>
+    <part name="cat-gfx2"/>
+  </rom>
+  <rom index="0" md5="dfda39951da1cf12279a6dcf030ee09d" type="split" zip="catacomb.zip">
+    <part name="catacomb.u"/>
+    <part name="catacomb.v"/>
+    <part name="catacomb.w"/>
+    <part name="catacomb.w"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="cat-gfx1"/>
+    <part name="cat-gfx1"/>
+    <part name="cat-gfx2"/>
+    <part name="cat-gfx2"/>
+  </rom>
+  <rom index="0" md5="dfda39951da1cf12279a6dcf030ee09d" type="nonmerged" zip="catacomb.zip">
+    <part name="catacomb.u"/>
+    <part name="catacomb.v"/>
+    <part name="catacomb.w"/>
+    <part name="catacomb.w"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="catacomb.y"/>
+    <part name="cat-gfx1"/>
+    <part name="cat-gfx1"/>
+    <part name="cat-gfx2"/>
+    <part name="cat-gfx2"/>
+  </rom>
 </misterromdescription>

@@ -1,24 +1,85 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Star Trek (Defender bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Williams</manufacturer>
-	<category>Space / Defender</category>
-	<rbf>defender</rbf>
-	<rom index='0' md5='c30f51faa522769c684feafa3147354a' type='merged|nonmerged' zip='defender.zip'>
-		<part name='defenderw/rom1.bin'/>
-		<part name='defcmnd/defcmnda.2'/>
-		<part name='defenderw/rom3.bin'/>
-		<part name='defenderw/rom9.bin'/>
-		<part name='startrkd/st_rom5.bin'/>
-		<part name='startrkd/st_rom4.bin'/>
-		<part name='defcmnd/defcmnda.6'/>
-		<part name='defcmnd/defcmnda.8'/>
-		<part name='startrkd/st_rom1.bin'/>
-		<part name='defcmnd/defcmnda.4'/>
-		<part name='defend.snd'/>
-		<part name='decoder.2'/>
-		<part name='decoder.3'/>
-	</rom>
+  <name>Star Trek (Defender bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Williams</manufacturer>
+  <category>Space / Defender</category>
+  <rbf>defender</rbf>
+  <rom index="0" md5="8b9b15202b8ec7b323612218786cfd4f" type="merged|nonmerged" zip="defender.zip">
+    <part name="defenderw/rom1.bin"/>
+    <part name="defcmnd/defcmnda.2"/>
+    <part name="defenderw/rom3.bin"/>
+    <part name="defenderw/rom9.bin"/>
+    <part name="startrkd/st_rom5.bin"/>
+    <part name="startrkd/st_rom4.bin"/>
+    <part name="defcmnd/defcmnda.6"/>
+    <part name="defcmnd/defcmnda.8"/>
+    <part name="startrkd/st_rom1.bin"/>
+    <part name="defcmnd/defcmnda.4"/>
+    <part name="defend.snd"/>
+    <part name="decoder.2"/>
+    <part name="decoder.3"/>
+  </rom>
+  <rom index="0" md5="8b9b15202b8ec7b323612218786cfd4f" type="split" zip="startrkd.zip">
+    <part name="st_rom8.bin"/>
+    <part name="st_rom9.bin"/>
+    <part name="st_rom10.bin"/>
+    <part name="st_rom6.bin"/>
+    <part name="st_rom5.bin"/>
+    <part name="st_rom4.bin"/>
+    <part name="st_rom3.bin"/>
+    <part name="st_rom2.bin"/>
+    <part name="st_rom1.bin"/>
+    <part name="st_rom7.bin"/>
+    <part name="defend.snd" zip="defender.zip"/>
+    <part name="decoder.2" zip="defender.zip"/>
+    <part name="decoder.3" zip="defender.zip"/>
+  </rom>
+  <rom index="0" md5="8b9b15202b8ec7b323612218786cfd4f" type="split" zip="startrkd.zip">
+    <part name="st_rom8.bin"/>
+    <part name="st_rom9.bin"/>
+    <part name="st_rom10.bin"/>
+    <part name="st_rom6.bin"/>
+    <part name="st_rom5.bin"/>
+    <part name="st_rom4.bin"/>
+    <part name="st_rom3.bin"/>
+    <part name="st_rom2.bin"/>
+    <part name="st_rom1.bin"/>
+    <part name="st_rom7.bin"/>
+    <part name="defend.snd" zip="defender.zip"/>
+    <part name="decoder.2" zip="defender.zip"/>
+    <part name="decoder.3" zip="defender.zip"/>
+  </rom>
+  <rom index="0" md5="8b9b15202b8ec7b323612218786cfd4f" type="split" zip="startrkd.zip">
+    <part name="st_rom8.bin"/>
+    <part name="st_rom9.bin"/>
+    <part name="st_rom10.bin"/>
+    <part name="st_rom6.bin"/>
+    <part name="st_rom5.bin"/>
+    <part name="st_rom4.bin"/>
+    <part name="st_rom3.bin"/>
+    <part name="st_rom2.bin"/>
+    <part name="st_rom1.bin"/>
+    <part name="st_rom7.bin"/>
+    <part name="defend.snd" zip="defender.zip"/>
+    <part name="decoder.2" zip="defender.zip"/>
+    <part name="decoder.3" zip="defender.zip"/>
+  </rom>
+  <rom index="0" md5="8b9b15202b8ec7b323612218786cfd4f" type="nonmerged" zip="startrkd.zip">
+    <part name="st_rom8.bin"/>
+    <part name="st_rom9.bin"/>
+    <part name="st_rom10.bin"/>
+    <part name="st_rom6.bin"/>
+    <part name="st_rom5.bin"/>
+    <part name="st_rom4.bin"/>
+    <part name="st_rom3.bin"/>
+    <part name="st_rom2.bin"/>
+    <part name="st_rom1.bin"/>
+    <part name="st_rom7.bin"/>
+    <part name="defend.snd"/>
+    <part name="decoder.2"/>
+    <part name="decoder.3"/>
+  </rom>
 </misterromdescription>

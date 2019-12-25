@@ -1,28 +1,61 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Van-Van Car (Karateco set 2)</name>
-	<mameversion>0216</mameversion>
-	<setname>vanvan</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1983</year>
-	<manufacturer>Sanritsu</manufacturer>
-	<category>Maze</category>
-	<category>Maze / Balloons</category>
-	<category>Racing</category>
-	<rbf>vanvancar</rbf>
-	<rom index='0' md5='404d75472ba2d0bd3ce74f7fcb360f2e' type='merged|nonmerged' zip='vanvan.zip'>
-		<part name='van-1.50'/>
-		<part name='vanvanb/vv2.bin'/>
-		<part name='van-3.52'/>
-		<part name='vanvanb/vv4.bin'/>
-		<part name='van-5.39'/>
-		<part name='van-5.39'/>
-		<part name='van-5.39'/>
-		<part name='van-5.39'/>
-		<part name='vanvanb/vv20.bin'/>
-		<part name='van-21.19'/>
-		<part name='vanvanb/vv20.bin'/>
-		<part name='van-21.19'/>
-		<part name='6301-1.37'/>
-		<part name='6331-1.6'/>
-	</rom>
+  <name>Van-Van Car (Karateco set 2)</name>
+  <mameversion>0216</mameversion>
+  <setname>vanvan</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Sanritsu</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Balloons</category>
+  <category>Racing</category>
+  <rbf>vanvancar</rbf>
+  <rom index="0" md5="4f55740910b2a18c4591e06e06dd5580" type="merged|nonmerged" zip="vanvan.zip">
+    <part name="van-1.50"/>
+    <part name="vanvanb/vv2.bin"/>
+    <part name="van-3.52"/>
+    <part name="vanvanb/vv4.bin"/>
+    <part name="van-5.39"/>
+    <part name="van-5.39"/>
+    <part name="van-5.39"/>
+    <part name="van-5.39"/>
+    <part name="vanvanb/vv20.bin"/>
+    <part name="van-21.19"/>
+    <part name="vanvanb/vv20.bin"/>
+    <part name="van-21.19"/>
+    <part name="6301-1.37"/>
+    <part name="6331-1.6"/>
+  </rom>
+  <rom index="0" md5="4f55740910b2a18c4591e06e06dd5580" type="split" zip="vanvanb.zip">
+    <part name="van-1.50" zip="vanvan.zip"/>
+    <part name="vv2.bin"/>
+    <part name="van-3.52" zip="vanvan.zip"/>
+    <part name="vv4.bin"/>
+    <part name="van-5.39" zip="vanvan.zip"/>
+    <part name="van-5.39" zip="vanvan.zip"/>
+    <part name="van-5.39" zip="vanvan.zip"/>
+    <part name="van-5.39" zip="vanvan.zip"/>
+    <part name="vv20.bin"/>
+    <part name="van-21.19" zip="vanvan.zip"/>
+    <part name="vv20.bin"/>
+    <part name="van-21.19" zip="vanvan.zip"/>
+    <part name="6301-1.37" zip="vanvan.zip"/>
+    <part name="6331-1.6" zip="vanvan.zip"/>
+  </rom>
+  <rom index="0" md5="4f55740910b2a18c4591e06e06dd5580" type="nonmerged" zip="vanvanb.zip">
+    <part name="vv1.bin"/>
+    <part name="vv2.bin"/>
+    <part name="vv3.bin"/>
+    <part name="vv4.bin"/>
+    <part name="vv5.bin"/>
+    <part name="vv5.bin"/>
+    <part name="vv5.bin"/>
+    <part name="vv5.bin"/>
+    <part name="vv20.bin"/>
+    <part name="vv21.bin"/>
+    <part name="vv20.bin"/>
+    <part name="vv21.bin"/>
+    <part name="6301-1.37"/>
+    <part name="6331-1.6"/>
+  </rom>
 </misterromdescription>

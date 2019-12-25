@@ -1,10 +1,27 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Tetris (cocktail set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<rbf>ataritetris</rbf>
-	<rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='merged' zip='atetris.zip'>
-		<part name='atetrisc2/136066-1102.45f'/>
-		<part name='atetrisc/136066-1103.35a'/>
-	</rom>
+  <name>Tetris (cocktail set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>ataritetris</rbf>
+  <rom index="0" md5="3363856fcc8e4fcbaaf5bceab01920e2" type="merged" zip="atetris.zip">
+    <part name="atetrisc2/136066-1102.45f"/>
+    <part name="atetrisc/136066-1103.35a"/>
+  </rom>
+  <rom index="0" md5="3363856fcc8e4fcbaaf5bceab01920e2" type="split" zip="atetrisc2.zip">
+    <part name="136066-1102.45f"/>
+    <part name="136066-1103.35a"/>
+  </rom>
+  <rom index="0" md5="3363856fcc8e4fcbaaf5bceab01920e2" type="nonmerged" zip="atetrisc2.zip">
+    <part name="136066-1102.45f"/>
+    <part name="136066-1103.35a"/>
+  </rom>
+  <rom index="0" md5="3363856fcc8e4fcbaaf5bceab01920e2" type="split" zip="atetrisc2.zip">
+    <part name="136066-1102.45f"/>
+    <part name="136066-1103.35a"/>
+  </rom>
+  <rom index="0" md5="3363856fcc8e4fcbaaf5bceab01920e2" type="nonmerged" zip="atetrisc2.zip">
+    <part name="136066-1102.45f"/>
+    <part name="136066-1103.35a"/>
+  </rom>
 </misterromdescription>

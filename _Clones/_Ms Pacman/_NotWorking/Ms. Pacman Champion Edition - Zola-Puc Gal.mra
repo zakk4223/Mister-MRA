@@ -1,11 +1,28 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
-        <part name='mschamp/9fg.bin'/>
-        <part name='mschamp/8e.bin'/>
-        <part name='82s126.1m'/>
-        <part name='82s126.4a'/>
-        <part name='82s126.3m'/>
-        <part name='82s123.7f'/>
+  <rom index="0" md5="ce47da9ee140c0ca17c0be465f077fa6" type="merged" zip="mspacman.zip">
+    <part name="mschamp/9fg.bin"/>
+    <part name="mschamp/8e.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="ce47da9ee140c0ca17c0be465f077fa6" type="split" zip="mschamp.zip">
+    <part name="9fg.bin"/>
+    <part name="8e.bin"/>
+    <part name="82s126.1m" zip="mspacman.zip"/>
+    <part name="82s126.4a" zip="mspacman.zip"/>
+    <part name="82s126.3m" zip="mspacman.zip"/>
+    <part name="82s123.7f" zip="mspacman.zip"/>
+  </rom>
+  <rom index="0" md5="ce47da9ee140c0ca17c0be465f077fa6" type="nonmerged" zip="mschamp.zip">
+    <part name="9fg.bin"/>
+    <part name="8e.bin"/>
+    <part name="82s126.1m"/>
+    <part name="82s126.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
   </rom>
 </misterromdescription>

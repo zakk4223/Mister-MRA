@@ -1,10 +1,27 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Tetris (bootleg set 3)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<rbf>ataritetris</rbf>
-	<rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='merged' zip='atetris.zip'>
-		<part name='atetrisa/d1'/>
-		<part name='136066-1101.35a'/>
-	</rom>
+  <name>Tetris (bootleg set 3)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>ataritetris</rbf>
+  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="merged" zip="atetris.zip">
+    <part name="atetrisa/d1"/>
+    <part name="136066-1101.35a"/>
+  </rom>
+  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="split" zip="atetrisb3.zip">
+    <part name="prg.bin"/>
+    <part name="136066-1101.35a" zip="atetris.zip"/>
+  </rom>
+  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="nonmerged" zip="atetrisb3.zip">
+    <part name="prg.bin"/>
+    <part name="gfx.bin"/>
+  </rom>
+  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="split" zip="atetrisb3.zip">
+    <part name="prg.bin"/>
+    <part name="136066-1101.35a" zip="atetris.zip"/>
+  </rom>
+  <rom index="0" md5="8a183ea4710afa65f3f0157fe3f14559" type="nonmerged" zip="atetrisb3.zip">
+    <part name="prg.bin"/>
+    <part name="gfx.bin"/>
+  </rom>
 </misterromdescription>

@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Pleiads (Irecsa)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1981</year>
-	<manufacturer>Tehkan</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>phoenix</rbf>
-	<rom index='0' md5='648468f93204c48ff27f39018828cb28' type='merged|nonmerged' zip='pleiads.zip'>
-		<part name='pleiadsi/1 2716.bin'/>
-		<part name='pleiadbl/ic46.bin'/>
-		<part name='ic47.bin'/>
-		<part name='pleiadsi/4 2716.bin'/>
-		<part name='pleiadbl/ic49.bin'/>
-		<part name='ic50.bin'/>
-		<part name='pleiadbl/ic51.bin'/>
-		<part name='pleiadce/pleiades.54'/>
-		<part name='pleiadce/pleiades.45'/>
-		<part name='pleiadce/pleiades.44'/>
-		<part name='ic39.bin'/>
-		<part name='ic40.bin'/>
-	</rom>
+  <name>Pleiads (Irecsa)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Tehkan</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index="0" md5="3b9417bcf8b61d590c8736558dabd5ae" type="merged|nonmerged" zip="pleiads.zip">
+    <part name="pleiadsi/1 2716.bin"/>
+    <part name="pleiadbl/ic46.bin"/>
+    <part name="ic47.bin"/>
+    <part name="pleiadsi/4 2716.bin"/>
+    <part name="pleiadbl/ic49.bin"/>
+    <part name="ic50.bin"/>
+    <part name="pleiadbl/ic51.bin"/>
+    <part name="pleiadce/pleiades.54"/>
+    <part name="pleiadce/pleiades.45"/>
+    <part name="pleiadce/pleiades.44"/>
+    <part name="ic39.bin"/>
+    <part name="ic40.bin"/>
+  </rom>
+  <rom index="0" md5="3b9417bcf8b61d590c8736558dabd5ae" type="split" zip="pleiadsi.zip">
+    <part name="1 2716.bin"/>
+    <part name="2 2716.bin"/>
+    <part name="ic47.bin" zip="pleiads.zip"/>
+    <part name="4 2716.bin"/>
+    <part name="5 2716.bin"/>
+    <part name="ic50.bin" zip="pleiads.zip"/>
+    <part name="7 2716.bin"/>
+    <part name="8 2716.bin"/>
+    <part name="11 2716.bin"/>
+    <part name="12 2716.bin"/>
+    <part name="ic39.bin" zip="pleiads.zip"/>
+    <part name="ic40.bin" zip="pleiads.zip"/>
+  </rom>
+  <rom index="0" md5="3b9417bcf8b61d590c8736558dabd5ae" type="nonmerged" zip="pleiadsi.zip">
+    <part name="1 2716.bin"/>
+    <part name="2 2716.bin"/>
+    <part name="3 2716.bin"/>
+    <part name="4 2716.bin"/>
+    <part name="5 2716.bin"/>
+    <part name="6 2716.bin"/>
+    <part name="7 2716.bin"/>
+    <part name="8 2716.bin"/>
+    <part name="11 2716.bin"/>
+    <part name="12 2716.bin"/>
+    <part name="9 2716.bin"/>
+    <part name="10 2716.bin"/>
+  </rom>
 </misterromdescription>

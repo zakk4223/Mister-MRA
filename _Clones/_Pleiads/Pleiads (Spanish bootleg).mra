@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Pleiads (Spanish bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1981</year>
-	<manufacturer>Tehkan</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>phoenix</rbf>
-	<rom index='0' md5='648468f93204c48ff27f39018828cb28' type='merged|nonmerged' zip='pleiads.zip'>
-		<part name='pleiadss/pl45.bin'/>
-		<part name='ic48.r2'/>
-		<part name='pleiadsn/3.bin'/>
-		<part name='pleiadss/pl48.bin'/>
-		<part name='pleiadss/pl49.bin'/>
-		<part name='ic50.bin'/>
-		<part name='ic53.r7'/>
-		<part name='pleiadsb2/ic52.bin'/>
-		<part name='ic24.bin'/>
-		<part name='ic23.bin'/>
-		<part name='pleiadss/pl39.bin'/>
-		<part name='ic40.bin'/>
-	</rom>
+  <name>Pleiads (Spanish bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Tehkan</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index="0" md5="7ae64e930e6b97bb4e393333af3cd2f7" type="merged|nonmerged" zip="pleiads.zip">
+    <part name="pleiadss/pl45.bin"/>
+    <part name="ic48.r2"/>
+    <part name="pleiadsn/3.bin"/>
+    <part name="pleiadss/pl48.bin"/>
+    <part name="pleiadss/pl49.bin"/>
+    <part name="ic50.bin"/>
+    <part name="ic53.r7"/>
+    <part name="pleiadsb2/ic52.bin"/>
+    <part name="ic24.bin"/>
+    <part name="ic23.bin"/>
+    <part name="pleiadss/pl39.bin"/>
+    <part name="ic40.bin"/>
+  </rom>
+  <rom index="0" md5="7ae64e930e6b97bb4e393333af3cd2f7" type="split" zip="pleiadss.zip">
+    <part name="pl45.bin"/>
+    <part name="ic48.r2" zip="pleiads.zip"/>
+    <part name="pl47.bin"/>
+    <part name="pl48.bin"/>
+    <part name="pl49.bin"/>
+    <part name="ic50.bin" zip="pleiads.zip"/>
+    <part name="ic53.r7" zip="pleiads.zip"/>
+    <part name="pl52.bin"/>
+    <part name="ic24.bin" zip="pleiads.zip"/>
+    <part name="ic23.bin" zip="pleiads.zip"/>
+    <part name="pl39.bin"/>
+    <part name="ic40.bin" zip="pleiads.zip"/>
+  </rom>
+  <rom index="0" md5="7ae64e930e6b97bb4e393333af3cd2f7" type="nonmerged" zip="pleiadss.zip">
+    <part name="pl45.bin"/>
+    <part name="pl46.bin"/>
+    <part name="pl47.bin"/>
+    <part name="pl48.bin"/>
+    <part name="pl49.bin"/>
+    <part name="pl50.bin"/>
+    <part name="pl51.bin"/>
+    <part name="pl52.bin"/>
+    <part name="pl24.bin"/>
+    <part name="pl23.bin"/>
+    <part name="pl39.bin"/>
+    <part name="pl40.bin"/>
+  </rom>
 </misterromdescription>

@@ -1,22 +1,61 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='6c75da1e5c32807fdff6eeb9f5a75ae3' type='merged' zip='mspacman.zip'>
-        <part name='mspacmab/boot1'/>
-        <part name='mspacmab/boot2'/>
-        <part name='pacgal/pacman.7fh'/>
-        <part name='pacgal/pacman.7hj'/>
-        <part name='mspacmab/boot5'/>
-        <part name='mspacmab/boot5'/>
-        <part name='mspacmab/boot6'/>
-        <part name='mspacmab/boot6'/>
-        <part name='mspacmab/boot6'/>
-        <part name='5e'/>
-        <part name='pacgal/pacman.5ef'/>
-        <part name='pacgal/pacman.5ef'/>
-        <part name='pacgal/pacman.5ef'/>
-        <part name='82s126.1m'/>
-        <part name='pacgal/82s129.4a'/>
-        <part name='82s126.3m'/>
-        <part name='82s123.7f'/>
+  <rom index="0" md5="10331a91be30b274d2e4a08c2a1aa9f5" type="merged" zip="mspacman.zip">
+    <part name="mspacmab/boot1"/>
+    <part name="mspacmab/boot2"/>
+    <part name="pacgal/pacman.7fh"/>
+    <part name="pacgal/pacman.7hj"/>
+    <part name="mspacmab/boot5"/>
+    <part name="mspacmab/boot5"/>
+    <part name="mspacmab/boot6"/>
+    <part name="mspacmab/boot6"/>
+    <part name="mspacmab/boot6"/>
+    <part name="5e"/>
+    <part name="pacgal/pacman.5ef"/>
+    <part name="pacgal/pacman.5ef"/>
+    <part name="pacgal/pacman.5ef"/>
+    <part name="82s126.1m"/>
+    <part name="pacgal/82s129.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
+  </rom>
+  <rom index="0" md5="10331a91be30b274d2e4a08c2a1aa9f5" type="split" zip="pacgal.zip">
+    <part name="boot1"/>
+    <part name="boot2"/>
+    <part name="pacman.7fh"/>
+    <part name="pacman.7hj"/>
+    <part name="boot5"/>
+    <part name="boot5"/>
+    <part name="boot6"/>
+    <part name="boot6"/>
+    <part name="boot6"/>
+    <part name="5e" zip="mspacman.zip"/>
+    <part name="pacman.5ef"/>
+    <part name="pacman.5ef"/>
+    <part name="pacman.5ef"/>
+    <part name="82s126.1m" zip="mspacman.zip"/>
+    <part name="82s129.4a"/>
+    <part name="82s126.3m" zip="mspacman.zip"/>
+    <part name="82s123.7f" zip="mspacman.zip"/>
+  </rom>
+  <rom index="0" md5="10331a91be30b274d2e4a08c2a1aa9f5" type="nonmerged" zip="pacgal.zip">
+    <part name="boot1"/>
+    <part name="boot2"/>
+    <part name="pacman.7fh"/>
+    <part name="pacman.7hj"/>
+    <part name="boot5"/>
+    <part name="boot5"/>
+    <part name="boot6"/>
+    <part name="boot6"/>
+    <part name="boot6"/>
+    <part name="5e"/>
+    <part name="pacman.5ef"/>
+    <part name="pacman.5ef"/>
+    <part name="pacman.5ef"/>
+    <part name="82s126.1m"/>
+    <part name="82s129.4a"/>
+    <part name="82s126.3m"/>
+    <part name="82s123.7f"/>
   </rom>
 </misterromdescription>

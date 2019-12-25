@@ -1,33 +1,58 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Le Bagnard (set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Valadon Automation</manufacturer>
-	<category>Platform / Extra</category>
-	<rbf>bagman</rbf>
-	<rom index="0" zip="bagman.zip" md5="7f7855b1b6174c44e4d6a777c23fb368" type="merged|nonmerged">
-		<part name="bagnarda/bagman.005"/>
-		<part name="bagnarda/bagman.006"/>
-		<part name="bagnarda/bagman.007"/>
-		<part name="bagnarda/bagman.008"/>
-		<part name="bagnarda/bagman.009"/>
-		<part name="bagnarda/bagman.010"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="bagnarda/bagman.002"/>
-		<part name="bagnarda/bagman.001"/>
-		<part name="bagnarda/bagman.004"/>
-		<part name="bagnarda/bagman.003"/>
-		<part name="r9_b11.bin"/>
-		<part name="t9_b12.bin"/>
-	</rom>
+  <name>Le Bagnard (set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Valadon Automation</manufacturer>
+  <category>Platform / Extra</category>
+  <rbf>bagman</rbf>
+  <rom index="0" md5="2d4113bdeae67e8df242a34a0dec6872" type="merged|nonmerged" zip="bagman.zip">
+    <part name="bagnarda/bagman.005"/>
+    <part name="bagnarda/bagman.006"/>
+    <part name="bagnarda/bagman.007"/>
+    <part name="bagnarda/bagman.008"/>
+    <part name="bagnarda/bagman.009"/>
+    <part name="bagnarda/bagman.010"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="bagnarda/bagman.002"/>
+    <part name="bagnarda/bagman.001"/>
+    <part name="bagnarda/bagman.004"/>
+    <part name="bagnarda/bagman.003"/>
+    <part name="r9_b11.bin"/>
+    <part name="t9_b12.bin"/>
+  </rom>
+  <rom index="0" md5="2d4113bdeae67e8df242a34a0dec6872" type="split" zip="bagnarda.zip">
+    <part name="bagman.005"/>
+    <part name="bagman.006"/>
+    <part name="bagman.007"/>
+    <part name="bagman.008"/>
+    <part name="bagman.009"/>
+    <part name="bagman.010"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+    <part name="bagman.002"/>
+    <part name="bagman.001"/>
+    <part name="bagman.004"/>
+    <part name="bagman.003"/>
+    <part name="r9_b11.bin" zip="bagman.zip"/>
+    <part name="t9_b12.bin" zip="bagman.zip"/>
+  </rom>
 </misterromdescription>

@@ -1,18 +1,46 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Dorodon (set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>UPL (Falcon license?)</manufacturer>
-	<category>Maze</category>
-	<rbf>dorodon</rbf>
-	<rom index='0' md5='72cf4f0a5baf5a53342df3908589c359' type='merged|nonmerged' zip='dorodon.zip'>
-		<part name='dorodon2/1.3fg'/>
-		<part name='dorodon2/2.3h'/>
-		<part name='dorodon2/3.3k'/>
-		<part name='dorodon2/5.3t'/>
-		<part name='dorodon2/4.3r'/>
-		<part name='dorodon2/6.6a'/>
-		<part name='dorodon2/7.6bc'/>
-	</rom>
+  <name>Dorodon (set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>UPL (Falcon license?)</manufacturer>
+  <category>Maze</category>
+  <rbf>dorodon</rbf>
+  <rom index="0" md5="ce5ccd07ed22a891e541a69b176046bf" type="merged|nonmerged" zip="dorodon.zip">
+    <part name="dorodon2/1.3fg"/>
+    <part name="dorodon2/2.3h"/>
+    <part name="dorodon2/3.3k"/>
+    <part name="dorodon2/5.3t"/>
+    <part name="dorodon2/4.3r"/>
+    <part name="dorodon2/6.6a"/>
+    <part name="dorodon2/7.6bc"/>
+  </rom>
+  <rom index="0" md5="ce5ccd07ed22a891e541a69b176046bf" type="split" zip="dorodon2.zip">
+    <part name="1.3fg"/>
+    <part name="2.3h"/>
+    <part name="3.3k"/>
+    <part name="5.3t"/>
+    <part name="4.3r"/>
+    <part name="6.6a"/>
+    <part name="7.6bc"/>
+  </rom>
+  <rom index="0" md5="ce5ccd07ed22a891e541a69b176046bf" type="split" zip="dorodon2.zip">
+    <part name="1.3fg"/>
+    <part name="2.3h"/>
+    <part name="3.3k"/>
+    <part name="5.3t"/>
+    <part name="4.3r"/>
+    <part name="6.6a"/>
+    <part name="7.6bc"/>
+  </rom>
+  <rom index="0" md5="ce5ccd07ed22a891e541a69b176046bf" type="nonmerged" zip="dorodon2.zip">
+    <part name="1.3fg"/>
+    <part name="2.3h"/>
+    <part name="3.3k"/>
+    <part name="5.3t"/>
+    <part name="4.3r"/>
+    <part name="6.6a"/>
+    <part name="7.6bc"/>
+  </rom>
 </misterromdescription>

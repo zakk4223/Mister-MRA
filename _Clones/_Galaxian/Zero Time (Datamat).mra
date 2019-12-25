@@ -1,16 +1,31 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Zero Time (Datamat)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1979</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>galaxian</rbf>
-	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
-		<part name='zerotimed/zerotime_datamat.bin'/>
-		<part name='zerotime/ztc-2.016'/>
-		<part name='zerotime/ztc-2.016'/>
-		<part name='zerotime/ztc-1.016'/>
-		<part name='zerotime/ztc-1.016'/>
-	</rom>
+  <name>Zero Time (Datamat)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="eb6ab7f84c84b9872fa67e94c34ed1a4" type="merged|nonmerged" zip="galaxian.zip">
+    <part name="zerotimed/zerotime_datamat.bin"/>
+    <part name="zerotime/ztc-2.016"/>
+    <part name="zerotime/ztc-2.016"/>
+    <part name="zerotime/ztc-1.016"/>
+    <part name="zerotime/ztc-1.016"/>
+  </rom>
+  <rom index="0" md5="eb6ab7f84c84b9872fa67e94c34ed1a4" type="split" zip="zerotimed.zip">
+    <part name="zerotime_datamat.bin"/>
+    <part name="ztc-2.016"/>
+    <part name="ztc-2.016"/>
+    <part name="ztc-1.016"/>
+    <part name="ztc-1.016"/>
+  </rom>
+  <rom index="0" md5="eb6ab7f84c84b9872fa67e94c34ed1a4" type="nonmerged" zip="zerotimed.zip">
+    <part name="zerotime_datamat.bin"/>
+    <part name="ztc-2.016"/>
+    <part name="ztc-2.016"/>
+    <part name="ztc-1.016"/>
+    <part name="ztc-1.016"/>
+  </rom>
 </misterromdescription>

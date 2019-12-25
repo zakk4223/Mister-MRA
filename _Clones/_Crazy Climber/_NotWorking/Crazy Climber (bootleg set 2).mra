@@ -1,24 +1,70 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Crazy Climber (bootleg set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Nichibutsu</manufacturer>
-	<category>Platform / Climbing</category>
-	<rbf>crazyclimber</rbf>
-	<rom index='0' md5='b6b06723da0f0e6e183723285b0bf5be' type='merged|nonmerged' zip='cclimber.zip'>
-		<part name='ccboot2/11.4k'/>
-		<part name='ccboot2/10.4j'/>
-		<part name='ccboot/cc09j.bin'/>
-		<part name='ccboot/m08.bin'/>
-		<part name='ccboot/cc07j.bin'/>
-		<part name='cc06'/>
-		<part name='cc05'/>
-		<part name='cc04'/>
-		<part name='cc03'/>
-		<part name='cc02'/>
-		<part name='cc01'/>
-		<part name='ccboot/cc13j.bin'/>
-		<part name='ccboot/cc12j.bin'/>
-	</rom>
+  <name>Crazy Climber (bootleg set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Nichibutsu</manufacturer>
+  <category>Platform / Climbing</category>
+  <rbf>crazyclimber</rbf>
+  <rom index="0" md5="2df656b2424b7c233c5d0d357b78261c" type="merged|nonmerged" zip="cclimber.zip">
+    <part name="ccboot2/11.4k"/>
+    <part name="ccboot2/10.4j"/>
+    <part name="ccboot/cc09j.bin"/>
+    <part name="ccboot/m08.bin"/>
+    <part name="ccboot/cc07j.bin"/>
+    <part name="cc06"/>
+    <part name="cc05"/>
+    <part name="cc04"/>
+    <part name="cc03"/>
+    <part name="cc02"/>
+    <part name="cc01"/>
+    <part name="ccboot/cc13j.bin"/>
+    <part name="ccboot/cc12j.bin"/>
+  </rom>
+  <rom index="0" md5="2df656b2424b7c233c5d0d357b78261c" type="split" zip="ccboot2.zip">
+    <part name="11.4k"/>
+    <part name="10.4j"/>
+    <part name="cc09j.bin"/>
+    <part name="m08.bin"/>
+    <part name="cc07j.bin"/>
+    <part name="cc06" zip="cclimber.zip"/>
+    <part name="cc05" zip="cclimber.zip"/>
+    <part name="cc04" zip="cclimber.zip"/>
+    <part name="cc03" zip="cclimber.zip"/>
+    <part name="cc02" zip="cclimber.zip"/>
+    <part name="cc01" zip="cclimber.zip"/>
+    <part name="cc13j.bin"/>
+    <part name="cc12j.bin"/>
+  </rom>
+  <rom index="0" md5="2df656b2424b7c233c5d0d357b78261c" type="split" zip="ccboot2.zip">
+    <part name="11.4k"/>
+    <part name="10.4j"/>
+    <part name="cc09j.bin"/>
+    <part name="m08.bin"/>
+    <part name="cc07j.bin"/>
+    <part name="cc06" zip="cclimber.zip"/>
+    <part name="cc05" zip="cclimber.zip"/>
+    <part name="cc04" zip="cclimber.zip"/>
+    <part name="cc03" zip="cclimber.zip"/>
+    <part name="cc02" zip="cclimber.zip"/>
+    <part name="cc01" zip="cclimber.zip"/>
+    <part name="cc13j.bin"/>
+    <part name="cc12j.bin"/>
+  </rom>
+  <rom index="0" md5="2df656b2424b7c233c5d0d357b78261c" type="nonmerged" zip="ccboot2.zip">
+    <part name="11.4k"/>
+    <part name="10.4j"/>
+    <part name="cc09j.bin"/>
+    <part name="m08.bin"/>
+    <part name="cc07j.bin"/>
+    <part name="cc06"/>
+    <part name="cc05"/>
+    <part name="cc04"/>
+    <part name="cc03"/>
+    <part name="cc02"/>
+    <part name="cc01"/>
+    <part name="cc13j.bin"/>
+    <part name="cc12j.bin"/>
+  </rom>
 </misterromdescription>

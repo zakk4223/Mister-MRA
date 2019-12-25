@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Zero Time (Marti Colls)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1979</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>galaxian</rbf>
-	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
-		<part name='zerotimemc/4_7k.bin'/>
-		<part name='galaxrf/princip2.v'/>
-		<part name='zerotimemc/6_7h.bin'/>
-		<part name='zerotime/zt-4.016'/>
-		<part name='zerotime/zt-5.016'/>
-		<part name='zerotime/zt-5.016'/>
-		<part name='zerotime/zt-5.016'/>
-		<part name='zerotime/zt-5.016'/>
-		<part name='zerotimemc/2_1hj.bin'/>
-		<part name='zerotimemc/2_1hj.bin'/>
-		<part name='zerotimemc/1_1kl.bin'/>
-		<part name='zerotimemc/1_1kl.bin'/>
-	</rom>
+  <name>Zero Time (Marti Colls)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="7c9a686a13282bd345fe9dccafb10bd0" type="merged|nonmerged" zip="galaxian.zip">
+    <part name="zerotimemc/4_7k.bin"/>
+    <part name="galaxrf/princip2.v"/>
+    <part name="zerotimemc/6_7h.bin"/>
+    <part name="zerotime/zt-4.016"/>
+    <part name="zerotime/zt-5.016"/>
+    <part name="zerotime/zt-5.016"/>
+    <part name="zerotime/zt-5.016"/>
+    <part name="zerotime/zt-5.016"/>
+    <part name="zerotimemc/2_1hj.bin"/>
+    <part name="zerotimemc/2_1hj.bin"/>
+    <part name="zerotimemc/1_1kl.bin"/>
+    <part name="zerotimemc/1_1kl.bin"/>
+  </rom>
+  <rom index="0" md5="7c9a686a13282bd345fe9dccafb10bd0" type="split" zip="zerotimemc.zip">
+    <part name="4_7k.bin"/>
+    <part name="5_7j.bin"/>
+    <part name="6_7h.bin"/>
+    <part name="7_7f.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="2_1hj.bin"/>
+    <part name="2_1hj.bin"/>
+    <part name="1_1kl.bin"/>
+    <part name="1_1kl.bin"/>
+  </rom>
+  <rom index="0" md5="7c9a686a13282bd345fe9dccafb10bd0" type="nonmerged" zip="zerotimemc.zip">
+    <part name="4_7k.bin"/>
+    <part name="5_7j.bin"/>
+    <part name="6_7h.bin"/>
+    <part name="7_7f.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="3_7l.bin"/>
+    <part name="2_1hj.bin"/>
+    <part name="2_1hj.bin"/>
+    <part name="1_1kl.bin"/>
+    <part name="1_1kl.bin"/>
+  </rom>
 </misterromdescription>

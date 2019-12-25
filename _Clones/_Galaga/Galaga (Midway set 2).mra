@@ -1,15 +1,38 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='32d57ddcdf7ab064ac43b47a7d7e92aa' type='merged' zip='galaga.zip'>
-        <part name='galagamk/mk2-1'/>
-        <part name='galagamk/mk2-2'/>
-        <part name='galagamf/3400c.bin'/>
-        <part name='galagamk/mk2-4'/>
-        <part name='galagamk/gg1-5.3f'/>
-        <part name='gg1_7b.2c'/>
-        <part name='gg1_11.4d'/>
-        <part name='gg1_10.4f'/>
-        <part name='gg1_9.4l'/>
-        <part name='54xx.bin' zip='namco54.zip'/>
+  <rom index="0" md5="c373572d364bfdd515d327ae12320d60" type="merged" zip="galaga.zip">
+    <part name="galagamk/mk2-1"/>
+    <part name="galagamk/mk2-2"/>
+    <part name="galagamf/3400c.bin"/>
+    <part name="galagamk/mk2-4"/>
+    <part name="galagamk/gg1-5.3f"/>
+    <part name="gg1_7b.2c"/>
+    <part name="gg1_11.4d"/>
+    <part name="gg1_10.4f"/>
+    <part name="gg1_9.4l"/>
+    <part name="54xx.bin" zip="namco54.zip"/>
+  </rom>
+  <rom index="0" md5="c373572d364bfdd515d327ae12320d60" type="split" zip="galagamk.zip">
+    <part name="mk2-1"/>
+    <part name="mk2-2"/>
+    <part name="3400c.bin"/>
+    <part name="mk2-4"/>
+    <part name="gg1-5.3f"/>
+    <part name="gg1_7b.2c" zip="galaga.zip"/>
+    <part name="gg1_11.4d" zip="galaga.zip"/>
+    <part name="gg1_10.4f" zip="galaga.zip"/>
+    <part name="gg1_9.4l" zip="galaga.zip"/>
+  </rom>
+  <rom index="0" md5="c373572d364bfdd515d327ae12320d60" type="nonmerged" zip="galagamk.zip">
+    <part name="mk2-1"/>
+    <part name="mk2-2"/>
+    <part name="3400c.bin"/>
+    <part name="mk2-4"/>
+    <part name="gg1-5.3f"/>
+    <part name="gg1-7b.2c"/>
+    <part name="gg1-11.4d"/>
+    <part name="gg1-10.4f"/>
+    <part name="gg1-9.4l"/>
   </rom>
 </misterromdescription>

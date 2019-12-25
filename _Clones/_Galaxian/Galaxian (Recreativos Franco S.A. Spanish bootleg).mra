@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Galaxian (Recreativos Franco S.A. Spanish bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1979</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>galaxian</rbf>
-	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
-		<part name='galaxrf/princip1.u'/>
-		<part name='galaxrf/princip2.v'/>
-		<part name='galaxrf/princip3.w'/>
-		<part name='galaxrf/princip4.y'/>
-		<part name='galaxrf/princip5.z'/>
-		<part name='galaxrf/princip5.z'/>
-		<part name='galaxrf/princip5.z'/>
-		<part name='galaxrf/princip5.z'/>
-		<part name='1h.bin'/>
-		<part name='1h.bin'/>
-		<part name='1k.bin'/>
-		<part name='1k.bin'/>
-	</rom>
+  <name>Galaxian (Recreativos Franco S.A. Spanish bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="7e7245fef7b4cd529cc9ccca0f9ceb6d" type="merged|nonmerged" zip="galaxian.zip">
+    <part name="galaxrf/princip1.u"/>
+    <part name="galaxrf/princip2.v"/>
+    <part name="galaxrf/princip3.w"/>
+    <part name="galaxrf/princip4.y"/>
+    <part name="galaxrf/princip5.z"/>
+    <part name="galaxrf/princip5.z"/>
+    <part name="galaxrf/princip5.z"/>
+    <part name="galaxrf/princip5.z"/>
+    <part name="1h.bin"/>
+    <part name="1h.bin"/>
+    <part name="1k.bin"/>
+    <part name="1k.bin"/>
+  </rom>
+  <rom index="0" md5="7e7245fef7b4cd529cc9ccca0f9ceb6d" type="split" zip="galaxrf.zip">
+    <part name="princip1.u"/>
+    <part name="princip2.v"/>
+    <part name="princip3.w"/>
+    <part name="princip4.y"/>
+    <part name="princip5.z"/>
+    <part name="princip5.z"/>
+    <part name="princip5.z"/>
+    <part name="princip5.z"/>
+    <part name="1h.bin" zip="galaxian.zip"/>
+    <part name="1h.bin" zip="galaxian.zip"/>
+    <part name="1k.bin" zip="galaxian.zip"/>
+    <part name="1k.bin" zip="galaxian.zip"/>
+  </rom>
+  <rom index="0" md5="7e7245fef7b4cd529cc9ccca0f9ceb6d" type="nonmerged" zip="galaxrf.zip">
+    <part name="princip1.u"/>
+    <part name="princip2.v"/>
+    <part name="princip3.w"/>
+    <part name="princip4.y"/>
+    <part name="princip5.z"/>
+    <part name="princip5.z"/>
+    <part name="princip5.z"/>
+    <part name="princip5.z"/>
+    <part name="graphhj.j1"/>
+    <part name="graphhj.j1"/>
+    <part name="graphkl.l1"/>
+    <part name="graphkl.l1"/>
+  </rom>
 </misterromdescription>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Asterock (Sidam bootleg of Asteroids)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Space / Asteroids</category>
+  <category>Space / Fighter</category>
+  <rbf>asteroids</rbf>
+  <rom index="0" md5="aa300f558f5cc36b8c3f6525d7ae80be" type="merged|nonmerged" zip="asteroid.zip">
+    <part name="asterock/10505.2"/>
+    <part name="asterock/10505.3"/>
+    <part name="asterock/10505.4"/>
+    <part name="asterock/10505.5"/>
+    <part name="asterock/10505.6"/>
+    <part name="asterock/10505.7"/>
+    <part name="asterock/10505.0"/>
+    <part name="asterock/10505.1"/>
+    <part name="034602-01.c8"/>
+  </rom>
+  <rom index="0" md5="aa300f558f5cc36b8c3f6525d7ae80be" type="split" zip="asterock.zip">
+    <part name="10505.2"/>
+    <part name="10505.3"/>
+    <part name="10505.4"/>
+    <part name="10505.5"/>
+    <part name="10505.6"/>
+    <part name="10505.7"/>
+    <part name="10505.0"/>
+    <part name="10505.1"/>
+    <part name="034602-01.c8" zip="asteroid.zip"/>
+  </rom>
+  <rom index="0" md5="aa300f558f5cc36b8c3f6525d7ae80be" type="nonmerged" zip="asterock.zip">
+    <part name="10505.2"/>
+    <part name="10505.3"/>
+    <part name="10505.4"/>
+    <part name="10505.5"/>
+    <part name="10505.6"/>
+    <part name="10505.7"/>
+    <part name="10505.0"/>
+    <part name="10505.1"/>
+    <part name="034602-01.c8"/>
+  </rom>
+  <rom index="0" md5="aa300f558f5cc36b8c3f6525d7ae80be" type="split" zip="asterock.zip">
+    <part name="10505.2"/>
+    <part name="10505.3"/>
+    <part name="10505.4"/>
+    <part name="10505.5"/>
+    <part name="10505.6"/>
+    <part name="10505.7"/>
+    <part name="10505.0"/>
+    <part name="10505.1"/>
+    <part name="034602-01.c8" zip="asteroid.zip"/>
+  </rom>
+</misterromdescription>

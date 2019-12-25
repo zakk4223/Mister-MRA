@@ -1,25 +1,56 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Ataque Sideral (Spanish bootleg of UniWar S)</name>
-	<mameversion>0216</mameversion>
-	<setname>uniwars</setname>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>uniwars</rbf>
-	<rom index='0' md5='b270e45e9d2ca2e73b081fed66d9f3db' type='merged|nonmerged' zip='uniwars.zip'>
-		<part name='asideral/1401.7f'/>
-		<part name='asideral/1302.7h'/>
-		<part name='asideral/1203.7k'/>
-		<part name='asideral/1104.7m'/>
-		<part name='asideral/5.8f'/>
-		<part name='asideral/6.8f'/>
-		<part name='asideral/7.8f'/>
-		<part name='n08p_8a.bin'/>
-		<part name='egg10'/>
-		<part name='h01_2.bin'/>
-		<part name='egg9'/>
-		<part name='k01_2.bin'/>
-		<part name='uniwars.clr'/>
-	</rom>
+  <name>Ataque Sideral (Spanish bootleg of UniWar S)</name>
+  <mameversion>0216</mameversion>
+  <setname>uniwars</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Irem</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>uniwars</rbf>
+  <rom index="0" md5="f8637a6f8d1bcb4ed6ee97db15da7b6a" type="merged|nonmerged" zip="uniwars.zip">
+    <part name="asideral/1401.7f"/>
+    <part name="asideral/1302.7h"/>
+    <part name="asideral/1203.7k"/>
+    <part name="asideral/1104.7m"/>
+    <part name="asideral/5.8f"/>
+    <part name="asideral/6.8f"/>
+    <part name="asideral/7.8f"/>
+    <part name="n08p_8a.bin"/>
+    <part name="egg10"/>
+    <part name="h01_2.bin"/>
+    <part name="egg9"/>
+    <part name="k01_2.bin"/>
+    <part name="uniwars.clr"/>
+  </rom>
+  <rom index="0" md5="f8637a6f8d1bcb4ed6ee97db15da7b6a" type="split" zip="asideral.zip">
+    <part name="1401.7f"/>
+    <part name="1302.7h"/>
+    <part name="1203.7k"/>
+    <part name="1104.7m"/>
+    <part name="5.8f"/>
+    <part name="6.8f"/>
+    <part name="7.8f"/>
+    <part name="n08p_8a.bin" zip="uniwars.zip"/>
+    <part name="egg10" zip="uniwars.zip"/>
+    <part name="h01_2.bin" zip="uniwars.zip"/>
+    <part name="egg9" zip="uniwars.zip"/>
+    <part name="k01_2.bin" zip="uniwars.zip"/>
+    <part name="uniwars.clr" zip="uniwars.zip"/>
+  </rom>
+  <rom index="0" md5="f8637a6f8d1bcb4ed6ee97db15da7b6a" type="nonmerged" zip="asideral.zip">
+    <part name="1401.7f"/>
+    <part name="1302.7h"/>
+    <part name="1203.7k"/>
+    <part name="1104.7m"/>
+    <part name="5.8f"/>
+    <part name="6.8f"/>
+    <part name="7.8f"/>
+    <part name="8.8f"/>
+    <part name="u10.j2"/>
+    <part name="u12.j2"/>
+    <part name="u9.l2"/>
+    <part name="u11.l2"/>
+    <part name="uniwars.clr"/>
+  </rom>
 </misterromdescription>

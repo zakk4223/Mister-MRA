@@ -1,29 +1,90 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Dig Dug (Atari, rev 1)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Maze / Digging</category>
-	<rbf>digdug</rbf>
-	<rom index='0' md5='d6790fb2893b2290b4ac74544e4d78e6' type='merged|nonmerged' zip='digdug.zip'>
-		<part name='digdug1/dd1.1'/>
-		<part name='digdug1/dd1.2'/>
-		<part name='digdug1/dd1.3'/>
-		<part name='digdugat1/136007.104'/>
-		<part name='dd1.15'/>
-		<part name='digdugat/136007.117'/>
-		<part name='dd1.13'/>
-		<part name='dd1.12'/>
-		<part name='digdugat1/136007.105'/>
-		<part name='digdugat1/136007.106'/>
-		<part name='dd1.7'/>
-		<part name='digdugat/136007.114'/>
-		<part name='digdugat/136007.115'/>
-		<part name='digdugat/136007.108'/>
-		<part name='136007.110'/>
-		<part name='136007.111'/>
-		<part name='136007.112'/>
-		<part name='136007.113'/>
-	</rom>
+  <name>Dig Dug (Atari, rev 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Maze / Digging</category>
+  <rbf>digdug</rbf>
+  <rom index="0" md5="121e5ccc5fa5b4b93ee5564f7933e80c" type="merged|nonmerged" zip="digdug.zip">
+    <part name="digdug1/dd1.1"/>
+    <part name="digdug1/dd1.2"/>
+    <part name="digdug1/dd1.3"/>
+    <part name="digdugat1/136007.104"/>
+    <part name="dd1.15"/>
+    <part name="digdugat/136007.117"/>
+    <part name="dd1.13"/>
+    <part name="dd1.12"/>
+    <part name="digdugat1/136007.105"/>
+    <part name="digdugat1/136007.106"/>
+    <part name="dd1.7"/>
+    <part name="digdugat/136007.114"/>
+    <part name="digdugat/136007.115"/>
+    <part name="digdugat/136007.108"/>
+    <part name="136007.110"/>
+    <part name="136007.111"/>
+    <part name="136007.112"/>
+    <part name="136007.113"/>
+  </rom>
+  <rom index="0" md5="121e5ccc5fa5b4b93ee5564f7933e80c" type="split" zip="digdugat1.zip">
+    <part name="136007.101"/>
+    <part name="136007.102"/>
+    <part name="136007.103"/>
+    <part name="136007.104"/>
+    <part name="dd1.15" zip="digdug.zip"/>
+    <part name="136007.117"/>
+    <part name="dd1.13" zip="digdug.zip"/>
+    <part name="dd1.12" zip="digdug.zip"/>
+    <part name="136007.105"/>
+    <part name="136007.106"/>
+    <part name="dd1.7" zip="digdug.zip"/>
+    <part name="136007.114"/>
+    <part name="136007.115"/>
+    <part name="136007.108"/>
+    <part name="136007.110" zip="digdug.zip"/>
+    <part name="136007.111" zip="digdug.zip"/>
+    <part name="136007.112" zip="digdug.zip"/>
+    <part name="136007.113" zip="digdug.zip"/>
+  </rom>
+  <rom index="0" md5="121e5ccc5fa5b4b93ee5564f7933e80c" type="split" zip="digdugat1.zip">
+    <part name="136007.101"/>
+    <part name="136007.102"/>
+    <part name="136007.103"/>
+    <part name="136007.104"/>
+    <part name="dd1.15" zip="digdug.zip"/>
+    <part name="136007.117"/>
+    <part name="dd1.13" zip="digdug.zip"/>
+    <part name="dd1.12" zip="digdug.zip"/>
+    <part name="136007.105"/>
+    <part name="136007.106"/>
+    <part name="dd1.7" zip="digdug.zip"/>
+    <part name="136007.114"/>
+    <part name="136007.115"/>
+    <part name="136007.108"/>
+    <part name="136007.110" zip="digdug.zip"/>
+    <part name="136007.111" zip="digdug.zip"/>
+    <part name="136007.112" zip="digdug.zip"/>
+    <part name="136007.113" zip="digdug.zip"/>
+  </rom>
+  <rom index="0" md5="121e5ccc5fa5b4b93ee5564f7933e80c" type="nonmerged" zip="digdugat1.zip">
+    <part name="136007.101"/>
+    <part name="136007.102"/>
+    <part name="136007.103"/>
+    <part name="136007.104"/>
+    <part name="136007.116"/>
+    <part name="136007.117"/>
+    <part name="136007.118"/>
+    <part name="136007.119"/>
+    <part name="136007.105"/>
+    <part name="136007.106"/>
+    <part name="136007.107"/>
+    <part name="136007.114"/>
+    <part name="136007.115"/>
+    <part name="136007.108"/>
+    <part name="136007.110"/>
+    <part name="136007.111"/>
+    <part name="136007.112"/>
+    <part name="136007.113"/>
+  </rom>
 </misterromdescription>

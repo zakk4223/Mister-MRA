@@ -1,23 +1,52 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Condor (S C Novar bootleg of Phoenix)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Amstar</manufacturer>
-	<category>Space / Shooter</category>
-	<rbf>phoenix</rbf>
-	<rom index='0' md5='fd089e48e38ebe92f79cd45bd777bdc9' type='merged|nonmerged' zip='phoenix.zip'>
-		<part name='condor/cond01c.bin'/>
-		<part name='condor/cond02c.bin'/>
-		<part name='condor/cond03c.bin'/>
-		<part name='condorn/4.bin'/>
-		<part name='condor/cond05c.bin'/>
-		<part name='condor/cond06c.bin'/>
-		<part name='condor/cond07c.bin'/>
-		<part name='condor/cond08c.bin'/>
-		<part name='ic23.3d'/>
-		<part name='ic24.4d'/>
-		<part name='condorn/a.bin'/>
-		<part name='condor/cond12c.bin'/>
-	</rom>
+  <name>Condor (S C Novar bootleg of Phoenix)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Amstar</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index="0" md5="1a2cf91f649e485e90a4813606d3e7eb" type="merged|nonmerged" zip="phoenix.zip">
+    <part name="condor/cond01c.bin"/>
+    <part name="condor/cond02c.bin"/>
+    <part name="condor/cond03c.bin"/>
+    <part name="condorn/4.bin"/>
+    <part name="condor/cond05c.bin"/>
+    <part name="condor/cond06c.bin"/>
+    <part name="condor/cond07c.bin"/>
+    <part name="condor/cond08c.bin"/>
+    <part name="ic23.3d"/>
+    <part name="ic24.4d"/>
+    <part name="condorn/a.bin"/>
+    <part name="condor/cond12c.bin"/>
+  </rom>
+  <rom index="0" md5="1a2cf91f649e485e90a4813606d3e7eb" type="split" zip="condorn.zip">
+    <part name="1.bin"/>
+    <part name="2.bin"/>
+    <part name="3.bin"/>
+    <part name="4.bin"/>
+    <part name="5.bin"/>
+    <part name="6.bin"/>
+    <part name="7.bin"/>
+    <part name="8.bin"/>
+    <part name="ic23.3d" zip="phoenix.zip"/>
+    <part name="ic24.4d" zip="phoenix.zip"/>
+    <part name="a.bin"/>
+    <part name="b.bin"/>
+  </rom>
+  <rom index="0" md5="1a2cf91f649e485e90a4813606d3e7eb" type="nonmerged" zip="condorn.zip">
+    <part name="1.bin"/>
+    <part name="2.bin"/>
+    <part name="3.bin"/>
+    <part name="4.bin"/>
+    <part name="5.bin"/>
+    <part name="6.bin"/>
+    <part name="7.bin"/>
+    <part name="8.bin"/>
+    <part name="c.bin"/>
+    <part name="d.bin"/>
+    <part name="a.bin"/>
+    <part name="b.bin"/>
+  </rom>
 </misterromdescription>

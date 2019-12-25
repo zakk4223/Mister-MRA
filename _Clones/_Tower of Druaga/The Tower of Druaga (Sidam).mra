@@ -1,21 +1,49 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>Druaga</rbf>
-  <rom index='1'>
-        <part>01</part>
+  <rom index="1">
+    <part>01</part>
   </rom>
-  <rom index='0' md5='ef0d64d4d3fc4f594389d2b28c677c20' type='merged' zip='todruaga.zip'>
-        <part name='todruagas/3b.bin'/>
-        <part name='todruagas/1b.bin'/>
-        <part name='td1_6.3m'/>
-        <part name='td1_6.3m'/>
-        <part name='td1_7.3n'/>
-        <part name='td1_7.3n'/>
-        <part name='td1_4.1k'/>
-        <part name='td1_5.3b'/>
-        <part name='td1-7.5k'/>
-        <part name='td1-6.4c'/>
-        <part name='td1-3.3m'/>
-        <part name='td1-5.5b'/>
+  <rom index="0" md5="18c3c6f0fc421823d41ce5edfabf3eda" type="merged" zip="todruaga.zip">
+    <part name="todruagas/3b.bin"/>
+    <part name="todruagas/1b.bin"/>
+    <part name="td1_6.3m"/>
+    <part name="td1_6.3m"/>
+    <part name="td1_7.3n"/>
+    <part name="td1_7.3n"/>
+    <part name="td1_4.1k"/>
+    <part name="td1_5.3b"/>
+    <part name="td1-7.5k"/>
+    <part name="td1-6.4c"/>
+    <part name="td1-3.3m"/>
+    <part name="td1-5.5b"/>
+  </rom>
+  <rom index="0" md5="18c3c6f0fc421823d41ce5edfabf3eda" type="split" zip="todruagas.zip">
+    <part name="3b.bin"/>
+    <part name="1b.bin"/>
+    <part name="td1_6.3m" zip="todruaga.zip"/>
+    <part name="td1_6.3m" zip="todruaga.zip"/>
+    <part name="td1_7.3n" zip="todruaga.zip"/>
+    <part name="td1_7.3n" zip="todruaga.zip"/>
+    <part name="td1_4.1k" zip="todruaga.zip"/>
+    <part name="td1_5.3b" zip="todruaga.zip"/>
+    <part name="td1-7.5k" zip="todruaga.zip"/>
+    <part name="td1-6.4c" zip="todruaga.zip"/>
+    <part name="td1-3.3m" zip="todruaga.zip"/>
+    <part name="td1-5.5b" zip="todruaga.zip"/>
+  </rom>
+  <rom index="0" md5="18c3c6f0fc421823d41ce5edfabf3eda" type="nonmerged" zip="todruagas.zip">
+    <part name="3b.bin"/>
+    <part name="1b.bin"/>
+    <part name="td1_6.3m"/>
+    <part name="td1_6.3m"/>
+    <part name="td1_7.3n"/>
+    <part name="td1_7.3n"/>
+    <part name="td1_4.1k"/>
+    <part name="td1_5.3b"/>
+    <part name="td1-7.5k"/>
+    <part name="td1-6.4c"/>
+    <part name="td1-3.3m"/>
+    <part name="td1-5.5b"/>
   </rom>
 </misterromdescription>
-

@@ -1,21 +1,46 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Galaxian (Namco set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1979</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Space / Galaxian</category>
-	<rbf>galaxian</rbf>
-	<rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged' zip='galaxian.zip'>
-		<part name='galap1/7f.bin'/>
-		<part name='galaxiana/7j.bin'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='galaxiana/7l.bin'/>
-		<part name='1h.bin'/>
-		<part name='1h.bin'/>
-		<part name='1k.bin'/>
-		<part name='1k.bin'/>
-	</rom>
+  <name>Galaxian (Namco set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="22226c3a7d3cddc25521f0be754efc66" type="merged|nonmerged" zip="galaxian.zip">
+    <part name="galap1/7f.bin"/>
+    <part name="galaxiana/7j.bin"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="galaxiana/7l.bin"/>
+    <part name="1h.bin"/>
+    <part name="1h.bin"/>
+    <part name="1k.bin"/>
+    <part name="1k.bin"/>
+  </rom>
+  <rom index="0" md5="22226c3a7d3cddc25521f0be754efc66" type="split" zip="galaxiana.zip">
+    <part name="7f.bin"/>
+    <part name="7j.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="1h.bin" zip="galaxian.zip"/>
+    <part name="1h.bin" zip="galaxian.zip"/>
+    <part name="1k.bin" zip="galaxian.zip"/>
+    <part name="1k.bin" zip="galaxian.zip"/>
+  </rom>
+  <rom index="0" md5="22226c3a7d3cddc25521f0be754efc66" type="nonmerged" zip="galaxiana.zip">
+    <part name="7f.bin"/>
+    <part name="7j.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="7l.bin"/>
+    <part name="1h.bin"/>
+    <part name="1h.bin"/>
+    <part name="1k.bin"/>
+    <part name="1k.bin"/>
+  </rom>
 </misterromdescription>

@@ -1,27 +1,60 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Pengo (set 2)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Sega</manufacturer>
-	<category>Maze</category>
-	<category>Maze / Blocks</category>
-	<category>Maze / Penguin</category>
-	<rbf>pengo</rbf>
-	<rom index='0' md5='0cc4c1b046a0f25359cd162d7a62a39a' type='merged|nonmerged' zip='pengo.zip'>
-		<part name='pengo2/ic8.2'/>
-		<part name='pengo2/ic7.2'/>
-		<part name='pengo2/ic15.2'/>
-		<part name='pengo2/ic14.2'/>
-		<part name='ep1693b.21'/>
-		<part name='pengo2/ic20.2'/>
-		<part name='ep5118b.32'/>
-		<part name='pengo2/ic31.2'/>
-		<part name='ep1640.92'/>
-		<part name='ep1695.105'/>
-		<part name='pr1634.88'/>
-		<part name='pr1635.51'/>
-		<part name='pr1636.70'/>
-		<part name='pr1633.78'/>
-	</rom>
+  <name>Pengo (set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Blocks</category>
+  <category>Maze / Penguin</category>
+  <rbf>pengo</rbf>
+  <rom index="0" md5="056e8d070cbb9d55ea8fe7f59f1a409f" type="merged|nonmerged" zip="pengo.zip">
+    <part name="pengo2/ic8.2"/>
+    <part name="pengo2/ic7.2"/>
+    <part name="pengo2/ic15.2"/>
+    <part name="pengo2/ic14.2"/>
+    <part name="ep1693b.21"/>
+    <part name="pengo2/ic20.2"/>
+    <part name="ep5118b.32"/>
+    <part name="pengo2/ic31.2"/>
+    <part name="ep1640.92"/>
+    <part name="ep1695.105"/>
+    <part name="pr1634.88"/>
+    <part name="pr1635.51"/>
+    <part name="pr1636.70"/>
+    <part name="pr1633.78"/>
+  </rom>
+  <rom index="0" md5="056e8d070cbb9d55ea8fe7f59f1a409f" type="split" zip="pengo2.zip">
+    <part name="ic8.2"/>
+    <part name="ic7.2"/>
+    <part name="ic15.2"/>
+    <part name="ic14.2"/>
+    <part name="ep1693b.21" zip="pengo.zip"/>
+    <part name="ic20.2"/>
+    <part name="ep5118b.32" zip="pengo.zip"/>
+    <part name="ic31.2"/>
+    <part name="ep1640.92" zip="pengo.zip"/>
+    <part name="ep1695.105" zip="pengo.zip"/>
+    <part name="pr1634.88" zip="pengo.zip"/>
+    <part name="pr1635.51" zip="pengo.zip"/>
+    <part name="pr1636.70" zip="pengo.zip"/>
+    <part name="pr1633.78" zip="pengo.zip"/>
+  </rom>
+  <rom index="0" md5="056e8d070cbb9d55ea8fe7f59f1a409f" type="nonmerged" zip="pengo2.zip">
+    <part name="ic8.2"/>
+    <part name="ic7.2"/>
+    <part name="ic15.2"/>
+    <part name="ic14.2"/>
+    <part name="ep1693b.21"/>
+    <part name="ic20.2"/>
+    <part name="ep5118b.32"/>
+    <part name="ic31.2"/>
+    <part name="ep1640.92"/>
+    <part name="ep1695.105"/>
+    <part name="pr1634.88"/>
+    <part name="pr1635.51"/>
+    <part name="pr1636.70"/>
+    <part name="pr1633.78"/>
+  </rom>
 </misterromdescription>

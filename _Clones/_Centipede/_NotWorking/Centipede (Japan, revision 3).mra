@@ -1,17 +1,36 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Centipede (Japan, revision 3)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Atari</manufacturer>
-	<category>Maze / Bugs</category>
-	<category>Maze / Centipede</category>
-	<category>Maze / Spiders</category>
-	<rbf>centipede</rbf>
-	<rom index='0' md5='92ab4507356aca0896d5c4138e82b9c4' type='merged|nonmerged' zip='centiped.zip'>
-		<part name='centipedj/cen-00.8e'/>
-		<part name='centipedj/cen-20.3b'/>
-		<part name='centipedj/cen-21.3c'/>
-		<part name='136001-213.p4'/>
-	</rom>
+  <name>Centipede (Japan, revision 3)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Maze / Bugs</category>
+  <category>Maze / Centipede</category>
+  <category>Maze / Spiders</category>
+  <rbf>centipede</rbf>
+  <rom index="0" md5="1789ddf40cf0c7387b9d38399b16eba4" type="merged|nonmerged" zip="centiped.zip">
+    <part name="centipedj/cen-00.8e"/>
+    <part name="centipedj/cen-20.3b"/>
+    <part name="centipedj/cen-21.3c"/>
+    <part name="136001-213.p4"/>
+  </rom>
+  <rom index="0" md5="1789ddf40cf0c7387b9d38399b16eba4" type="split" zip="centipedj.zip">
+    <part name="cen-00.8e"/>
+    <part name="cen-20.3b"/>
+    <part name="cen-21.3c"/>
+    <part name="136001-213.p4" zip="centiped.zip"/>
+  </rom>
+  <rom index="0" md5="1789ddf40cf0c7387b9d38399b16eba4" type="split" zip="centipedj.zip">
+    <part name="cen-00.8e"/>
+    <part name="cen-20.3b"/>
+    <part name="cen-21.3c"/>
+    <part name="136001-213.p4" zip="centiped.zip"/>
+  </rom>
+  <rom index="0" md5="1789ddf40cf0c7387b9d38399b16eba4" type="nonmerged" zip="centipedj.zip">
+    <part name="cen-00.8e"/>
+    <part name="cen-20.3b"/>
+    <part name="cen-21.3c"/>
+    <part name="cen_60.1h"/>
+  </rom>
 </misterromdescription>

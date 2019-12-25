@@ -1,36 +1,51 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Omega (bootleg)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>19??</year>
-	<manufacturer>bootleg?</manufacturer>
-	<rbf>omega</rbf>
-	<rom index="0" zip="omegab.zip" md5="40677db838969eb33e01ffc92d05aabc" type="nonmerged">
-		<part name="omega1.bin"/>
-		<part name="omega2.bin"/>
-		<part name="omega3.bin"/>
-		<part name="omega4.bin"/>
-		<part name="omega5.bin"/>
-		<part name="omega6.bin"/>
-		<part name="omega6.bin"/>
-		<part name="omega6.bin"/>
-		<part name="omega1h.bin"/>
-		<part name="omega1h.bin"/>
-		<part name="omega1k.bin"/>
-		<part name="omega1k.bin"/>
-	</rom>
-	<rom index="0" zip="theend.zip" md5="40677db838969eb33e01ffc92d05aabc" type="merged">
-		<part name="omegab/omega1.bin"/>
-		<part name="omegab/omega2.bin"/>
-		<part name="omegab/omega3.bin"/>
-		<part name="omegab/omega4.bin"/>
-		<part name="omegab/omega5.bin"/>
-		<part name="omegab/omega6.bin"/>
-		<part name="omegab/omega6.bin"/>
-		<part name="omegab/omega6.bin"/>
-		<part name="omegab/omega1h.bin"/>
-		<part name="omegab/omega1h.bin"/>
-		<part name="omegab/omega1k.bin"/>
-		<part name="omegab/omega1k.bin"/>
-	</rom>
+  <name>Omega (bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>19??</year>
+  <manufacturer>bootleg?</manufacturer>
+  <rbf>omega</rbf>
+  <rom index="0" md5="40677db838969eb33e01ffc92d05aabc" type="nonmerged" zip="omegab.zip">
+    <part name="omega1.bin"/>
+    <part name="omega2.bin"/>
+    <part name="omega3.bin"/>
+    <part name="omega4.bin"/>
+    <part name="omega5.bin"/>
+    <part name="omega6.bin"/>
+    <part name="omega6.bin"/>
+    <part name="omega6.bin"/>
+    <part name="omega1h.bin"/>
+    <part name="omega1h.bin"/>
+    <part name="omega1k.bin"/>
+    <part name="omega1k.bin"/>
+  </rom>
+  <rom index="0" md5="40677db838969eb33e01ffc92d05aabc" type="merged" zip="theend.zip">
+    <part name="omegab/omega1.bin"/>
+    <part name="omegab/omega2.bin"/>
+    <part name="omegab/omega3.bin"/>
+    <part name="omegab/omega4.bin"/>
+    <part name="omegab/omega5.bin"/>
+    <part name="omegab/omega6.bin"/>
+    <part name="omegab/omega6.bin"/>
+    <part name="omegab/omega6.bin"/>
+    <part name="omegab/omega1h.bin"/>
+    <part name="omegab/omega1h.bin"/>
+    <part name="omegab/omega1k.bin"/>
+    <part name="omegab/omega1k.bin"/>
+  </rom>
+  <rom index="0" md5="40677db838969eb33e01ffc92d05aabc" type="split" zip="omega.zip">
+    <part name="omega1.bin" zip="omegab.zip"/>
+    <part name="omega2.bin" zip="omegab.zip"/>
+    <part name="omega3.bin" zip="omegab.zip"/>
+    <part name="omega4.bin" zip="omegab.zip"/>
+    <part name="omega5.bin" zip="omegab.zip"/>
+    <part name="omega6.bin" zip="omegab.zip"/>
+    <part name="omega6.bin" zip="omegab.zip"/>
+    <part name="omega6.bin" zip="omegab.zip"/>
+    <part name="omega1h.bin" zip="omegab.zip"/>
+    <part name="omega1h.bin" zip="omegab.zip"/>
+    <part name="omega1k.bin" zip="omegab.zip"/>
+    <part name="omega1k.bin" zip="omegab.zip"/>
+  </rom>
 </misterromdescription>

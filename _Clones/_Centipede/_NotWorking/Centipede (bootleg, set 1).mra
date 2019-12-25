@@ -1,20 +1,48 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Centipede (bootleg, set 1)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1980</year>
-	<manufacturer>Atari</manufacturer>
-	<category>Maze / Bugs</category>
-	<category>Maze / Centipede</category>
-	<category>Maze / Spiders</category>
-	<rbf>centipede</rbf>
-	<rom index='0' md5='92ab4507356aca0896d5c4138e82b9c4' type='merged|nonmerged' zip='centiped.zip'>
-		<part name='centipdb/d1'/>
-		<part name='centipdb/e1'/>
-		<part name='centipdb/h1'/>
-		<part name='centipdb/j1'/>
-		<part name='136001-211.f7'/>
-		<part name='136001-212.hj7'/>
-		<part name='136001-213.p4'/>
-	</rom>
+  <name>Centipede (bootleg, set 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Maze / Bugs</category>
+  <category>Maze / Centipede</category>
+  <category>Maze / Spiders</category>
+  <rbf>centipede</rbf>
+  <rom index="0" md5="259cba612e9eb101f3af7eca02f3998e" type="merged|nonmerged" zip="centiped.zip">
+    <part name="centipdb/d1"/>
+    <part name="centipdb/e1"/>
+    <part name="centipdb/h1"/>
+    <part name="centipdb/j1"/>
+    <part name="136001-211.f7"/>
+    <part name="136001-212.hj7"/>
+    <part name="136001-213.p4"/>
+  </rom>
+  <rom index="0" md5="259cba612e9eb101f3af7eca02f3998e" type="split" zip="centipdb.zip">
+    <part name="d1"/>
+    <part name="e1"/>
+    <part name="h1"/>
+    <part name="j1"/>
+    <part name="136001-211.f7" zip="centiped.zip"/>
+    <part name="136001-212.hj7" zip="centiped.zip"/>
+    <part name="136001-213.p4" zip="centiped.zip"/>
+  </rom>
+  <rom index="0" md5="259cba612e9eb101f3af7eca02f3998e" type="split" zip="centipdb.zip">
+    <part name="d1"/>
+    <part name="e1"/>
+    <part name="h1"/>
+    <part name="j1"/>
+    <part name="136001-211.f7" zip="centiped.zip"/>
+    <part name="136001-212.hj7" zip="centiped.zip"/>
+    <part name="136001-213.p4" zip="centiped.zip"/>
+  </rom>
+  <rom index="0" md5="259cba612e9eb101f3af7eca02f3998e" type="nonmerged" zip="centipdb.zip">
+    <part name="d1"/>
+    <part name="e1"/>
+    <part name="h1"/>
+    <part name="j1"/>
+    <part name="136001-211.f7"/>
+    <part name="136001-212.hj7"/>
+    <part name="136001-213.p4"/>
+  </rom>
 </misterromdescription>

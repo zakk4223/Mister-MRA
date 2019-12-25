@@ -1,33 +1,34 @@
+<?xml version="1.0"?>
 <misterromdescription>
-	<name>Bagnardi (Itisa, Spain)</name>
-	<mameversion>0216</mameversion>
-	<mratimestamp>201911270000</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Valadon Automation</manufacturer>
-	<category>Platform / Extra</category>
-	<rbf>bagman</rbf>
-	<rom index="0" zip="bagman.zip" md5="7f7855b1b6174c44e4d6a777c23fb368" type="merged|nonmerged">
-		<part name="e9_b05.bin"/>
-		<part name="bagnardi/bagnardi_06.f9"/>
-		<part name="bagnardi/bagnardi_07.j9"/>
-		<part name="bagnardi/bagnardi_08.k9"/>
-		<part name="bagmanf/05.l5.bin"/>
-		<part name="bagnardi/bagnardi_10.n9"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="t9_b12.bin"/>
-		<part name="e1_b02.bin"/>
-		<part name="bagmanf/09.l11.bin"/>
-		<part name="j1_b04.bin"/>
-		<part name="bagmanf/11.h11.bin"/>
-		<part name="r9_b11.bin"/>
-		<part name="t9_b12.bin"/>
-	</rom>
+  <name>Bagnardi (Itisa, Spain)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Valadon Automation</manufacturer>
+  <category>Platform / Extra</category>
+  <rbf>bagman</rbf>
+  <rom index="0" md5="ac853c0fd919fa13c63e30cdcb8b2d61" type="merged|nonmerged" zip="bagman.zip">
+    <part name="e9_b05.bin"/>
+    <part name="bagnardi/bagnardi_06.f9"/>
+    <part name="bagnardi/bagnardi_07.j9"/>
+    <part name="bagnardi/bagnardi_08.k9"/>
+    <part name="bagmanf/05.l5.bin"/>
+    <part name="bagnardi/bagnardi_10.n9"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="t9_b12.bin"/>
+    <part name="e1_b02.bin"/>
+    <part name="bagmanf/09.l11.bin"/>
+    <part name="j1_b04.bin"/>
+    <part name="bagmanf/11.h11.bin"/>
+    <part name="r9_b11.bin"/>
+    <part name="t9_b12.bin"/>
+  </rom>
 </misterromdescription>

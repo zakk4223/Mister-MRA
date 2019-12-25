@@ -1,15 +1,38 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='32d57ddcdf7ab064ac43b47a7d7e92aa' type='merged' zip='galaga.zip'>
-        <part name='gatsbee/1.4b'/>
-        <part name='gatsbee/2.4c'/>
-        <part name='gatsbee/3.4d'/>
-        <part name='gatsbee/4.4e'/>
-        <part name='galagamk/gg1-5.3f'/>
-        <part name='galagao/gg1-7.2c'/>
-        <part name='gatsbee/9.6a'/>
-        <part name='gatsbee/10.7a'/>
-        <part name='gatsbee/8.5r'/>
-        <part name='54xx.bin' zip='namco54.zip'/>
+  <rom index="0" md5="fdede1961d7474ba0775a117099a7df6" type="merged" zip="galaga.zip">
+    <part name="gatsbee/1.4b"/>
+    <part name="gatsbee/2.4c"/>
+    <part name="gatsbee/3.4d"/>
+    <part name="gatsbee/4.4e"/>
+    <part name="galagamk/gg1-5.3f"/>
+    <part name="galagao/gg1-7.2c"/>
+    <part name="gatsbee/9.6a"/>
+    <part name="gatsbee/10.7a"/>
+    <part name="gatsbee/8.5r"/>
+    <part name="54xx.bin" zip="namco54.zip"/>
+  </rom>
+  <rom index="0" md5="fdede1961d7474ba0775a117099a7df6" type="split" zip="gatsbee.zip">
+    <part name="1.4b"/>
+    <part name="2.4c"/>
+    <part name="3.4d"/>
+    <part name="4.4e"/>
+    <part name="gg1-5.3f"/>
+    <part name="gg1-7.2c"/>
+    <part name="9.6a"/>
+    <part name="10.7a"/>
+    <part name="8.5r"/>
+  </rom>
+  <rom index="0" md5="fdede1961d7474ba0775a117099a7df6" type="nonmerged" zip="gatsbee.zip">
+    <part name="1.4b"/>
+    <part name="2.4c"/>
+    <part name="3.4d"/>
+    <part name="4.4e"/>
+    <part name="gg1-5.3f"/>
+    <part name="gg1-7.2c"/>
+    <part name="9.6a"/>
+    <part name="10.7a"/>
+    <part name="8.5r"/>
   </rom>
 </misterromdescription>
