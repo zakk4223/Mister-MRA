@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <misterromdescription>
   <name>Devil Fish</name>
   <mameversion>0216</mameversion>
@@ -23,12 +22,12 @@
     <part name="c01s.6e"/>
   </rom>
   <rom index="0" md5="3af9bea33dc72c07afb13e17e588289d" type="nonmerged" zip="devilfsh.zip">
-    <part name="dfish1.7f" zip="devilfsg"/>
-    <part name="dfish2.7h" zip="devilfsg"/>
-    <part name="dfish3.7k" zip="devilfsg"/>
-    <part name="dfish4.7m" zip="devilfsg"/>
-    <part name="dfish5.1h" zip="devilfsg"/>
-    <part name="dfish6.1k" zip="devilfsg"/>
+    <part name="dfish1.7f" zip="devilfsg.zip"/>
+    <part name="dfish2.7h" zip="devilfsg.zip"/>
+    <part name="dfish3.7k" zip="devilfsg.zip"/>
+    <part name="dfish4.7m" zip="devilfsg.zip"/>
+    <part name="dfish5.1h" zip="devilfsg.zip"/>
+    <part name="dfish6.1k" zip="devilfsg.zip"/>
     <part name="c01s.6e"/>
   </rom>
 </misterromdescription>
