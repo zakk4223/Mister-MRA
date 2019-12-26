@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='69f929ac34e9bc6080eee6bffef7b683' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='370ca8a65e01dcb6526698685fa815ed' type='merged' zip='mspacman.zip'>
     <part name='mspacatttur/pacmdp.1'/>
     <part name='mspacpbl/mspacpbl.2'/>
     <part name='mspacii2/mspacpbl.3'/>

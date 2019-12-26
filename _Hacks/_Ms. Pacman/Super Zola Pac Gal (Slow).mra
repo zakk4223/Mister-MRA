@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='47f97cc24c85aa72857b1ae68f27cc50' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='3097375e9fda23787a899baf2f17e379' type='merged' zip='mspacman.zip'>
     <part name='zolaatk/zolaatk.1'/>
     <part name='cottoh/boot2'/>
     <part name='zolaatk/zolaatk.3'/>

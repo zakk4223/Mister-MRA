@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='346c33c16f94342bc65c41cb2e5a9790' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='8b5278310032de33375070bb74bab632' type='merged' zip='mspacman.zip'>
     <part name='ramsnoop/ramsnoop.1'/>
     <part name='ramsnoop/ramsnoop.2'/>
     <part name='ramsnoop/ramsnoop.3'/>

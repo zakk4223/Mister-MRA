@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='8f0e5154c91d003cdfa13e9464edc0d3' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='4aca5236be751a2c6417ee8123d2efc9' type='merged' zip='mspacman.zip'>
     <part name='cookiem/cookiem.1'/>
     <part name='cookiem/cookiem.2'/>
     <part name='chtmsatk/boot3'/>

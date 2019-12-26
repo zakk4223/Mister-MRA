@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='158ae9c607065833e20153fc1c33422f' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='2c041dc5a2674d375cb1c63db22180ec' type='merged' zip='mspacman.zip'>
     <part name='ottop2/ottop2.1'/>
     <part name='ottop1/ottop1.2'/>
     <part name='ottop1/ottop1.3'/>

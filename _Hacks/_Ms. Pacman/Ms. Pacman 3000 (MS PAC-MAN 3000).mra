@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='912ffd402d13a6e26f6401e5d6399813' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='5e8ce57460cb42c3a3500021bd7f2639' type='merged' zip='mspacman.zip'>
     <part name='chtmsatk/boot1'/>
     <part name='cottoh/boot2'/>
     <part name='chtmsatk/boot3'/>

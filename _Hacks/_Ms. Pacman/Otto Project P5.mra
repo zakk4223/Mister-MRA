@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='22202783a7b4bd6b2e4b9a84fadd048b' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='360c716f8b409af15a8365da16541692' type='merged' zip='mspacman.zip'>
     <part name='womanp5/womanp5.1'/>
     <part name='superp4g/superp4g.2'/>
     <part name='womanp5/womanp5.3'/>

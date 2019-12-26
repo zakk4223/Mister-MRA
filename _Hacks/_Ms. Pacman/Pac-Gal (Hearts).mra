@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='39685de4edd0eea7bdafc6c519171efd' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='9974221790d65e3df9a9249d005e1e77' type='merged' zip='mspacman.zip'>
     <part name='pacgalu/pacgalu.bin'/>
     <part name='pacgalu/pacgalu.gfx'/>
     <part name='82s126.1m'/>

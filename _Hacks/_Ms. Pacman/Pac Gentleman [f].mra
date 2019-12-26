@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='a1133f166ada8c42a7121f54ebd45a7b' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='dfa2f3787655ed8db981a7574c2a7cdc' type='merged' zip='mspacman.zip'>
     <part name='pacgent/pacgent.1'/>
     <part name='fasthear/fastplus.2'/>
     <part name='pacgent/pacgent.3'/>

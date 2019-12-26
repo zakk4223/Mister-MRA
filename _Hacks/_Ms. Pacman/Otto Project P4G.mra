@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='c3ca019dff4b15af51e15baacfc8a1fa' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='2bbbf877a712adca764169887702c100' type='merged' zip='mspacman.zip'>
     <part name='superp4g/superp4g.1'/>
     <part name='superp4g/superp4g.2'/>
     <part name='superp4g/superp4g.3'/>

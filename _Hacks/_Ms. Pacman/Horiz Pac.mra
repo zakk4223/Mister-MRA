@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='b1105611a97d6838c1db019a14e33358' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='304861190ac361939813b155b11a7176' type='merged' zip='mspacman.zip'>
     <part name='horizpab/horizpac.1'/>
     <part name='horizpab/horizpac.2'/>
     <part name='chtmsatk/boot3'/>
