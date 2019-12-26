@@ -1,0 +1,84 @@
+<misterromdescription>
+  <name>Space Invasion (Europe)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>jtcommando</rbf>
+  <rom index="0" md5="3249eacf00cb6be091944d38eb29db9e" type="merged" zip="commando.zip">
+    <part name="sinvasn/sp04.9m"/>
+    <part name="sinvasn/sp03.8m"/>
+    <part name="sinvasn/u2.9f"/>
+    <part name="sinvasn/u1.5d"/>
+    <part name="vt11.5a"/>
+    <part name="vt12.6a"/>
+    <part name="vt15.9a"/>
+    <part name="vt16.10a"/>
+    <part name="vt13.7a"/>
+    <part name="vt14.8a"/>
+    <part name="vt15.9a"/>
+    <part name="vt16.10a"/>
+    <part name="sinvasn/u5.e7"/>
+    <part name="sinvasn/sp06.e8"/>
+    <part name="sinvasn/sp07.e9"/>
+    <part name="sinvasn/u8.h7"/>
+    <part name="sinvasn/sp09.h8"/>
+    <part name="sinvasn/sp10.h9"/>
+    <part name="vtb1.1d"/>
+    <part name="vtb2.2d"/>
+    <part name="vtb3.3d"/>
+    <part name="vtb4.1h"/>
+    <part name="vtb5.6l"/>
+    <part name="vtb6.6e"/>
+  </rom>
+  <rom index="0" md5="3249eacf00cb6be091944d38eb29db9e" type="split" zip="sinvasn.zip">
+    <part name="sp04.9m"/>
+    <part name="sp03.8m"/>
+    <part name="u2.9f"/>
+    <part name="u1.5d"/>
+    <part name="vt11.5a" zip="commando.zip"/>
+    <part name="vt12.6a" zip="commando.zip"/>
+    <part name="vt15.9a" zip="commando.zip"/>
+    <part name="vt16.10a" zip="commando.zip"/>
+    <part name="vt13.7a" zip="commando.zip"/>
+    <part name="vt14.8a" zip="commando.zip"/>
+    <part name="vt15.9a" zip="commando.zip"/>
+    <part name="vt16.10a" zip="commando.zip"/>
+    <part name="u5.e7"/>
+    <part name="sp06.e8"/>
+    <part name="sp07.e9"/>
+    <part name="u8.h7"/>
+    <part name="sp09.h8"/>
+    <part name="sp10.h9"/>
+    <part name="vtb1.1d" zip="commando.zip"/>
+    <part name="vtb2.2d" zip="commando.zip"/>
+    <part name="vtb3.3d" zip="commando.zip"/>
+    <part name="vtb4.1h" zip="commando.zip"/>
+    <part name="vtb5.6l" zip="commando.zip"/>
+    <part name="vtb6.6e" zip="commando.zip"/>
+  </rom>
+  <rom index="0" md5="3249eacf00cb6be091944d38eb29db9e" type="nonmerged" zip="sinvasn.zip">
+    <part name="sp04.9m"/>
+    <part name="sp03.8m"/>
+    <part name="u2.9f"/>
+    <part name="u1.5d"/>
+    <part name="vt11.5a"/>
+    <part name="vt12.6a"/>
+    <part name="vt15.9a"/>
+    <part name="vt16.10a"/>
+    <part name="vt13.7a"/>
+    <part name="vt14.8a"/>
+    <part name="vt15.9a"/>
+    <part name="vt16.10a"/>
+    <part name="u5.e7"/>
+    <part name="sp06.e8"/>
+    <part name="sp07.e9"/>
+    <part name="u8.h7"/>
+    <part name="sp09.h8"/>
+    <part name="sp10.h9"/>
+    <part name="vtb1.1d"/>
+    <part name="vtb2.2d"/>
+    <part name="vtb3.3d"/>
+    <part name="vtb4.1h"/>
+    <part name="vtb5.6l"/>
+    <part name="vtb6.6e"/>
+  </rom>
+</misterromdescription>

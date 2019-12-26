@@ -1,0 +1,75 @@
+<misterromdescription>
+  <name>Ghosts'n Goblins (World? set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>jtgng</rbf>
+  <rom index="0" md5="65ca2ee884007a6da145e30c99012fb9" type="merged" zip="gng.zip">
+    <part name="gnga/gng.n9"/>
+    <part name="gnga/gng.n10"/>
+    <part name="gnga/gng.n13"/>
+    <part name="gg1.bin"/>
+    <part name="gg2.bin"/>
+    <part name="gg9.bin"/>
+    <part name="gg8.bin"/>
+    <part name="gg7.bin"/>
+    <part name="gg6.bin"/>
+    <part name="gg11.bin"/>
+    <part name="gg10.bin"/>
+    <part name="gg11.bin"/>
+    <part name="gg10.bin"/>
+    <part name="gg17.bin"/>
+    <part name="gg16.bin"/>
+    <part name="gg15.bin"/>
+    <part name="gg15.bin"/>
+    <part name="gg14.bin"/>
+    <part name="gg13.bin"/>
+    <part name="gg12.bin"/>
+    <part name="gg12.bin"/>
+  </rom>
+  <rom index="0" md5="65ca2ee884007a6da145e30c99012fb9" type="split" zip="gnga.zip">
+    <part name="gng.n9"/>
+    <part name="gng.n10"/>
+    <part name="gng.n13"/>
+    <part name="gg1.bin" zip="gng.zip"/>
+    <part name="gg2.bin" zip="gng.zip"/>
+    <part name="gg9.bin" zip="gng.zip"/>
+    <part name="gg8.bin" zip="gng.zip"/>
+    <part name="gg7.bin" zip="gng.zip"/>
+    <part name="gg6.bin" zip="gng.zip"/>
+    <part name="gg11.bin" zip="gng.zip"/>
+    <part name="gg10.bin" zip="gng.zip"/>
+    <part name="gg11.bin" zip="gng.zip"/>
+    <part name="gg10.bin" zip="gng.zip"/>
+    <part name="gg17.bin" zip="gng.zip"/>
+    <part name="gg16.bin" zip="gng.zip"/>
+    <part name="gg15.bin" zip="gng.zip"/>
+    <part name="gg15.bin" zip="gng.zip"/>
+    <part name="gg14.bin" zip="gng.zip"/>
+    <part name="gg13.bin" zip="gng.zip"/>
+    <part name="gg12.bin" zip="gng.zip"/>
+    <part name="gg12.bin" zip="gng.zip"/>
+  </rom>
+  <rom index="0" md5="65ca2ee884007a6da145e30c99012fb9" type="nonmerged" zip="gnga.zip">
+    <part name="gng.n9"/>
+    <part name="gng.n10"/>
+    <part name="gng.n13"/>
+    <part name="gg1.bin"/>
+    <part name="gg2.bin"/>
+    <part name="gg9.bin"/>
+    <part name="gg8.bin"/>
+    <part name="gg7.bin"/>
+    <part name="gg6.bin"/>
+    <part name="gg11.bin"/>
+    <part name="gg10.bin"/>
+    <part name="gg11.bin"/>
+    <part name="gg10.bin"/>
+    <part name="gg17.bin"/>
+    <part name="gg16.bin"/>
+    <part name="gg15.bin"/>
+    <part name="gg15.bin"/>
+    <part name="gg14.bin"/>
+    <part name="gg13.bin"/>
+    <part name="gg12.bin"/>
+    <part name="gg12.bin"/>
+  </rom>
+</misterromdescription>

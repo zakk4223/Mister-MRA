@@ -1,0 +1,111 @@
+<misterromdescription>
+  <name>1943: Battle of Midway (bootleg, hack of Japan set)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>1943</rbf>
+  <rom index="0" md5="e9988feda7eefc0c5697a8548f19515d" type="merged" zip="1943.zip">
+    <part name="1943b/1.12d"/>
+    <part name="1943b/bm02.13d"/>
+    <part name="1943b/bm03.14d"/>
+    <part name="bm05.4k"/>
+    <part name="1943b/4.5h"/>
+    <part name="bm14.5f"/>
+    <part name="bm23.8k"/>
+    <part name="1943b/15.12f"/>
+    <part name="1943b/17.12j"/>
+    <part name="1943b/16.14f"/>
+    <part name="1943b/18.14j"/>
+    <part name="bm24.14k"/>
+    <part name="bm25.14l"/>
+    <part name="bm06.10a"/>
+    <part name="bm10.10c"/>
+    <part name="bm07.11a"/>
+    <part name="bm11.11c"/>
+    <part name="bm08.12a"/>
+    <part name="bm12.12c"/>
+    <part name="bm09.14a"/>
+    <part name="bm13.14c"/>
+    <part name="bm10.7l"/>
+    <part name="bm11.12l"/>
+    <part name="bm1.12a"/>
+    <part name="bm12.12m"/>
+    <part name="bm2.13a"/>
+    <part name="bm3.14a"/>
+    <part name="bm4.12c"/>
+    <part name="bm5.7f"/>
+    <part name="bm6.4b"/>
+    <part name="bm7.7c"/>
+    <part name="bm8.8c"/>
+    <part name="bm9.6l"/>
+  </rom>
+  <rom index="0" md5="e9988feda7eefc0c5697a8548f19515d" type="split" zip="1943b.zip">
+    <part name="1.12d"/>
+    <part name="bm02.13d"/>
+    <part name="bm03.14d"/>
+    <part name="bm05.4k" zip="1943.zip"/>
+    <part name="4.5h"/>
+    <part name="bm14.5f" zip="1943.zip"/>
+    <part name="bm23.8k" zip="1943.zip"/>
+    <part name="15.12f"/>
+    <part name="17.12j"/>
+    <part name="16.14f"/>
+    <part name="18.14j"/>
+    <part name="bm24.14k" zip="1943.zip"/>
+    <part name="bm25.14l" zip="1943.zip"/>
+    <part name="bm06.10a" zip="1943.zip"/>
+    <part name="bm10.10c" zip="1943.zip"/>
+    <part name="bm07.11a" zip="1943.zip"/>
+    <part name="bm11.11c" zip="1943.zip"/>
+    <part name="bm08.12a" zip="1943.zip"/>
+    <part name="bm12.12c" zip="1943.zip"/>
+    <part name="bm09.14a" zip="1943.zip"/>
+    <part name="bm13.14c" zip="1943.zip"/>
+    <part name="bm10.7l" zip="1943.zip"/>
+    <part name="bm11.12l" zip="1943.zip"/>
+    <part name="bm1.12a" zip="1943.zip"/>
+    <part name="bm12.12m" zip="1943.zip"/>
+    <part name="bm2.13a" zip="1943.zip"/>
+    <part name="bm3.14a" zip="1943.zip"/>
+    <part name="bm4.12c" zip="1943.zip"/>
+    <part name="bm5.7f" zip="1943.zip"/>
+    <part name="bm6.4b" zip="1943.zip"/>
+    <part name="bm7.7c" zip="1943.zip"/>
+    <part name="bm8.8c" zip="1943.zip"/>
+    <part name="bm9.6l" zip="1943.zip"/>
+  </rom>
+  <rom index="0" md5="e9988feda7eefc0c5697a8548f19515d" type="nonmerged" zip="1943b.zip">
+    <part name="1.12d"/>
+    <part name="bm02.13d"/>
+    <part name="bm03.14d"/>
+    <part name="bm05.4k"/>
+    <part name="4.5h"/>
+    <part name="bm14.5f"/>
+    <part name="bm23.8k"/>
+    <part name="15.12f"/>
+    <part name="17.12j"/>
+    <part name="16.14f"/>
+    <part name="18.14j"/>
+    <part name="bm24.14k"/>
+    <part name="bm25.14l"/>
+    <part name="bm06.10a"/>
+    <part name="bm10.10c"/>
+    <part name="bm07.11a"/>
+    <part name="bm11.11c"/>
+    <part name="bm08.12a"/>
+    <part name="bm12.12c"/>
+    <part name="bm09.14a"/>
+    <part name="bm13.14c"/>
+    <part name="bm10.7l"/>
+    <part name="bm11.12l"/>
+    <part name="bm1.12a"/>
+    <part name="bm12.12m"/>
+    <part name="bm2.13a"/>
+    <part name="bm3.14a"/>
+    <part name="bm4.12c"/>
+    <part name="bm5.7f"/>
+    <part name="bm6.4b"/>
+    <part name="bm7.7c"/>
+    <part name="bm8.8c"/>
+    <part name="bm9.6l"/>
+  </rom>
+</misterromdescription>

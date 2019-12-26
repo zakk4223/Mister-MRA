@@ -1,0 +1,54 @@
+<misterromdescription>
+  <name>1942 (Tecfri PCB, bootleg?)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>1942</rbf>
+  <rom index="0" md5="82e6794e91e6ed1f7fe554cd3331cc8b" type="merged" zip="1942.zip">
+    <part name="1942p/1.bin"/>
+    <part name="1942p/2.bin"/>
+    <part name="1942p/3.bin"/>
+    <part name="1942p/04.bin"/>
+    <part name="sr-02.f2"/>
+    <part name="1942p/6.bin"/>
+    <part name="1942p/5.bin"/>
+    <part name="1942p/7.bin"/>
+    <part name="1942p/7.bin"/>
+    <part name="1942p/9.bin"/>
+    <part name="1942p/11.bin"/>
+    <part name="1942p/10.bin"/>
+    <part name="1942p/12.bin"/>
+    <part name="sb-8.k3"/>
+  </rom>
+  <rom index="0" md5="82e6794e91e6ed1f7fe554cd3331cc8b" type="split" zip="1942p.zip">
+    <part name="1.bin"/>
+    <part name="2.bin"/>
+    <part name="3.bin"/>
+    <part name="04.bin"/>
+    <part name="sr-02.f2" zip="1942.zip"/>
+    <part name="6.bin"/>
+    <part name="5.bin"/>
+    <part name="7.bin"/>
+    <part name="7.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="sb-8.k3" zip="1942.zip"/>
+  </rom>
+  <rom index="0" md5="82e6794e91e6ed1f7fe554cd3331cc8b" type="nonmerged" zip="1942p.zip">
+    <part name="1.bin"/>
+    <part name="2.bin"/>
+    <part name="3.bin"/>
+    <part name="04.bin"/>
+    <part name="8.bin"/>
+    <part name="6.bin"/>
+    <part name="5.bin"/>
+    <part name="7.bin"/>
+    <part name="7.bin"/>
+    <part name="9.bin"/>
+    <part name="11.bin"/>
+    <part name="10.bin"/>
+    <part name="12.bin"/>
+    <part name="ic22.bin"/>
+  </rom>
+</misterromdescription>

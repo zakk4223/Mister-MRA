@@ -1,0 +1,75 @@
+<misterromdescription>
+  <name>Ghosts'n Goblins (prototype)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>jtgng</rbf>
+  <rom index="0" md5="d45ed3fd0cdf09fa8014b622215c4cfc" type="merged" zip="gng.zip">
+    <part name="gngprot/gg9n.bin"/>
+    <part name="gngprot/gg10n.bin"/>
+    <part name="gngprot/gg13n.bin"/>
+    <part name="gngprot/gg11e.bin"/>
+    <part name="gngbl/2.8529.13h"/>
+    <part name="gngprot/gg3c.bin"/>
+    <part name="gngprot/gg1c.bin"/>
+    <part name="gngprot/gg3b.bin"/>
+    <part name="gngprot/gg1b.bin"/>
+    <part name="gngprot/gg3e.bin"/>
+    <part name="gngprot/gg1e.bin"/>
+    <part name="gngprot/gg3e.bin"/>
+    <part name="gngprot/gg1e.bin"/>
+    <part name="gngprot/gg4l.bin"/>
+    <part name="gngprot/gg3l.bin"/>
+    <part name="gg15.bin"/>
+    <part name="gg15.bin"/>
+    <part name="gngprot/gg4n.bin"/>
+    <part name="gngprot/gg3n.bin"/>
+    <part name="gg12.bin"/>
+    <part name="gg12.bin"/>
+  </rom>
+  <rom index="0" md5="d45ed3fd0cdf09fa8014b622215c4cfc" type="split" zip="gngprot.zip">
+    <part name="gg9n.bin"/>
+    <part name="gg10n.bin"/>
+    <part name="gg13n.bin"/>
+    <part name="gg11e.bin"/>
+    <part name="gg14h.bin"/>
+    <part name="gg3c.bin"/>
+    <part name="gg1c.bin"/>
+    <part name="gg3b.bin"/>
+    <part name="gg1b.bin"/>
+    <part name="gg3e.bin"/>
+    <part name="gg1e.bin"/>
+    <part name="gg3e.bin"/>
+    <part name="gg1e.bin"/>
+    <part name="gg4l.bin"/>
+    <part name="gg3l.bin"/>
+    <part name="gg15.bin" zip="gng.zip"/>
+    <part name="gg15.bin" zip="gng.zip"/>
+    <part name="gg4n.bin"/>
+    <part name="gg3n.bin"/>
+    <part name="gg12.bin" zip="gng.zip"/>
+    <part name="gg12.bin" zip="gng.zip"/>
+  </rom>
+  <rom index="0" md5="d45ed3fd0cdf09fa8014b622215c4cfc" type="nonmerged" zip="gngprot.zip">
+    <part name="gg9n.bin"/>
+    <part name="gg10n.bin"/>
+    <part name="gg13n.bin"/>
+    <part name="gg11e.bin"/>
+    <part name="gg14h.bin"/>
+    <part name="gg3c.bin"/>
+    <part name="gg1c.bin"/>
+    <part name="gg3b.bin"/>
+    <part name="gg1b.bin"/>
+    <part name="gg3e.bin"/>
+    <part name="gg1e.bin"/>
+    <part name="gg3e.bin"/>
+    <part name="gg1e.bin"/>
+    <part name="gg4l.bin"/>
+    <part name="gg3l.bin"/>
+    <part name="gg1l.bin"/>
+    <part name="gg1l.bin"/>
+    <part name="gg4n.bin"/>
+    <part name="gg3n.bin"/>
+    <part name="gg1n.bin"/>
+    <part name="gg1n.bin"/>
+  </rom>
+</misterromdescription>

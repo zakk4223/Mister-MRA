@@ -1,0 +1,75 @@
+<misterromdescription>
+  <name>1942 (Revision A, bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>1942</rbf>
+  <rom index="0" md5="7a3570f93c9e7259a6a8f7355d1b617a" type="merged" zip="1942.zip">
+    <part name="1942abl/3.bin"/>
+    <part name="1942a/sr-05.m5"/>
+    <part name="1942abl/7.bin"/>
+    <part name="sr-01.c11"/>
+    <part name="sr-02.f2"/>
+    <part name="1942abl/11.bin"/>
+    <part name="1942abl/9.bin"/>
+    <part name="1942abl/13.bin"/>
+    <part name="1942abl/13.bin"/>
+    <part name="1942abl/16.bin"/>
+    <part name="1942abl/14.bin"/>
+    <part name="sb-1.k6"/>
+    <part name="sb-2.d1"/>
+    <part name="sb-3.d2"/>
+    <part name="sb-4.d6"/>
+    <part name="sb-5.e8"/>
+    <part name="sb-6.e9"/>
+    <part name="sb-7.e10"/>
+    <part name="sb-0.f1"/>
+    <part name="sb-8.k3"/>
+    <part name="sb-9.m11"/>
+  </rom>
+  <rom index="0" md5="7a3570f93c9e7259a6a8f7355d1b617a" type="split" zip="1942abl.zip">
+    <part name="3.bin"/>
+    <part name="5.bin"/>
+    <part name="7.bin"/>
+    <part name="sr-01.c11" zip="1942.zip"/>
+    <part name="sr-02.f2" zip="1942.zip"/>
+    <part name="11.bin"/>
+    <part name="9.bin"/>
+    <part name="13.bin"/>
+    <part name="13.bin"/>
+    <part name="16.bin"/>
+    <part name="14.bin"/>
+    <part name="sb-1.k6" zip="1942.zip"/>
+    <part name="sb-2.d1" zip="1942.zip"/>
+    <part name="sb-3.d2" zip="1942.zip"/>
+    <part name="sb-4.d6" zip="1942.zip"/>
+    <part name="sb-5.e8" zip="1942.zip"/>
+    <part name="sb-6.e9" zip="1942.zip"/>
+    <part name="sb-7.e10" zip="1942.zip"/>
+    <part name="sb-0.f1" zip="1942.zip"/>
+    <part name="sb-8.k3" zip="1942.zip"/>
+    <part name="sb-9.m11" zip="1942.zip"/>
+  </rom>
+  <rom index="0" md5="7a3570f93c9e7259a6a8f7355d1b617a" type="nonmerged" zip="1942abl.zip">
+    <part name="3.bin"/>
+    <part name="5.bin"/>
+    <part name="7.bin"/>
+    <part name="1.bin"/>
+    <part name="2.bin"/>
+    <part name="11.bin"/>
+    <part name="9.bin"/>
+    <part name="13.bin"/>
+    <part name="13.bin"/>
+    <part name="16.bin"/>
+    <part name="14.bin"/>
+    <part name="sb-1.k6"/>
+    <part name="sb-2.d1"/>
+    <part name="sb-3.d2"/>
+    <part name="sb-4.d6"/>
+    <part name="sb-5.e8"/>
+    <part name="sb-6.e9"/>
+    <part name="sb-7.e10"/>
+    <part name="sb-0.f1"/>
+    <part name="sb-8.k3"/>
+    <part name="sb-9.m11"/>
+  </rom>
+</misterromdescription>
