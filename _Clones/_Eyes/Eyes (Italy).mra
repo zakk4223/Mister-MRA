@@ -42,24 +42,7 @@
     <part name='82s126.3m' zip='eyes.zip'/>
     <part name='82s123.7f' zip='eyes.zip'/>
   </rom>
-  <rom index='0' md5='95c1de90a91e2db4504ad5aea8276500' type='split' zip='eyeszac.zip'>
-    <part name='1.7e'/>
-    <part name='2.7f'/>
-    <part name='3.7h'/>
-    <part name='4.7i'/>
-    <part name='1.7e'/>
-    <part name='2.7f'/>
-    <part name='3.7h'/>
-    <part name='4.7i'/>
-    <part name='d5' zip='eyes.zip'/>
-    <part name='e5' zip='eyes.zip'/>
-    <part name='e5' zip='eyes.zip'/>
-    <part name='e5' zip='eyes.zip'/>
-    <part name='82s126.1m' zip='eyes.zip'/>
-    <part name='82s129.4a' zip='eyes.zip'/>
-    <part name='82s126.3m' zip='eyes.zip'/>
-    <part name='82s123.7f' zip='eyes.zip'/>
-  </rom>
+  
   <rom index='0' md5='95c1de90a91e2db4504ad5aea8276500' type='nonmerged' zip='eyeszac.zip'>
     <part name='1.7e'/>
     <part name='2.7f'/>

@@ -96,34 +96,5 @@
     <part name='82s126.3m' zip='crush.zip'/>
     <part name='82s123.7f' zip='crush.zip'/>
   </rom>
-  <rom index='0' md5='559a0e16f4e7e7dafb00319cd8bb1bf6' type='split' zip='crush4.zip'>
-    <part name='unkmol.4e'/>
-    <part name='unkmol.6e'/>
-    <part name='unkmol.4f'/>
-    <part name='unkmol.6f'/>
-    <part name='unkmol.4h'/>
-    <part name='unkmol.6h'/>
-    <part name='unkmol.4j'/>
-    <part name='unkmol.6j'/>
-    <part name='unkmol.4e'/>
-    <part name='unkmol.6e'/>
-    <part name='unkmol.4f'/>
-    <part name='unkmol.6f'/>
-    <part name='unkmol.4h'/>
-    <part name='unkmol.6h'/>
-    <part name='unkmol.4j'/>
-    <part name='unkmol.6j'/>
-    <part name='unkmol.5e'/>
-    <part name='unkmol.5h'/>
-    <part name='unkmol.5f'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='82s126.1m' zip='crush.zip'/>
-    <part name='2s140.4a' zip='crush.zip'/>
-    <part name='82s126.3m' zip='crush.zip'/>
-    <part name='82s123.7f' zip='crush.zip'/>
-  </rom>
+  
 </misterromdescription>

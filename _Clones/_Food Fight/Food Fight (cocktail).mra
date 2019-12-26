@@ -45,32 +45,6 @@
     <part name='136020-111.4d'/>
     <part name='foodfc.nv'/>
   </rom>
-  <rom index='0' md5='94dc3dc50a2cddcc9679bb342802e3ce' type='split' zip='foodfc.zip'>
-    <part name='136020-113.8c'/>
-    <part name='136020-114.9c'/>
-    <part name='136020-303.8d' zip='foodf.zip'/>
-    <part name='136020-204.9d' zip='foodf.zip'/>
-    <part name='136020-117.8e'/>
-    <part name='136020-118.9e'/>
-    <part name='136020-119.8f'/>
-    <part name='136020-120.9f'/>
-    <part name='136020-109.6lm' zip='foodf.zip'/>
-    <part name='136020-110.4e' zip='foodf.zip'/>
-    <part name='136020-111.4d' zip='foodf.zip'/>
-    <part name='foodfc.nv'/>
-  </rom>
-  <rom index='0' md5='94dc3dc50a2cddcc9679bb342802e3ce' type='nonmerged' zip='foodfc.zip'>
-    <part name='136020-113.8c'/>
-    <part name='136020-114.9c'/>
-    <part name='136020-115.8d'/>
-    <part name='136020-116.9d'/>
-    <part name='136020-117.8e'/>
-    <part name='136020-118.9e'/>
-    <part name='136020-119.8f'/>
-    <part name='136020-120.9f'/>
-    <part name='136020-109.6lm'/>
-    <part name='136020-110.4e'/>
-    <part name='136020-111.4d'/>
-    <part name='foodfc.nv'/>
-  </rom>
+  
+  
 </misterromdescription>

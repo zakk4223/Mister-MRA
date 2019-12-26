@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index='0' md5='672a72a210915bd0c41e823fe4f81d43' type='merged|split|nonmerged' zip='nrallyx.zip'>
+  <rom index='0' md5='113b2afb644dd386dc7c3fc1ae685ff4' type='merged|split|nonmerged' zip='nrallyx.zip'>
     <part length='2048' name='nrx_prg1.1d' offset='0'/>
     <part length='2048' name='nrx_prg2.1e' offset='0'/>
     <part length='2048' name='nrx_prg1.1d' offset='2048'/>

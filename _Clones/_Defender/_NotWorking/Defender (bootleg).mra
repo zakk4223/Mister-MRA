@@ -16,7 +16,7 @@
     <part name='defndjeu/18'/>
     <part name='defndjeu/s'/>
   </rom>
-  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='split' zip='defndjeu.zip'>
+  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='split|nonmerged' zip='defndjeu.zip'>
     <part name='15'/>
     <part name='16'/>
     <part name='17'/>
@@ -26,24 +26,6 @@
     <part name='18'/>
     <part name='s'/>
   </rom>
-  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='split' zip='defndjeu.zip'>
-    <part name='15'/>
-    <part name='16'/>
-    <part name='17'/>
-    <part name='21'/>
-    <part name='20'/>
-    <part name='19'/>
-    <part name='18'/>
-    <part name='s'/>
-  </rom>
-  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='nonmerged' zip='defndjeu.zip'>
-    <part name='15'/>
-    <part name='16'/>
-    <part name='17'/>
-    <part name='21'/>
-    <part name='20'/>
-    <part name='19'/>
-    <part name='18'/>
-    <part name='s'/>
-  </rom>
+  
+  
 </misterromdescription>

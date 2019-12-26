@@ -20,7 +20,7 @@
     <part name='swarm/swarmb.bin'/>
     <part name='swarm/swarmb.bin'/>
   </rom>
-  <rom index='0' md5='bfba3850b13f247e4733fc1b139e7c44' type='split' zip='swarm.zip'>
+  <rom index='0' md5='bfba3850b13f247e4733fc1b139e7c44' type='split|nonmerged' zip='swarm.zip'>
     <part name='swarm1.bin'/>
     <part name='swarm2.bin'/>
     <part name='swarm3.bin'/>
@@ -34,18 +34,5 @@
     <part name='swarmb.bin'/>
     <part name='swarmb.bin'/>
   </rom>
-  <rom index='0' md5='bfba3850b13f247e4733fc1b139e7c44' type='nonmerged' zip='swarm.zip'>
-    <part name='swarm1.bin'/>
-    <part name='swarm2.bin'/>
-    <part name='swarm3.bin'/>
-    <part name='swarm4.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarma.bin'/>
-    <part name='swarma.bin'/>
-    <part name='swarmb.bin'/>
-    <part name='swarmb.bin'/>
-  </rom>
+  
 </misterromdescription>

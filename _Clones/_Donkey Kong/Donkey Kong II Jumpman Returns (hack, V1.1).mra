@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>DonkeyKong</rbf>
-  <rom index='0' md5='04db56dcc2fd0bdeaa4d05286f593473' type='merged|nonmerged' zip='dkong.zip'>
+  <rom index='0' md5='05fb1dd1ce6a786c538275d5776b1db1' type='merged|nonmerged' zip='dkong.zip'>
     <part name='c_5et_g.bin'/>
     <part name='c_5ct_g.bin'/>
     <part name='c_5bt_g.bin'/>
@@ -2590,34 +2590,9 @@ ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
       </part>
   </rom>
-  <rom index='0' md5='04db56dcc2fd0bdeaa4d05286f593473' type='split' zip='dkongx11.zip'>
-    <part name='c_5et_g.bin' zip='dkong.zip'/>
-    <part name='c_5ct_g.bin' zip='dkong.zip'/>
-    <part name='c_5bt_g.bin' zip='dkong.zip'/>
-    <part name='c_5at_g.bin' zip='dkong.zip'/>
-    <part name='c_5at_g.bin' zip='dkong.zip'/>
-    <part name='c_5at_g.bin' zip='dkong.zip'/>
-    <part name='v_3pt.bin' zip='dkong.zip'/>
-    <part name='v_3pt.bin' zip='dkong.zip'/>
-    <part name='v_5h_b.bin' zip='dkong.zip'/>
-    <part name='v_5h_b.bin' zip='dkong.zip'/>
-    <part name='c_5at_g.bin' zip='dkong.zip'/>
-    <part name='c_5at_g.bin' zip='dkong.zip'/>
-    <part name='l_4m_b.bin' zip='dkong.zip'/>
-    <part name='l_4m_b.bin' zip='dkong.zip'/>
-    <part name='l_4n_b.bin' zip='dkong.zip'/>
-    <part name='l_4n_b.bin' zip='dkong.zip'/>
-    <part name='l_4r_b.bin' zip='dkong.zip'/>
-    <part name='l_4r_b.bin' zip='dkong.zip'/>
-    <part name='l_4s_b.bin' zip='dkong.zip'/>
-    <part name='l_4s_b.bin' zip='dkong.zip'/>
-    <part name='s_3i_b.bin' zip='dkong.zip'/>
-    <part name='s_3j_b.bin' zip='dkong.zip'/>
-    <part name='c-2k.bpr' zip='dkong.zip'/>
-    <part name='c-2j.bpr' zip='dkong.zip'/>
-    <part name='v-5e.bpr' zip='dkong.zip'/>
-    <part repeat='3328'>00</part>
-    <part>
+  
+  
+<rom index='0' md5='05fb1dd1ce6a786c538275d5776b1db1' type='split' zip='dkongx11.zip'><part name='c_5et_g.bin' zip='dkong.zip'/><part name='c_5ct_g.bin' zip='dkong.zip'/><part name='c_5bt_g.bin' zip='dkong.zip'/><part name='c_5at_g.bin' zip='dkong.zip'/><part name='c_5at_g.bin' zip='dkong.zip'/><part name='c_5at_g.bin' zip='dkong.zip'/><part name='v_3pt.bin' zip='dkong.zip'/><part name='v_3pt.bin' zip='dkong.zip'/><part name='v_5h_b.bin' zip='dkong.zip'/><part name='v_5h_b.bin' zip='dkong.zip'/><part name='c_5at_g.bin' zip='dkong.zip'/><part name='c_5at_g.bin' zip='dkong.zip'/><part name='l_4m_b.bin' zip='dkong.zip'/><part name='l_4m_b.bin' zip='dkong.zip'/><part name='l_4n_b.bin' zip='dkong.zip'/><part name='l_4n_b.bin' zip='dkong.zip'/><part name='l_4r_b.bin' zip='dkong.zip'/><part name='l_4r_b.bin' zip='dkong.zip'/><part name='l_4s_b.bin' zip='dkong.zip'/><part name='l_4s_b.bin' zip='dkong.zip'/><part name='s_3i_b.bin' zip='dkong.zip'/><part name='s_3j_b.bin' zip='dkong.zip'/><part name='c-2k.bpr' zip='dkong.zip'/><part name='c-2j.bpr' zip='dkong.zip'/><part name='v-5e.bpr' zip='dkong.zip'/><part repeat='3328'>00</part><part>
 80 80 80 80 80 80 7f 7f 7f 7f 7f 7f 7f 80 80 80 
 80 80 80 7f 7f 7f 7f 7f 7f 7f 7f 80 80 80 80 80 
 7f 80 80 80 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 80 
@@ -5178,7 +5153,4 @@ ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
-      </part>
-  </rom>
-  
-</misterromdescription>
+      </part></rom></misterromdescription>

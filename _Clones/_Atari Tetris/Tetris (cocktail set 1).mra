@@ -7,20 +7,11 @@
     <part name='atetrisc/tetcktl1.rom'/>
     <part name='atetrisc/136066-1103.35a'/>
   </rom>
-  <rom index='0' md5='41a700662430d190fb1ae1974770ad52' type='split' zip='atetrisc.zip'>
+  <rom index='0' md5='41a700662430d190fb1ae1974770ad52' type='split|nonmerged' zip='atetrisc.zip'>
     <part name='tetcktl1.rom'/>
     <part name='136066-1103.35a'/>
   </rom>
-  <rom index='0' md5='41a700662430d190fb1ae1974770ad52' type='nonmerged' zip='atetrisc.zip'>
-    <part name='tetcktl1.rom'/>
-    <part name='136066-1103.35a'/>
-  </rom>
-  <rom index='0' md5='41a700662430d190fb1ae1974770ad52' type='split' zip='atetrisc.zip'>
-    <part name='tetcktl1.rom'/>
-    <part name='136066-1103.35a'/>
-  </rom>
-  <rom index='0' md5='41a700662430d190fb1ae1974770ad52' type='nonmerged' zip='atetrisc.zip'>
-    <part name='tetcktl1.rom'/>
-    <part name='136066-1103.35a'/>
-  </rom>
+  
+  
+  
 </misterromdescription>

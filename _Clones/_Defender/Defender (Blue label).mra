@@ -36,36 +36,8 @@
     <part name='decoder.2' zip='defender.zip'/>
     <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index='0' md5='4bbbe5f407b544a458047fb96f5e4338' type='split' zip='defenderb.zip'>
-    <part name='wb01.bin'/>
-    <part name='defeng02.bin'/>
-    <part name='wb03.bin'/>
-    <part name='defeng09.bin'/>
-    <part name='defeng12.bin'/>
-    <part name='defeng08.bin'/>
-    <part name='defeng11.bin'/>
-    <part name='defeng07.bin'/>
-    <part name='defeng10.bin'/>
-    <part name='defeng06.bin'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
-  <rom index='0' md5='4bbbe5f407b544a458047fb96f5e4338' type='split' zip='defenderb.zip'>
-    <part name='wb01.bin'/>
-    <part name='defeng02.bin'/>
-    <part name='wb03.bin'/>
-    <part name='defeng09.bin'/>
-    <part name='defeng12.bin'/>
-    <part name='defeng08.bin'/>
-    <part name='defeng11.bin'/>
-    <part name='defeng07.bin'/>
-    <part name='defeng10.bin'/>
-    <part name='defeng06.bin'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
+  
+  
   <rom index='0' md5='4bbbe5f407b544a458047fb96f5e4338' type='nonmerged' zip='defenderb.zip'>
     <part name='wb01.bin'/>
     <part name='defeng02.bin'/>

@@ -20,7 +20,7 @@
     <part name='starfght/k2.9a'/>
     <part name='starfght/k2.9a'/>
   </rom>
-  <rom index='0' md5='ee78e768073f2d62be1a319f748d4f4b' type='split' zip='starfght.zip'>
+  <rom index='0' md5='ee78e768073f2d62be1a319f748d4f4b' type='split|nonmerged' zip='starfght.zip'>
     <part name='ja.1'/>
     <part name='jc.3'/>
     <part name='je.5'/>
@@ -34,18 +34,5 @@
     <part name='k2.9a'/>
     <part name='k2.9a'/>
   </rom>
-  <rom index='0' md5='ee78e768073f2d62be1a319f748d4f4b' type='nonmerged' zip='starfght.zip'>
-    <part name='ja.1'/>
-    <part name='jc.3'/>
-    <part name='je.5'/>
-    <part name='jg.7'/>
-    <part name='ji.9'/>
-    <part name='ji.9'/>
-    <part name='ji.9'/>
-    <part name='ji.9'/>
-    <part name='k1.7a'/>
-    <part name='k1.7a'/>
-    <part name='k2.9a'/>
-    <part name='k2.9a'/>
-  </rom>
+  
 </misterromdescription>

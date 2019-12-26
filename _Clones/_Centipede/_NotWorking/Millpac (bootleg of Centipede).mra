@@ -17,7 +17,7 @@
     <part name='millpac/millpac7.7j'/>
     <part name='millpac/millpac.4p'/>
   </rom>
-  <rom index='0' md5='fd85408bd817da7bf48b5e16bd9696fc' type='split' zip='millpac.zip'>
+  <rom index='0' md5='fd85408bd817da7bf48b5e16bd9696fc' type='split|nonmerged' zip='millpac.zip'>
     <part name='millpac1.1d'/>
     <part name='millpac2.1e'/>
     <part name='millpac3.1h'/>
@@ -26,22 +26,6 @@
     <part name='millpac7.7j'/>
     <part name='millpac.4p'/>
   </rom>
-  <rom index='0' md5='fd85408bd817da7bf48b5e16bd9696fc' type='split' zip='millpac.zip'>
-    <part name='millpac1.1d'/>
-    <part name='millpac2.1e'/>
-    <part name='millpac3.1h'/>
-    <part name='millpac4.1j'/>
-    <part name='millpac6.7f'/>
-    <part name='millpac7.7j'/>
-    <part name='millpac.4p'/>
-  </rom>
-  <rom index='0' md5='fd85408bd817da7bf48b5e16bd9696fc' type='nonmerged' zip='millpac.zip'>
-    <part name='millpac1.1d'/>
-    <part name='millpac2.1e'/>
-    <part name='millpac3.1h'/>
-    <part name='millpac4.1j'/>
-    <part name='millpac6.7f'/>
-    <part name='millpac7.7j'/>
-    <part name='millpac.4p'/>
-  </rom>
+  
+  
 </misterromdescription>

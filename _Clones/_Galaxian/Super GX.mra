@@ -18,7 +18,7 @@
     <part name='supergx/sgg1'/>
     <part name='supergx/sgg2'/>
   </rom>
-  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='split' zip='supergx.zip'>
+  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='split|nonmerged' zip='supergx.zip'>
     <part name='sg1'/>
     <part name='sg2'/>
     <part name='sg3'/>
@@ -30,16 +30,5 @@
     <part name='sgg1'/>
     <part name='sgg2'/>
   </rom>
-  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='nonmerged' zip='supergx.zip'>
-    <part name='sg1'/>
-    <part name='sg2'/>
-    <part name='sg3'/>
-    <part name='sg4'/>
-    <part name='sg5'/>
-    <part name='sg5'/>
-    <part name='sg5'/>
-    <part name='sg5'/>
-    <part name='sgg1'/>
-    <part name='sgg2'/>
-  </rom>
+  
 </misterromdescription>

@@ -20,7 +20,7 @@
     <part name='galapx/galx.1k'/>
     <part name='galapx/galx.1k'/>
   </rom>
-  <rom index='0' md5='6a276822c60dfed8261791a9d87dd998' type='split' zip='galapx.zip'>
+  <rom index='0' md5='6a276822c60dfed8261791a9d87dd998' type='split|nonmerged' zip='galapx.zip'>
     <part name='galx.u'/>
     <part name='galx.v'/>
     <part name='galx.w'/>
@@ -34,18 +34,5 @@
     <part name='galx.1k'/>
     <part name='galx.1k'/>
   </rom>
-  <rom index='0' md5='6a276822c60dfed8261791a9d87dd998' type='nonmerged' zip='galapx.zip'>
-    <part name='galx.u'/>
-    <part name='galx.v'/>
-    <part name='galx.w'/>
-    <part name='galx.y'/>
-    <part name='galx.z'/>
-    <part name='galx.z'/>
-    <part name='galx.z'/>
-    <part name='galx.z'/>
-    <part name='galx.1h'/>
-    <part name='galx.1h'/>
-    <part name='galx.1k'/>
-    <part name='galx.1k'/>
-  </rom>
+  
 </misterromdescription>

@@ -64,62 +64,8 @@
     <part name='14.5s' zip='ckongpt2.zip'/>
     <part name='13.5p' zip='ckongpt2.zip'/>
   </rom>
-  <rom index='0' md5='892bae532feebe75ec336e8dcc16e052' type='split' zip='ckongpt2b2.zip'>
-    <part name='0.bin'/>
-    <part name='8.5e' zip='ckongpt2.zip'/>
-    <part name='9.5h' zip='ckongpt2.zip'/>
-    <part name='3.bin'/>
-    <part name='11.5l' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='6.11n' zip='ckongpt2.zip'/>
-    <part name='5.11l' zip='ckongpt2.zip'/>
-    <part name='4.11k' zip='ckongpt2.zip'/>
-    <part name='3.11h' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='14.5s' zip='ckongpt2.zip'/>
-    <part name='13.5p' zip='ckongpt2.zip'/>
-  </rom>
-  <rom index='0' md5='892bae532feebe75ec336e8dcc16e052' type='split' zip='ckongpt2b2.zip'>
-    <part name='0.bin'/>
-    <part name='8.5e' zip='ckongpt2.zip'/>
-    <part name='9.5h' zip='ckongpt2.zip'/>
-    <part name='3.bin'/>
-    <part name='11.5l' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='6.11n' zip='ckongpt2.zip'/>
-    <part name='5.11l' zip='ckongpt2.zip'/>
-    <part name='4.11k' zip='ckongpt2.zip'/>
-    <part name='3.11h' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='14.5s' zip='ckongpt2.zip'/>
-    <part name='13.5p' zip='ckongpt2.zip'/>
-  </rom>
+  
+  
   <rom index='0' md5='892bae532feebe75ec336e8dcc16e052' type='nonmerged' zip='ckongpt2b2.zip'>
     <part name='0.bin'/>
     <part name='1.bin'/>

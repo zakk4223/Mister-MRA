@@ -42,24 +42,7 @@
     <part name='82s126.3m' zip='eyes.zip'/>
     <part name='82s123.7f' zip='eyes.zip'/>
   </rom>
-  <rom index='0' md5='b39bbdb92ad7907844a6f0252379341b' type='split' zip='eyeszacb.zip'>
-    <part name='zacb_1.bin'/>
-    <part name='zacb_2.bin'/>
-    <part name='zacb_3.bin'/>
-    <part name='zacb_4.bin'/>
-    <part name='zacb_1.bin'/>
-    <part name='zacb_2.bin'/>
-    <part name='zacb_3.bin'/>
-    <part name='zacb_4.bin'/>
-    <part name='x.bin'/>
-    <part name='b.bin'/>
-    <part name='b.bin'/>
-    <part name='b.bin'/>
-    <part name='82s126.1m' zip='eyes.zip'/>
-    <part name='82s129.4a' zip='eyes.zip'/>
-    <part name='82s126.3m' zip='eyes.zip'/>
-    <part name='82s123.7f' zip='eyes.zip'/>
-  </rom>
+  
   <rom index='0' md5='b39bbdb92ad7907844a6f0252379341b' type='nonmerged' zip='eyeszacb.zip'>
     <part name='zacb_1.bin'/>
     <part name='zacb_2.bin'/>

@@ -15,7 +15,7 @@
     <part name='dorodon2/6.6a'/>
     <part name='dorodon2/7.6bc'/>
   </rom>
-  <rom index='0' md5='ce5ccd07ed22a891e541a69b176046bf' type='split' zip='dorodon2.zip'>
+  <rom index='0' md5='ce5ccd07ed22a891e541a69b176046bf' type='split|nonmerged' zip='dorodon2.zip'>
     <part name='1.3fg'/>
     <part name='2.3h'/>
     <part name='3.3k'/>
@@ -24,22 +24,6 @@
     <part name='6.6a'/>
     <part name='7.6bc'/>
   </rom>
-  <rom index='0' md5='ce5ccd07ed22a891e541a69b176046bf' type='split' zip='dorodon2.zip'>
-    <part name='1.3fg'/>
-    <part name='2.3h'/>
-    <part name='3.3k'/>
-    <part name='5.3t'/>
-    <part name='4.3r'/>
-    <part name='6.6a'/>
-    <part name='7.6bc'/>
-  </rom>
-  <rom index='0' md5='ce5ccd07ed22a891e541a69b176046bf' type='nonmerged' zip='dorodon2.zip'>
-    <part name='1.3fg'/>
-    <part name='2.3h'/>
-    <part name='3.3k'/>
-    <part name='5.3t'/>
-    <part name='4.3r'/>
-    <part name='6.6a'/>
-    <part name='7.6bc'/>
-  </rom>
+  
+  
 </misterromdescription>

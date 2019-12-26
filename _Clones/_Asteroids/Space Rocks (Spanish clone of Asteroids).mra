@@ -28,11 +28,5 @@
     <part name='e.bin'/>
     <part name='034602-01.c8'/>
   </rom>
-  <rom index='0' md5='e03dfeb3cc03d0b85030f69a70351e3f' type='split' zip='spcrocks.zip'>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='e.bin'/>
-    <part name='034602-01.c8' zip='asteroid.zip'/>
-  </rom>
+  
 </misterromdescription>

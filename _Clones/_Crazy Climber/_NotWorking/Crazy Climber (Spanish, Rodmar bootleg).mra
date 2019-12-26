@@ -21,7 +21,7 @@
     <part name='ccboot/cc13j.bin'/>
     <part name='ccboot/cc12j.bin'/>
   </rom>
-  <rom index='0' md5='be0c4433602b84772a49e666923e709b' type='split' zip='cclimbrrod.zip'>
+  <rom index='0' md5='be0c4433602b84772a49e666923e709b' type='split|nonmerged' zip='cclimbrrod.zip'>
     <part name='cc5.bin'/>
     <part name='cc4.bin'/>
     <part name='cc3.bin'/>
@@ -36,34 +36,6 @@
     <part name='cc7.cpu'/>
     <part name='cc6.cpu'/>
   </rom>
-  <rom index='0' md5='be0c4433602b84772a49e666923e709b' type='split' zip='cclimbrrod.zip'>
-    <part name='cc5.bin'/>
-    <part name='cc4.bin'/>
-    <part name='cc3.bin'/>
-    <part name='cc2.bin'/>
-    <part name='cc1.bin'/>
-    <part name='cc13.bin'/>
-    <part name='cc12.bin'/>
-    <part name='cc11.bin'/>
-    <part name='cc10.bin'/>
-    <part name='cc9.bin'/>
-    <part name='cc8.bin'/>
-    <part name='cc7.cpu'/>
-    <part name='cc6.cpu'/>
-  </rom>
-  <rom index='0' md5='be0c4433602b84772a49e666923e709b' type='nonmerged' zip='cclimbrrod.zip'>
-    <part name='cc5.bin'/>
-    <part name='cc4.bin'/>
-    <part name='cc3.bin'/>
-    <part name='cc2.bin'/>
-    <part name='cc1.bin'/>
-    <part name='cc13.bin'/>
-    <part name='cc12.bin'/>
-    <part name='cc11.bin'/>
-    <part name='cc10.bin'/>
-    <part name='cc9.bin'/>
-    <part name='cc8.bin'/>
-    <part name='cc7.cpu'/>
-    <part name='cc6.cpu'/>
-  </rom>
+  
+  
 </misterromdescription>

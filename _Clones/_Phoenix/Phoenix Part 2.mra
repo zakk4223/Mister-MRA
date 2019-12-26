@@ -20,7 +20,7 @@
     <part name='batman2/10.bin'/>
     <part name='batman2/12.bin'/>
   </rom>
-  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='split' zip='phoenxp2.zip'>
+  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='split|nonmerged' zip='phoenxp2.zip'>
     <part name='1'/>
     <part name='2'/>
     <part name='3'/>
@@ -34,18 +34,5 @@
     <part name='10'/>
     <part name='12'/>
   </rom>
-  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='nonmerged' zip='phoenxp2.zip'>
-    <part name='1'/>
-    <part name='2'/>
-    <part name='3'/>
-    <part name='4'/>
-    <part name='5'/>
-    <part name='6'/>
-    <part name='7'/>
-    <part name='8'/>
-    <part name='09'/>
-    <part name='11'/>
-    <part name='10'/>
-    <part name='12'/>
-  </rom>
+  
 </misterromdescription>

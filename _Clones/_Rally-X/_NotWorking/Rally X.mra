@@ -1,9 +1,9 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index='0' md5='8c4604c90d3b4585e9dba3f7c0fc735e' type='merged' zip='rallyx.zip'>
-    <part name='dngrtrck/1b-2716.bin'/>
-    <part name='dngrtrck/1d-2716.bin'/>
-    <part name='dngrtrck/1h-2716.bin'/>
+  <rom index='0' md5='81fd16f36f732e3061ea95cc92eabcea' type='merged' zip='rallyx.zip'>
+    <part name='rallyxa/rx1_prg_1.1b'/>
+    <part name='rallyxa/rx1_prg_3.1d'/>
+    <part name='rallyxa/rx1_prg_5.bin'/>
     <part name='dngrtrck/1k-2716.bin'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
@@ -1031,17 +1031,17 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name='dngrtrck/8e-2716.bin'/>
+    <part name='rallyxa/rx1_chg_1.8e'/>
     <part name='rx1-6.8m'/>
     <part name='rx1-5.3p'/>
     <part name='rx1-7.8p'/>
     <part name='rx1-1.11n'/>
   </rom>
-  <rom index='0' md5='8c4604c90d3b4585e9dba3f7c0fc735e' type='split' zip='dngrtrck.zip'>
-    <part name='1b-2716.bin'/>
-    <part name='1d-2716.bin'/>
-    <part name='1h-2716.bin'/>
-    <part name='1k-2716.bin'/>
+  <rom index='0' md5='81fd16f36f732e3061ea95cc92eabcea' type='split' zip='rallyxa.zip'>
+    <part name='rx1_prg_1.1b'/>
+    <part name='rx1_prg_3.1d'/>
+    <part name='rx1_prg_5.bin'/>
+    <part name='rx1_prg_7.1k'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
@@ -2068,17 +2068,17 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name='8e-2716.bin'/>
+    <part name='rx1_chg_1.8e'/>
     <part name='rx1-6.8m' zip='rallyx.zip'/>
     <part name='rx1-5.3p' zip='rallyx.zip'/>
     <part name='rx1-7.8p' zip='rallyx.zip'/>
     <part name='rx1-1.11n' zip='rallyx.zip'/>
   </rom>
-  <rom index='0' md5='8c4604c90d3b4585e9dba3f7c0fc735e' type='nonmerged' zip='dngrtrck.zip'>
-    <part name='1b-2716.bin'/>
-    <part name='1d-2716.bin'/>
-    <part name='1h-2716.bin'/>
-    <part name='1k-2716.bin'/>
+  <rom index='0' md5='81fd16f36f732e3061ea95cc92eabcea' type='nonmerged' zip='rallyxa.zip'>
+    <part name='rx1_prg_1.1b'/>
+    <part name='rx1_prg_3.1d'/>
+    <part name='rx1_prg_5.bin'/>
+    <part name='rx1_prg_7.1k'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
@@ -3105,7 +3105,7 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name='8e-2716.bin'/>
+    <part name='rx1_chg_1.8e'/>
     <part name='rx1-6.8m'/>
     <part name='rx1-5.3p'/>
     <part name='rx1-7.8p'/>

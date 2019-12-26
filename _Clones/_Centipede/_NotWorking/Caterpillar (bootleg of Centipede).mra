@@ -26,15 +26,7 @@
     <part name='olympia.c33'/>
     <part name='136001-213.p4' zip='centiped.zip'/>
   </rom>
-  <rom index='0' md5='80c1c25b0603086448b7248b335af82b' type='split' zip='caterplr.zip'>
-    <part name='olympia.c28'/>
-    <part name='olympia.c29'/>
-    <part name='olympia.c30'/>
-    <part name='olympia.c31'/>
-    <part name='olympia.c32'/>
-    <part name='olympia.c33'/>
-    <part name='136001-213.p4' zip='centiped.zip'/>
-  </rom>
+  
   <rom index='0' md5='80c1c25b0603086448b7248b335af82b' type='nonmerged' zip='caterplr.zip'>
     <part name='olympia.c28'/>
     <part name='olympia.c29'/>

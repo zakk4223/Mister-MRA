@@ -36,36 +36,8 @@
     <part name='decoder.2' zip='defender.zip'/>
     <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index='0' md5='5b296d7d7358e94c991d773c7e4fe1fd' type='split' zip='attackf.zip'>
-    <part name='002-1.ic1'/>
-    <part name='002-2.ic2'/>
-    <part name='002-3.ic3'/>
-    <part name='002-9.ic12'/>
-    <part name='002-12.ic9'/>
-    <part name='002-8.ic11'/>
-    <part name='002-11.ic8'/>
-    <part name='002-7.ic10'/>
-    <part name='002-10.ic7'/>
-    <part name='002-6.ic6'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
-  <rom index='0' md5='5b296d7d7358e94c991d773c7e4fe1fd' type='split' zip='attackf.zip'>
-    <part name='002-1.ic1'/>
-    <part name='002-2.ic2'/>
-    <part name='002-3.ic3'/>
-    <part name='002-9.ic12'/>
-    <part name='002-12.ic9'/>
-    <part name='002-8.ic11'/>
-    <part name='002-11.ic8'/>
-    <part name='002-7.ic10'/>
-    <part name='002-10.ic7'/>
-    <part name='002-6.ic6'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
+  
+  
   <rom index='0' md5='5b296d7d7358e94c991d773c7e4fe1fd' type='nonmerged' zip='attackf.zip'>
     <part name='002-1.ic1'/>
     <part name='002-2.ic2'/>

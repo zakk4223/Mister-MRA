@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Frogger (Sega set 1)</name>
   <mameversion>0216</mameversion>
@@ -7,15 +8,37 @@
   <category>Maze</category>
   <category>Maze / Frogs</category>
   <rbf>frogger</rbf>
-  <rom index='0' md5='7e52e3cc32819f46cdc1dda2143a5ca3' type='merged' zip='frogger.zip'>
-    <part name='frogger.26'/>
-    <part name='frogger.27'/>
-    <part name='froggers1/epr-34.ic7'/>
-    <part repeat='4096'>00</part>
-    <part name='frogger.606'/>
-    <part name='frogger.607'/>
-    <part name='frogger.608'/>
-    <part name='frogger.609'/>
-    <part name='frogger.610'/>
+  <rom index="0" md5="aab360a3c2265c4b19cc97029e498495" type="merged" zip="frogger.zip">
+    <part name="frogger.26"/>
+    <part name="frogger.27"/>
+    <part name="froggers1/epr-34.ic7"/>
+    <part repeat="4096">00</part>
+    <part name="frogger.606"/>
+    <part name="frogger.607"/>
+    <part name="frogger.608"/>
+    <part name="frogger.609"/>
+    <part name="frogger.610"/>
+  </rom>
+  <rom index="0" md5="aab360a3c2265c4b19cc97029e498495" type="split" zip="froggers1.zip">
+    <part name="frogger.26" zip="frogger.zip"/>
+    <part name="frogger.27" zip="frogger.zip"/>
+    <part name="epr-34.ic7"/>
+    <part repeat="4096">00</part>
+    <part name="frogger.606" zip="frogger.zip"/>
+    <part name="frogger.607" zip="frogger.zip"/>
+    <part name="frogger.608" zip="frogger.zip"/>
+    <part name="frogger.609" zip="frogger.zip"/>
+    <part name="frogger.610" zip="frogger.zip"/>
+  </rom>
+  <rom index="0" md5="aab360a3c2265c4b19cc97029e498495" type="nonmerged" zip="froggers1.zip">
+    <part name="epr-26.ic5"/>
+    <part name="epr-27.ic6"/>
+    <part name="epr-34.ic7"/>
+    <part repeat="4096">00</part>
+    <part name="epr-606.ic102"/>
+    <part name="epr-607.ic101"/>
+    <part name="epr-608.ic32"/>
+    <part name="epr-609.ic33"/>
+    <part name="epr-610.ic34"/>
   </rom>
 </misterromdescription>

@@ -72,22 +72,5 @@
     <part name='82s126.3m' zip='crush.zip'/>
     <part name='82s123.7f'/>
   </rom>
-  <rom index='0' md5='721e3ab2df18abaa81538bf747343a59' type='split' zip='crush3.zip'>
-    <part name='1.6e'/>
-    <part name='2.6f'/>
-    <part name='3.6h'/>
-    <part name='4.6j'/>
-    <part name='1.6e'/>
-    <part name='2.6f'/>
-    <part name='3.6h'/>
-    <part name='4.6j'/>
-    <part name='5.5e'/>
-    <part name='6.5f'/>
-    <part name='6.5f'/>
-    <part name='6.5f'/>
-    <part name='82s126.1m' zip='crush.zip'/>
-    <part name='2s140.4a' zip='crush.zip'/>
-    <part name='82s126.3m' zip='crush.zip'/>
-    <part name='82s123.7f'/>
-  </rom>
+  
 </misterromdescription>

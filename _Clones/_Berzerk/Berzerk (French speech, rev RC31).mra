@@ -21,7 +21,7 @@
     <part name='berzerkf/berzerk_rvof_1c.1c'/>
     <part name='berzerkf/berzerk_rvof_2c.2c'/>
   </rom>
-  <rom index='0' md5='87ec6135ffc5be6d3aa1e04eb8ba0896' type='split' zip='berzerkf.zip'>
+  <rom index='0' md5='87ec6135ffc5be6d3aa1e04eb8ba0896' type='split|nonmerged' zip='berzerkf.zip'>
     <part name='berzerk_rc31f_1d.rom1.1d'/>
     <part name='berzerk_rc31f_3d.rom2.3d'/>
     <part name='berzerk_rc31f_5d.rom3.5d'/>
@@ -35,32 +35,6 @@
     <part name='berzerk_rvof_1c.1c'/>
     <part name='berzerk_rvof_2c.2c'/>
   </rom>
-  <rom index='0' md5='87ec6135ffc5be6d3aa1e04eb8ba0896' type='split' zip='berzerkf.zip'>
-    <part name='berzerk_rc31f_1d.rom1.1d'/>
-    <part name='berzerk_rc31f_3d.rom2.3d'/>
-    <part name='berzerk_rc31f_5d.rom3.5d'/>
-    <part name='berzerk_rc31f_6d.rom4.6d'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_1c.rom0.1c'/>
-    <part name='berzerk_rc31f_1c.rom0.1c'/>
-    <part name='berzerk_rvof_1c.1c'/>
-    <part name='berzerk_rvof_2c.2c'/>
-  </rom>
-  <rom index='0' md5='87ec6135ffc5be6d3aa1e04eb8ba0896' type='nonmerged' zip='berzerkf.zip'>
-    <part name='berzerk_rc31f_1d.rom1.1d'/>
-    <part name='berzerk_rc31f_3d.rom2.3d'/>
-    <part name='berzerk_rc31f_5d.rom3.5d'/>
-    <part name='berzerk_rc31f_6d.rom4.6d'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_5c.rom5.5c'/>
-    <part name='berzerk_rc31f_1c.rom0.1c'/>
-    <part name='berzerk_rc31f_1c.rom0.1c'/>
-    <part name='berzerk_rvof_1c.1c'/>
-    <part name='berzerk_rvof_2c.2c'/>
-  </rom>
+  
+  
 </misterromdescription>

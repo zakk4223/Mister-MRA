@@ -40,15 +40,5 @@
     <part name='10505.1'/>
     <part name='034602-01.c8'/>
   </rom>
-  <rom index='0' md5='aa300f558f5cc36b8c3f6525d7ae80be' type='split' zip='asterock.zip'>
-    <part name='10505.2'/>
-    <part name='10505.3'/>
-    <part name='10505.4'/>
-    <part name='10505.5'/>
-    <part name='10505.6'/>
-    <part name='10505.7'/>
-    <part name='10505.0'/>
-    <part name='10505.1'/>
-    <part name='034602-01.c8' zip='asteroid.zip'/>
-  </rom>
+  
 </misterromdescription>

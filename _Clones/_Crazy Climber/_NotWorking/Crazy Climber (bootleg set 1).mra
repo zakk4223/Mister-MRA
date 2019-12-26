@@ -36,21 +36,7 @@
     <part name='cc13j.bin'/>
     <part name='cc12j.bin'/>
   </rom>
-  <rom index='0' md5='116ce7589b3faf71963dcdeaf9f714ec' type='split' zip='ccboot.zip'>
-    <part name='m11.bin'/>
-    <part name='m10.bin'/>
-    <part name='cc09j.bin'/>
-    <part name='m08.bin'/>
-    <part name='cc07j.bin'/>
-    <part name='cc06' zip='cclimber.zip'/>
-    <part name='m05.bin'/>
-    <part name='m04.bin'/>
-    <part name='m03.bin'/>
-    <part name='m02.bin'/>
-    <part name='m01.bin'/>
-    <part name='cc13j.bin'/>
-    <part name='cc12j.bin'/>
-  </rom>
+  
   <rom index='0' md5='116ce7589b3faf71963dcdeaf9f714ec' type='nonmerged' zip='ccboot.zip'>
     <part name='m11.bin'/>
     <part name='m10.bin'/>

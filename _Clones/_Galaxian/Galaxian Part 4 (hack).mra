@@ -20,7 +20,7 @@
     <part name='galap4/galx_4c2.rom'/>
     <part name='galap4/galx_4c2.rom'/>
   </rom>
-  <rom index='0' md5='11518a4b45eb39724521141e61cbc0b4' type='split' zip='galap4.zip'>
+  <rom index='0' md5='11518a4b45eb39724521141e61cbc0b4' type='split|nonmerged' zip='galap4.zip'>
     <part name='galnamco.u'/>
     <part name='galnamco.v'/>
     <part name='galnamco.w'/>
@@ -34,18 +34,5 @@
     <part name='galx_4c2.rom'/>
     <part name='galx_4c2.rom'/>
   </rom>
-  <rom index='0' md5='11518a4b45eb39724521141e61cbc0b4' type='nonmerged' zip='galap4.zip'>
-    <part name='galnamco.u'/>
-    <part name='galnamco.v'/>
-    <part name='galnamco.w'/>
-    <part name='galnamco.y'/>
-    <part name='galnamco.z'/>
-    <part name='galnamco.z'/>
-    <part name='galnamco.z'/>
-    <part name='galnamco.z'/>
-    <part name='galx_4c1.rom'/>
-    <part name='galx_4c1.rom'/>
-    <part name='galx_4c2.rom'/>
-    <part name='galx_4c2.rom'/>
-  </rom>
+  
 </misterromdescription>

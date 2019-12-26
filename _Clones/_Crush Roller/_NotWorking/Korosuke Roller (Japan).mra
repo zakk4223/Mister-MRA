@@ -72,22 +72,5 @@
     <part name='82s126.3m' zip='crush.zip'/>
     <part name='82s123.7f' zip='crush.zip'/>
   </rom>
-  <rom index='0' md5='276d95c49e9d83bc7872a91e28c7202e' type='split' zip='korosuke.zip'>
-    <part name='kr.6e'/>
-    <part name='kr.6f'/>
-    <part name='kr.6h'/>
-    <part name='kr.6j'/>
-    <part name='kr.6e'/>
-    <part name='kr.6f'/>
-    <part name='kr.6h'/>
-    <part name='kr.6j'/>
-    <part name='kr.5e'/>
-    <part name='kr.5f'/>
-    <part name='kr.5f'/>
-    <part name='kr.5f'/>
-    <part name='82s126.1m' zip='crush.zip'/>
-    <part name='2s140.4a' zip='crush.zip'/>
-    <part name='82s126.3m' zip='crush.zip'/>
-    <part name='82s123.7f' zip='crush.zip'/>
-  </rom>
+  
 </misterromdescription>

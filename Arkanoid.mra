@@ -13,7 +13,7 @@
     <part name='a75-08.ic23'/>
     <part name='a75-09.ic22'/>
   </rom>
-  <rom index='0' md5='b9fb0ef35479748397ddc187affa2fea' type='split' zip='arkanoid.zip'>
+  <rom index='0' md5='b9fb0ef35479748397ddc187affa2fea' type='split|nonmerged' zip='arkanoid.zip'>
     <part name='ic81-v.3f' zip='arkatayt.zip'/>
     <part name='ic82-w.5f' zip='arkatayt.zip'/>
     <part name='a75-03.ic64'/>
@@ -23,14 +23,5 @@
     <part name='a75-08.ic23'/>
     <part name='a75-09.ic22'/>
   </rom>
-  <rom index='0' md5='b9fb0ef35479748397ddc187affa2fea' type='nonmerged' zip='arkanoid.zip'>
-    <part name='ic81-v.3f' zip='arkatayt.zip'/>
-    <part name='ic82-w.5f' zip='arkatayt.zip'/>
-    <part name='a75-03.ic64'/>
-    <part name='a75-04.ic63'/>
-    <part name='a75-05.ic62'/>
-    <part name='a75-07.ic24'/>
-    <part name='a75-08.ic23'/>
-    <part name='a75-09.ic22'/>
-  </rom>
+  
 </misterromdescription>

@@ -20,7 +20,7 @@
     <part name='galaxianbl2/hj1.1hj'/>
     <part name='galaxianbl2/hj1.1hj'/>
   </rom>
-  <rom index='0' md5='04a457f3f0617760f7f622ae1efc890a' type='split' zip='kamakazi3.zip'>
+  <rom index='0' md5='04a457f3f0617760f7f622ae1efc890a' type='split|nonmerged' zip='kamakazi3.zip'>
     <part name='f_r_a.bin'/>
     <part name='f_a.bin'/>
     <part name='f_b.bin'/>
@@ -34,18 +34,5 @@
     <part name='r_a.bin'/>
     <part name='r_a.bin'/>
   </rom>
-  <rom index='0' md5='04a457f3f0617760f7f622ae1efc890a' type='nonmerged' zip='kamakazi3.zip'>
-    <part name='f_r_a.bin'/>
-    <part name='f_a.bin'/>
-    <part name='f_b.bin'/>
-    <part name='f_r_c.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='r_b.bin'/>
-    <part name='r_b.bin'/>
-    <part name='r_a.bin'/>
-    <part name='r_a.bin'/>
-  </rom>
+  
 </misterromdescription>

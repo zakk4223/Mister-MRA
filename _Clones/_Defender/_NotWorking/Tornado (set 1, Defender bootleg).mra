@@ -18,7 +18,7 @@
     <pppart name='decoder.2'/>
     <pppart name='decoder.3'/>
   </rom>
-  <rom index='0' md5='5ce75a6e74a6df537289d1a4bfe76a16' type='split' zip='tornado1.zip'>
+  <rom index='0' md5='5ce75a6e74a6df537289d1a4bfe76a16' type='split|nonmerged' zip='tornado1.zip'>
     <part name='torna1.bin'/>
     <part name='torna3.bin'/>
     <part name='torna4.bin'/>
@@ -28,34 +28,7 @@
     <part name='tornb4.bin'/>
     <part name='tornb6.bin'/>
   </rom>
-  <rom index='0' md5='5ce75a6e74a6df537289d1a4bfe76a16' type='split' zip='tornado1.zip'>
-    <part name='torna1.bin'/>
-    <part name='torna3.bin'/>
-    <part name='torna4.bin'/>
-    <part name='tornc4.bin'/>
-    <part name='tornb3.bin'/>
-    <part name='tornb1.bin'/>
-    <part name='tornb4.bin'/>
-    <part name='tornb6.bin'/>
-  </rom>
-  <rom index='0' md5='5ce75a6e74a6df537289d1a4bfe76a16' type='split' zip='tornado1.zip'>
-    <part name='torna1.bin'/>
-    <part name='torna3.bin'/>
-    <part name='torna4.bin'/>
-    <part name='tornc4.bin'/>
-    <part name='tornb3.bin'/>
-    <part name='tornb1.bin'/>
-    <part name='tornb4.bin'/>
-    <part name='tornb6.bin'/>
-  </rom>
-  <rom index='0' md5='5ce75a6e74a6df537289d1a4bfe76a16' type='nonmerged' zip='tornado1.zip'>
-    <part name='torna1.bin'/>
-    <part name='torna3.bin'/>
-    <part name='torna4.bin'/>
-    <part name='tornc4.bin'/>
-    <part name='tornb3.bin'/>
-    <part name='tornb1.bin'/>
-    <part name='tornb4.bin'/>
-    <part name='tornb6.bin'/>
-  </rom>
+  
+  
+  
 </misterromdescription>

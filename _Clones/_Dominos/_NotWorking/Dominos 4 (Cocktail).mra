@@ -22,14 +22,7 @@
     <part name='6400-01.m2' zip='dominos.zip'/>
     <part name='6401-01.e2' zip='dominos.zip'/>
   </rom>
-  <rom index='0' md5='feeef312adc3e3b30146b9b50b8d6f67' type='split' zip='dominos4.zip'>
-    <part name='007755-01.l0'/>
-    <part name='007759-01.n0'/>
-    <part name='007765-01.r4'/>
-    <part name='007765-01.r4'/>
-    <part name='6400-01.m2' zip='dominos.zip'/>
-    <part name='6401-01.e2' zip='dominos.zip'/>
-  </rom>
+  
   <rom index='0' md5='feeef312adc3e3b30146b9b50b8d6f67' type='nonmerged' zip='dominos4.zip'>
     <part name='007755-01.l0'/>
     <part name='007759-01.n0'/>

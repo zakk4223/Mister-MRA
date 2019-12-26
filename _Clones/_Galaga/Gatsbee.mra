@@ -1,37 +1,28 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='fdede1961d7474ba0775a117099a7df6' type='merged' zip='galaga.zip'>
-    <part name='gatsbee/1.4b'/>
-    <part name='gatsbee/2.4c'/>
-    <part name='gatsbee/3.4d'/>
-    <part name='gatsbee/4.4e'/>
-    <part name='galagamk/gg1-5.3f'/>
-    <part name='galagao/gg1-7.2c'/>
-    <part name='gatsbee/9.6a'/>
-    <part name='gatsbee/10.7a'/>
-    <part name='gatsbee/8.5r'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
+  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="merged|nonmerged" zip="galaga.zip">
+    <part fixme="maincpu:0" name="gg1_1b.3p"/>
+    <part fixme="maincpu:1000" name="gg1_2b.3m"/>
+    <part fixme="maincpu:2000" name="gg1_3.2m"/>
+    <part fixme="maincpu:3000" name="gg1_4b.2l"/>
+    <part fixme="sub:0" name="gg1_5b.3f"/>
+    <part fixme="sub2:0" name="gg1_7b.2c"/>
+    <part fixme="gfx2:0" name="gg1_11.4d"/>
+    <part fixme="gfx2:1000" name="gg1_10.4f"/>
+    <part fixme="gfx1:0" name="gg1_9.4l"/>
+    <part name="54xx.bin" zip="namco54.zip"/>
   </rom>
-  <rom index='0' md5='fdede1961d7474ba0775a117099a7df6' type='split' zip='gatsbee.zip'>
-    <part name='1.4b'/>
-    <part name='2.4c'/>
-    <part name='3.4d'/>
-    <part name='4.4e'/>
-    <part name='gg1-5.3f'/>
-    <part name='gg1-7.2c'/>
-    <part name='9.6a'/>
-    <part name='10.7a'/>
-    <part name='8.5r'/>
-  </rom>
-  <rom index='0' md5='fdede1961d7474ba0775a117099a7df6' type='nonmerged' zip='gatsbee.zip'>
-    <part name='1.4b'/>
-    <part name='2.4c'/>
-    <part name='3.4d'/>
-    <part name='4.4e'/>
-    <part name='gg1-5.3f'/>
-    <part name='gg1-7.2c'/>
-    <part name='9.6a'/>
-    <part name='10.7a'/>
-    <part name='8.5r'/>
+  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="split" zip="gatsbee.zip">
+    <part name="gg1_1b.3p" zip="galaga.zip"/>
+    <part name="gg1_2b.3m" zip="galaga.zip"/>
+    <part name="gg1_3.2m" zip="galaga.zip"/>
+    <part name="gg1_4b.2l" zip="galaga.zip"/>
+    <part name="gg1_5b.3f" zip="galaga.zip"/>
+    <part name="gg1_7b.2c" zip="galaga.zip"/>
+    <part name="gg1_11.4d" zip="galaga.zip"/>
+    <part name="gg1_10.4f" zip="galaga.zip"/>
+    <part name="gg1_9.4l" zip="galaga.zip"/>
+    <part name="54xx.bin" zip="namco54.zip"/>
   </rom>
 </misterromdescription>

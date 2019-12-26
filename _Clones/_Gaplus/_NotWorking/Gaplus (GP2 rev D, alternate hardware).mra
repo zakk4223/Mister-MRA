@@ -3,7 +3,7 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>gaplus</rbf>
-  <rom index='0' md5='84889982329185640547d7f6e985fba2' type='merged' zip='gaplus.zip'>
+  <rom index='0' md5='ac3454651b2d76549744277835432655' type='merged' zip='gaplus.zip'>
     <part name='gaplusd/gp2-4b.8d'/>
     <part name='gaplusd/gp2-3c.8c'/>
     <part name='gaplusd/gp2-2d.8b'/>
@@ -2074,7 +2074,7 @@ a2 9f 9e 9c 9b 99 96 95 93 92 90 8f 8f 8f 90 90
     <part name='gp2-2.2n'/>
     <part name='gp2-4.3f'/>
   </rom>
-  <rom index='0' md5='84889982329185640547d7f6e985fba2' type='split' zip='gaplusd.zip'>
+  <rom index='0' md5='ac3454651b2d76549744277835432655' type='split' zip='gaplusd.zip'>
     <part name='gp2-4b.8d'/>
     <part name='gp2-3c.8c'/>
     <part name='gp2-2d.8b'/>
@@ -4145,7 +4145,7 @@ a2 9f 9e 9c 9b 99 96 95 93 92 90 8f 8f 8f 90 90
     <part name='gp2-2.2n' zip='gaplus.zip'/>
     <part name='gp2-4.3f' zip='gaplus.zip'/>
   </rom>
-  <rom index='0' md5='84889982329185640547d7f6e985fba2' type='nonmerged' zip='gaplusd.zip'>
+  <rom index='0' md5='ac3454651b2d76549744277835432655' type='nonmerged' zip='gaplusd.zip'>
     <part name='gp2-4b.8d'/>
     <part name='gp2-3c.8c'/>
     <part name='gp2-2d.8b'/>

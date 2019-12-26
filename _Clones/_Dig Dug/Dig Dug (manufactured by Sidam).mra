@@ -46,26 +46,7 @@
     <part name='136007.112' zip='digdug.zip'/>
     <part name='136007.113' zip='digdug.zip'/>
   </rom>
-  <rom index='0' md5='446407cafe972619809aa05418584b1a' type='split' zip='digsid.zip'>
-    <part name='digdug0.0'/>
-    <part name='digdug1.1'/>
-    <part name='digdug2.2'/>
-    <part name='digdug3.3'/>
-    <part name='dd1.15' zip='digdug.zip'/>
-    <part name='dd1.14' zip='digdug.zip'/>
-    <part name='dd1.13' zip='digdug.zip'/>
-    <part name='dd1.12' zip='digdug.zip'/>
-    <part name='digdug4.4'/>
-    <part name='digdug5.5'/>
-    <part name='dd1.7' zip='digdug.zip'/>
-    <part name='dd1.10b' zip='digdug.zip'/>
-    <part name='dd1.11' zip='digdug.zip'/>
-    <part name='dd1.9' zip='digdug.zip'/>
-    <part name='136007.110' zip='digdug.zip'/>
-    <part name='136007.111' zip='digdug.zip'/>
-    <part name='136007.112' zip='digdug.zip'/>
-    <part name='136007.113' zip='digdug.zip'/>
-  </rom>
+  
   <rom index='0' md5='446407cafe972619809aa05418584b1a' type='nonmerged' zip='digsid.zip'>
     <part name='digdug0.0'/>
     <part name='digdug1.1'/>

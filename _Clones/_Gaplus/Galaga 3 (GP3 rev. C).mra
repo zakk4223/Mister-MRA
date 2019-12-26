@@ -3,7 +3,7 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>gaplus</rbf>
-  <rom index='0' md5='ee52be4ca3534dd374235f5bb1c8a971' type='merged' zip='gaplus.zip'>
+  <rom index='0' md5='46e488d5b504ba4830186ac03421a51e' type='merged' zip='gaplus.zip'>
     <part name='galaga3/gp3-4c.8d'/>
     <part name='galaga3/gp3-3c.8c'/>
     <part name='galaga3a/gp3-2c.8b'/>
@@ -2074,7 +2074,7 @@ a2 9f 9e 9c 9b 99 96 95 93 92 90 8f 8f 8f 90 90
     <part name='gp2-2.2n'/>
     <part name='gp2-4.3f'/>
   </rom>
-  <rom index='0' md5='ee52be4ca3534dd374235f5bb1c8a971' type='split' zip='galaga3a.zip'>
+  <rom index='0' md5='46e488d5b504ba4830186ac03421a51e' type='split' zip='galaga3a.zip'>
     <part name='gp3-4c.8d'/>
     <part name='gp3-3c.8c'/>
     <part name='gp3-2c.8b'/>
@@ -4145,7 +4145,7 @@ a2 9f 9e 9c 9b 99 96 95 93 92 90 8f 8f 8f 90 90
     <part name='gp2-2.2n' zip='gaplus.zip'/>
     <part name='gp2-4.3f' zip='gaplus.zip'/>
   </rom>
-  <rom index='0' md5='ee52be4ca3534dd374235f5bb1c8a971' type='nonmerged' zip='galaga3a.zip'>
+  <rom index='0' md5='46e488d5b504ba4830186ac03421a51e' type='nonmerged' zip='galaga3a.zip'>
     <part name='gp3-4c.8d'/>
     <part name='gp3-3c.8c'/>
     <part name='gp3-2c.8b'/>

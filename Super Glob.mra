@@ -7,7 +7,7 @@
   <manufacturer>bootleg (Software Labor)</manufacturer>
   <category>Platform</category>
   <rbf>superglob</rbf>
-  <rom index='0' md5='83913a5076b208589e6c41fbaed16058' type='nonmerged' zip='sprglbpg.zip'>
+  <rom index='0' md5='83913a5076b208589e6c41fbaed16058' type='nonmerged|split' zip='sprglbpg.zip'>
     <part name='ic8.1'/>
     <part name='ic7.2'/>
     <part name='ic15.3'/>
@@ -39,20 +39,5 @@
     <part name='beastfp/82s126.3m'/>
     <part name='beastfp/7_f_the_glob.7f'/>
   </rom>
-  <rom index='0' md5='83913a5076b208589e6c41fbaed16058' type='split' zip='sprglbpg.zip'>
-    <part name='ic8.1'/>
-    <part name='ic7.2'/>
-    <part name='ic15.3'/>
-    <part name='ic14.4'/>
-    <part name='ic8.1'/>
-    <part name='ic7.2'/>
-    <part name='ic15.3'/>
-    <part name='ic14.4'/>
-    <part name='ic92.5'/>
-    <part name='ic92.5'/>
-    <part name='ic51.prm'/>
-    <part name='ic88.prm'/>
-    <part name='ic70.prm'/>
-    <part name='ic78.prm'/>
-  </rom>
+  
 </misterromdescription>

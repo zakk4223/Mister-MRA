@@ -16,7 +16,7 @@
     <part name='llandert/llvrom2.m3'/>
     <part name='llandert/llvrom0.r3'/>
   </rom>
-  <rom index='0' md5='cf0c1e13c8db22b390167a5bcd8315ee' type='split' zip='llandert.zip'>
+  <rom index='0' md5='cf0c1e13c8db22b390167a5bcd8315ee' type='split|nonmerged' zip='llandert.zip'>
     <part name='llprom0.de1'/>
     <part name='llprom1.c1'/>
     <part name='llprom2.b1'/>
@@ -25,13 +25,5 @@
     <part name='llvrom2.m3'/>
     <part name='llvrom0.r3'/>
   </rom>
-  <rom index='0' md5='cf0c1e13c8db22b390167a5bcd8315ee' type='nonmerged' zip='llandert.zip'>
-    <part name='llprom0.de1'/>
-    <part name='llprom1.c1'/>
-    <part name='llprom2.b1'/>
-    <part name='llvrom0.r3'/>
-    <part name='llvrom1.np3'/>
-    <part name='llvrom2.m3'/>
-    <part name='llvrom0.r3'/>
-  </rom>
+  
 </misterromdescription>

@@ -17,7 +17,7 @@
     <part name='magworm/11005-5.c5'/>
     <part name='magworma/prom.4p'/>
   </rom>
-  <rom index='0' md5='f987605a68bfb9ac513d509a1ef46097' type='split' zip='magworma.zip'>
+  <rom index='0' md5='f987605a68bfb9ac513d509a1ef46097' type='split|nonmerged' zip='magworma.zip'>
     <part name='h41.1d'/>
     <part name='h42.1e'/>
     <part name='h43.1fh'/>
@@ -26,22 +26,6 @@
     <part name='h45.7f'/>
     <part name='prom.4p'/>
   </rom>
-  <rom index='0' md5='f987605a68bfb9ac513d509a1ef46097' type='split' zip='magworma.zip'>
-    <part name='h41.1d'/>
-    <part name='h42.1e'/>
-    <part name='h43.1fh'/>
-    <part name='h44.1j'/>
-    <part name='h45.7hj'/>
-    <part name='h45.7f'/>
-    <part name='prom.4p'/>
-  </rom>
-  <rom index='0' md5='f987605a68bfb9ac513d509a1ef46097' type='nonmerged' zip='magworma.zip'>
-    <part name='h41.1d'/>
-    <part name='h42.1e'/>
-    <part name='h43.1fh'/>
-    <part name='h44.1j'/>
-    <part name='h45.7hj'/>
-    <part name='h45.7f'/>
-    <part name='prom.4p'/>
-  </rom>
+  
+  
 </misterromdescription>

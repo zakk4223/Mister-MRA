@@ -44,25 +44,7 @@
     <part name='136007.112' zip='digdug.zip'/>
     <part name='136007.113' zip='digdug.zip'/>
   </rom>
-  <rom index='0' md5='69a3c5ec67d349f2e7357a685c2cad74' type='split' zip='dzigzag.zip'>
-    <part name='136007.101'/>
-    <part name='136007.102'/>
-    <part name='136007.103'/>
-    <part name='zigzag4'/>
-    <part name='dd1.15' zip='digdug.zip'/>
-    <part name='zigzag12'/>
-    <part name='zigzag13'/>
-    <part name='dd1.12' zip='digdug.zip'/>
-    <part name='zigzag5'/>
-    <part name='dd1.7' zip='digdug.zip'/>
-    <part name='dd1.10b' zip='digdug.zip'/>
-    <part name='dd1.11' zip='digdug.zip'/>
-    <part name='zigzag8'/>
-    <part name='136007.110' zip='digdug.zip'/>
-    <part name='136007.111' zip='digdug.zip'/>
-    <part name='136007.112' zip='digdug.zip'/>
-    <part name='136007.113' zip='digdug.zip'/>
-  </rom>
+  
   <rom index='0' md5='69a3c5ec67d349f2e7357a685c2cad74' type='nonmerged' zip='dzigzag.zip'>
     <part name='136007.101'/>
     <part name='136007.102'/>

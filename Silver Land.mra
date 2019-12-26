@@ -6,7 +6,7 @@
   <manufacturer>Falcon</manufacturer>
   <category>Sports / Ski</category>
   <rbf>silverland</rbf>
-  <rom index='0' md5='b38a0b23d464a5dcf6a3335edfaab000' type='nonmerged' zip='silvland.zip'>
+  <rom index='0' md5='b38a0b23d464a5dcf6a3335edfaab000' type='nonmerged|split' zip='silvland.zip'>
     <part name='7.2r'/>
     <part name='8.1n'/>
     <part name='rp3.4f'/>
@@ -38,20 +38,5 @@
     <part name='silvland/2.6c'/>
     <part name='silvland/1.6a'/>
   </rom>
-  <rom index='0' md5='b38a0b23d464a5dcf6a3335edfaab000' type='split' zip='silvland.zip'>
-    <part name='7.2r'/>
-    <part name='8.1n'/>
-    <part name='rp3.4f'/>
-    <part name='10.2n'/>
-    <part name='11.1r'/>
-    <part name='12.2k'/>
-    <part name='7.2r'/>
-    <part name='8.1n'/>
-    <part name='6.6n'/>
-    <part name='5.6l'/>
-    <part name='4.6k'/>
-    <part name='3.6h'/>
-    <part name='2.6c'/>
-    <part name='1.6a'/>
-  </rom>
+  
 </misterromdescription>

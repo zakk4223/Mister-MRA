@@ -20,7 +20,7 @@
     <part name='moonaln/ca2.bin'/>
     <part name='moonaln/ca2.bin'/>
   </rom>
-  <rom index='0' md5='bca9c4acce8260d39eaa1a54c8ca0b54' type='split' zip='moonaln.zip'>
+  <rom index='0' md5='bca9c4acce8260d39eaa1a54c8ca0b54' type='split|nonmerged' zip='moonaln.zip'>
     <part name='galx.u'/>
     <part name='prg2.bin'/>
     <part name='prg3.bin'/>
@@ -34,18 +34,5 @@
     <part name='ca2.bin'/>
     <part name='ca2.bin'/>
   </rom>
-  <rom index='0' md5='bca9c4acce8260d39eaa1a54c8ca0b54' type='nonmerged' zip='moonaln.zip'>
-    <part name='galx.u'/>
-    <part name='prg2.bin'/>
-    <part name='prg3.bin'/>
-    <part name='superg.y'/>
-    <part name='prg5.bin'/>
-    <part name='prg5.bin'/>
-    <part name='prg5.bin'/>
-    <part name='prg5.bin'/>
-    <part name='ca1.bin'/>
-    <part name='ca1.bin'/>
-    <part name='ca2.bin'/>
-    <part name='ca2.bin'/>
-  </rom>
+  
 </misterromdescription>

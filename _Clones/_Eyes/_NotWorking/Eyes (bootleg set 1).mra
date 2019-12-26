@@ -42,24 +42,7 @@
     <part name='82s126.3m' zip='eyes.zip'/>
     <part name='7051.bin'/>
   </rom>
-  <rom index='0' md5='1368999ecfc1973fb0af0ba1d3004fb0' type='split' zip='eyesb.zip'>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='4.bin'/>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='4.bin'/>
-    <part name='9.bin'/>
-    <part name='10.bin'/>
-    <part name='10.bin'/>
-    <part name='10.bin'/>
-    <part name='82s126.1m' zip='eyes.zip'/>
-    <part name='82s129.4a' zip='eyes.zip'/>
-    <part name='82s126.3m' zip='eyes.zip'/>
-    <part name='7051.bin'/>
-  </rom>
+  
   <rom index='0' md5='1368999ecfc1973fb0af0ba1d3004fb0' type='nonmerged' zip='eyesb.zip'>
     <part name='1.bin'/>
     <part name='2.bin'/>

@@ -19,7 +19,7 @@
     <part name='galap1/galmidw.1k'/>
     <part name='galap1/galmidw.1k'/>
   </rom>
-  <rom index='0' md5='0510da509ee29666719defd8efae1700' type='split' zip='superg.zip'>
+  <rom index='0' md5='0510da509ee29666719defd8efae1700' type='split|nonmerged' zip='superg.zip'>
     <part name='7f.bin'/>
     <part name='superg.w'/>
     <part name='superg.y'/>
@@ -32,17 +32,5 @@
     <part name='galmidw.1k'/>
     <part name='galmidw.1k'/>
   </rom>
-  <rom index='0' md5='0510da509ee29666719defd8efae1700' type='nonmerged' zip='superg.zip'>
-    <part name='7f.bin'/>
-    <part name='superg.w'/>
-    <part name='superg.y'/>
-    <part name='superg.z'/>
-    <part name='superg.z'/>
-    <part name='superg.z'/>
-    <part name='superg.z'/>
-    <part name='galmidw.1j'/>
-    <part name='galmidw.1j'/>
-    <part name='galmidw.1k'/>
-    <part name='galmidw.1k'/>
-  </rom>
+  
 </misterromdescription>

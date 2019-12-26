@@ -96,34 +96,5 @@
     <part name='82s126.3m' zip='crush.zip'/>
     <part name='82s123.7f' zip='crush.zip'/>
   </rom>
-  <rom index='0' md5='f8b85c0ec812b2a9d8ff7d78d2f7db25' type='split' zip='crush2.zip'>
-    <part name='tp1'/>
-    <part name='tp5a'/>
-    <part name='tp2'/>
-    <part name='tp6'/>
-    <part name='tp3'/>
-    <part name='tp7'/>
-    <part name='tp4'/>
-    <part name='tp8'/>
-    <part name='tp1'/>
-    <part name='tp5a'/>
-    <part name='tp2'/>
-    <part name='tp6'/>
-    <part name='tp3'/>
-    <part name='tp7'/>
-    <part name='tp4'/>
-    <part name='tp8'/>
-    <part name='tpa'/>
-    <part name='tpc'/>
-    <part name='tpb'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='82s126.1m' zip='crush.zip'/>
-    <part name='2s140.4a' zip='crush.zip'/>
-    <part name='82s126.3m' zip='crush.zip'/>
-    <part name='82s123.7f' zip='crush.zip'/>
-  </rom>
+  
 </misterromdescription>

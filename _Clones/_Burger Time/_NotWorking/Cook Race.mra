@@ -18,7 +18,7 @@
     <part name='cookrace/5f.5'/>
     <part name='cookrace/6f.6'/>
   </rom>
-  <rom index='0' md5='bacaad598f97a393f6bc8783601c7a98' type='split' zip='cookrace.zip'>
+  <rom index='0' md5='bacaad598f97a393f6bc8783601c7a98' type='split|nonmerged' zip='cookrace.zip'>
     <part name='1f.1'/>
     <part name='2f.2'/>
     <part name='m8.7'/>
@@ -29,26 +29,6 @@
     <part name='5f.5'/>
     <part name='6f.6'/>
   </rom>
-  <rom index='0' md5='bacaad598f97a393f6bc8783601c7a98' type='split' zip='cookrace.zip'>
-    <part name='1f.1'/>
-    <part name='2f.2'/>
-    <part name='m8.7'/>
-    <part name='m7.8'/>
-    <part name='m6.9'/>
-    <part name='2f.3'/>
-    <part name='4f.4'/>
-    <part name='5f.5'/>
-    <part name='6f.6'/>
-  </rom>
-  <rom index='0' md5='bacaad598f97a393f6bc8783601c7a98' type='nonmerged' zip='cookrace.zip'>
-    <part name='1f.1'/>
-    <part name='2f.2'/>
-    <part name='m8.7'/>
-    <part name='m7.8'/>
-    <part name='m6.9'/>
-    <part name='2f.3'/>
-    <part name='4f.4'/>
-    <part name='5f.5'/>
-    <part name='6f.6'/>
-  </rom>
+  
+  
 </misterromdescription>

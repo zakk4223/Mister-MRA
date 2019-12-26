@@ -20,7 +20,7 @@
     <part name='spactrai/7cen.bin'/>
     <part name='spactrai/7cen.bin'/>
   </rom>
-  <rom index='0' md5='31c8739737b7801f08fcdcec1bd85b8c' type='split' zip='spactrai.zip'>
+  <rom index='0' md5='31c8739737b7801f08fcdcec1bd85b8c' type='split|nonmerged' zip='spactrai.zip'>
     <part name='1cen.bin'/>
     <part name='2cen.bin'/>
     <part name='3cen.bin'/>
@@ -32,16 +32,5 @@
     <part name='7cen.bin'/>
     <part name='7cen.bin'/>
   </rom>
-  <rom index='0' md5='31c8739737b7801f08fcdcec1bd85b8c' type='nonmerged' zip='spactrai.zip'>
-    <part name='1cen.bin'/>
-    <part name='2cen.bin'/>
-    <part name='3cen.bin'/>
-    <part name='3cen.bin'/>
-    <part name='3cen.bin'/>
-    <part name='3cen.bin'/>
-    <part name='6cen.bin'/>
-    <part name='6cen.bin'/>
-    <part name='7cen.bin'/>
-    <part name='7cen.bin'/>
-  </rom>
+  
 </misterromdescription>

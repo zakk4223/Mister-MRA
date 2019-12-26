@@ -20,12 +20,7 @@
     <part name='cen-21.3c'/>
     <part name='136001-213.p4' zip='centiped.zip'/>
   </rom>
-  <rom index='0' md5='1789ddf40cf0c7387b9d38399b16eba4' type='split' zip='centipedj.zip'>
-    <part name='cen-00.8e'/>
-    <part name='cen-20.3b'/>
-    <part name='cen-21.3c'/>
-    <part name='136001-213.p4' zip='centiped.zip'/>
-  </rom>
+  
   <rom index='0' md5='1789ddf40cf0c7387b9d38399b16eba4' type='nonmerged' zip='centipedj.zip'>
     <part name='cen-00.8e'/>
     <part name='cen-20.3b'/>

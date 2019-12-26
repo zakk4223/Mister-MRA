@@ -1,32 +1,14 @@
 <misterromdescription>
-  <name>
-  Sinistar (revision 2)
- </name>
-  <mameversion>
-  0216
- </mameversion>
-  <setname>
-  sinistar
- </setname>
-  <mratimestamp>
-  201911270000
- </mratimestamp>
-  <year>
-  1982
- </year>
-  <manufacturer>
-  Williams
- </manufacturer>
-  <category>
-  Space / Asteroids
- </category>
-  <category>
-  Space / Fighter
- </category>
-  <rbf>
-  sinistar
- </rbf>
-  <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='merged|nonmerged' zip='sinistar.zip'>
+  <name>Sinistar (revision 2)</name>
+  <mameversion>0216</mameversion>
+  <setname>sinistar</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Williams</manufacturer>
+  <category>Space / Asteroids</category>
+  <category>Space / Fighter</category>
+  <rbf>sinistar</rbf>
+  <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='merged' zip='sinistar.zip'>
     <part name='sinistar.10'/>
     <part name='sinistar.10'/>
     <part name='sinistar2/sinrev2.11'/>
@@ -42,23 +24,6 @@
     <part name='sinistar.snd'/>
     <part name='decoder.4'/>
     <part name='decoder.6'/>
-  </rom>
-  <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='split' zip='sinistar2.zip'>
-    <part name='sinistar.10' zip='sinistar.zip'/>
-    <part name='sinistar.10' zip='sinistar.zip'/>
-    <part name='sinrev2.11'/>
-    <part name='sinistar.01' zip='sinistar.zip'/>
-    <part name='sinistar.02' zip='sinistar.zip'/>
-    <part name='sinistar.03' zip='sinistar.zip'/>
-    <part name='sinistar.04' zip='sinistar.zip'/>
-    <part name='sinistar.05' zip='sinistar.zip'/>
-    <part name='sinistar.06' zip='sinistar.zip'/>
-    <part name='sinistar.07' zip='sinistar.zip'/>
-    <part name='sinrev2.08'/>
-    <part name='sinistar.09' zip='sinistar.zip'/>
-    <part name='sinistar.snd' zip='sinistar.zip'/>
-    <part name='decoder.4' zip='sinistar.zip'/>
-    <part name='decoder.6' zip='sinistar.zip'/>
   </rom>
   <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='split' zip='sinistar2.zip'>
     <part name='sinistar.10' zip='sinistar.zip'/>

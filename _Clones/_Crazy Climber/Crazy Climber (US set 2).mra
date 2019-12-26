@@ -36,21 +36,7 @@
     <part name='cc13' zip='cclimber.zip'/>
     <part name='cc12' zip='cclimber.zip'/>
   </rom>
-  <rom index='0' md5='76c0010090975d37ff47d7ebd4a596a9' type='split' zip='cclimbera.zip'>
-    <part name='cc11' zip='cclimber.zip'/>
-    <part name='10'/>
-    <part name='cc09' zip='cclimber.zip'/>
-    <part name='cc08' zip='cclimber.zip'/>
-    <part name='7'/>
-    <part name='cc06' zip='cclimber.zip'/>
-    <part name='cc05' zip='cclimber.zip'/>
-    <part name='cc04' zip='cclimber.zip'/>
-    <part name='cc03' zip='cclimber.zip'/>
-    <part name='cc02' zip='cclimber.zip'/>
-    <part name='cc01' zip='cclimber.zip'/>
-    <part name='cc13' zip='cclimber.zip'/>
-    <part name='cc12' zip='cclimber.zip'/>
-  </rom>
+  
   <rom index='0' md5='76c0010090975d37ff47d7ebd4a596a9' type='nonmerged' zip='cclimbera.zip'>
     <part name='cc11'/>
     <part name='10'/>

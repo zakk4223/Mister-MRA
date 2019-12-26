@@ -96,34 +96,5 @@
     <part name='82s126.3m' zip='crush.zip'/>
     <part name='82s123.7f' zip='crush.zip'/>
   </rom>
-  <rom index='0' md5='afaa19f5b588dfb34706ce71a788e1cc' type='split' zip='paintrlr.zip'>
-    <part name='paintrlr.1'/>
-    <part name='paintrlr.5'/>
-    <part name='paintrlr.2'/>
-    <part name='paintrlr.6'/>
-    <part name='paintrlr.3'/>
-    <part name='paintrlr.7'/>
-    <part name='paintrlr.4'/>
-    <part name='paintrlr.8'/>
-    <part name='paintrlr.1'/>
-    <part name='paintrlr.5'/>
-    <part name='paintrlr.2'/>
-    <part name='paintrlr.6'/>
-    <part name='paintrlr.3'/>
-    <part name='paintrlr.7'/>
-    <part name='paintrlr.4'/>
-    <part name='paintrlr.8'/>
-    <part name='tpa'/>
-    <part name='mbrush.5h'/>
-    <part name='mbrush.5f'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='82s126.1m' zip='crush.zip'/>
-    <part name='2s140.4a' zip='crush.zip'/>
-    <part name='82s126.3m' zip='crush.zip'/>
-    <part name='82s123.7f' zip='crush.zip'/>
-  </rom>
+  
 </misterromdescription>

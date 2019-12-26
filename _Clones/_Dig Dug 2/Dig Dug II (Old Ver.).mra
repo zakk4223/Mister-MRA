@@ -33,21 +33,7 @@
     <part name='d21-3.3m' zip='digdug2.zip'/>
     <part name='d21-5.5b' zip='digdug2.zip'/>
   </rom>
-  <rom index='0' md5='58c7ee6f2311602d342644bd577b41ca' type='split' zip='digdug2o.zip'>
-    <part name='d21_3.1d'/>
-    <part name='d21_1.1b'/>
-    <part name='d21_6.3m' zip='digdug2.zip'/>
-    <part name='d21_7.3n' zip='digdug2.zip'/>
-    <part name='d21_4.1k' zip='digdug2.zip'/>
-    <part name='d21_5.3b' zip='digdug2.zip'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d21-6.4c' zip='digdug2.zip'/>
-    <part name='d21-3.3m' zip='digdug2.zip'/>
-    <part name='d21-5.5b' zip='digdug2.zip'/>
-  </rom>
+  
   <rom index='0' md5='58c7ee6f2311602d342644bd577b41ca' type='nonmerged' zip='digdug2o.zip'>
     <part name='d21_3.1d'/>
     <part name='d21_1.1b'/>

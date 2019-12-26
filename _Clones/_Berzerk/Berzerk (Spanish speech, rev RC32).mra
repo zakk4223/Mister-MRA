@@ -20,7 +20,7 @@
     <part name='berzerkg/berzerk_rc32_1c.rom0.1c'/>
     <part name='berzerks/berzerk_rvos_1c.1c'/>
   </rom>
-  <rom index='0' md5='c08dd5e37375798a1a02e2608078e54d' type='split' zip='berzerks.zip'>
+  <rom index='0' md5='c08dd5e37375798a1a02e2608078e54d' type='split|nonmerged' zip='berzerks.zip'>
     <part name='berzerk_rc32_1d.rom1.1d'/>
     <part name='berzerk_rc32_3d.rom2.3d'/>
     <part name='berzerk_rc32_5d.rom3.5d'/>
@@ -33,30 +33,6 @@
     <part name='berzerk_rc32_1c.rom0.1c'/>
     <part name='berzerk_rvos_1c.1c'/>
   </rom>
-  <rom index='0' md5='c08dd5e37375798a1a02e2608078e54d' type='split' zip='berzerks.zip'>
-    <part name='berzerk_rc32_1d.rom1.1d'/>
-    <part name='berzerk_rc32_3d.rom2.3d'/>
-    <part name='berzerk_rc32_5d.rom3.5d'/>
-    <part name='berzerk_rc32_6d.rom4.6d'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerk_rvos_1c.1c'/>
-  </rom>
-  <rom index='0' md5='c08dd5e37375798a1a02e2608078e54d' type='nonmerged' zip='berzerks.zip'>
-    <part name='berzerk_rc32_1d.rom1.1d'/>
-    <part name='berzerk_rc32_3d.rom2.3d'/>
-    <part name='berzerk_rc32_5d.rom3.5d'/>
-    <part name='berzerk_rc32_6d.rom4.6d'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerk_rvos_1c.1c'/>
-  </rom>
+  
+  
 </misterromdescription>

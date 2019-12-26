@@ -34,6 +34,9 @@
     <part name='xvi_9.2a' zip='xevious.zip'/>
     <part name='xvi_10.2b' zip='xevious.zip'/>
     <part name='xvi_11.2c' zip='xevious.zip'/>
+    <part name='50xx.bin' zip='namco50.zip'/>
+    <part name='51xx.bin' zip='namco51.zip'/>
+    <part name='54xx.bin' zip='namco54.zip'/>
   </rom>
   <rom index='0' md5='cee6c8a29348f57877bdd09c14d07d66' type='nonmerged' zip='xeviousa.zip'>
     <part name='xea-1m-a.bin'/>
@@ -50,5 +53,8 @@
     <part name='xvi_9.2a'/>
     <part name='xvi_10.2b'/>
     <part name='xvi_11.2c'/>
+    <part name='50xx.bin' zip='namco50.zip'/>
+    <part name='51xx.bin' zip='namco51.zip'/>
+    <part name='54xx.bin' zip='namco54.zip'/>
   </rom>
 </misterromdescription>

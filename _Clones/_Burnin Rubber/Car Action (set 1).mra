@@ -26,16 +26,7 @@
     <part name='bnj10f.bin' zip='brubber.zip'/>
     <part name='bnj6c.bin' zip='brubber.zip'/>
   </rom>
-  <rom index='0' md5='cb87ce6dc5ee0765e2b9980768c064c3' type='split' zip='caractn.zip'>
-    <part name='brubber.12c' zip='brubber.zip'/>
-    <part name='c6.12d'/>
-    <part name='c0.4e'/>
-    <part name='c1.4f'/>
-    <part name='c2.4h'/>
-    <part name='bnj10e.bin' zip='brubber.zip'/>
-    <part name='bnj10f.bin' zip='brubber.zip'/>
-    <part name='bnj6c.bin' zip='brubber.zip'/>
-  </rom>
+  
   <rom index='0' md5='cb87ce6dc5ee0765e2b9980768c064c3' type='nonmerged' zip='caractn.zip'>
     <part name='c7.12c'/>
     <part name='c6.12d'/>

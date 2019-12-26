@@ -20,7 +20,7 @@
     <part name='kamikazp/kk7pmc.bin'/>
     <part name='kamikazp/kk7pmc.bin'/>
   </rom>
-  <rom index='0' md5='2211cc88e77ad661039eaaf6e835707d' type='split' zip='kamikazp.zip'>
+  <rom index='0' md5='2211cc88e77ad661039eaaf6e835707d' type='split|nonmerged' zip='kamikazp.zip'>
     <part name='kk1pmc.bin'/>
     <part name='kk2pmc.bin'/>
     <part name='kk3pmc.bin'/>
@@ -34,18 +34,5 @@
     <part name='kk7pmc.bin'/>
     <part name='kk7pmc.bin'/>
   </rom>
-  <rom index='0' md5='2211cc88e77ad661039eaaf6e835707d' type='nonmerged' zip='kamikazp.zip'>
-    <part name='kk1pmc.bin'/>
-    <part name='kk2pmc.bin'/>
-    <part name='kk3pmc.bin'/>
-    <part name='kk4pmc.bin'/>
-    <part name='kk5pmc.bin'/>
-    <part name='kk5pmc.bin'/>
-    <part name='kk5pmc.bin'/>
-    <part name='kk5pmc.bin'/>
-    <part name='kk8pmc.bin'/>
-    <part name='kk8pmc.bin'/>
-    <part name='kk7pmc.bin'/>
-    <part name='kk7pmc.bin'/>
-  </rom>
+  
 </misterromdescription>

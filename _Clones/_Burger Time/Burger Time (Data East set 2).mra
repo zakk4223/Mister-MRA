@@ -41,40 +41,8 @@
     <part name='ab03.6b' zip='btime.zip'/>
     <part name='ab14.12h' zip='btime.zip'/>
   </rom>
-  <rom index='0' md5='bc99291492e72ea99c6f0b958c00eeab' type='split' zip='btime2.zip'>
-    <part name='aa04.9b2'/>
-    <part name='aa06.13b' zip='btime.zip'/>
-    <part name='aa05.10b' zip='btime.zip'/>
-    <part name='aa07.15b' zip='btime.zip'/>
-    <part name='aa12.7k' zip='btime.zip'/>
-    <part name='ab13.9k' zip='btime.zip'/>
-    <part name='ab10.10k' zip='btime.zip'/>
-    <part name='ab11.12k' zip='btime.zip'/>
-    <part name='aa8.13k' zip='btime.zip'/>
-    <part name='ab9.15k' zip='btime.zip'/>
-    <part name='ab00.1b' zip='btime.zip'/>
-    <part name='ab01.3b' zip='btime.zip'/>
-    <part name='ab02.4b' zip='btime.zip'/>
-    <part name='ab03.6b' zip='btime.zip'/>
-    <part name='ab14.12h' zip='btime.zip'/>
-  </rom>
-  <rom index='0' md5='bc99291492e72ea99c6f0b958c00eeab' type='split' zip='btime2.zip'>
-    <part name='aa04.9b2'/>
-    <part name='aa06.13b' zip='btime.zip'/>
-    <part name='aa05.10b' zip='btime.zip'/>
-    <part name='aa07.15b' zip='btime.zip'/>
-    <part name='aa12.7k' zip='btime.zip'/>
-    <part name='ab13.9k' zip='btime.zip'/>
-    <part name='ab10.10k' zip='btime.zip'/>
-    <part name='ab11.12k' zip='btime.zip'/>
-    <part name='aa8.13k' zip='btime.zip'/>
-    <part name='ab9.15k' zip='btime.zip'/>
-    <part name='ab00.1b' zip='btime.zip'/>
-    <part name='ab01.3b' zip='btime.zip'/>
-    <part name='ab02.4b' zip='btime.zip'/>
-    <part name='ab03.6b' zip='btime.zip'/>
-    <part name='ab14.12h' zip='btime.zip'/>
-  </rom>
+  
+  
   <rom index='0' md5='bc99291492e72ea99c6f0b958c00eeab' type='nonmerged' zip='btime2.zip'>
     <part name='aa04.9b2'/>
     <part name='aa06.13b'/>

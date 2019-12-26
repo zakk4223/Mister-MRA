@@ -21,7 +21,7 @@
     <part name='ccboot/cc13j.bin'/>
     <part name='ccboot/cc12j.bin'/>
   </rom>
-  <rom index='0' md5='ad4e064b531dbc266cf61df6a4f749ae' type='split' zip='cclimbroper.zip'>
+  <rom index='0' md5='ad4e064b531dbc266cf61df6a4f749ae' type='split|nonmerged' zip='cclimbroper.zip'>
     <part name='cc5-2532.cpu'/>
     <part name='cc4-2532.cpu'/>
     <part name='cc3-2532.cpu'/>
@@ -36,34 +36,6 @@
     <part name='cc7-2532.cpu'/>
     <part name='cc6-2532.cpu'/>
   </rom>
-  <rom index='0' md5='ad4e064b531dbc266cf61df6a4f749ae' type='split' zip='cclimbroper.zip'>
-    <part name='cc5-2532.cpu'/>
-    <part name='cc4-2532.cpu'/>
-    <part name='cc3-2532.cpu'/>
-    <part name='cc2-2532.cpu'/>
-    <part name='cc1-2532.cpu'/>
-    <part name='cc13-2716.cpu'/>
-    <part name='cc12-2716.cpu'/>
-    <part name='cc11-2716.cpu'/>
-    <part name='cc10-2716.cpu'/>
-    <part name='cc9-2716.cpu'/>
-    <part name='cc8-2716.cpu'/>
-    <part name='cc7-2532.cpu'/>
-    <part name='cc6-2532.cpu'/>
-  </rom>
-  <rom index='0' md5='ad4e064b531dbc266cf61df6a4f749ae' type='nonmerged' zip='cclimbroper.zip'>
-    <part name='cc5-2532.cpu'/>
-    <part name='cc4-2532.cpu'/>
-    <part name='cc3-2532.cpu'/>
-    <part name='cc2-2532.cpu'/>
-    <part name='cc1-2532.cpu'/>
-    <part name='cc13-2716.cpu'/>
-    <part name='cc12-2716.cpu'/>
-    <part name='cc11-2716.cpu'/>
-    <part name='cc10-2716.cpu'/>
-    <part name='cc9-2716.cpu'/>
-    <part name='cc8-2716.cpu'/>
-    <part name='cc7-2532.cpu'/>
-    <part name='cc6-2532.cpu'/>
-  </rom>
+  
+  
 </misterromdescription>

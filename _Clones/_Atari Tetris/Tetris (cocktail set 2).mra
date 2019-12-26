@@ -7,20 +7,11 @@
     <part name='atetrisc2/136066-1102.45f'/>
     <part name='atetrisc/136066-1103.35a'/>
   </rom>
-  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='split' zip='atetrisc2.zip'>
+  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='split|nonmerged' zip='atetrisc2.zip'>
     <part name='136066-1102.45f'/>
     <part name='136066-1103.35a'/>
   </rom>
-  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='nonmerged' zip='atetrisc2.zip'>
-    <part name='136066-1102.45f'/>
-    <part name='136066-1103.35a'/>
-  </rom>
-  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='split' zip='atetrisc2.zip'>
-    <part name='136066-1102.45f'/>
-    <part name='136066-1103.35a'/>
-  </rom>
-  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='nonmerged' zip='atetrisc2.zip'>
-    <part name='136066-1102.45f'/>
-    <part name='136066-1103.35a'/>
-  </rom>
+  
+  
+  
 </misterromdescription>

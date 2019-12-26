@@ -36,36 +36,8 @@
     <part name='decoder.2' zip='defender.zip'/>
     <part name='decoder.3' zip='defender.zip'/>
   </rom>
-  <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='split' zip='defenderw.zip'>
-    <part name='rom1.bin'/>
-    <part name='rom2.bin'/>
-    <part name='rom3.bin'/>
-    <part name='rom9.bin'/>
-    <part name='rom12.bin'/>
-    <part name='rom8.bin'/>
-    <part name='rom11.bin'/>
-    <part name='rom7.bin'/>
-    <part name='rom10.bin'/>
-    <part name='rom6.bin'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
-  <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='split' zip='defenderw.zip'>
-    <part name='rom1.bin'/>
-    <part name='rom2.bin'/>
-    <part name='rom3.bin'/>
-    <part name='rom9.bin'/>
-    <part name='rom12.bin'/>
-    <part name='rom8.bin'/>
-    <part name='rom11.bin'/>
-    <part name='rom7.bin'/>
-    <part name='rom10.bin'/>
-    <part name='rom6.bin'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
+  
+  
   <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='nonmerged' zip='defenderw.zip'>
     <part name='rom1.bin'/>
     <part name='rom2.bin'/>

@@ -17,7 +17,7 @@
     <part name='magworm/11005-5.c5'/>
     <ppart fixme='proms:0' name='136001-213.p4'/>
   </rom>
-  <rom index='0' md5='68a77bdca85845e11907c92721eb9c7c' type='split' zip='magworm.zip'>
+  <rom index='0' md5='68a77bdca85845e11907c92721eb9c7c' type='split|nonmerged' zip='magworm.zip'>
     <part name='11005-0.k0'/>
     <part name='11005-1.k1'/>
     <part name='11005-2.k2'/>
@@ -25,20 +25,6 @@
     <part name='11005-4.c4'/>
     <part name='11005-5.c5'/>
   </rom>
-  <rom index='0' md5='68a77bdca85845e11907c92721eb9c7c' type='split' zip='magworm.zip'>
-    <part name='11005-0.k0'/>
-    <part name='11005-1.k1'/>
-    <part name='11005-2.k2'/>
-    <part name='11005-3p.k3'/>
-    <part name='11005-4.c4'/>
-    <part name='11005-5.c5'/>
-  </rom>
-  <rom index='0' md5='68a77bdca85845e11907c92721eb9c7c' type='nonmerged' zip='magworm.zip'>
-    <part name='11005-0.k0'/>
-    <part name='11005-1.k1'/>
-    <part name='11005-2.k2'/>
-    <part name='11005-3p.k3'/>
-    <part name='11005-4.c4'/>
-    <part name='11005-5.c5'/>
-  </rom>
+  
+  
 </misterromdescription>

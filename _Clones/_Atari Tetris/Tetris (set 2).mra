@@ -15,12 +15,6 @@
     <part name='d1'/>
     <part name='136066-1101.35a'/>
   </rom>
-  <rom index='0' md5='8a183ea4710afa65f3f0157fe3f14559' type='split' zip='atetrisa.zip'>
-    <part name='d1'/>
-    <part name='136066-1101.35a' zip='atetris.zip'/>
-  </rom>
-  <rom index='0' md5='8a183ea4710afa65f3f0157fe3f14559' type='nonmerged' zip='atetrisa.zip'>
-    <part name='d1'/>
-    <part name='136066-1101.35a'/>
-  </rom>
+  
+  
 </misterromdescription>

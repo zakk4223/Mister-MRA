@@ -20,7 +20,7 @@
     <part name='batman2/10.bin'/>
     <part name='batman2/12.bin'/>
   </rom>
-  <rom index='0' md5='624cb5b5fe38661abf98eeddba672cf7' type='split' zip='batman2.zip'>
+  <rom index='0' md5='624cb5b5fe38661abf98eeddba672cf7' type='split|nonmerged' zip='batman2.zip'>
     <part name='01.bin'/>
     <part name='02.bin'/>
     <part name='03.bin'/>
@@ -34,18 +34,5 @@
     <part name='10.bin'/>
     <part name='12.bin'/>
   </rom>
-  <rom index='0' md5='624cb5b5fe38661abf98eeddba672cf7' type='nonmerged' zip='batman2.zip'>
-    <part name='01.bin'/>
-    <part name='02.bin'/>
-    <part name='03.bin'/>
-    <part name='04.bin'/>
-    <part name='05.bin'/>
-    <part name='06.bin'/>
-    <part name='07.bin'/>
-    <part name='08.bin'/>
-    <part name='09.bin'/>
-    <part name='11.bin'/>
-    <part name='10.bin'/>
-    <part name='12.bin'/>
-  </rom>
+  
 </misterromdescription>

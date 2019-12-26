@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>DonkeyKong</rbf>
-  <rom index='0' md5='fca757096885f022602a641a1b6eab3a' type='merged' zip='dkong.zip'>
+  <rom index='0' md5='960ae8b48b75ddbfbe5306f2c74254f6' type='merged' zip='dkong.zip'>
     <part name='dkongj/c_5f_b.bin'/>
     <part name='dkongj/5g.cpu'/>
     <part name='dkongj/5h.cpu'/>
@@ -2590,88 +2590,9 @@ ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
       </part>
   </rom>
-  <rom index='0' md5='fca757096885f022602a641a1b6eab3a' type='split' zip='dkongj.zip'>
-    <part name='c_5f_b.bin'/>
-    <part name='5g.cpu'/>
-    <part name='5h.cpu'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5h_b.bin' zip='dkong.zip'/>
-    <part name='v_5h_b.bin' zip='dkong.zip'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='l_4m_b.bin' zip='dkong.zip'/>
-    <part name='l_4m_b.bin' zip='dkong.zip'/>
-    <part name='l_4n_b.bin' zip='dkong.zip'/>
-    <part name='l_4n_b.bin' zip='dkong.zip'/>
-    <part name='l_4r_b.bin' zip='dkong.zip'/>
-    <part name='l_4r_b.bin' zip='dkong.zip'/>
-    <part name='l_4s_b.bin' zip='dkong.zip'/>
-    <part name='l_4s_b.bin' zip='dkong.zip'/>
-    <part name='s_3i_b.bin' zip='dkong.zip'/>
-    <part name='s_3j_b.bin' zip='dkong.zip'/>
-    <part name='c-2k.bpr' zip='dkong.zip'/>
-    <part name='c-2j.bpr' zip='dkong.zip'/>
-    <part name='v-5e.bpr' zip='dkong.zip'/>
-  </rom>
-  <rom index='0' md5='fca757096885f022602a641a1b6eab3a' type='nonmerged' zip='dkongj.zip'>
-    <part name='c_5f_b.bin'/>
-    <part name='5g.cpu'/>
-    <part name='5h.cpu'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5h_b.bin'/>
-    <part name='v_5h_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='l_4m_b.bin'/>
-    <part name='l_4m_b.bin'/>
-    <part name='l_4n_b.bin'/>
-    <part name='l_4n_b.bin'/>
-    <part name='l_4r_b.bin'/>
-    <part name='l_4r_b.bin'/>
-    <part name='l_4s_b.bin'/>
-    <part name='l_4s_b.bin'/>
-    <part name='s_3i_b.bin'/>
-    <part name='s_3j_b.bin'/>
-    <part name='c-2k.bpr'/>
-    <part name='c-2j.bpr'/>
-    <part name='v-5e.bpr'/>
-  </rom>
-  <rom index='0' md5='fca757096885f022602a641a1b6eab3a' type='split' zip='dkongj.zip'>
-    <part name='c_5f_b.bin'/>
-    <part name='5g.cpu'/>
-    <part name='5h.cpu'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5h_b.bin' zip='dkong.zip'/>
-    <part name='v_5h_b.bin' zip='dkong.zip'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='l_4m_b.bin' zip='dkong.zip'/>
-    <part name='l_4m_b.bin' zip='dkong.zip'/>
-    <part name='l_4n_b.bin' zip='dkong.zip'/>
-    <part name='l_4n_b.bin' zip='dkong.zip'/>
-    <part name='l_4r_b.bin' zip='dkong.zip'/>
-    <part name='l_4r_b.bin' zip='dkong.zip'/>
-    <part name='l_4s_b.bin' zip='dkong.zip'/>
-    <part name='l_4s_b.bin' zip='dkong.zip'/>
-    <part name='s_3i_b.bin' zip='dkong.zip'/>
-    <part name='s_3j_b.bin' zip='dkong.zip'/>
-    <part name='c-2k.bpr' zip='dkong.zip'/>
-    <part name='c-2j.bpr' zip='dkong.zip'/>
-    <part name='v-5e.bpr' zip='dkong.zip'/>
-    <part repeat='3328'>00</part>
-    <part>
+  
+  
+<rom index='0' md5='960ae8b48b75ddbfbe5306f2c74254f6' type='split' zip='dkongj.zip'><part name='c_5f_b.bin'/><part name='5g.cpu'/><part name='5h.cpu'/><part name='c_5k_b.bin'/><part name='c_5k_b.bin'/><part name='c_5k_b.bin'/><part name='v_5k_b.bin'/><part name='v_5k_b.bin'/><part name='v_5h_b.bin' zip='dkong.zip'/><part name='v_5h_b.bin' zip='dkong.zip'/><part name='c_5k_b.bin'/><part name='c_5k_b.bin'/><part name='l_4m_b.bin' zip='dkong.zip'/><part name='l_4m_b.bin' zip='dkong.zip'/><part name='l_4n_b.bin' zip='dkong.zip'/><part name='l_4n_b.bin' zip='dkong.zip'/><part name='l_4r_b.bin' zip='dkong.zip'/><part name='l_4r_b.bin' zip='dkong.zip'/><part name='l_4s_b.bin' zip='dkong.zip'/><part name='l_4s_b.bin' zip='dkong.zip'/><part name='s_3i_b.bin' zip='dkong.zip'/><part name='s_3j_b.bin' zip='dkong.zip'/><part name='c-2k.bpr' zip='dkong.zip'/><part name='c-2j.bpr' zip='dkong.zip'/><part name='v-5e.bpr' zip='dkong.zip'/><part repeat='3328'>00</part><part>
 80 80 80 80 80 80 7f 7f 7f 7f 7f 7f 7f 80 80 80 
 80 80 80 7f 7f 7f 7f 7f 7f 7f 7f 80 80 80 80 80 
 7f 80 80 80 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 80 
@@ -5232,36 +5153,7 @@ ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
-      </part>
-  </rom>
-  <rom index='0' md5='fca757096885f022602a641a1b6eab3a' type='nonmerged' zip='dkongj.zip'>
-    <part name='c_5f_b.bin'/>
-    <part name='5g.cpu'/>
-    <part name='5h.cpu'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5k_b.bin'/>
-    <part name='v_5h_b.bin'/>
-    <part name='v_5h_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='c_5k_b.bin'/>
-    <part name='l_4m_b.bin'/>
-    <part name='l_4m_b.bin'/>
-    <part name='l_4n_b.bin'/>
-    <part name='l_4n_b.bin'/>
-    <part name='l_4r_b.bin'/>
-    <part name='l_4r_b.bin'/>
-    <part name='l_4s_b.bin'/>
-    <part name='l_4s_b.bin'/>
-    <part name='s_3i_b.bin'/>
-    <part name='s_3j_b.bin'/>
-    <part name='c-2k.bpr'/>
-    <part name='c-2j.bpr'/>
-    <part name='v-5e.bpr'/>
-    <part repeat='3328'>00</part>
-    <part>
+      </part></rom><rom index='0' md5='960ae8b48b75ddbfbe5306f2c74254f6' type='nonmerged' zip='dkongj.zip'><part name='c_5f_b.bin'/><part name='5g.cpu'/><part name='5h.cpu'/><part name='c_5k_b.bin'/><part name='c_5k_b.bin'/><part name='c_5k_b.bin'/><part name='v_5k_b.bin'/><part name='v_5k_b.bin'/><part name='v_5h_b.bin'/><part name='v_5h_b.bin'/><part name='c_5k_b.bin'/><part name='c_5k_b.bin'/><part name='l_4m_b.bin'/><part name='l_4m_b.bin'/><part name='l_4n_b.bin'/><part name='l_4n_b.bin'/><part name='l_4r_b.bin'/><part name='l_4r_b.bin'/><part name='l_4s_b.bin'/><part name='l_4s_b.bin'/><part name='s_3i_b.bin'/><part name='s_3j_b.bin'/><part name='c-2k.bpr'/><part name='c-2j.bpr'/><part name='v-5e.bpr'/><part repeat='3328'>00</part><part>
 80 80 80 80 80 80 7f 7f 7f 7f 7f 7f 7f 80 80 80 
 80 80 80 7f 7f 7f 7f 7f 7f 7f 7f 80 80 80 80 80 
 7f 80 80 80 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 80 
@@ -7822,6 +7714,4 @@ ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
-      </part>
-  </rom>
-</misterromdescription>
+      </part></rom></misterromdescription>

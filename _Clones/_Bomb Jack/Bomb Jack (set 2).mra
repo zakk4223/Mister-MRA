@@ -50,28 +50,7 @@
     <part name='15_l07b.bin' zip='bombjack.zip'/>
     <part name='16_m07b.bin' zip='bombjack.zip'/>
   </rom>
-  <rom index='0' md5='6f6463e324b3b1f2be71efc55f194ba9' type='split' zip='bombjack2.zip'>
-    <part name='01_h03t.bin' zip='bombjack.zip'/>
-    <part name='02_p04t.bin' zip='bombjack.zip'/>
-    <part name='02_p04t.bin' zip='bombjack.zip'/>
-    <part name='03_e08t.bin' zip='bombjack.zip'/>
-    <part name='03_e08t.bin' zip='bombjack.zip'/>
-    <part name='04_h08t.bin' zip='bombjack.zip'/>
-    <part name='04_h08t.bin' zip='bombjack.zip'/>
-    <part name='05_k08t.bin' zip='bombjack.zip'/>
-    <part name='05_k08t.bin' zip='bombjack.zip'/>
-    <part name='06_l08t.bin' zip='bombjack.zip'/>
-    <part name='07_n08t.bin' zip='bombjack.zip'/>
-    <part name='08_r08t.bin' zip='bombjack.zip'/>
-    <part name='09_j01b.bin' zip='bombjack.zip'/>
-    <part name='10_l01b.bin' zip='bombjack.zip'/>
-    <part name='11_m01b.bin' zip='bombjack.zip'/>
-    <part name='12_n01b.bin' zip='bombjack.zip'/>
-    <part name='13_r01b.bin'/>
-    <part name='14_j07b.bin' zip='bombjack.zip'/>
-    <part name='15_l07b.bin' zip='bombjack.zip'/>
-    <part name='16_m07b.bin' zip='bombjack.zip'/>
-  </rom>
+  
   <rom index='0' md5='6f6463e324b3b1f2be71efc55f194ba9' type='nonmerged' zip='bombjack2.zip'>
     <part name='01_h03t.bin'/>
     <part name='02_p04t.bin'/>

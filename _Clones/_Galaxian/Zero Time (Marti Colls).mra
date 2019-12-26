@@ -20,7 +20,7 @@
     <part name='zerotimemc/1_1kl.bin'/>
     <part name='zerotimemc/1_1kl.bin'/>
   </rom>
-  <rom index='0' md5='7c9a686a13282bd345fe9dccafb10bd0' type='split' zip='zerotimemc.zip'>
+  <rom index='0' md5='7c9a686a13282bd345fe9dccafb10bd0' type='split|nonmerged' zip='zerotimemc.zip'>
     <part name='4_7k.bin'/>
     <part name='5_7j.bin'/>
     <part name='6_7h.bin'/>
@@ -34,18 +34,5 @@
     <part name='1_1kl.bin'/>
     <part name='1_1kl.bin'/>
   </rom>
-  <rom index='0' md5='7c9a686a13282bd345fe9dccafb10bd0' type='nonmerged' zip='zerotimemc.zip'>
-    <part name='4_7k.bin'/>
-    <part name='5_7j.bin'/>
-    <part name='6_7h.bin'/>
-    <part name='7_7f.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='2_1hj.bin'/>
-    <part name='2_1hj.bin'/>
-    <part name='1_1kl.bin'/>
-    <part name='1_1kl.bin'/>
-  </rom>
+  
 </misterromdescription>

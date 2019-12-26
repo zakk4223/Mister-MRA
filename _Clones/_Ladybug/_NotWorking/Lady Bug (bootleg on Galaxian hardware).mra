@@ -19,7 +19,7 @@
     <part name='ladybugg/lbuggx.a'/>
     <part name='ladybugg/lbuggx.b'/>
   </rom>
-  <rom index='0' md5='b5811b78fad9eff4d1c32c5cc982dd55' type='split' zip='ladybugg.zip'>
+  <rom index='0' md5='b5811b78fad9eff4d1c32c5cc982dd55' type='split|nonmerged' zip='ladybugg.zip'>
     <part name='lbuggx.1'/>
     <part name='lbuggx.2'/>
     <part name='lbuggx.3'/>
@@ -31,16 +31,5 @@
     <part name='lbuggx.a'/>
     <part name='lbuggx.b'/>
   </rom>
-  <rom index='0' md5='b5811b78fad9eff4d1c32c5cc982dd55' type='nonmerged' zip='ladybugg.zip'>
-    <part name='lbuggx.1'/>
-    <part name='lbuggx.2'/>
-    <part name='lbuggx.3'/>
-    <part name='lbuggx.4'/>
-    <part name='lbuggx.5'/>
-    <part name='lbuggx.6'/>
-    <part name='lbuggx.7'/>
-    <part name='lbuggx.8'/>
-    <part name='lbuggx.a'/>
-    <part name='lbuggx.b'/>
-  </rom>
+  
 </misterromdescription>

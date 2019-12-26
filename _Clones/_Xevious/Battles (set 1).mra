@@ -34,6 +34,9 @@
     <part name='xvi_9.2a' zip='xevious.zip'/>
     <part name='xvi_10.2b' zip='xevious.zip'/>
     <part name='xvi_11.2c' zip='xevious.zip'/>
+    <part name='50xx.bin' zip='namco50.zip'/>
+    <part name='51xx.bin' zip='namco51.zip'/>
+    <part name='54xx.bin' zip='namco54.zip'/>
   </rom>
   <rom index='0' md5='29c70d6dd03aadae8ddf5909f5268a07' type='nonmerged' zip='battles.zip'>
     <part name='bg1.d9'/>
@@ -50,5 +53,8 @@
     <part name='bg6.b14'/>
     <part name='bg7.b12'/>
     <part name='bg8.b11'/>
+    <part name='50xx.bin' zip='namco50.zip'/>
+    <part name='51xx.bin' zip='namco51.zip'/>
+    <part name='54xx.bin' zip='namco54.zip'/>
   </rom>
 </misterromdescription>

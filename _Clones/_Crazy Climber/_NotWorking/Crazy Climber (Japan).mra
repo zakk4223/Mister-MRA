@@ -36,21 +36,7 @@
     <part name='cc13j.bin'/>
     <part name='cc12j.bin'/>
   </rom>
-  <rom index='0' md5='c6ed9ee9dc979e3d05c97319795146ca' type='split' zip='cclimberj.zip'>
-    <part name='cc11j.bin'/>
-    <part name='cc10j.bin'/>
-    <part name='cc09j.bin'/>
-    <part name='cc08j.bin'/>
-    <part name='cc07j.bin'/>
-    <part name='cc06' zip='cclimber.zip'/>
-    <part name='cc05' zip='cclimber.zip'/>
-    <part name='cc04' zip='cclimber.zip'/>
-    <part name='cc03' zip='cclimber.zip'/>
-    <part name='cc02' zip='cclimber.zip'/>
-    <part name='cc01' zip='cclimber.zip'/>
-    <part name='cc13j.bin'/>
-    <part name='cc12j.bin'/>
-  </rom>
+  
   <rom index='0' md5='c6ed9ee9dc979e3d05c97319795146ca' type='nonmerged' zip='cclimberj.zip'>
     <part name='cc11j.bin'/>
     <part name='cc10j.bin'/>

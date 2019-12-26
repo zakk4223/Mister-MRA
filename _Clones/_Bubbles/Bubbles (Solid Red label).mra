@@ -41,23 +41,7 @@
     <part name='decoder.4' zip='bubbles.zip'/>
     <part name='decoder.6' zip='bubbles.zip'/>
   </rom>
-  <rom index='0' md5='9ea45a2e00e778010d49a6567e03e144' type='split' zip='bubblesr.zip'>
-    <part name='bubblesr.10b'/>
-    <part name='bubblesr.11b'/>
-    <part name='bubblesr.12b'/>
-    <part name='bubblesr.1b'/>
-    <part name='bubblesr.2b'/>
-    <part name='bubblesr.3b'/>
-    <part name='bubblesr.4b'/>
-    <part name='bubblesr.5b'/>
-    <part name='bubbles.6b' zip='bubbles.zip'/>
-    <part name='bubbles.7b' zip='bubbles.zip'/>
-    <part name='bubblesr.8b'/>
-    <part name='bubbles.9b' zip='bubbles.zip'/>
-    <part name='bubbles.snd' zip='bubbles.zip'/>
-    <part name='decoder.4' zip='bubbles.zip'/>
-    <part name='decoder.6' zip='bubbles.zip'/>
-  </rom>
+  
   <rom index='0' md5='9ea45a2e00e778010d49a6567e03e144' type='nonmerged' zip='bubblesr.zip'>
     <part name='bubblesr.10b'/>
     <part name='bubblesr.11b'/>

@@ -37,21 +37,7 @@
     <part name='cs10.bin' zip='colony7.zip'/>
     <part name='decoder.3' zip='colony7.zip'/>
   </rom>
-  <rom index='0' md5='731705153750ab7cd73db96ee919b0de' type='split' zip='colony7a.zip'>
-    <part name='cs03a.bin'/>
-    <part name='cs02a.bin'/>
-    <part name='cs01a.bin'/>
-    <part name='cs06.bin' zip='colony7.zip'/>
-    <part name='cs04.bin' zip='colony7.zip'/>
-    <part name='cs07.bin' zip='colony7.zip'/>
-    <part name='cs05.bin' zip='colony7.zip'/>
-    <part name='cs08.bin' zip='colony7.zip'/>
-    <part name='cs08.bin' zip='colony7.zip'/>
-    <part name='cs08.bin' zip='colony7.zip'/>
-    <part name='cs11.bin' zip='colony7.zip'/>
-    <part name='cs10.bin' zip='colony7.zip'/>
-    <part name='decoder.3' zip='colony7.zip'/>
-  </rom>
+  
   <rom index='0' md5='731705153750ab7cd73db96ee919b0de' type='nonmerged' zip='colony7a.zip'>
     <part name='cs03a.bin'/>
     <part name='cs02a.bin'/>

@@ -41,23 +41,7 @@
     <part name='decoder.4' zip='bubbles.zip'/>
     <part name='decoder.6' zip='bubbles.zip'/>
   </rom>
-  <rom index='0' md5='75a7bd57d1c9b62150bf9dcf119d2fe2' type='split' zip='bubblesp.zip'>
-    <part name='bub_prot.10b'/>
-    <part name='bub_prot.11b'/>
-    <part name='bub_prot.12b'/>
-    <part name='bub_prot.1b'/>
-    <part name='bub_prot.2b'/>
-    <part name='bub_prot.3b'/>
-    <part name='bub_prot.4b'/>
-    <part name='bub_prot.5b'/>
-    <part name='bub_prot.6b'/>
-    <part name='bubbles.7b' zip='bubbles.zip'/>
-    <part name='bub_prot.8b'/>
-    <part name='bub_prot.9b'/>
-    <part name='bubbles.snd' zip='bubbles.zip'/>
-    <part name='decoder.4' zip='bubbles.zip'/>
-    <part name='decoder.6' zip='bubbles.zip'/>
-  </rom>
+  
   <rom index='0' md5='75a7bd57d1c9b62150bf9dcf119d2fe2' type='nonmerged' zip='bubblesp.zip'>
     <part name='bub_prot.10b'/>
     <part name='bub_prot.11b'/>
