@@ -1,34 +1,28 @@
 <misterromdescription>
-  <name>1943: The Battle of Midway (bootleg set 2, hack of Japan set)</name>
+  <name>1943: Midway Kaisen (bootleg set 2, hack of Japan set)</name>
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jt1943</rbf>
-  <rom index='0' md5='dfda2fd57d15b4db52679088c23068d5' type='merged' zip='1943.zip'>
-    <part name='1943h/bme01addontext.12d'/>
-    <part name='bme02.13d'/>
-    <part name='bme03.14d'/>
+  <rom index='0' md5='5006722f516b6fd1709046a542d3dd71' type='merged' zip='1943.zip'>
+    <part name='1943b2/mkb03.12d'/>
+    <part name='1943b2/bm02.13d'/>
+    <part name='1943b2/bm03.14d'/>
     <part name='bm05.4k'/>
-    <part name='bm04.5h'/>
+    <part name='1943b2/4.5h'/>
     <part name='bm14.5f'/>
-    <part name='bm23.8k'/>
-    <part name='bm15.10f'/>
-    <part name='bm19.10j'/>
-    <part name='bm16.11f'/>
-    <part name='bm20.11j'/>
-    <part name='bm17.12f'/>
-    <part name='bm21.12j'/>
-    <part name='bm18.14f'/>
-    <part name='bm22.14j'/>
+    <part name='1943b2/u96.bin'/>
+    <part name='1943b2/mkb12.12f'/>
+    <part name='1943b2/mkb09.12j'/>
+    <part name='1943b2/mkb11.14f'/>
+    <part name='1943b2/mkb10.14j'/>
     <part name='bm24.14k'/>
     <part name='bm25.14l'/>
     <part name='bm06.10a'/>
     <part name='bm10.10c'/>
     <part name='bm07.11a'/>
     <part name='bm11.11c'/>
-    <part name='bm08.12a'/>
-    <part name='bm12.12c'/>
-    <part name='bm09.14a'/>
-    <part name='bm13.14c'/>
+    <part name='1943b2/u8.bin'/>
+    <part name='1943b2/u17.bin'/>
     <part name='bm10.7l'/>
     <part name='bm11.12l'/>
     <part name='bm1.12a'/>

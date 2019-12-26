@@ -2,8 +2,8 @@
   <name>1942 (Galaga X)</name>
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
-  <rbf>1942</rbf>
-  <rom index='0' md5='bcde77b1ebf8e990bc1a549f6feba774' type='merged' zip='1942.zip'>
+  <rbf>jt1942</rbf>
+  <rom index='0' md5='217e43305cb120a553cea32244439a18' type='merged|split|nonmerged' zip='1942.zip'>
     <part name='galagax/galagax1.n3'/>
     <part name='galagax/galagax1.n4'/>
     <part name='galagax/galagax1.n5'/>
@@ -24,11 +24,15 @@
     <part name='galagax/galagax2.n1'/>
     <part name='galagax/galagax2.l2'/>
     <part name='galagax/galagax2.n2'/>
+    <part name='sb-1.k6'/>
+    <part name='sb-2.d1'/>
+    <part name='sb-3.d2'/>
     <part name='sb-4.d6'/>
     <part name='sb-5.e8'/>
     <part name='sb-6.e9'/>
     <part name='sb-7.e10'/>
     <part name='sb-0.f1'/>
     <part name='sb-8.k3'/>
+    <part name='sb-9.m11'/>
   </rom>
 </misterromdescription>
