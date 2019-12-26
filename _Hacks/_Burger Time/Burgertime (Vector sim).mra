@@ -1,0 +1,29 @@
+<misterromdescription>
+  <name>Burgertime (Vector sim)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Data East Corporation</manufacturer>
+  <category>Maze / Food</category>
+  <category>Platform</category>
+  <rbf>burgertime</rbf>
+  <rom index='0' md5='fe27c8e39f436642aed3c02533ee9914' type='merged' zip='btime.zip'>
+    <part name='vecbtime/ab04.9b'/>
+    <part name='vecbtime/ab06.13b'/>
+    <part name='vecbtime/ab05.10b'/>
+    <part name='vecbtime/ab07.15b'/>
+    <part name='vecbtime/vec_ab12.7k'/>
+    <part name='vecbtime/vec_ab13.9k'/>
+    <part name='vecbtime/vec_ab10.10k'/>
+    <part name='vecbtime/vec_ab11.12k'/>
+    <part name='vecbtime/vec_ab8.13k'/>
+    <part name='vecbtime/vec_ab9.15k'/>
+    <part name='vecbtime/vec_ab00.1b'/>
+    <part name='vecbtime/vec_ab01.3b'/>
+    <part name='vecbtime/vec_ab02.4b'/>
+    <part name='ab03.6b'/>
+    <part name='ab14.12h'/>
+  </rom>
+  
+  
+</misterromdescription>

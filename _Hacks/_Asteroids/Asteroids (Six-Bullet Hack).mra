@@ -1,0 +1,19 @@
+<misterromdescription>
+  <name>Asteroids (Six-Bullet Hack)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Space / Asteroids</category>
+  <category>Space / Fighter</category>
+  <rbf>asteroids</rbf>
+  <rom index='0' md5='f7d9185e1863ffdc1b0b4ae6d6d89bff' type='merged' zip='asteroid.zip'>
+    <part name='asteroid6/asteroid6.ef2'/>
+    <part name='asteroid6/asteroid6.h2'/>
+    <part name='035143-02.j2'/>
+    <part name='035127-02.np3'/>
+    <part name='034602-01.c8'/>
+  </rom>
+  
+  
+</misterromdescription>

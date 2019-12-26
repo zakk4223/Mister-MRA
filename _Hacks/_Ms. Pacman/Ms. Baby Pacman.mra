@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='167bda547049d22978f869bf1602835e' type='merged' zip='mspacman.zip'>
+    <part name='chtmsatk/boot1'/>
+    <part name='cottoh/boot2'/>
+    <part name='chtmsatk/boot3'/>
+    <part name='msbaby/msbaby.4'/>
+    <part name='msbaby/msbaby.5'/>
+    <part name='msbaby/msbaby.5'/>
+    <part name='msbaby/msbaby.6'/>
+    <part name='msbaby/msbaby.5e'/>
+    <part name='msbaby/msbaby.5f'/>
+    <part name='msbaby/msbaby.5f'/>
+    <part name='msbaby/msbaby.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

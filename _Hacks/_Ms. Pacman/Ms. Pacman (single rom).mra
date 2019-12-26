@@ -1,0 +1,13 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='1e644ff876ba8df8dd3cf99d31813ce4' type='merged' zip='mspacman.zip'>
+    <part name='mspacmbg/mspacmbg.cpu'/>
+    <part name='mspacmbg/mspacmbg.gfx'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

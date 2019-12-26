@@ -1,0 +1,22 @@
+<misterromdescription>
+  <name>Pacipede</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Maze / Bugs</category>
+  <category>Maze / Centipede</category>
+  <category>Maze / Spiders</category>
+  <rbf>centipede</rbf>
+  <rom index='0' md5='2c71c68067211943fa2d2043d249cdb7' type='merged' zip='centiped.zip'>
+    <part name='astropd2/136001-307.d1'/>
+    <part name='astropd2/136001-308.e1'/>
+    <part name='astropd2/136001-309.fh1'/>
+    <part name='astropd2/136001-310.j1'/>
+    <part name='pacipede/paciped.211'/>
+    <part name='pacipede/paciped.212'/>
+    <part name='136001-213.p4'/>
+  </rom>
+  
+  
+</misterromdescription>

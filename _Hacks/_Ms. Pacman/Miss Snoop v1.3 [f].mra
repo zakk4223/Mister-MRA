@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='346c33c16f94342bc65c41cb2e5a9790' type='merged' zip='mspacman.zip'>
+    <part name='ramsnoop/ramsnoop.1'/>
+    <part name='ramsnoop/ramsnoop.2'/>
+    <part name='ramsnoop/ramsnoop.3'/>
+    <part name='ramsnoop/ramsnoop.4'/>
+    <part name='chtmspa/boot5'/>
+    <part name='chtmspa/boot5'/>
+    <part name='chtmspa/boot6'/>
+    <part name='5e'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

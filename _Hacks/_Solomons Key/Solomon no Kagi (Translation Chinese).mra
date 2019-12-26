@@ -1,0 +1,22 @@
+<misterromdescription>
+  <name>Solomon no Kagi (Translation Chinese)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>solomonskey</rbf>
+  <rom index='0' md5='728e403a710471b1721a08467e208a89' type='merged' zip='solomon.zip'>
+    <part name='solomonjs01/slmn_02hc01.bin'/>
+    <part name='solomonjs01/slmn_03hc01.bin'/>
+    <part name='solomonjs01/slmn_04hc01.bin'/>
+    <part name='solomonjs01/slmn_05hc01.bin'/>
+    <part name='solomonjs01/slmn_12hc01.bin'/>
+    <part name='solomonjs01/slmn_11hc01.bin'/>
+    <part name='solomonjs01/slmn_10hc01.bin'/>
+    <part name='solomonjs01/slmn_09hc01.bin'/>
+    <part name='1.3jk'/>
+    <part name='solomonjs01/slmn_06hc01.bin'/>
+    <part name='solomonjs01/slmn_07hc01.bin'/>
+    <part name='solomonjs01/slmn_08.bin'/>
+  </rom>
+  
+  
+</misterromdescription>

@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='a9d4658235e386bfe479127e9a6f00d4' type='merged' zip='mspacman.zip'>
+    <part name='mspacmans01/robot.1'/>
+    <part name='fasthear/fastplus.2'/>
+    <part name='chtmsatk/boot3'/>
+    <part name='mspacmans03/s03.4'/>
+    <part name='chtmspa/boot5'/>
+    <part name='chtmspa/boot5'/>
+    <part name='mspacmans01/s01.6'/>
+    <part name='mspacmans01/s01.5e'/>
+    <part name='mspacmans01/s01.5f'/>
+    <part name='mspacmans01/s01.5f'/>
+    <part name='mspacmans01/s01.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

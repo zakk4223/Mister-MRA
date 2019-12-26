@@ -1,0 +1,26 @@
+<misterromdescription>
+  <rbf>Xevious</rbf>
+  <rom index='0' md5='2b866069ba0ae5c6793f2bd318abbf75' type='merged' zip='xevious.zip'>
+    <part name='xvi_1.3p'/>
+    <part name='xvi_2.3m'/>
+    <part name='xvi_3.2m'/>
+    <part name='xvi_4.2l'/>
+    <part name='xvi_5.3f'/>
+    <part name='xvi_6.3j'/>
+    <part name='xvi_7.2c'/>
+    <part name='sxvioush/xh_xvi_12.3b'/>
+    <part name='xvi_13.3c'/>
+    <part name='xvi_14.3d'/>
+    <part name='battlesh/xh_xvi_15.4m'/>
+    <part name='battlesh/xh_xvi_17.4p'/>
+    <part name='battlesh/xh_xvi_16.4n'/>
+    <part name='battlesh/xh_xvi_18.4r'/>
+    <part name='xvi_9.2a'/>
+    <part name='xvi_10.2b'/>
+    <part name='xvi_11.2c'/>
+    <part name='50xx.bin' zip='namco50.zip'/>
+    <part name='51xx.bin' zip='namco51.zip'/>
+    <part name='54xx.bin' zip='namco54.zip'/>
+  </rom>
+  
+</misterromdescription>

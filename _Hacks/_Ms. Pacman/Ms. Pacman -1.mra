@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='ebc8b4aee6209a69da7231722f354916' type='merged' zip='mspacman.zip'>
+    <part name='chtmsatk/boot1'/>
+    <part name='cottoh/boot2'/>
+    <part name='chtmsatk/boot3'/>
+    <part name='chtmsatk/boot4'/>
+    <part name='mspacde/mspacde.5a'/>
+    <part name='mspacde/mspacde.5a'/>
+    <part name='mspacde/mspacde.6a'/>
+    <part name='mspacde/mspacit.5e'/>
+    <part name='mspacde/mspacit.5f'/>
+    <part name='mspacde/mspacit.5f'/>
+    <part name='mspacde/mspacit.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

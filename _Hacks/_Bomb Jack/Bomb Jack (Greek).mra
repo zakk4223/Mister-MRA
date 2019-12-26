@@ -1,0 +1,33 @@
+<misterromdescription>
+  <name>Bomb Jack (Greek)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1984</year>
+  <manufacturer>Tehkan</manufacturer>
+  <category>Platform</category>
+  <rbf>bombjack</rbf>
+  <rom index='0' md5='703f9e52f4cc4cffcaaed4caf028a4c7' type='merged' zip='bombjack.zip'>
+    <part name='01_h03t.bin'/>
+    <part name='02_p04t.bin'/>
+    <part name='02_p04t.bin'/>
+    <part name='bmbjckgr/03g_e08t.bin'/>
+    <part name='bmbjckgr/03g_e08t.bin'/>
+    <part name='bmbjckgr/04g_h08t.bin'/>
+    <part name='bmbjckgr/04g_h08t.bin'/>
+    <part name='bmbjckgr/05g_k08t.bin'/>
+    <part name='bmbjckgr/05g_k08t.bin'/>
+    <part name='06_l08t.bin'/>
+    <part name='07_n08t.bin'/>
+    <part name='08_r08t.bin'/>
+    <part name='09_j01b.bin'/>
+    <part name='10_l01b.bin'/>
+    <part name='11_m01b.bin'/>
+    <part name='bmbjckgr/12g_n01b.bin'/>
+    <part name='bmbjckgr/13g.1r'/>
+    <part name='bmbjckgr/14g_j07b.bin'/>
+    <part name='bmbjckgr/15g_l07b.bin'/>
+    <part name='bmbjckgr/16g_m07b.bin'/>
+  </rom>
+  
+  
+</misterromdescription>

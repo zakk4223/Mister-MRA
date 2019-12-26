@@ -1,0 +1,19 @@
+<misterromdescription>
+  <name>Asteroids Deluxe (Unknown Revision) [h]</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Space / Asteroids</category>
+  <category>Space / Fighter</category>
+  <rbf>asteroids</rbf>
+  <rom index='0' md5='cdda623c6f55f3709c512796341cbdeb' type='merged' zip='asteroid.zip'>
+    <part name='astdelux4/036431.02'/>
+    <part name='astdelux4/036432.02'/>
+    <part name='astdelux4/036433.03'/>
+    <part name='astdelux4/036799.01'/>
+    <part name='034602-01.c8'/>
+  </rom>
+  
+  
+</misterromdescription>

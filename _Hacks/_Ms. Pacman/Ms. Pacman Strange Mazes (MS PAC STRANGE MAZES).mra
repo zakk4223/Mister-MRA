@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='3bbd07fac5a94e77b3507fd65a7621a8' type='merged' zip='mspacman.zip'>
+    <part name='chtmsatk/boot1'/>
+    <part name='cottoh/boot2'/>
+    <part name='mscrzyma/mscrzyma.3'/>
+    <part name='msstrmaz/msstrmaz.4'/>
+    <part name='msnes6m2/msstrmaz.5'/>
+    <part name='msnes6m2/msstrmaz.5'/>
+    <part name='msnes6m2/msstrmaz.6'/>
+    <part name='msstrmaz/msstrmaz.5e'/>
+    <part name='msstrmaz/msstrmaz.5f'/>
+    <part name='msstrmaz/msstrmaz.5f'/>
+    <part name='msstrmaz/msstrmaz.5f'/>
+    <part name='82s126.1m'/>
+    <part name='ms4000p/pacplus.4a'/>
+    <part name='82s126.3m'/>
+    <part name='ms4000p/pacplus.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

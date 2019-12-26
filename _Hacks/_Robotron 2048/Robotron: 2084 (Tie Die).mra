@@ -1,0 +1,31 @@
+<misterromdescription>
+  <name>Robotron: 2084 (Tie Die)</name>
+  <mameversion>0216</mameversion>
+  <setname>robotron</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Williams / Vid Kidz</manufacturer>
+  <category>Adventure / Apocalyptic</category>
+  <category>Maze</category>
+  <category>Space / Robots</category>
+  <rbf>robotron</rbf>
+  <rom index='0' md5='279f54616f09bc45ef2eee50b488dc50' type='merged' zip='robotron.zip'>
+    <part name='robotrontie/robotrontie.a'/>
+    <part name='robotrontie/robotrontie.b'/>
+    <part name='robotron.sbc'/>
+    <part name='robotron.sb1'/>
+    <part name='robotron.sb2'/>
+    <part name='robotron.sb3'/>
+    <part name='robotrontie/robotrontie.4'/>
+    <part name='robotron201/robotronp.5'/>
+    <part name='robotron.sb6'/>
+    <part name='robotrontie/robotrontie.7'/>
+    <part name='robotrontie/robotrontie.8'/>
+    <part name='robotron.sb9'/>
+    <part name='robotron.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.6'/>
+  </rom>
+  
+  
+</misterromdescription>

@@ -1,0 +1,21 @@
+<misterromdescription>
+  <name>Bump &apos;n&apos; Jump Reverse Mod</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Data East</manufacturer>
+  <category>Racing / Cars</category>
+  <rbf>burningrubber</rbf>
+  <rom index='0' md5='e2f26b8dc5b1e1acb0f1b4b915667c78' type='merged' zip='brubber.zip'>
+    <part name='bnjr/bnj12c.bin'/>
+    <part name='bnjr/bnj12d.bin'/>
+    <part name='bnjr/bnjr4e.bin'/>
+    <part name='bnjr/bnjr4f.bin'/>
+    <part name='bnjr/bnjr4h.bin'/>
+    <part name='bnjr/bnjr10e.bin'/>
+    <part name='bnjr/bnjr10f.bin'/>
+    <part name='bnj6c.bin'/>
+  </rom>
+  
+  
+</misterromdescription>

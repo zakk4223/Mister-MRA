@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='69f929ac34e9bc6080eee6bffef7b683' type='merged' zip='mspacman.zip'>
+    <part name='mspacatttur/pacmdp.1'/>
+    <part name='mspacpbl/mspacpbl.2'/>
+    <part name='mspacii2/mspacpbl.3'/>
+    <part name='mspacpbla/mspacpbla.4'/>
+    <part name='mspacpbl/mspacpbl.5'/>
+    <part name='mspacpbl/mspacpbl.5'/>
+    <part name='mspacpbla/mspacpbla.6'/>
+    <part name='mspacpbla/mspacpbla.5e'/>
+    <part name='mspacpbla/mspacpbla.5f'/>
+    <part name='mspacpbla/mspacpbla.5f'/>
+    <part name='mspacpbla/mspacpbla.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

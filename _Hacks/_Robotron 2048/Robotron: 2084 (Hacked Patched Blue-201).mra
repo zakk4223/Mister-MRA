@@ -1,0 +1,31 @@
+<misterromdescription>
+  <name>Robotron: 2084 (Hacked Patched Blue-201)</name>
+  <mameversion>0216</mameversion>
+  <setname>robotron</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Williams / Vid Kidz</manufacturer>
+  <category>Adventure / Apocalyptic</category>
+  <category>Maze</category>
+  <category>Space / Robots</category>
+  <rbf>robotron</rbf>
+  <rom index='0' md5='2b3134fd85bc0c10787e4b4c6122c6b8' type='merged' zip='robotron.zip'>
+    <part name='robotron.sba'/>
+    <part name='robotron201/robotronp.sbb'/>
+    <part name='robotron.sbc'/>
+    <part name='robotron.sb1'/>
+    <part name='robotron.sb2'/>
+    <part name='robotron201/robotron201.3'/>
+    <part name='robotron.sb4'/>
+    <part name='robotron201/robotronp.5'/>
+    <part name='robotron.sb6'/>
+    <part name='robotron.sb7'/>
+    <part name='robotron.sb8'/>
+    <part name='robotron.sb9'/>
+    <part name='robotron.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.6'/>
+  </rom>
+  
+  
+</misterromdescription>

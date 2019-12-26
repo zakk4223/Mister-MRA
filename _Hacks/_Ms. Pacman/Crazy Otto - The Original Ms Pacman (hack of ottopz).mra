@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='ec820fb52a6d8a227e7d573e5cb42627' type='merged' zip='mspacman.zip'>
+    <part name='ottopz/ottopz.1'/>
+    <part name='ottopza/ottopza.2'/>
+    <part name='ottopz/ottopz.3'/>
+    <part name='ottopza/ottopza.4'/>
+    <part name='ottopz/ottopz.5'/>
+    <part name='ottopz/ottopz.5'/>
+    <part name='ottopz/ottopz.6'/>
+    <part name='ottopz/ottopz.5e'/>
+    <part name='ottopz/ottopz.5f'/>
+    <part name='ottopz/ottopz.5f'/>
+    <part name='ottopz/ottopz.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

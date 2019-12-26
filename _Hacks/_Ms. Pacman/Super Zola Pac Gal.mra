@@ -1,0 +1,18 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='68f2d2daa4b5c222f1085417992f0c5d' type='merged' zip='mspacman.zip'>
+    <part name='zolaad/zolapac1.bin'/>
+    <part name='zolaad/zolapac2.bin'/>
+    <part name='zolaad/zolapac2.bin'/>
+    <part name='5e'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

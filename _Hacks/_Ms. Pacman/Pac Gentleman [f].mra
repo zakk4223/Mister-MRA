@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='a1133f166ada8c42a7121f54ebd45a7b' type='merged' zip='mspacman.zip'>
+    <part name='pacgent/pacgent.1'/>
+    <part name='fasthear/fastplus.2'/>
+    <part name='pacgent/pacgent.3'/>
+    <part name='pacgent/pacgent.4'/>
+    <part name='chtmspa/boot5'/>
+    <part name='chtmspa/boot5'/>
+    <part name='pacgent/pacgent.6'/>
+    <part name='pacgent/pacgent.5e'/>
+    <part name='pacgent/pacgent.5f'/>
+    <part name='pacgent/pacgent.5f'/>
+    <part name='pacgent/pacgent.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='3760a771f2fd5831ad41ca2127226654' type='merged' zip='mspacman.zip'>
+    <part name='chtmsatk/boot1'/>
+    <part name='cottoh/boot2'/>
+    <part name='chtmsatk/boot3'/>
+    <part name='msdroid/msdroid.4'/>
+    <part name='chtmspa/boot5'/>
+    <part name='chtmspa/boot5'/>
+    <part name='chtmspa/boot6'/>
+    <part name='msdroid/msdroid.5e'/>
+    <part name='msdroid/msdroid.5f'/>
+    <part name='msdroid/msdroid.5f'/>
+    <part name='msdroid/msdroid.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

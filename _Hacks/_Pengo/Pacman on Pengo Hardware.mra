@@ -1,0 +1,26 @@
+<misterromdescription>
+  <name>Pacman on Pengo Hardware</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze</category>
+  <category>Maze / Blocks</category>
+  <category>Maze / Penguin</category>
+  <rbf>pengo</rbf>
+  <rom index='0' md5='3930813a17878cad3c9dafbc563d422a' type='merged' zip='pengo.zip'>
+    <part name='pacpen/pacpen.u8'/>
+    <part name='pacpen/pacpen.u7'/>
+    <part name='pacpen/pacpen.u15'/>
+    <part name='pacpen/pacpen.u14'/>
+    <part repeat="16384">00</part>
+    <part name='pacpen/pacpen.u92'/>
+    <part name='pacpen/pacpen.105'/>
+    <part name='pr1634.88'/>
+    <part name='pr1635.51'/>
+    <part name='pr1636.70'/>
+    <part name='pr1633.78'/>
+  </rom>
+  
+  
+</misterromdescription>

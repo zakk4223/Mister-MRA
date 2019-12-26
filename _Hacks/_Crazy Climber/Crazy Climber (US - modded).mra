@@ -1,0 +1,26 @@
+<misterromdescription>
+  <name>Crazy Climber (US - modded)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Nichibutsu</manufacturer>
+  <category>Platform / Climbing</category>
+  <rbf>crazyclimber</rbf>
+  <rom index='0' md5='8e35d47fa3f973664be996a2f682e026' type='merged' zip='cclimber.zip'>
+    <part name='cclimbrm/cc11m'/>
+    <part name='cc10'/>
+    <part name='cc09'/>
+    <part name='cc08'/>
+    <part name='cclimbrm/cc07m'/>
+    <part name='cc06'/>
+    <part name='cc05'/>
+    <part name='cc04'/>
+    <part name='cc03'/>
+    <part name='cc02'/>
+    <part name='cc01'/>
+    <part name='cc13'/>
+    <part name='cc12'/>
+  </rom>
+  
+  
+</misterromdescription>

@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='d5dd806fb775595ca5efd20b631d8a7f' type='merged' zip='mspacman.zip'>
+    <part name='mspachi/mspachi.1'/>
+    <part name='mspachi/mspachi.2'/>
+    <part name='mspachi/mspachi.3'/>
+    <part name='mspachi/mspachi.4'/>
+    <part name='mspachi/mspachi.5'/>
+    <part name='mspachi/mspachi.5'/>
+    <part name='mspachi/mspachi.6'/>
+    <part name='5e'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

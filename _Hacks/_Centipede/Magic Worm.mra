@@ -1,0 +1,21 @@
+<misterromdescription>
+  <name>Magic Worm</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Maze / Bugs</category>
+  <category>Maze / Centipede</category>
+  <category>Maze / Spiders</category>
+  <rbf>centipede</rbf>
+  <rom index='0' md5='1b140f40b1db1a3784ba8dfdf529b9db' type='merged' zip='centiped.zip'>
+    <part name='magworm2/magworm2.k0'/>
+    <part name='magworm2/magworm2.k1'/>
+    <part name='magworm2/11005-2.k2'/>
+    <part name='magworm2/magworm2.k3'/>
+    <part name='magworm2/11005-4.c4'/>
+    <part name='magworm2/11005-5.c5'/>
+  </rom>
+  
+  
+</misterromdescription>

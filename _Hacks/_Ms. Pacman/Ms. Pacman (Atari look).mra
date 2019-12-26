@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='db759e713aff05b731df2f2c61fb2517' type='merged' zip='mspacman.zip'>
+    <part name='chtmsatk/boot1'/>
+    <part name='cottoh/boot2'/>
+    <part name='chtmsatk/boot3'/>
+    <part name='chtmsatk/boot4'/>
+    <part name='ms2600/ms2600.5'/>
+    <part name='ms2600/ms2600.5'/>
+    <part name='ms2600a/ms2600a.6'/>
+    <part name='ms2600/ms2600.5e'/>
+    <part name='ms2600a/ms2600a.5f'/>
+    <part name='ms2600a/ms2600a.5f'/>
+    <part name='ms2600a/ms2600a.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

@@ -1,0 +1,34 @@
+<misterromdescription>
+  <name>1942 (Galaga X)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>1942</rbf>
+  <rom index='0' md5='bcde77b1ebf8e990bc1a549f6feba774' type='merged' zip='1942.zip'>
+    <part name='galagax/galagax1.n3'/>
+    <part name='galagax/galagax1.n4'/>
+    <part name='galagax/galagax1.n5'/>
+    <part name='galagax/1-n6.bin'/>
+    <part name='galagax/1-n6.bin'/>
+    <part name='galagax/1-n7.bin'/>
+    <part name='sr-01.c11'/>
+    <part name='galagax/galagax1.f2'/>
+    <part name='galagax/galagax2.a3'/>
+    <part name='galagax/galagax2.a4'/>
+    <part name='galagax/galagax2.a1'/>
+    <part name='galagax/galagax2.a2'/>
+    <part name='galagax/galagax2.a5'/>
+    <part name='galagax/galagax2.a6'/>
+    <part name='galagax/galagax2.a5'/>
+    <part name='galagax/galagax2.a6'/>
+    <part name='galagax/galagax2.l1'/>
+    <part name='galagax/galagax2.n1'/>
+    <part name='galagax/galagax2.l2'/>
+    <part name='galagax/galagax2.n2'/>
+    <part name='sb-4.d6'/>
+    <part name='sb-5.e8'/>
+    <part name='sb-6.e9'/>
+    <part name='sb-7.e10'/>
+    <part name='sb-0.f1'/>
+    <part name='sb-8.k3'/>
+  </rom>
+</misterromdescription>

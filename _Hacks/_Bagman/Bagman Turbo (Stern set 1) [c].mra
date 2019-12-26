@@ -1,0 +1,35 @@
+<misterromdescription>
+  <name>Bagman Turbo (Stern set 1) [c]</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Valadon Automation</manufacturer>
+  <category>Platform / Extra</category>
+  <rbf>bagman</rbf>
+  <rom index='0' md5='4fd4890300d25b26f2a78a4cfe8dc21d' type='merged' zip='bagman.zip'>
+    <part name='bagturbo/bagt_a4_9e.bin'/>
+    <part name='bagturbo/a5-9f'/>
+    <part name='bagturbo/a4_9j.bin'/>
+    <part name='bagturbo/a5-9k'/>
+    <part name='bagturbo/bagt_a4_9m.bin'/>
+    <part name='bagturbo/a5-9n'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='t9_b12.bin'/>
+    <part name='bagturbo/a2_1e.bin'/>
+    <part name='bagturbo/a2_1c.bin'/>
+    <part name='j1_b04.bin'/>
+    <part name='bagturbo/a2_1f.bin'/>
+    <part name='r9_b11.bin'/>
+    <part name='t9_b12.bin'/>
+  </rom>
+  
+  
+</misterromdescription>

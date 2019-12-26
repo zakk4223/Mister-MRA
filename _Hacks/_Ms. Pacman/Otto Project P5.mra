@@ -1,0 +1,22 @@
+<misterromdescription>
+  <rbf>MsPacman</rbf>
+  <rom index='0' md5='22202783a7b4bd6b2e4b9a84fadd048b' type='merged' zip='mspacman.zip'>
+    <part name='womanp5/womanp5.1'/>
+    <part name='superp4g/superp4g.2'/>
+    <part name='womanp5/womanp5.3'/>
+    <part name='womanp5/womanp5.4'/>
+    <part name='womanp5/womanp5.5'/>
+    <part name='womanp5/womanp5.5'/>
+    <part name='chtmspa/boot6'/>
+    <part name='womanp5/womanp5.5e'/>
+    <part name='womanp5/womanp5.5f'/>
+    <part name='womanp5/womanp5.5f'/>
+    <part name='womanp5/womanp5.5f'/>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+  
+  
+</misterromdescription>

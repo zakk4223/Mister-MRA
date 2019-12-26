@@ -1,0 +1,17 @@
+<misterromdescription>
+  <rbf>Galaga</rbf>
+  <rom index='0' md5='0d487a71140f27a2e0083e35578cc064' type='merged' zip='galaga.zip'>
+    <part name='galaga99/gg1-1'/>
+    <part name='galaga99/g99-04k_g02.bin'/>
+    <part name='gg1_3.2m'/>
+    <part name='galaga99/g99-04h_g04.bin'/>
+    <part name='galaga99/gg1-5'/>
+    <part name='galaga84/gg1-7'/>
+    <part name='galaga99/g99-07e_g10.bin'/>
+    <part name='galaga99/g99-07h_g09.bin'/>
+    <part name='galaga99/g99-07m_g08.bin'/>
+    <part name='54xx.bin' zip='namco54.zip'/>
+  </rom>
+  
+  
+</misterromdescription>

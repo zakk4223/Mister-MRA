@@ -1,0 +1,25 @@
+<misterromdescription>
+  <name>Splat! (sc1 hardware)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>splat</rbf>
+  <rom index='0' md5='29a626e00deed2b43a06c5c98c978ed9' type='merged' zip='splat.zip'>
+    <part name='splatsc1/splatsc1.10'/>
+    <part name='splatsc1/splatsc1.11'/>
+    <part name='splatsc1/splatsc1.12'/>
+    <part name='splat.01'/>
+    <part name='splat.02'/>
+    <part name='splat.03'/>
+    <part name='splat.04'/>
+    <part name='splatsc1/splatsc1.05'/>
+    <part name='splatsc1/splatsc1.06'/>
+    <part name='splatsc1/splatsc1.07'/>
+    <part name='splatsc1/splatsc1.08'/>
+    <part name='splatsc1/splatsc1.09'/>
+    <part name='splat.snd'/>
+    <part name='decoder.4'/>
+    <part name='decoder.6'/>
+  </rom>
+  
+  
+</misterromdescription>

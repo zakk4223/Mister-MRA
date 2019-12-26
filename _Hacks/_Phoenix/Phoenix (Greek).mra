@@ -1,0 +1,25 @@
+<misterromdescription>
+  <name>Phoenix (Greek)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Amstar</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index='0' md5='2d7d37a518fd76ef05d26c40f08964d8' type='merged' zip='phoenix.zip'>
+    <part name='phoenixg/phoenix.45'/>
+    <part name='phoenixg/phoenix.46'/>
+    <part name='phoenixg/phoenix.47'/>
+    <part name='phoenixg/phoenixg.48'/>
+    <part name='phoenixg/phoenix.49'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='phoenixg/phoenix.52'/>
+    <part name='ic23.3d'/>
+    <part name='ic24.4d'/>
+    <part name='phoenixg/ic39g'/>
+    <part name='b2-ic40.4b'/>
+  </rom>
+  
+  
+</misterromdescription>

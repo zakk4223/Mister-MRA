@@ -1,0 +1,19 @@
+<misterromdescription>
+  <name>Starslayer (hack of Asteroids (rev 2))</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Space / Asteroids</category>
+  <category>Space / Fighter</category>
+  <rbf>asteroids</rbf>
+  <rom index='0' md5='3a76d639409e82ea0b4c73943f9ed8be' type='merged' zip='asteroid.zip'>
+    <part name='starslayer/035145-02.ef2'/>
+    <part name='starslayer/035144-02.h2'/>
+    <part name='035143-02.j2'/>
+    <part name='starslayer/035127-02.ss'/>
+    <part name='034602-01.c8'/>
+  </rom>
+  
+  
+</misterromdescription>

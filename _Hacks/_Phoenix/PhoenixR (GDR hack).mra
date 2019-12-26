@@ -1,0 +1,25 @@
+<misterromdescription>
+  <name>PhoenixR (GDR hack)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>Amstar</manufacturer>
+  <category>Space / Shooter</category>
+  <rbf>phoenix</rbf>
+  <rom index='0' md5='bb614d291845a426554ec06b34bdf10a' type='merged' zip='phoenix.zip'>
+    <part name='phoenixg/phoenix.45'/>
+    <part name='phoenixr/phoenix3.46'/>
+    <part name='phoenixg/phoenix.47'/>
+    <part name='phoenixr/phoenixr.48'/>
+    <part name='h5-ic49.5a'/>
+    <part name='h6-ic50.6a'/>
+    <part name='h7-ic51.7a'/>
+    <part name='phoenixr/phoenix3.52'/>
+    <part name='phoenixr/r_ic23'/>
+    <part name='phoenixr/r_ic24'/>
+    <part name='phoenixr/r_ic39'/>
+    <part name='phoenixr/r_ic40'/>
+  </rom>
+  
+  
+</misterromdescription>
