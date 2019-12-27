@@ -1,8 +1,8 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='f69159200939a16200d60c733f3b9bde' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='2f7690a5ddc211c31b5b7b9d2b95b8b5' type='merged' zip='mspacman.zip'>
     <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
+    <part name='fasthear/fastplus.2'/>
     <part name='chtmsatk/boot3'/>
     <part name='chtmsatk/boot4'/>
     <part name='chtmspa/boot5'/>
