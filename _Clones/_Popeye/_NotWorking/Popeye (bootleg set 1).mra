@@ -1,0 +1,54 @@
+<misterromdescription>
+  <name>Popeye (bootleg set 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>jtpopeye</rbf>
+  <rom index="0" md5="aefa9c994c90c381261b13e5499e9456" type="merged" zip="popeye.zip">
+    <part name="popeyebl/app_exe.3j.2764"/>
+    <part name="popeyeb2/po2"/>
+    <part name="popeyeb2/po3"/>
+    <part name="popeyeb2/po4"/>
+    <part name="tpp2-v.1e"/>
+    <part name="tpp2-v.1f"/>
+    <part name="tpp2-v.1j"/>
+    <part name="tpp2-v.1k"/>
+    <part name="popeyeb2/po5"/>
+    <part name="popeyebl/7.11s.24s10"/>
+    <part name="popeyeb2/popeye.pr4"/>
+    <part name="popeyeb2/popeye.pr3"/>
+    <part name="popeyeb2/popeye.pr1"/>
+    <part name="popeyeb2/popeye.pr2"/>
+  </rom>
+  <rom index="0" md5="aefa9c994c90c381261b13e5499e9456" type="split" zip="popeyebl.zip">
+    <part name="app_exe.3j.2764"/>
+    <part name="2.3l.2764"/>
+    <part name="3.3m.2764"/>
+    <part name="4.3p.2764"/>
+    <part name="tpp2-v.1e" zip="popeye.zip"/>
+    <part name="tpp2-v.1f" zip="popeye.zip"/>
+    <part name="tpp2-v.1j" zip="popeye.zip"/>
+    <part name="tpp2-v.1k" zip="popeye.zip"/>
+    <part name="5.10gh.2732"/>
+    <part name="7.11s.24s10"/>
+    <part name="4.2s.24s10"/>
+    <part name="3.2r.24s10"/>
+    <part name="6.2u.18s030"/>
+    <part name="5.2t.18s030"/>
+  </rom>
+  <rom index="0" md5="aefa9c994c90c381261b13e5499e9456" type="nonmerged" zip="popeyebl.zip">
+    <part name="app_exe.3j.2764"/>
+    <part name="2.3l.2764"/>
+    <part name="3.3m.2764"/>
+    <part name="4.3p.2764"/>
+    <part name="6.6n.2764"/>
+    <part name="7.6r.2764"/>
+    <part name="8.6s.2764"/>
+    <part name="9.6u.2764"/>
+    <part name="5.10gh.2732"/>
+    <part name="7.11s.24s10"/>
+    <part name="4.2s.24s10"/>
+    <part name="3.2r.24s10"/>
+    <part name="6.2u.18s030"/>
+    <part name="5.2t.18s030"/>
+  </rom>
+</misterromdescription>

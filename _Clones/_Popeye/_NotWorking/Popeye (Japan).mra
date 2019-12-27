@@ -1,0 +1,54 @@
+<misterromdescription>
+  <name>Popeye (Japan)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>jtpopeye</rbf>
+  <rom index="0" md5="d4c18094f2445a485d58248e8b9346cf" type="merged" zip="popeye.zip">
+    <part name="popeyej/tpp1-c.2a,2732"/>
+    <part name="popeyej/tpp1-c.2c,2732"/>
+    <part name="popeyej/tpp1-c.2e,2732"/>
+    <part name="popeyej/tpp1-c.2g,2732"/>
+    <part name="tpp2-v.1e"/>
+    <part name="tpp2-v.1f"/>
+    <part name="tpp2-v.1j"/>
+    <part name="tpp2-v.1k"/>
+    <part name="popeyej/tpp1-v.3h,2716"/>
+    <part name="tpp2-v.7j"/>
+    <part name="tpp2-c.5b"/>
+    <part name="tpp2-c.5a"/>
+    <part name="tpp2-c.4a"/>
+    <part name="tpp2-c.3a"/>
+  </rom>
+  <rom index="0" md5="d4c18094f2445a485d58248e8b9346cf" type="split" zip="popeyej.zip">
+    <part name="tpp1-c.2a,2732"/>
+    <part name="tpp1-c.2c,2732"/>
+    <part name="tpp1-c.2e,2732"/>
+    <part name="tpp1-c.2g,2732"/>
+    <part name="tpp2-v.1e" zip="popeye.zip"/>
+    <part name="tpp2-v.1f" zip="popeye.zip"/>
+    <part name="tpp2-v.1j" zip="popeye.zip"/>
+    <part name="tpp2-v.1k" zip="popeye.zip"/>
+    <part name="tpp1-v.3h,2716"/>
+    <part name="tpp2-v.7j" zip="popeye.zip"/>
+    <part name="tpp2-c.5b" zip="popeye.zip"/>
+    <part name="tpp2-c.5a" zip="popeye.zip"/>
+    <part name="tpp2-c.4a" zip="popeye.zip"/>
+    <part name="tpp2-c.3a" zip="popeye.zip"/>
+  </rom>
+  <rom index="0" md5="d4c18094f2445a485d58248e8b9346cf" type="nonmerged" zip="popeyej.zip">
+    <part name="tpp1-c.2a,2732"/>
+    <part name="tpp1-c.2c,2732"/>
+    <part name="tpp1-c.2e,2732"/>
+    <part name="tpp1-c.2g,2732"/>
+    <part name="tpp1-e.1e,2763"/>
+    <part name="tpp1-e.2e,2763"/>
+    <part name="tpp1-e.3e,2763"/>
+    <part name="tpp1-e.5e,2763"/>
+    <part name="tpp1-v.3h,2716"/>
+    <part name="tpp1-t.3j,82s129"/>
+    <part name="tpp1-t.3a,82s129"/>
+    <part name="tpp1-t.2a,82s129"/>
+    <part name="tpp1-t.4a,82s123"/>
+    <part name="tpp1-t.1a,82s123"/>
+  </rom>
+</misterromdescription>
