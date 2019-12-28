@@ -1,0 +1,30 @@
+<misterromdescription>
+  <name>Piranha (older)</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='puckman.zip'>
+    <part name='piranhao/p1.7e'/>
+    <part name='piranhao/p5.6e'/>
+    <part name='piranha/pir2.7f'/>
+    <part name='piranha/pir6.6f'/>
+    <part name='piranha/pir3.7h'/>
+    <part name='piranha/pir7.6h'/>
+    <part name='piranhao/p4.7j'/>
+    <part name='piranhao/p8.6j'/>
+    <part repeat='16384'>00</part>
+    <part name='piranhao/p9.5e'/>
+    <part name='piranhao/p11.5h'/>
+    <part name='piranhao/p10.5f'/>
+    <part name='piranhao/p12.5j'/>
+    <part repeat='8192'>00</part>
+    <part name='pm1-3.1m'/>
+    <part name='piranha/piranha.4a'/>
+    <part name='pm1-2.3m'/>
+    <part name='pm1-1.7f'/>
+  </rom>
+</misterromdescription>

@@ -1,0 +1,23 @@
+<misterromdescription>
+  <name>Ghost Muncher</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='puckman.zip'>
+    <part name='ghostmun/pac1.bin'/>
+    <part name='ghostmun/pac2.bin'/>
+    <part name='ghostmun/pac3.bin'/>
+    <part name='ghostmun/pac4.bin'/>
+    <part repeat='16384'>00</part>
+    <part name='ghostmun/blpac12b'/>
+    <part name='ghostmun/blpac11b'/>
+    <part name='ghostmun/blpac10b'/>
+    <part name='ghostmun/blpac9b'/>
+    <part repeat='8192'>00</part>
+    <part name='ghostmun/ghostmun.clr'/>
+  </rom>
+</misterromdescription>

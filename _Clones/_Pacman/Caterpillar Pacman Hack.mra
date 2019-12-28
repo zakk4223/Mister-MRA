@@ -1,0 +1,30 @@
+<misterromdescription>
+  <name>Caterpillar Pacman Hack</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='puckman.zip'>
+    <part name='ctrpllrp/c1.bin'/>
+    <part name='ctrpllrp/c5.bin'/>
+    <part name='ctrpllrp/c2.bin'/>
+    <part name='ctrpllrp/c6.bin'/>
+    <part name='ctrpllrp/c3.bin'/>
+    <part name='ctrpllrp/c7.bin'/>
+    <part name='ctrpllrp/c4.bin'/>
+    <part name='ctrpllrp/c8.bin'/>
+    <part repeat='16384'>00</part>
+    <part name='ctrpllrp/c9.bin'/>
+    <part name='ctrpllrp/c11.bin'/>
+    <part name='ctrpllrp/c10.bin'/>
+    <part name='ctrpllrp/c12.bin'/>
+    <part repeat='8192'>00</part>
+    <part name='pm1-3.1m'/>
+    <part name='pm1-4.4a'/>
+    <part name='pm1-2.3m'/>
+    <part name='pm1-1.7f'/>
+  </rom>
+</misterromdescription>

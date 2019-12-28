@@ -1,0 +1,30 @@
+<misterromdescription>
+  <name>Pac-Man (Galaxian hardware, set 2)</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='puckman.zip'>
+    <part name='pacmanbla/rom1.bin'/>
+    <part name='pacmanbla/rom2.bin'/>
+    <part name='pacmanbla/rom3.bin'/>
+    <part name='pacmanbla/rom4.bin'/>
+    <part fixme='maincpu:2000' name='pm1_prg5.6h'/>
+    <part fixme='maincpu:2800' name='pm1_prg6.6n'/>
+    <part fixme='maincpu:3000' name='pm1_prg7.6j'/>
+    <part fixme='maincpu:3800' name='pm1_prg8.6p'/>
+    <part repeat='16384'>00</part>
+    <part fixme='gfx1:0' name='pm1_chg1.5e'/>
+    <part fixme='gfx1:800' name='pm1_chg2.5h'/>
+    <part fixme='gfx1:1000' name='pm1_chg3.5f'/>
+    <part fixme='gfx1:1800' name='pm1_chg4.5j'/>
+    <part repeat='8192'>00</part>
+    <part fixme='namco:0' name='pm1-3.1m'/>
+    <part fixme='proms:20' name='pm1-4.4a'/>
+    <part fixme='namco:100' name='pm1-2.3m'/>
+    <part name='pacmanbl/sn74s288n.6l'/>
+  </rom>
+</misterromdescription>
