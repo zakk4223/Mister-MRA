@@ -1,22 +1,26 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='304861190ac361939813b155b11a7176' type='merged' zip='mspacman.zip'>
+  <name>Horiz Pac</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='horizpab/horizpac.1'/>
     <part name='horizpab/horizpac.2'/>
     <part name='chtmsatk/boot3'/>
     <part name='horizpac/horizpac.4'/>
     <part name='chtmspa/boot5'/>
-    <part name='chtmspa/boot5'/>
     <part name='chtmspa/boot6'/>
+    <part repeat='8192'>00</part>
     <part name='horizpab/horizpac.5e'/>
     <part name='horizpab/horizpac.5f'/>
-    <part name='horizpab/horizpac.5f'/>
-    <part name='horizpab/horizpac.5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
     <part name='82s123.7f'/>
   </rom>
-  
-  
 </misterromdescription>

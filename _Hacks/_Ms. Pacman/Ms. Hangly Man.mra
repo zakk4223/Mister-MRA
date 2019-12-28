@@ -1,22 +1,26 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='fe656e9f97ee6937228337b82a5839e9' type='merged' zip='mspacman.zip'>
+  <name>Ms. Hangly Man</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='chtmsatk/boot1'/>
     <part name='cottoh/boot2'/>
     <part name='chtmsatk/boot3'/>
     <part name='chtmsatk/boot4'/>
     <part name='mshangly/mshangly.5'/>
-    <part name='mshangly/mshangly.5'/>
     <part name='mshangly/mshangly.6'/>
+    <part repeat='8192'>00</part>
     <part name='5e'/>
     <part name='5f'/>
-    <part name='5f'/>
-    <part name='5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
     <part name='82s123.7f'/>
   </rom>
-  
-  
 </misterromdescription>

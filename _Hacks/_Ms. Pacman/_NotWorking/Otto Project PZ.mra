@@ -1,22 +1,26 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='4dc67ef3517af8900753323ea4fe578f' type='merged' zip='mspacman.zip'>
+  <name>Otto Project PZ</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='ottopz/ottopz.1'/>
     <part name='ottopz/ottopz.2'/>
     <part name='ottopz/ottopz.3'/>
     <part name='ottopz/ottopz.4'/>
     <part name='ottopz/ottopz.5'/>
-    <part name='ottopz/ottopz.5'/>
     <part name='ottopz/ottopz.6'/>
+    <part repeat='8192'>00</part>
     <part name='ottopz/ottopz.5e'/>
     <part name='ottopz/ottopz.5f'/>
-    <part name='ottopz/ottopz.5f'/>
-    <part name='ottopz/ottopz.5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
     <part name='82s123.7f'/>
   </rom>
-  
-  
 </misterromdescription>

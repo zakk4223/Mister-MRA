@@ -1,22 +1,26 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='09adf8752a5816d437ef209dbb1736a2' type='merged' zip='mspacman.zip'>
+  <name>Ms. Pacman After Dark (Sil)</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='chtmsatk/boot1'/>
     <part name='cottoh/boot2'/>
     <part name='mssilad/mssilad.3'/>
     <part name='chtmsatk/boot4'/>
     <part name='mssilad/mssilad.5'/>
-    <part name='mssilad/mssilad.5'/>
     <part name='mssilad/mssilad.6'/>
+    <part repeat='8192'>00</part>
     <part name='msatk2ad/msatkad.5e'/>
     <part name='msatk2ad/msatkad.5f'/>
-    <part name='msatk2ad/msatkad.5f'/>
-    <part name='msatk2ad/msatkad.5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
     <part name='82s123.7f'/>
   </rom>
-  
-  
 </misterromdescription>

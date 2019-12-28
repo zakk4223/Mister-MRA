@@ -1,5 +1,5 @@
 <misterromdescription>
-  <name>Ms. F1 Pacman</name>
+  <name>Vector Super Zola Pac Gal</name>
   <mameversion>0216</mameversion>
   <setname>puckmanb</setname>
   <mratimestamp>201911270000</mratimestamp>
@@ -8,15 +8,11 @@
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
   <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
-    <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='msf1pac/msf1pac.4'/>
-    <part name='chtmspa/boot5'/>
-    <part name='chtmspa/boot6'/>
+    <part name='zolaad/zolapac1.bin'/>
+    <part name='zolaad/zolapac2.bin'/>
     <part repeat='8192'>00</part>
-    <part name='msf1pac/msindy.5e'/>
-    <part name='msf1pac/msindy.5f'/>
+    <part name='msvectr/msvectr.5e'/>
+    <part name='mspacad/msvectr.5f'/>
     <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>

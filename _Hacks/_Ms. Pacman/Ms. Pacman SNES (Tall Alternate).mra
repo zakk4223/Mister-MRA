@@ -1,22 +1,26 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='156b5ac0641cf53eb5eed2bade016022' type='merged' zip='mspacman.zip'>
+  <name>Ms. Pacman SNES (Tall Alternate)</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='chtmsatk/boot1'/>
     <part name='cottoh/boot2'/>
     <part name='mscrzyma/mscrzyma.3'/>
     <part name='msnes4a/mspac6m.4'/>
     <part name='msnes4a/msnes4a.5'/>
-    <part name='msnes4a/msnes4a.5'/>
     <part name='msnes4a/msnes4a.6'/>
+    <part repeat='8192'>00</part>
     <part name='msnes4a/msnes4a.5e'/>
     <part name='msnes4a/mspacnes.5f'/>
-    <part name='msnes4a/mspacnes.5f'/>
-    <part name='msnes4a/mspacnes.5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='ms4000p/pacplus.4a'/>
     <part name='82s126.3m'/>
     <part name='ms4000p/pacplus.7f'/>
   </rom>
-  
-  
 </misterromdescription>

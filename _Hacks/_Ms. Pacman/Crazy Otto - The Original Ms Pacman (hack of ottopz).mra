@@ -1,22 +1,26 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='22c22131745707ac77f0238d771020f7' type='merged' zip='mspacman.zip'>
+  <name>Crazy Otto - The Original Ms Pacman (hack of ottopz)</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='ottopz/ottopz.1'/>
     <part name='ottopza/ottopza.2'/>
     <part name='ottopz/ottopz.3'/>
     <part name='ottopza/ottopza.4'/>
     <part name='ottopz/ottopz.5'/>
-    <part name='ottopz/ottopz.5'/>
     <part name='ottopz/ottopz.6'/>
+    <part repeat='8192'>00</part>
     <part name='ottopz/ottopz.5e'/>
     <part name='ottopz/ottopz.5f'/>
-    <part name='ottopz/ottopz.5f'/>
-    <part name='ottopz/ottopz.5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
     <part name='82s123.7f'/>
   </rom>
-  
-  
 </misterromdescription>

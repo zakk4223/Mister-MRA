@@ -1,16 +1,20 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='f4ac1b2dfd98b0ead9c998e612e05528' type='merged' zip='mspacman.zip'>
+  <name>Ms. Pacman (large roms)[f]</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='mspacmanl/11.bin'/>
     <part name='5e'/>
     <part name='5f'/>
-    <part name='5f'/>
-    <part name='5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
     <part name='82s123.7f'/>
   </rom>
-  
-  
 </misterromdescription>

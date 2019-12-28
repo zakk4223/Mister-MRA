@@ -1,5 +1,5 @@
 <misterromdescription>
-  <name>Miss Snoop v1.3 [f]</name>
+  <name>Ms. Pacman (Jamma? Bootleg)</name>
   <mameversion>0216</mameversion>
   <setname>puckmanb</setname>
   <mratimestamp>201911270000</mratimestamp>
@@ -8,19 +8,11 @@
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
   <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
-    <part name='ramsnoop/ramsnoop.1'/>
-    <part name='ramsnoop/ramsnoop.2'/>
-    <part name='ramsnoop/ramsnoop.3'/>
-    <part name='ramsnoop/ramsnoop.4'/>
-    <part name='chtmspa/boot5'/>
-    <part name='chtmspa/boot6'/>
-    <part repeat='8192'>00</part>
-    <part name='5e'/>
-    <part name='5f'/>
-    <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
+    <part length="32768" name='mspacj/mspacj.cpu'/>
+    <part name='mspaceur/mspacj.gfx'/>
+    <part name='mspacj/mspacj.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part name='mspacj/mspacj.7f'/>
   </rom>
 </misterromdescription>

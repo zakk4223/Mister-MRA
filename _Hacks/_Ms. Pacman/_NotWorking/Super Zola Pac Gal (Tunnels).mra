@@ -1,22 +1,26 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='f3cecb6b8ac9367a0d68a91a375aa723' type='merged' zip='mspacman.zip'>
+  <name>Super Zola Pac Gal (Tunnels)</name>
+  <mameversion>0216</mameversion>
+  <setname>puckmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
     <part name='zolaatk/zolaatk.1'/>
     <part name='zolaatk/zolaatk.2'/>
     <part name='zolaatk/zolaatk.3'/>
     <part name='zolaatk/zolaatk.4'/>
     <part name='chtmspa/boot5'/>
-    <part name='chtmspa/boot5'/>
     <part name='zolaslow/zolaslow.6'/>
+    <part repeat='8192'>00</part>
     <part name='5e'/>
     <part name='5f'/>
-    <part name='5f'/>
-    <part name='5f'/>
+    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
     <part name='82s123.7f'/>
   </rom>
-  
-  
 </misterromdescription>
