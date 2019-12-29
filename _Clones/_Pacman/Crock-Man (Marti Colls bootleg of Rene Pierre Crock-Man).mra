@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='puckman.zip'>
+  <rom index='0' md5='2630545f653e7179134bb19edab378ca' type='merged' zip='puckman.zip'>
     <part name='bucaner/buc1.6e'/>
     <part name='bucaner/buc5.6k'/>
     <part name='pm1_prg3.6f'/>

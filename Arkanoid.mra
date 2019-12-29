@@ -12,6 +12,19 @@
     <part name='a75-07.ic24'/>
     <part name='a75-08.ic23'/>
     <part name='a75-09.ic22'/>
+    <patch offset='0x33C2'>49</patch>
+    <patch offset='0x33F4'>49</patch>
+    <patch offset='0x3437'>49</patch>
+    <patch offset='0x5042'>	
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 FF 00 00 00 00 00
+       00 00 00 00 00
+    </patch>
+    <patch offset='0x7D9F'>49</patch>
+    <patch offset='0xBDA5'>ED</patch>
+    <patch offset='0xBFFF'>92</patch>
   </rom>
   <rom index='0' md5='b9fb0ef35479748397ddc187affa2fea' type='split|nonmerged' zip='arkanoid.zip'>
     <part name='ic81-v.3f' zip='arkatayt.zip'/>
@@ -22,6 +35,19 @@
     <part name='a75-07.ic24'/>
     <part name='a75-08.ic23'/>
     <part name='a75-09.ic22'/>
+    <patch offset='0x33C2'>49</patch>
+    <patch offset='0x33F4'>49</patch>
+    <patch offset='0x3437'>49</patch>
+    <patch offset='0x5042'>	
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 FF 00 00 00 00 00
+       00 00 00 00 00
+    </patch>
+    <patch offset='0x7D9F'>49</patch>
+    <patch offset='0xBDA5'>ED</patch>
+    <patch offset='0xBFFF'>92</patch>
   </rom>
   
 </misterromdescription>

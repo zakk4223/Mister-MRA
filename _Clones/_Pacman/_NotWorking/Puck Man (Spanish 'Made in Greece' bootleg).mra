@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='puckman.zip'>
+  <rom index='0' md5='c97de7a5f5d4821b42e81f58764c0845' type='merged' zip='puckman.zip'>
     <part name='pacmansp/1.bin'/>
     <part name='pacmansp/2.bin'/>
     <part repeat='8192'>00</part>
