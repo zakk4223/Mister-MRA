@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='7c0ebba4e89bfa816382a03821b2ead8' type='merged' zip='mspacman.zip'>
     <part name='pacgent/pacgent.1'/>
     <part name='fasthear/fastplus.2'/>
     <part name='pacgent/pacgent.3'/>

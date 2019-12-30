@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='64be640d66dc745ab432e176e4567d10' type='merged' zip='mspacman.zip'>
     <part name='superp4g/superp4g.1'/>
     <part name='superp4g/superp4g.2'/>
     <part name='superp4g/superp4g.3'/>

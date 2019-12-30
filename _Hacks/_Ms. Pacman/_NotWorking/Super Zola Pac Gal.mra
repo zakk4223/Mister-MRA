@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='06977885598faa52a731d538ca656b15' type='merged' zip='mspacman.zip'>
     <part name='zolaad/zolapac1.bin'/>
     <part name='zolaad/zolapac2.bin'/>
     <part repeat='8192'>00</part>

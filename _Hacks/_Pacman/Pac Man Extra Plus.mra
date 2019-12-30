@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>Pac Man Extra Plus</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='2875b7385ce14c64d1c1233e6714fdcd' type='merged' zip='puckman.zip'>
+    <part name='pm4000p/pacplus.6e'/>
+    <part name='pm4000p/pacplus.6f'/>
+    <part name='pm4000p/pacplus.6h'/>
+    <part name='pm4000p/pacplus.6j'/>
+    <part repeat='16384'>00</part>
+    <part name='pmextra/pmextra.5e'/>
+    <part name='pmextrap/pmextrap.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

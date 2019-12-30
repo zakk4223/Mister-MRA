@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>25 MAP PAC [c]</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='27ca2f0bdf5ae12a1c2bdc25efd18f68' type='merged' zip='puckman.zip'>
+    <part name='abortman/puckmanb.6e'/>
+    <part name='namcosil/namcosil.6f'/>
+    <part name='pacman25/pacman25.3'/>
+    <part name='pacman25/pacman25.4'/>
+    <part repeat='16384'>00</part>
+    <part name='pacman25/pacman25.5e'/>
+    <part name='chtpac/pacman.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

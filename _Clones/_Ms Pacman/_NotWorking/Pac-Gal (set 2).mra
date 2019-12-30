@@ -1,5 +1,9 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>05</part>
+  </rom>
+
   <rom index='0' md5='8f74a75302a0c98bc72d7a961740f45a' type='merged' zip='mspacman.zip'>
     <part name='pacgal2/pmg1.bin'/>
     <part name='pacgal2/pmg2.bin'/>

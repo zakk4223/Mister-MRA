@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='26ed9076111c6d10d26959bc6c37d9ba' type='merged' zip='mspacman.zip'>
     <part name='ottopz/ottopz.1'/>
     <part name='ottopz/ottopz.2'/>
     <part name='ottopz/ottopz.3'/>

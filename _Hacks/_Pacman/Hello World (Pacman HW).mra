@@ -1,0 +1,21 @@
+<misterromdescription>
+  <name>Hello World (Pacman HW)</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='c38946fabf7b8569fac8876dd086256b' type='merged' zip='puckman.zip'>
+    <part name='hellowp/hellowp.6e'/>
+    <part repeat='16384'>00</part>
+    <part name='chtpac/pacman.5e'/>
+    <part name='chtpac/pacman.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

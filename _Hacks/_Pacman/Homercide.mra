@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>Homercide</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='66350462a1fbba589c894ebd5419fe30' type='merged' zip='puckman.zip'>
+    <part name='homercid/homercid.6e'/>
+    <part name='homercid/homercid.6f'/>
+    <part name='homercid/homercid.6h'/>
+    <part name='homercid/homercid.6j'/>
+    <part repeat='16384'>00</part>
+    <part name='homercid/homercid.5e'/>
+    <part name='homercid/homercid.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='homercid/homercid.4a'/>
+    <part name='82s126.3m'/>
+    <part name='homercid/homercid.7f'/>
+  </rom>
+</misterromdescription>

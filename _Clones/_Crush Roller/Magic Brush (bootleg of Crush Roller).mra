@@ -5,7 +5,10 @@
   <year>1981</year>
   <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
   <category>Maze</category>
-  <rbf>crushroller</rbf>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
+  </rom>
   <rom index='0' md5='f77e6f9d0c9cde7460c3a605fe9578ae' type='nonmerged' zip='crush2.zip'>
     <part name='tp1'/>
     <part name='tp5a'/>

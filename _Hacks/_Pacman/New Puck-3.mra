@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>New Puck-3</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='a06bd10529b4a25f9777ee2499aac731' type='merged' zip='puckman.zip'>
+    <part name='chtpman2/newpuck2.6e'/>
+    <part name='baby2/pacman.6f'/>
+    <part name='newpuck3/newpuck3.6h'/>
+    <part name='newpuck3/newpuck3.6j'/>
+    <part repeat='16384'>00</part>
+    <part name='newpuck3/newpuck3.5e'/>
+    <part name='newpuck3/newpuck3.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

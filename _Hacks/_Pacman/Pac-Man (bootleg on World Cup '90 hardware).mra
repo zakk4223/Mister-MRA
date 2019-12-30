@@ -1,0 +1,16 @@
+<misterromdescription>
+  <name>Pac-Man (bootleg on World Cup &apos;90 hardware)</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='9b5bf5fcece3e72acb6e62bc0041ff79' type='merged' zip='puckman.zip'>
+    <part name='pac90/rom1.ic87'/>
+    <part repeat='16384'>00</part>
+    <part name='pac90/char.ic85'/>
+    <part repeat='8192'>00</part>
+  </rom>
+</misterromdescription>

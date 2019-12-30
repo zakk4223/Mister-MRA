@@ -6,6 +6,9 @@
   <manufacturer>Miky SRL</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacmanclub</rbf>
+  <rom index="1">
+    <part>02</part>
+  </rom>
   <rom index='0' md5='7ecb94f8384ea92da503e670dc9f8397' type='merged|nonmerged|split' zip='clubpacm.zip'>
     <part name='prg.6f'/>
     <part name='12.5e'/>

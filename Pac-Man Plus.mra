@@ -6,6 +6,9 @@
   <manufacturer>Namco (Midway license)</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacmanplus</rbf>
+  <rom index="1">
+    <part>01</part>
+  </rom>
   <rom index='0' md5='52bf3257fe2f8ef6f3366565ac2d1740' type='merged|nonmerged|split' zip='pacplus.zip'>
     <part name='pacplus.6e'/>
     <part name='pacplus.6f'/>

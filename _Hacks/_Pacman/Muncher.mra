@@ -1,0 +1,30 @@
+<misterromdescription>
+  <name>Muncher</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='a91b3fcc738f9525575557b1d2e03d42' type='merged' zip='puckman.zip'>
+    <part name='jpmmunch/newpuck1.6e'/>
+    <part name='jpmmunch/pmheart.6k'/>
+    <part name='puckman.6f'/>
+    <part name='puckman.6m'/>
+    <part name='jpmmunch/pacheart.6h'/>
+    <part name='jpmmunch/pmheart.6n'/>
+    <part name='jpmmunch/jpmmunch.6j'/>
+    <part name='jpmmunch/jpmmunch.6p'/>
+    <part repeat='16384'>00</part>
+    <part name='puckman.5e'/>
+    <part name='puckman.5h'/>
+    <part name='puckman.5f'/>
+    <part name='puckman.5j'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

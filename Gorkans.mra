@@ -5,7 +5,10 @@
   <year>1983</year>
   <manufacturer>Techstar</manufacturer>
   <category>Maze</category>
-  <rbf>mrtnt</rbf>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>06</part>
+  </rom>
   <rom index='0' md5='1843d4f76413b0e00a0aaf129483af5a' type='nonmerged' zip='gorkans.zip'>
     <part name='gorkans8.rom'/>
     <part name='gorkans4.rom'/>

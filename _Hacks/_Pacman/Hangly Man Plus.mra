@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>Hangly Man Plus</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='7f622ea0b063071c107bdd06a6490001' type='merged' zip='puckman.zip'>
+    <part name='fasthang/hangly.6e'/>
+    <part name='hanglyad/hangly.6f'/>
+    <part name='fasthang/hangly.6h'/>
+    <part name='fasthang/hangly.6j'/>
+    <part repeat='16384'>00</part>
+    <part name='hmplus/pacplus.5e'/>
+    <part name='hmplus/hmplus.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='hmba7000/pacplus.4a'/>
+    <part name='82s126.3m'/>
+    <part name='hmba7000/pacplus.7f'/>
+  </rom>
+</misterromdescription>

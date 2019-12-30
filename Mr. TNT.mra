@@ -5,7 +5,10 @@
   <year>1983</year>
   <manufacturer>Techstar (Telko license)</manufacturer>
   <category>Maze</category>
-  <rbf>mrtnt</rbf>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>07</part>
+  </rom>
   <rom index='0' md5='c8747e9ebe04bc429e09476bd33da625' type='merged|nonmerged|split' zip='mrtnt.zip'>
     <part name='tnt.1'/>
     <part name='tnt.2'/>

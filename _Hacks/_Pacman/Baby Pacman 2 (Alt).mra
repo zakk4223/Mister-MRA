@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>Baby Pacman 2 (Alt)</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='66ece055fd57d7160cc9729c017d1ad9' type='merged' zip='puckman.zip'>
+    <part name='baby2/pacman.6e'/>
+    <part name='baby2/pacman.6f'/>
+    <part name='baby2/pacman.6h'/>
+    <part name='baby2/baby2.6j'/>
+    <part repeat='16384'>00</part>
+    <part name='baby2/baby2.5e'/>
+    <part name='baby2/baby2.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

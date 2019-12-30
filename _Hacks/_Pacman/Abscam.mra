@@ -1,0 +1,30 @@
+<misterromdescription>
+  <name>Abscam</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='928599c869c28c0f8a4cab9d22cb29c2' type='merged' zip='puckman.zip'>
+    <part name='abscam/as0.bin'/>
+    <part name='abscam/as4.bin'/>
+    <part name='abscam/as1.bin'/>
+    <part name='abscam/as5.bin'/>
+    <part name='abscam/as2.bin'/>
+    <part name='abscam/as6.bin'/>
+    <part name='abscam/as3.bin'/>
+    <part name='abscam/as7.bin'/>
+    <part repeat='16384'>00</part>
+    <part name='abscam/as8.bin'/>
+    <part name='abscam/as10.bin'/>
+    <part name='abscam/as9.bin'/>
+    <part name='abscam/as11.bin'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='abscam/as4a.bin'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

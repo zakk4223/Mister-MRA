@@ -7,8 +7,8 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fd797987989406655a031adf6f5532fb' type='merged' zip='mspacman.zip'>
-    <part length="32768" name='mspacj/mspacj.cpu'/>
+  <rom index='0' md5='b4d6cf4f3d50e66bab4529c85220cda8' type='merged' zip='mspacman.zip'>
+    <part length='32768' name='mspacj/mspacj.cpu'/>
     <part name='mspaceur/mspacj.gfx'/>
     <part name='mspacj/mspacj.1m'/>
     <part name='82s126.4a'/>

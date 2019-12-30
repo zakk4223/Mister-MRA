@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>Elton Pac</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index='0' md5='a04e42fac989a5f509fef760ec1bd091' type='merged' zip='puckman.zip'>
+    <part name='baby2/pacman.6e'/>
+    <part name='baby2/pacman.6f'/>
+    <part name='baby2/pacman.6h'/>
+    <part name='chtpac/pacman.6j'/>
+    <part repeat='16384'>00</part>
+    <part name='eltonpac/eltonpac.5e'/>
+    <part name='eltonpac/eltonpac.5f'/>
+    <part repeat='8192'>00</part>
+    <part name='82s126.1m'/>
+    <part name='82s126.4a'/>
+    <part name='82s126.3m'/>
+    <part name='82s123.7f'/>
+  </rom>
+</misterromdescription>

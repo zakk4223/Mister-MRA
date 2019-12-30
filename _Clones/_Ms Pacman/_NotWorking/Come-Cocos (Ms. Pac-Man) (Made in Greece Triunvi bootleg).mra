@@ -1,5 +1,9 @@
 <misterromdescription>
-  <rbf>MsPacman</rbf>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>05</part>
+  </rom>
+
   <rom index='0' md5='94dd0a46ffb79a89f6f7fb2883856aea' type='merged' zip='mspacman.zip'>
     <part name='mspacmanblt/triunvi.1.bin'/>
     <part name='mspacmanblt/triunvi.2.bin'/>
