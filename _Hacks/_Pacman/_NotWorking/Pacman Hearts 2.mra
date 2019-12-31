@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='b802c0e4a6d802acc050191445fb6e3d' type='merged' zip='puckman.zip'>
+  <rom index='0' mmd5='b802c0e4a6d802acc050191445fb6e3d' type='merged' zip='puckman.zip'>
     <part name='pheartb/newpuc2.6e'/>
     <part name='pheartb/newpuc2.6k'/>
     <part name='puckman.6f'/>
@@ -21,7 +21,6 @@
     <part name='hmhearts/newpuc2.5h'/>
     <part name='hmhearts/newpuc2.5f'/>
     <part name='hmhearts/newpuc2.5j'/>
-    <part repeat='8192'>00</part>
     <part name='82s126.1m'/>
     <part name='82s126.4a'/>
     <part name='82s126.3m'/>
