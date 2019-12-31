@@ -1,0 +1,29 @@
+<misterromdescription>
+  <name>Block 2 (S.P.A. Co. bootleg)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>arkanoid</rbf>
+  <rom index='0' md5='1ea01d70116a82bfc7f3b63c0becbdb1' type='merged' zip='arkanoid.zip'>
+    <part name='block2/1.bin'/>
+    <part name='block2/2.bin'/>
+    <part name='arkbloc3/blockbl.003'/>
+    <part name='arkbloc3/blockbl.004'/>
+    <part name='arkbloc3/blockbl.005'/>
+    <part name='a75-07.ic24'/>
+    <part name='a75-08.ic23'/>
+    <part name='a75-09.ic22'/>
+    <patch offset='0x33C2'>49</patch>
+    <patch offset='0x33F4'>49</patch>
+    <patch offset='0x3437'>49</patch>
+    <patch offset='0x5042'>	
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 FF 00 00 00 00 00
+       00 00 00 00 00
+    </patch>
+    <patch offset='0x7D9F'>49</patch>
+    <patch offset='0xBDA5'>ED</patch>
+    <patch offset='0xBFFF'>92</patch>
+  </rom>
+</misterromdescription>

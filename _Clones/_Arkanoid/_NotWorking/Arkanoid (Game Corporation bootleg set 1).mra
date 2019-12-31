@@ -1,0 +1,29 @@
+<misterromdescription>
+  <name>Arkanoid (Game Corporation bootleg, set 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>arkanoid</rbf>
+  <rom index='0' md5='ce5428e93585223fb2cae1e343c26386' type='merged' zip='arkanoid.zip'>
+    <part name='arkangc/arkgc.1'/>
+    <part name='arkangc/arkgc.2'/>
+    <part name='a75-03.ic64'/>
+    <part name='a75-04.ic63'/>
+    <part name='a75-05.ic62'/>
+    <part name='a75-07.ic24'/>
+    <part name='a75-08.ic23'/>
+    <part name='a75-09.ic22'/>
+    <patch offset='0x33C2'>49</patch>
+    <patch offset='0x33F4'>49</patch>
+    <patch offset='0x3437'>49</patch>
+    <patch offset='0x5042'>	
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+       00 00 00 00 00 00 00 00 00 00 FF 00 00 00 00 00
+       00 00 00 00 00
+    </patch>
+    <patch offset='0x7D9F'>49</patch>
+    <patch offset='0xBDA5'>ED</patch>
+    <patch offset='0xBFFF'>92</patch>
+  </rom>
+</misterromdescription>
