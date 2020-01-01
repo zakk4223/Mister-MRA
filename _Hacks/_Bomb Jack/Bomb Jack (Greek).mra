@@ -6,7 +6,7 @@
   <manufacturer>Tehkan</manufacturer>
   <category>Platform</category>
   <rbf>bombjack</rbf>
-  <rom index='0' md5='703f9e52f4cc4cffcaaed4caf028a4c7' type='merged' zip='bombjack.zip'>
+  <rom index='0' md5='703f9e52f4cc4cffcaaed4caf028a4c7' type='merged' zip='/hbmame/bombjack.zip'>
     <part name='01_h03t.bin'/>
     <part name='02_p04t.bin'/>
     <part name='02_p04t.bin'/>

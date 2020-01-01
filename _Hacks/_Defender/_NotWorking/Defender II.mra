@@ -6,7 +6,7 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='a70b0d097da75cb7f11306bb8ab866e1' type='merged' zip='defender.zip'>
+  <rom index='0' md5='a70b0d097da75cb7f11306bb8ab866e1' type='merged' zip='/hbmame/defender.zip'>
     <part name='defender2/10'/>
     <part name='defender2/11'/>
     <part name='defender2/12'/>

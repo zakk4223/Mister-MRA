@@ -6,7 +6,7 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='2d7d37a518fd76ef05d26c40f08964d8' type='merged' zip='phoenix.zip'>
+  <rom index='0' md5='2d7d37a518fd76ef05d26c40f08964d8' type='merged' zip='/hbmame/phoenix.zip'>
     <part name='phoenixg/phoenix.45'/>
     <part name='phoenixg/phoenix.46'/>
     <part name='phoenixg/phoenix.47'/>

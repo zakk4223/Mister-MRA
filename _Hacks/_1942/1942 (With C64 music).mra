@@ -3,7 +3,7 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>1942</rbf>
-  <rom index='0' md5='787fafc8c9cc0288d8e6626f0bcb4188' type='merged' zip='1942.zip'>
+  <rom index='0' md5='787fafc8c9cc0288d8e6626f0bcb4188' type='merged' zip='/hbmame/1942.zip'>
     <part name='srb-03.m3'/>
     <part name='srb-04.m4'/>
     <part name='srb-05.m5'/>

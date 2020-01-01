@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='39414402664ff0c0352875c3e4bd0439' type='merged' zip='mspacman.zip'>
+  <rom index='0' md5='39414402664ff0c0352875c3e4bd0439' type='merged' zip='/hbmame/mspacman.zip'>
     <part name='chtmsatk/boot1'/>
     <part name='cottoh/boot2'/>
     <part name='chtmsatk/boot3'/>

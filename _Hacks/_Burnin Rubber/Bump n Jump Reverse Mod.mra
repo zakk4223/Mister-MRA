@@ -6,7 +6,7 @@
   <manufacturer>Data East</manufacturer>
   <category>Racing / Cars</category>
   <rbf>burningrubber</rbf>
-  <rom index='0' md5='e2f26b8dc5b1e1acb0f1b4b915667c78' type='merged' zip='brubber.zip'>
+  <rom index='0' md5='e2f26b8dc5b1e1acb0f1b4b915667c78' type='merged' zip='/hbmame/brubber.zip'>
     <part name='bnjr/bnj12c.bin'/>
     <part name='bnjr/bnj12d.bin'/>
     <part name='bnjr/bnjr4e.bin'/>

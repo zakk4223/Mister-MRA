@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index='0' md5='f8bbed2238fa7189c1a9094b81d0e7f0' type='merged' zip='rallyx.zip'>
+  <rom index='0' md5='f8bbed2238fa7189c1a9094b81d0e7f0' type='merged' zip='/hbmame/rallyx.zip'>
     <part name='1b'/>
     <part name='rxtron/rxtron.1e'/>
     <part name='rxtron/rxtron.1h'/>

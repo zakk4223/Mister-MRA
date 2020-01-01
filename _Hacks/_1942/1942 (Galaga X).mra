@@ -3,7 +3,7 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jt1942</rbf>
-  <rom index='0' md5='217e43305cb120a553cea32244439a18' type='merged|split|nonmerged' zip='1942.zip'>
+  <rom index='0' md5='217e43305cb120a553cea32244439a18' type='merged|split|nonmerged' zip='/hbmame/1942.zip'>
     <part name='galagax/galagax1.n3'/>
     <part name='galagax/galagax1.n4'/>
     <part name='galagax/galagax1.n5'/>

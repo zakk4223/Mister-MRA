@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>DonkeyKong</rbf>
-  <rom index='0' md5='4199f3c6b3ff198240e925f728e96080' type='merged' zip='dkong.zip'>
+  <rom index='0' md5='4199f3c6b3ff198240e925f728e96080' type='merged' zip='/hbmame/dkong.zip'>
     <part name='c_5et_g.bin'/>
     <part name='dkongpe/c_5ct_gp.bin'/>
     <part name='dkongpe/c_5bt_gp.bin'/>

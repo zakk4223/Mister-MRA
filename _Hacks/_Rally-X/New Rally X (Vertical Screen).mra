@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index='0' md5='e8c36d2a908f00e628e1950422b09d51' type='merged' zip='rallyx.zip'>
+  <rom index='0' md5='e8c36d2a908f00e628e1950422b09d51' type='merged' zip='/hbmame/rallyx.zip'>
     <part name='nrallyv/nrallyx.1b'/>
     <part name='nrallyv/nrallyx.1e'/>
     <part name='nrallyv/nrallyx.1h'/>

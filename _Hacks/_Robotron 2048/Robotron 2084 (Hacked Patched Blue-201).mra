@@ -9,7 +9,7 @@
   <category>Maze</category>
   <category>Space / Robots</category>
   <rbf>robotron</rbf>
-  <rom index='0' md5='2b3134fd85bc0c10787e4b4c6122c6b8' type='merged' zip='robotron.zip'>
+  <rom index='0' md5='2b3134fd85bc0c10787e4b4c6122c6b8' type='merged' zip='/hbmame/robotron.zip'>
     <part name='robotron.sba'/>
     <part name='robotron201/robotronp.sbb'/>
     <part name='robotron.sbc'/>

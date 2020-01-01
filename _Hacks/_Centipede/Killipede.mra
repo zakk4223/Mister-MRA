@@ -8,7 +8,7 @@
   <category>Maze / Centipede</category>
   <category>Maze / Spiders</category>
   <rbf>centipede</rbf>
-  <rom index='0' md5='e2712a9e1b299de3ad669c2073667a93' type='merged' zip='centiped.zip'>
+  <rom index='0' md5='e2712a9e1b299de3ad669c2073667a93' type='merged' zip='/hbmame/centiped.zip'>
     <part name='astropd2/136001-307.d1'/>
     <part name='astropd2/136001-308.e1'/>
     <part name='astropd2/136001-309.fh1'/>

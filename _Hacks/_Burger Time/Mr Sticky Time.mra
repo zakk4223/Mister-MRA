@@ -7,7 +7,7 @@
   <category>Maze / Food</category>
   <category>Platform</category>
   <rbf>burgertime</rbf>
-  <rom index='0' md5='c463ed6abeb7cd2fbc557007ec63ec44' type='merged' zip='btime.zip'>
+  <rom index='0' md5='c463ed6abeb7cd2fbc557007ec63ec44' type='merged' zip='/hbmame/btime.zip'>
     <part name='aa04.9b'/>
     <part name='aa06.13b'/>
     <part name='aa05.10b'/>

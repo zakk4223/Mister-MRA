@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='b2f76975a841ef769040a773240e74aa' type='merged' zip='galaga.zip'>
+  <rom index='0' md5='b2f76975a841ef769040a773240e74aa' type='merged' zip='/hbmame/galaga.zip'>
     <part name='gg1_1b.3p'/>
     <part name='gg1_2b.3m'/>
     <part name='gg1_3.2m'/>
@@ -10,7 +10,7 @@
     <part name='gg1_11.4d'/>
     <part name='gg1_10.4f'/>
     <part name='galagab2/gallag.8'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
+    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

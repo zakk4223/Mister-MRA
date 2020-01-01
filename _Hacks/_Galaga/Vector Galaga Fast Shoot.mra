@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='44db4b6a3eeabeb7a56605a5f2e775f5' type='merged' zip='galaga.zip'>
+  <rom index='0' md5='44db4b6a3eeabeb7a56605a5f2e775f5' type='merged' zip='/hbmame/galaga.zip'>
     <part name='galagads/3200a.bin'/>
     <part name='galagads/3300b.bin'/>
     <part name='galagads/3400c.bin'/>
@@ -10,7 +10,7 @@
     <part name='vgalagaf/vgalagaf.10'/>
     <part name='vgalagaf/vgalagaf.09'/>
     <part name='vgalagaf/vgalagaf.08'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
+    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

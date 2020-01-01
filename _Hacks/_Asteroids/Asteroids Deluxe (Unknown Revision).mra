@@ -7,7 +7,7 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroids</rbf>
-  <rom index='0' md5='cdda623c6f55f3709c512796341cbdeb' type='merged' zip='asteroid.zip'>
+  <rom index='0' md5='cdda623c6f55f3709c512796341cbdeb' type='merged' zip='/hbmame/asteroid.zip'>
     <part name='astdelux4/036431.02'/>
     <part name='astdelux4/036432.02'/>
     <part name='astdelux4/036433.03'/>

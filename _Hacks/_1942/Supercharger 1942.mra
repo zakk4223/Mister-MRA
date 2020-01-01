@@ -3,7 +3,7 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>1942</rbf>
-  <rom index='0' md5='eb38d2264925fcfeb336b561cd1ea220' type='merged' zip='1942.zip'>
+  <rom index='0' md5='eb38d2264925fcfeb336b561cd1ea220' type='merged' zip='/hbmame/1942.zip'>
     <part name='1942h/supercharger_1942_@3.m3'/>
     <part name='1942h/supercharger_1942_@4.m4'/>
     <part name='1942h/supercharger_1942_@5.m5'/>

@@ -3,7 +3,7 @@
   <rom index='1'>
     <part>02</part>
   </rom>
-  <rom index='0' md5='50a2c39b6981b0cce5f50cce72009ee4' type='merged' zip='mappy.zip'>
+  <rom index='0' md5='50a2c39b6981b0cce5f50cce72009ee4' type='merged' zip='/hbmame/mappy.zip'>
     <part name='housepty/housep1d.64'/>
     <part name='housepty/housep1d.64'/>
     <part name='mp1_2.1c'/>

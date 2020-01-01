@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>Pisces</rbf>
-  <rom index='0' md5='7edb4559dafc34806dfbd74769859c79' type='merged' zip='pisces.zip'>
+  <rom index='0' md5='7edb4559dafc34806dfbd74769859c79' type='merged' zip='/hbmame/pisces.zip'>
     <part name='starfgh2/a1.bin'/>
     <part name='starfgh2/a2.bin'/>
     <part name='starfgh2/b2.bin'/>

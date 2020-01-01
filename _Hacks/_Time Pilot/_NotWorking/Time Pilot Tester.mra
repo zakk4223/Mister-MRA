@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>TimePilot</rbf>
-  <rom index='0' md5='62e6936e8fcfc4397d4e38a8136f5664' type='merged' zip='timeplt.zip'>
+  <rom index='0' md5='62e6936e8fcfc4397d4e38a8136f5664' type='merged' zip='/hbmame/timeplt.zip'>
     <part name='tm1'/>
     <part name='tm2'/>
     <part name='tm3'/>

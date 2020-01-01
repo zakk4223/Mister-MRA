@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='ae59d404d9eb3595371330fb3effc95f' type='merged' zip='puckman.zip'>
+  <rom index='0' md5='ae59d404d9eb3595371330fb3effc95f' type='merged' zip='/hbmame/puckman.zip'>
     <part name='fasthang/hangly.6e'/>
     <part name='hanglyad/hangly.6f'/>
     <part name='fasthang/hangly.6h'/>

@@ -8,7 +8,7 @@
   <category>Maze / Pigs</category>
   <category>Sports / Shooting</category>
   <rbf>pooyan</rbf>
-  <rom index='0' md5='4e11462566dc7185cf6351d135140be7' type='merged' zip='pooyan.zip'>
+  <rom index='0' md5='4e11462566dc7185cf6351d135140be7' type='merged' zip='/hbmame/pooyan.zip'>
     <part name='pooyandiag/diag.4a'/>
     <part name='2.5a'/>
     <part name='3.6a'/>

@@ -3,7 +3,7 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>splat</rbf>
-  <rom index='0' md5='29a626e00deed2b43a06c5c98c978ed9' type='merged' zip='splat.zip'>
+  <rom index='0' md5='29a626e00deed2b43a06c5c98c978ed9' type='merged' zip='/hbmame/splat.zip'>
     <part name='splatsc1/splatsc1.10'/>
     <part name='splatsc1/splatsc1.11'/>
     <part name='splatsc1/splatsc1.12'/>

@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index='0' md5='5e572f0dbc5b2a447d317f2e0dfddf3f' type='merged' zip='xevious.zip'>
+  <rom index='0' md5='5e572f0dbc5b2a447d317f2e0dfddf3f' type='merged' zip='/hbmame/xevious.zip'>
     <part name='xeviousp/xvip_1.3p'/>
     <part name='sxeviouss01/xvip_2.3m'/>
     <part name='sxeviouss01/xvip_3.2m'/>
@@ -18,9 +18,9 @@
     <part name='sxeviouss01/xvip_9.2a'/>
     <part name='sxeviouss01/xvip_10.2b'/>
     <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
+    <part name='50xx.bin' zip='/hbmame/namco50.zip'/>
+    <part name='51xx.bin' zip='/hbmame/namco51.zip'/>
+    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

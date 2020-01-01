@@ -7,7 +7,7 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='39046ae9e9ea813fab15b38bbc25cecc' type='merged' zip='puckman.zip'>
+  <rom index='0' md5='39046ae9e9ea813fab15b38bbc25cecc' type='merged' zip='/hbmame/puckman.zip'>
     <part name='fpnleash/punleash.1'/>
     <part name='fpnleash/punleash.2'/>
     <part name='fpnleash/punleash.3'/>

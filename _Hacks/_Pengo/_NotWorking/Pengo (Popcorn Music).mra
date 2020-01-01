@@ -8,7 +8,7 @@
   <category>Maze / Blocks</category>
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
-  <rom index='0' md5='f65a2e2e34ca70a9db6bfc84bad78138' type='merged' zip='pengo.zip'>
+  <rom index='0' md5='f65a2e2e34ca70a9db6bfc84bad78138' type='merged' zip='/hbmame/pengo.zip'>
     <part name='pengopop/pengo.u8'/>
     <part name='pengopop/pengo.u7'/>
     <part name='pengopop/pengo.u15'/>

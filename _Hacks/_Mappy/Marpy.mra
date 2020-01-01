@@ -3,7 +3,7 @@
   <rom index='1'>
     <part>02</part>
   </rom>
-  <rom index='0' md5='d5088ab00fd950d4b2df4d01e550d58d' type='merged' zip='mappy.zip'>
+  <rom index='0' md5='d5088ab00fd950d4b2df4d01e550d58d' type='merged' zip='/hbmame/mappy.zip'>
     <part name='mpx_3.1d'/>
     <part name='mpx_3.1d'/>
     <part name='mp1_2.1c'/>

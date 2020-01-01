@@ -1,6 +1,6 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index='0' md5='6ca006bb032669ac1b7eb865a2e886b2' type='merged' zip='xevious.zip'>
+  <rom index='0' md5='6ca006bb032669ac1b7eb865a2e886b2' type='merged' zip='/hbmame/xevious.zip'>
     <part name='battlesh/bg1.d9'/>
     <part name='battlesh/bg2.d10'/>
     <part name='battlesh/bg3.d12'/>
@@ -15,9 +15,9 @@
     <part name='xvi_9.2a'/>
     <part name='xvi_10.2b'/>
     <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
+    <part name='50xx.bin' zip='/hbmame/namco50.zip'/>
+    <part name='51xx.bin' zip='/hbmame/namco51.zip'/>
+    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
 </misterromdescription>

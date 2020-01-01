@@ -6,7 +6,7 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Maze</category>
   <rbf>pickin</rbf>
-  <rom index='0' md5='fd91b82405880fe44a8126492f348776' type='merged' zip='pickin.zip'>
+  <rom index='0' md5='fd91b82405880fe44a8126492f348776' type='merged' zip='/hbmame/pickin.zip'>
     <part name='9e'/>
     <part name='9f'/>
     <part name='9j'/>

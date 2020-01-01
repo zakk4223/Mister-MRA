@@ -6,7 +6,7 @@
   <manufacturer>Nichibutsu</manufacturer>
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
-  <rom index='0' md5='8e35d47fa3f973664be996a2f682e026' type='merged' zip='cclimber.zip'>
+  <rom index='0' md5='8e35d47fa3f973664be996a2f682e026' type='merged' zip='/hbmame/cclimber.zip'>
     <part name='cclimbrm/cc11m'/>
     <part name='cc10'/>
     <part name='cc09'/>

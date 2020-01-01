@@ -3,7 +3,7 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jt1943</rbf>
-  <rom index='0' md5='5006722f516b6fd1709046a542d3dd71' type='merged' zip='1943.zip'>
+  <rom index='0' md5='5006722f516b6fd1709046a542d3dd71' type='merged' zip='/hbmame/1943.zip'>
     <part name='1943b2/mkb03.12d'/>
     <part name='1943b2/bm02.13d'/>
     <part name='1943b2/bm03.14d'/>
