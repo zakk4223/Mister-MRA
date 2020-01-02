@@ -6,7 +6,7 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index='0' md5='4fd4890300d25b26f2a78a4cfe8dc21d' type='merged' zip='/hbmame//hbmame/bagman.zip'>
+  <rom index='0' md5='4fd4890300d25b26f2a78a4cfe8dc21d' type='merged' zip='/hbmame/bagman.zip'>
     <part name='bagturbo/bagt_a4_9e.bin'/>
     <part name='bagturbo/a5-9f'/>
     <part name='bagturbo/a4_9j.bin'/>
