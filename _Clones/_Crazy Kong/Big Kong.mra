@@ -1,0 +1,36 @@
+<misterromdescription>
+  <name>Big Kong</name>
+  <mameversion>0217</mameversion>
+  <setname>bigkong</setname>
+  <year>1981</year>
+  <manufacturer>bootleg</manufacturer>
+  <rbf>CrazyKong</rbf>
+  <rom index="0" zip="ckong.zip" md5="07c84c67183bb6f1feaeefe7f699d8fb" type="merged">
+    <part name="bigkong/dk01f7_2532.d5"/>
+    <part name="bigkong/dk02f8_2532.f5"/>
+    <part name="bigkong/dk03f9_2532.h5"/>
+    <part name="bigkong/dk04f10_2532.k5"/>
+    <part name="bigkong/dk05f11_2532.l5"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n05-12.bin"/>
+    <part name="bigkong/n11-06.bin"/>
+    <part name="bigkong/l11-05.bin"/>
+    <part name="bigkong/k11-04.bin"/>
+    <part name="bigkong/h11-03.bin"/>
+    <part name="bigkong/c11-02.bin"/>
+    <part name="bigkong/a11-01.bin"/>
+    <part name="bigkong/c11-02.bin"/>
+    <part name="bigkong/a11-01.bin"/>
+    <part name="falcon13"/>
+    <part name="falcon12"/>
+  </rom>
+</misterromdescription>
