@@ -1,0 +1,40 @@
+<misterromdescription>
+  <name>Crazy Kong (Orca bootleg)</name>
+  <mameversion>0217</mameversion>
+  <setname>ckongo</setname>
+  <year>1981</year>
+  <manufacturer>bootleg (Orca)</manufacturer>
+  <rbf>CrazyKong</rbf>
+  <rom index="0" zip="ckong.zip" md5="fa1d74555f5c450c4f22f6eea0b13f16" type="merged">
+    <part name="ckongo/o55a-1"/>
+    <part name="ckongo/o55a-2"/>
+    <part name="ckongo/o55a-3"/>
+    <part name="ckongo/o55a-4"/>
+    <part name="ckongo/o55a-5"/>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part name="ckongo/o50b-1" offset="0" length="2048"/>
+    <part name="ckongo/o50b-2" offset="0" length="2048"/>
+    <part name="ckongo/o50b-1" offset="2048" length="2048"/>
+    <part name="ckongo/o50b-2" offset="2048" length="2048"/>
+    <part name="ckongo/o50b-3" offset="0" length="2048"/>
+    <part name="ckongo/o50b-4" offset="0" length="2048"/>
+    <part name="ckongo/o50b-3" offset="2048" length="2048"/>
+    <part name="ckongo/o50b-4" offset="2048" length="2048"/>
+    <part name="bigkong/c11-02.bin"/>
+    <part name="bigkong/a11-01.bin"/>
+    <part name="bigkong/c11-02.bin"/>
+    <part name="bigkong/a11-01.bin"/>
+    <part name="falcon13"/>
+    <part name="falcon12"/>
+  </rom>
+</misterromdescription>
