@@ -3,46 +3,20 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>solomonskey</rbf>
-  <rom index='0' md5='2e540133603058d3949c9a3403e942c6' type='merged' zip='solomon.zip'>
-    <part name='2.5lm'/>
-    <part name='3.6lm'/>
-    <part name='4.7lm'/>
-    <part name='5.8lm'/>
-    <part name='solomonj/slmn_12.bin'/>
-    <part name='11.3r'/>
-    <part name='10.3p'/>
-    <part name='9.3m'/>
-    <part name='1.3jk'/>
-    <part name='solomonj/slmn_06.bin'/>
-    <part name='solomonj/slmn_07.bin'/>
-    <part name='solomonj/slmn_08.bin'/>
-  </rom>
-  <rom index='0' md5='2e540133603058d3949c9a3403e942c6' type='split' zip='solomonj.zip'>
-    <part name='2.5lm' zip='solomon.zip'/>
-    <part name='3.6lm' zip='solomon.zip'/>
-    <part name='4.7lm' zip='solomon.zip'/>
-    <part name='5.8lm' zip='solomon.zip'/>
-    <part name='slmn_12.bin'/>
-    <part name='11.3r' zip='solomon.zip'/>
-    <part name='10.3p' zip='solomon.zip'/>
-    <part name='9.3m' zip='solomon.zip'/>
-    <part name='1.3jk' zip='solomon.zip'/>
-    <part name='slmn_06.bin'/>
-    <part name='slmn_07.bin'/>
-    <part name='slmn_08.bin'/>
-  </rom>
-  <rom index='0' md5='2e540133603058d3949c9a3403e942c6' type='nonmerged' zip='solomonj.zip'>
-    <part name='slmn_02.bin'/>
-    <part name='slmn_03.bin'/>
-    <part name='slmn_04.bin'/>
-    <part name='slmn_05.bin'/>
-    <part name='slmn_12.bin'/>
-    <part name='slmn_11.bin'/>
-    <part name='slmn_10.bin'/>
-    <part name='slmn_09.bin'/>
-    <part name='slmn_01.bin'/>
-    <part name='slmn_06.bin'/>
-    <part name='slmn_07.bin'/>
-    <part name='slmn_08.bin'/>
+  
+  
+  <rom index='0' md5='2e540133603058d3949c9a3403e942c6' type='merged|nonmerged|split' zip='solomonj.zip|solomon.zip'>
+    <part crc='80fa2be3' name='slmn_02.bin'/>
+    <part crc='236106b4' name='slmn_03.bin'/>
+    <part crc='088fe5d9' name='slmn_04.bin'/>
+    <part crc='8366232a' name='slmn_05.bin'/>
+    <part crc='aa26dfcb' name='slmn_12.bin'/>
+    <part crc='6f94d2af' name='slmn_11.bin'/>
+    <part crc='8310c2a1' name='slmn_10.bin'/>
+    <part crc='ab7e6c42' name='slmn_09.bin'/>
+    <part crc='fa6e562e' name='slmn_01.bin'/>
+    <part crc='e4d421ff' name='slmn_06.bin'/>
+    <part crc='d52d7e38' name='slmn_07.bin'/>
+    <part crc='b924d162' name='slmn_08.bin'/>
   </rom>
 </misterromdescription>

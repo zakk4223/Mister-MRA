@@ -7,27 +7,17 @@
   <category>Maze / Food</category>
   <category>Platform</category>
   <rbf>burgertime</rbf>
-  <rom index='0' md5='bacaad598f97a393f6bc8783601c7a98' type='merged|nonmerged' zip='btime.zip'>
-    <part name='cookrace/1f.1'/>
-    <part name='cookrace/2f.2'/>
-    <part name='cookrace/m8.7'/>
-    <part name='cookrace/m7.8'/>
-    <part name='cookrace/m6.9'/>
-    <part name='cookrace/2f.3'/>
-    <part name='cookrace/4f.4'/>
-    <part name='cookrace/5f.5'/>
-    <part name='cookrace/6f.6'/>
-  </rom>
-  <rom index='0' md5='bacaad598f97a393f6bc8783601c7a98' type='split|nonmerged' zip='cookrace.zip'>
-    <part name='1f.1'/>
-    <part name='2f.2'/>
-    <part name='m8.7'/>
-    <part name='m7.8'/>
-    <part name='m6.9'/>
-    <part name='2f.3'/>
-    <part name='4f.4'/>
-    <part name='5f.5'/>
-    <part name='6f.6'/>
+  
+  <rom index='0' md5='bacaad598f97a393f6bc8783601c7a98' type='merged|nonmerged|split' zip='cookrace.zip|btime.zip'>
+    <part crc='68759d32' name='1f.1'/>
+    <part crc='be7d72d1' name='2f.2'/>
+    <part crc='a1a0d5a6' name='m8.7'/>
+    <part crc='1104f497' name='m7.8'/>
+    <part crc='d0d94477' name='m6.9'/>
+    <part crc='28609a75' name='2f.3'/>
+    <part crc='7742e771' name='4f.4'/>
+    <part crc='611c686f' name='5f.5'/>
+    <part crc='6b8e0272' name='6f.6'/>
   </rom>
   
   

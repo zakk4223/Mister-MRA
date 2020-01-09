@@ -6,35 +6,21 @@
   <manufacturer>Nichibutsu</manufacturer>
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
-  <rom index='0' md5='be0c4433602b84772a49e666923e709b' type='merged|nonmerged' zip='cclimber.zip'>
-    <part name='cclimbrrod/cc5.bin'/>
-    <part name='cclimbroper/cc4-2532.cpu'/>
-    <part name='cclimbroper/cc3-2532.cpu'/>
-    <part name='cclimbroper/cc2-2532.cpu'/>
-    <part name='cclimbroper/cc1-2532.cpu'/>
-    <part name='cclimbrrod/cc13.bin'/>
-    <part name='cclimbrrod/cc12.bin'/>
-    <part name='cclimbrrod/cc11.bin'/>
-    <part name='cclimbrrod/cc10.bin'/>
-    <part name='cclimbrrod/cc9.bin'/>
-    <part name='cclimbrrod/cc8.bin'/>
-    <part name='ccboot/cc13j.bin'/>
-    <part name='ccboot/cc12j.bin'/>
-  </rom>
-  <rom index='0' md5='be0c4433602b84772a49e666923e709b' type='split|nonmerged' zip='cclimbrrod.zip'>
-    <part name='cc5.bin'/>
-    <part name='cc4.bin'/>
-    <part name='cc3.bin'/>
-    <part name='cc2.bin'/>
-    <part name='cc1.bin'/>
-    <part name='cc13.bin'/>
-    <part name='cc12.bin'/>
-    <part name='cc11.bin'/>
-    <part name='cc10.bin'/>
-    <part name='cc9.bin'/>
-    <part name='cc8.bin'/>
-    <part name='cc7.cpu'/>
-    <part name='cc6.cpu'/>
+  
+  <rom index='0' md5='be0c4433602b84772a49e666923e709b' type='merged|nonmerged|split' zip='cclimbrrod.zip|cclimber.zip'>
+    <part crc='a67238e9' name='cc5.bin'/>
+    <part crc='4b1abea6' name='cc4.bin'/>
+    <part crc='5612bb3c' name='cc3.bin'/>
+    <part crc='653cebc4' name='cc2.bin'/>
+    <part crc='3fcf912b' name='cc1.bin'/>
+    <part crc='8e0299f5' name='cc13.bin'/>
+    <part crc='e8cd7b53' name='cc12.bin'/>
+    <part crc='921ebd9a' name='cc11.bin'/>
+    <part crc='8ab5fa6b' name='cc10.bin'/>
+    <part crc='6fb2afaf' name='cc9.bin'/>
+    <part crc='227ee804' name='cc8.bin'/>
+    <part crc='5f0bcdfb' name='cc7.cpu'/>
+    <part crc='9003ffbd' name='cc6.cpu'/>
   </rom>
   
   

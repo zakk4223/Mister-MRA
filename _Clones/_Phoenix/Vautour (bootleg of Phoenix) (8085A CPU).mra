@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='0d58bd2453f62d4d44a91227677db6aa' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='vautour/vautor01.1e'/>
-    <part name='phoenixass/ic46.bin'/>
-    <part name='avefenix/4103-8516.rom'/>
-    <part name='vautour/vautor04.1j'/>
-    <part name='falcon/phoenixc.49'/>
-    <part name='vautour/vautor06.1h'/>
-    <part name='phoenixc4/vautor07.1m'/>
-    <part name='vautour/vautor08.1n'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='fenix/11.3h'/>
-    <part name='fenix/10.3j'/>
-  </rom>
-  <rom index='0' md5='0d58bd2453f62d4d44a91227677db6aa' type='split' zip='vautour.zip'>
-    <part name='vautor01.1e'/>
-    <part name='phoenix.46'/>
-    <part name='phoenix.47'/>
-    <part name='vautor04.1j'/>
-    <part name='phoenixc.49'/>
-    <part name='vautor06.1h'/>
-    <part name='vautor07.1m'/>
-    <part name='vautor08.1n'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='vautor12.2h'/>
-    <part name='vautor11.2j'/>
-  </rom>
-  <rom index='0' md5='0d58bd2453f62d4d44a91227677db6aa' type='nonmerged' zip='vautour.zip'>
-    <part name='vautor01.1e'/>
-    <part name='phoenix.46'/>
-    <part name='phoenix.47'/>
-    <part name='vautor04.1j'/>
-    <part name='phoenixc.49'/>
-    <part name='vautor06.1h'/>
-    <part name='vautor07.1m'/>
-    <part name='vautor08.1n'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='vautor12.2h'/>
-    <part name='vautor11.2j'/>
+  
+  
+  <rom index='0' md5='0d58bd2453f62d4d44a91227677db6aa' type='merged|nonmerged|split' zip='vautour.zip|phoenix.zip'>
+    <part crc='cd2807ee' name='vautor01.1e'/>
+    <part crc='dbc942fa' name='phoenix.46'/>
+    <part crc='cbbb8839' name='phoenix.47'/>
+    <part crc='106262eb' name='vautor04.1j'/>
+    <part crc='1a1ce0d0' name='phoenixc.49'/>
+    <part crc='c90e3287' name='vautor06.1h'/>
+    <part crc='079ac364' name='vautor07.1m'/>
+    <part crc='1dbd937a' name='vautor08.1n'/>
+    <part crc='3c7e623f' name='ic23.3d'/>
+    <part crc='59916d3b' name='ic24.4d'/>
+    <part crc='8eff75c9' name='vautor12.2h'/>
+    <part crc='369e7476' name='vautor11.2j'/>
   </rom>
 </misterromdescription>

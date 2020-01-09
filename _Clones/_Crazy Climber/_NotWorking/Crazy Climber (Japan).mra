@@ -6,50 +6,22 @@
   <manufacturer>Nichibutsu</manufacturer>
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
-  <rom index='0' md5='c6ed9ee9dc979e3d05c97319795146ca' type='merged|nonmerged' zip='cclimber.zip'>
-    <part name='cclimberj/cc11j.bin'/>
-    <part name='cclimberj/cc10j.bin'/>
-    <part name='ccboot/cc09j.bin'/>
-    <part name='cclimberj/cc08j.bin'/>
-    <part name='ccboot/cc07j.bin'/>
-    <part name='cc06'/>
-    <part name='cc05'/>
-    <part name='cc04'/>
-    <part name='cc03'/>
-    <part name='cc02'/>
-    <part name='cc01'/>
-    <part name='ccboot/cc13j.bin'/>
-    <part name='ccboot/cc12j.bin'/>
-  </rom>
-  <rom index='0' md5='c6ed9ee9dc979e3d05c97319795146ca' type='split' zip='cclimberj.zip'>
-    <part name='cc11j.bin'/>
-    <part name='cc10j.bin'/>
-    <part name='cc09j.bin'/>
-    <part name='cc08j.bin'/>
-    <part name='cc07j.bin'/>
-    <part name='cc06' zip='cclimber.zip'/>
-    <part name='cc05' zip='cclimber.zip'/>
-    <part name='cc04' zip='cclimber.zip'/>
-    <part name='cc03' zip='cclimber.zip'/>
-    <part name='cc02' zip='cclimber.zip'/>
-    <part name='cc01' zip='cclimber.zip'/>
-    <part name='cc13j.bin'/>
-    <part name='cc12j.bin'/>
-  </rom>
   
-  <rom index='0' md5='c6ed9ee9dc979e3d05c97319795146ca' type='nonmerged' zip='cclimberj.zip'>
-    <part name='cc11j.bin'/>
-    <part name='cc10j.bin'/>
-    <part name='cc09j.bin'/>
-    <part name='cc08j.bin'/>
-    <part name='cc07j.bin'/>
-    <part name='cc06'/>
-    <part name='cc05'/>
-    <part name='cc04'/>
-    <part name='cc03'/>
-    <part name='cc02'/>
-    <part name='cc01'/>
-    <part name='cc13j.bin'/>
-    <part name='cc12j.bin'/>
+  
+  
+  <rom index='0' md5='c6ed9ee9dc979e3d05c97319795146ca' type='merged|nonmerged|split' zip='cclimberj.zip|cclimber.zip'>
+    <part crc='89783959' name='cc11j.bin'/>
+    <part crc='14eda506' name='cc10j.bin'/>
+    <part crc='26489069' name='cc09j.bin'/>
+    <part crc='b33c96f8' name='cc08j.bin'/>
+    <part crc='fbc9626c' name='cc07j.bin'/>
+    <part crc='481b64cc' name='cc06'/>
+    <part crc='2c33b760' name='cc05'/>
+    <part crc='332347cb' name='cc04'/>
+    <part crc='4e4b3658' name='cc03'/>
+    <part crc='14f3ecc9' name='cc02'/>
+    <part crc='21c0f9fb' name='cc01'/>
+    <part crc='5f0bcdfb' name='cc13j.bin'/>
+    <part crc='9003ffbd' name='cc12j.bin'/>
   </rom>
 </misterromdescription>

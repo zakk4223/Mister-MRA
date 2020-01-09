@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='7a4c3710cdcbea9ec92e558bf4fb9d18' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='mspacatttur/pacmdp.1'/>
-    <part name='mspacatttur/pacmdp.2'/>
-    <part name='mspacatttur/pacmdp.3'/>
-    <part name='mspacmadp/pacmdp.4'/>
-    <part name='mspacatttur/pacmdp.5'/>
-    <part name='mspacmadp/pacmdp.6'/>
+  <rom index='0' md5='7a4c3710cdcbea9ec92e558bf4fb9d18' type='merged|nonmerged|split' zip='/hbmame/mspacatttur.zip|/hbmame/mspacman.zip'>
+    <part crc='69c02827' name='pacmdp.1'/>
+    <part crc='e961c8b3' name='pacmdp.2'/>
+    <part crc='e9faa733' name='pacmdp.3'/>
+    <part crc='FIXME' name='pacmdp.4'/>
+    <part crc='a935866b' name='pacmdp.5'/>
+    <part crc='FIXME' name='pacmdp.6'/>
     <part repeat='8192'>00</part>
-    <part name='mspacmadp/pacmdp.5e'/>
-    <part name='mspacmadp/pacmdp.5f'/>
+    <part crc='FIXME' name='pacmdp.5e'/>
+    <part crc='FIXME' name='pacmdp.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

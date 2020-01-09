@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='cb454be558171cd08ff979e1dac6f9b0' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='ms2600/ms2600.4'/>
-    <part name='ms2600/ms2600.5'/>
-    <part name='ms2600/ms2600.6'/>
+  <rom index='0' md5='cb454be558171cd08ff979e1dac6f9b0' type='merged|nonmerged|split' zip='/hbmame/ms2600.zip|/hbmame/mspacman.zip'>
+    <part crc='d16b31b7' name='boot1'/>
+    <part crc='0d32de5e' name='boot2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='c2a293df' name='ms2600.4'/>
+    <part crc='4852db05' name='ms2600.5'/>
+    <part crc='f32b076f' name='ms2600.6'/>
     <part repeat='8192'>00</part>
-    <part name='ms2600/ms2600.5e'/>
-    <part name='ms2600/ms2600.5f'/>
+    <part crc='6b07b97a' name='ms2600.5e'/>
+    <part crc='f844608b' name='ms2600.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

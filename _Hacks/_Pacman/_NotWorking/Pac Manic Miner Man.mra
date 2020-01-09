@@ -7,17 +7,17 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='c7f1e5da473252ae8ba8b093a2fd1800' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='pacminer/pacminer.6e'/>
-    <part name='pacminer/pacminer.6f'/>
-    <part name='pacminer/pacminer.6h'/>
+  <rom index='0' md5='c7f1e5da473252ae8ba8b093a2fd1800' type='merged|nonmerged|split' zip='/hbmame/pacminer.zip|/hbmame/puckman.zip'>
+    <part crc='11dee14e' name='pacminer.6e'/>
+    <part crc='8c449bd7' name='pacminer.6f'/>
+    <part crc='a0e62570' name='pacminer.6h'/>
     <part repeat='16384'>00</part>
-    <part name='pacminer/pacminer.5e'/>
-    <part name='pacminer/pacminer.5f'/>
+    <part crc='9b3cc7cd' name='pacminer.5e'/>
+    <part crc='c1b2dc90' name='pacminer.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

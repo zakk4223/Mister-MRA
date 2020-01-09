@@ -3,82 +3,32 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtbiocom</rbf>
-  <rom index="0" md5="887554ea552e11a2ca0aa63a3b807dfb" type="merged" zip="bionicc.zip">
-    <part name="bioniccbl/02l.bin"/>
-    <part name="bioniccbl/02u.bin"/>
-    <part name="bioniccbl/03l.bin"/>
-    <part name="bioniccbl/03u.bin"/>
-    <part name="bioniccbl/01.bin"/>
-    <part name="bioniccbl/06.bin"/>
-    <part name="ts_13.18f"/>
-    <part name="ts_18.18g"/>
-    <part name="ts_23.18j"/>
-    <part name="ts_24.18k"/>
-    <part name="bioniccbl/04.bin"/>
-    <part name="bioniccbl/04.bin"/>
-    <part name="ts_12.17f"/>
-    <part name="ts_11.15f"/>
-    <part name="ts_17.17g"/>
-    <part name="ts_16.15g"/>
-    <part name="bioniccbl/05.bin"/>
-    <part name="bioniccbl/05.bin"/>
-    <part name="bioniccbl/16.bin"/>
-    <part name="bioniccbl/15.bin"/>
-    <part name="bioniccbl/11.bin"/>
-    <part name="bioniccbl/07.bin"/>
-    <part name="ts.2f"/>
-    <part name="63s141.18f"/>
-  </rom>
-  <rom index="0" md5="887554ea552e11a2ca0aa63a3b807dfb" type="split" zip="bioniccbl.zip">
-    <part name="02l.bin"/>
-    <part name="02u.bin"/>
-    <part name="03l.bin"/>
-    <part name="03u.bin"/>
-    <part name="01.bin"/>
-    <part name="06.bin"/>
-    <part name="ts_13.18f" zip="bionicc.zip"/>
-    <part name="ts_18.18g" zip="bionicc.zip"/>
-    <part name="ts_23.18j" zip="bionicc.zip"/>
-    <part name="ts_24.18k" zip="bionicc.zip"/>
-    <part name="04.bin"/>
-    <part name="04.bin"/>
-    <part name="ts_12.17f" zip="bionicc.zip"/>
-    <part name="ts_11.15f" zip="bionicc.zip"/>
-    <part name="ts_17.17g" zip="bionicc.zip"/>
-    <part name="ts_16.15g" zip="bionicc.zip"/>
-    <part name="05.bin"/>
-    <part name="05.bin"/>
-    <part name="16.bin"/>
-    <part name="15.bin"/>
-    <part name="11.bin"/>
-    <part name="07.bin"/>
-    <part name="ts.2f" zip="bionicc.zip"/>
-    <part name="63s141.18f" zip="bionicc.zip"/>
-  </rom>
-  <rom index="0" md5="887554ea552e11a2ca0aa63a3b807dfb" type="nonmerged" zip="bioniccbl.zip">
-    <part name="02l.bin"/>
-    <part name="02u.bin"/>
-    <part name="03l.bin"/>
-    <part name="03u.bin"/>
-    <part name="01.bin"/>
-    <part name="06.bin"/>
-    <part name="ts_13.18f"/>
-    <part name="ts_18.18g"/>
-    <part name="ts_23.18j"/>
-    <part name="ts_24.18k"/>
-    <part name="04.bin"/>
-    <part name="04.bin"/>
-    <part name="ts_12.17f"/>
-    <part name="ts_11.15f"/>
-    <part name="ts_17.17g"/>
-    <part name="ts_16.15g"/>
-    <part name="05.bin"/>
-    <part name="05.bin"/>
-    <part name="16.bin"/>
-    <part name="15.bin"/>
-    <part name="11.bin"/>
-    <part name="07.bin"/>
-    <part name="d8751h.bin"/>
-    <part name="63s141.18f"/>
+  
+  
+  <rom index='0' md5='887554ea552e11a2ca0aa63a3b807dfb' type='merged|nonmerged|split' zip='bioniccbl.zip|bionicc.zip'>
+    <part crc='b2fe1ddb' name='02l.bin'/>
+    <part crc='27f04bb6' name='02u.bin'/>
+    <part crc='427a003d' name='03l.bin'/>
+    <part crc='c01547b1' name='03u.bin'/>
+    <part crc='8ea07917' name='01.bin'/>
+    <part crc='4e6b81d9' name='06.bin'/>
+    <part crc='a8f5a004' name='ts_13.18f'/>
+    <part crc='3b36948c' name='ts_18.18g'/>
+    <part crc='bbfbe58a' name='ts_23.18j'/>
+    <part crc='f156e564' name='ts_24.18k'/>
+    <part crc='1b43bf63' name='04.bin'/>
+    <part crc='1b43bf63' name='04.bin'/>
+    <part crc='e4b4619e' name='ts_12.17f'/>
+    <part crc='ab30237a' name='ts_11.15f'/>
+    <part crc='deb657e4' name='ts_17.17g'/>
+    <part crc='d363b5f9' name='ts_16.15g'/>
+    <part crc='9bf8dc7f' name='05.bin'/>
+    <part crc='9bf8dc7f' name='05.bin'/>
+    <part crc='ac89e5cc' name='16.bin'/>
+    <part crc='4e0354ce' name='15.bin'/>
+    <part crc='37cb11c2' name='11.bin'/>
+    <part crc='a0e78996' name='07.bin'/>
+    <part crc='3ed7f0be' name='d8751h.bin'/>
+    <part crc='b58d0023' name='63s141.18f'/>
   </rom>
 </misterromdescription>

@@ -3,19 +3,19 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>rshnatk</rbf>
-  <rom index='0' md5='886c929e6db35548e44cfdd8d168bdb1' type='merged|split|nonmerged' zip='gberet.zip'>
-    <part name='577l03.10c'/>
-    <part name='577l02.8c'/>
-    <part name='577l01.7c'/>
-    <part name='577l01.7c'/>
-    <part name='577l06.5e'/>
-    <part name='577l05.4e'/>
-    <part name='577l08.4f'/>
-    <part name='577l04.3e'/>
-    <part name='577l07.3f'/>
-    <part name='577h10.5f'/>
-    <part name='577h11.6f'/>
-    <part name='577h09.2f'/>
+  <rom index='0' md5='886c929e6db35548e44cfdd8d168bdb1' type='merged|nonmerged|split' zip='gberet.zip'>
+    <part crc='ae29e4ff' name='577l03.10c'/>
+    <part crc='240836a5' name='577l02.8c'/>
+    <part crc='41fa3e1f' name='577l01.7c'/>
+    <part crc='41fa3e1f' name='577l01.7c'/>
+    <part crc='0f1cb0ca' name='577l06.5e'/>
+    <part crc='523a8b66' name='577l05.4e'/>
+    <part crc='883933a4' name='577l08.4f'/>
+    <part crc='ccecda4c' name='577l04.3e'/>
+    <part crc='4da7bd1b' name='577l07.3f'/>
+    <part crc='e9de1e53' name='577h10.5f'/>
+    <part crc='2a1a992b' name='577h11.6f'/>
+    <part crc='c15e7c80' name='577h09.2f'/>
   </rom>
   
   

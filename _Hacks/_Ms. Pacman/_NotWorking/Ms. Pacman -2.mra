@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='a15035fc88f7bd118d90f471fefbab1b' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='mspacit/mspacit.4'/>
-    <part name='chtmspa/boot5'/>
-    <part name='mspacit/mspacit.6'/>
+  <rom index='0' md5='a15035fc88f7bd118d90f471fefbab1b' type='merged|nonmerged|split' zip='/hbmame/mspacit.zip|/hbmame/mspacman.zip'>
+    <part crc='d16b31b7' name='boot1'/>
+    <part crc='0d32de5e' name='boot2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='50dcba32' name='mspacit.4'/>
+    <part crc='8c3e6de6' name='boot5'/>
+    <part crc='3a1d5323' name='mspacit.6'/>
     <part repeat='8192'>00</part>
-    <part name='mspacde/mspacit.5e'/>
-    <part name='mspacde/mspacit.5f'/>
+    <part crc='93933d1d' name='mspacit.5e'/>
+    <part crc='22b0188a' name='mspacit.5f'/>
     <part repeat='8192'>00</part>
-    <part name='mspacit/mspacit.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='mspacit/mspacit.7f'/>
+    <part crc='3cb61034' name='mspacit.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2c3cc909' name='mspacit.7f'/>
   </rom>
 </misterromdescription>

@@ -3,37 +3,37 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jt1943</rbf>
-  <rom index='0' md5='5006722f516b6fd1709046a542d3dd71' type='merged' zip='/hbmame/1943.zip'>
-    <part name='1943b2/mkb03.12d'/>
-    <part name='1943b2/bm02.13d'/>
-    <part name='1943b2/bm03.14d'/>
-    <part name='bm05.4k'/>
-    <part name='1943b2/4.5h'/>
-    <part name='bm14.5f'/>
-    <part name='1943b2/u96.bin'/>
-    <part name='1943b2/mkb12.12f'/>
-    <part name='1943b2/mkb09.12j'/>
-    <part name='1943b2/mkb11.14f'/>
-    <part name='1943b2/mkb10.14j'/>
-    <part name='bm24.14k'/>
-    <part name='bm25.14l'/>
-    <part name='bm06.10a'/>
-    <part name='bm10.10c'/>
-    <part name='bm07.11a'/>
-    <part name='bm11.11c'/>
-    <part name='1943b2/u8.bin'/>
-    <part name='1943b2/u17.bin'/>
-    <part name='bm10.7l'/>
-    <part name='bm11.12l'/>
-    <part name='bm1.12a'/>
-    <part name='bm12.12m'/>
-    <part name='bm2.13a'/>
-    <part name='bm3.14a'/>
-    <part name='bm4.12c'/>
-    <part name='bm5.7f'/>
-    <part name='bm6.4b'/>
-    <part name='bm7.7c'/>
-    <part name='bm8.8c'/>
-    <part name='bm9.6l'/>
+  <rom index='0' md5='5006722f516b6fd1709046a542d3dd71' type='merged|nonmerged|split' zip='/hbmame/1943b2.zip|/hbmame/1943.zip'>
+    <part crc='b3b7c7cd' name='mkb03.12d'/>
+    <part crc='af971575' name='bm02.13d'/>
+    <part crc='300ec713' name='bm03.14d'/>
+    <part crc='ee2bd2d7' name='bm05.4k'/>
+    <part crc='0aba2096' name='4.5h'/>
+    <part crc='4d3c6401' name='bm14.5f'/>
+    <part crc='254c881d' name='u96.bin'/>
+    <part crc='075e9a7f' name='mkb12.12f'/>
+    <part crc='0f4b7e0e' name='mkb09.12j'/>
+    <part crc='05aca09a' name='mkb11.14f'/>
+    <part crc='61a90c0a' name='mkb10.14j'/>
+    <part crc='11134036' name='bm24.14k'/>
+    <part crc='092cf9c1' name='bm25.14l'/>
+    <part crc='97acc8af' name='bm06.10a'/>
+    <part crc='8438a44a' name='bm10.10c'/>
+    <part crc='d78f7197' name='bm07.11a'/>
+    <part crc='6c69351d' name='bm11.11c'/>
+    <part crc='ed5c788a' name='u8.bin'/>
+    <part crc='4b42445e' name='u17.bin'/>
+    <part crc='33c2491c' name='bm10.7l'/>
+    <part crc='405aae37' name='bm11.12l'/>
+    <part crc='74421f18' name='bm1.12a'/>
+    <part crc='c18aa136' name='bm12.12m'/>
+    <part crc='ac27541f' name='bm2.13a'/>
+    <part crc='251fb6ff' name='bm3.14a'/>
+    <part crc='91a8a2e1' name='bm4.12c'/>
+    <part crc='206713d0' name='bm5.7f'/>
+    <part crc='0eaf5158' name='bm6.4b'/>
+    <part crc='b56f30c3' name='bm7.7c'/>
+    <part crc='c2010a9e' name='bm8.8c'/>
+    <part crc='aeea4af7' name='bm9.6l'/>
   </rom>
 </misterromdescription>

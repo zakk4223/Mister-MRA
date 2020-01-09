@@ -7,16 +7,16 @@
   <category>Platform / Water Diving</category>
   <rbf>snapjack</rbf>
   <rom index='0' md5='c84aa7495fa0af63de7a6c72c1c8b730' type='merged|nonmerged|split' zip='snapjack.zip'>
-    <part name='sj1.c4'/>
-    <part name='sj2.d4'/>
-    <part name='sj3.e4'/>
-    <part name='sj4.h4'/>
-    <part name='sj5.j4'/>
-    <part name='sj6.k4'/>
-    <part name='sj8.l7'/>
-    <part name='sj7.m7'/>
-    <part name='sj9.f7'/>
-    <part name='sj0.h7'/>
+    <part crc='6b30fcda' name='sj1.c4'/>
+    <part crc='1f1088d1' name='sj2.d4'/>
+    <part crc='edd65f3a' name='sj3.e4'/>
+    <part crc='f4481192' name='sj4.h4'/>
+    <part crc='1bff7d05' name='sj5.j4'/>
+    <part crc='21793edf' name='sj6.k4'/>
+    <part crc='b7f105b6' name='sj8.l7'/>
+    <part crc='1cdb03a8' name='sj7.m7'/>
+    <part crc='ff2011c7' name='sj9.f7'/>
+    <part crc='f097babb' name='sj0.h7'/>
   </rom>
   
   

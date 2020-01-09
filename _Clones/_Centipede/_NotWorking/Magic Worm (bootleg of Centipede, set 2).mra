@@ -8,23 +8,15 @@
   <category>Maze / Centipede</category>
   <category>Maze / Spiders</category>
   <rbf>centipede</rbf>
-  <rom index='0' md5='f987605a68bfb9ac513d509a1ef46097' type='merged|nonmerged' zip='centiped.zip'>
-    <part name='magworma/h41.1d'/>
-    <part name='magworma/h42.1e'/>
-    <part name='magworma/h43.1fh'/>
-    <part name='magworma/h44.1j'/>
-    <part name='magworm/11005-4.c4'/>
-    <part name='magworm/11005-5.c5'/>
-    <part name='magworma/prom.4p'/>
-  </rom>
-  <rom index='0' md5='f987605a68bfb9ac513d509a1ef46097' type='split|nonmerged' zip='magworma.zip'>
-    <part name='h41.1d'/>
-    <part name='h42.1e'/>
-    <part name='h43.1fh'/>
-    <part name='h44.1j'/>
-    <part name='h45.7hj'/>
-    <part name='h45.7f'/>
-    <part name='prom.4p'/>
+  
+  <rom index='0' md5='f987605a68bfb9ac513d509a1ef46097' type='merged|nonmerged|split' zip='magworma.zip|centiped.zip'>
+    <part crc='773a3da6' name='h41.1d'/>
+    <part crc='482c7808' name='h42.1e'/>
+    <part crc='1c46f769' name='h43.1fh'/>
+    <part crc='19a79e26' name='h44.1j'/>
+    <part crc='cea64e1a' name='h45.7hj'/>
+    <part crc='24558ea5' name='h45.7f'/>
+    <part crc='a5101624' name='prom.4p'/>
   </rom>
   
   

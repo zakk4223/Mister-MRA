@@ -1,26 +1,26 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index='0' md5='2b0bc72d14c1af8d3dc6c30fcb4bb00d' type='merged' zip='/hbmame/xevious.zip'>
-    <part name='sxvioush/cpu_3p.rom'/>
-    <part name='sxvioush/cpu_3m.rom'/>
-    <part name='sxvioush/cpu_2m.rom'/>
-    <part name='sxvioush/cpu_2l.rom'/>
-    <part name='sxvioush/cpu_3f.rom'/>
-    <part name='sxvioush/cpu_3j.rom'/>
-    <part name='xvi_7.2c'/>
-    <part name='sxvioush/xh_xvi_12.3b'/>
-    <part name='xvi_13.3c'/>
-    <part name='xvi_14.3d'/>
-    <part name='battlesh/xh_xvi_15.4m'/>
-    <part name='battlesh/xh_xvi_17.4p'/>
-    <part name='battlesh/xh_xvi_16.4n'/>
-    <part name='battlesh/xh_xvi_18.4r'/>
-    <part name='xvi_9.2a'/>
-    <part name='xvi_10.2b'/>
-    <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='/hbmame/namco50.zip'/>
-    <part name='51xx.bin' zip='/hbmame/namco51.zip'/>
-    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
+  <rom index='0' md5='2b0bc72d14c1af8d3dc6c30fcb4bb00d' type='merged|nonmerged|split' zip='/hbmame/sxvioush.zip|/hbmame/xevious.zip'>
+    <part crc='1c8d27d5' name='cpu_3p.rom'/>
+    <part crc='fd04e615' name='cpu_3m.rom'/>
+    <part crc='294d5404' name='cpu_2m.rom'/>
+    <part crc='6a44bf92' name='cpu_2l.rom'/>
+    <part crc='d4bd3d81' name='cpu_3f.rom'/>
+    <part crc='af06be5f' name='cpu_3j.rom'/>
+    <part crc='dd35cf1c' name='xvi_7.2c'/>
+    <part crc='9b8f4deb' name='xh_xvi_12.3b'/>
+    <part crc='de60ba25' name='xvi_13.3c'/>
+    <part crc='535cdbbc' name='xvi_14.3d'/>
+    <part crc='308c5bad' name='xh_xvi_15.4m'/>
+    <part crc='b06b9ccb' name='xh_xvi_17.4p'/>
+    <part crc='1cbbddce' name='xh_xvi_16.4n'/>
+    <part crc='f56c3697' name='xh_xvi_18.4r'/>
+    <part crc='57ed9879' name='xvi_9.2a'/>
+    <part crc='ae3ba9e5' name='xvi_10.2b'/>
+    <part crc='31e244dd' name='xvi_11.2c'/>
+    <part crc='a0acbaf7' name='50xx.bin' zip='/hbmame/namco50.zip'/>
+    <part crc='c2f57ef8' name='51xx.bin' zip='/hbmame/namco51.zip'/>
+    <part crc='ee7357e0' name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

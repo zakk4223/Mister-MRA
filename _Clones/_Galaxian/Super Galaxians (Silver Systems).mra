@@ -6,31 +6,19 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='06ebe1ee4242acc8e370cefb2608a205' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galap1/7f.bin'/>
-    <part name='galturbo/superg.w'/>
-    <part name='moonaln/superg.y'/>
-    <part name='supergs/supergs.z'/>
-    <part name='supergs/supergs.z'/>
-    <part name='supergs/supergs.z'/>
-    <part name='supergs/supergs.z'/>
-    <part name='galap1/galmidw.1j'/>
-    <part name='galap1/galmidw.1j'/>
-    <part name='galap1/galmidw.1k'/>
-    <part name='galap1/galmidw.1k'/>
-  </rom>
-  <rom index='0' md5='06ebe1ee4242acc8e370cefb2608a205' type='split|nonmerged' zip='supergs.zip'>
-    <part name='7f.bin'/>
-    <part name='superg.w'/>
-    <part name='superg.y'/>
-    <part name='supergs.z'/>
-    <part name='supergs.z'/>
-    <part name='supergs.z'/>
-    <part name='supergs.z'/>
-    <part name='galmidw.1j'/>
-    <part name='galmidw.1j'/>
-    <part name='galmidw.1k'/>
-    <part name='galmidw.1k'/>
+  
+  <rom index='0' md5='06ebe1ee4242acc8e370cefb2608a205' type='merged|nonmerged|split' zip='supergs.zip|galaxian.zip'>
+    <part crc='4335b1de' name='7f.bin'/>
+    <part crc='ddeabdae' name='superg.w'/>
+    <part crc='9463f753' name='superg.y'/>
+    <part crc='95e9005c' name='supergs.z'/>
+    <part crc='95e9005c' name='supergs.z'/>
+    <part crc='95e9005c' name='supergs.z'/>
+    <part crc='95e9005c' name='supergs.z'/>
+    <part crc='84decf98' name='galmidw.1j'/>
+    <part crc='84decf98' name='galmidw.1j'/>
+    <part crc='c31ada9e' name='galmidw.1k'/>
+    <part crc='c31ada9e' name='galmidw.1k'/>
   </rom>
   
 </misterromdescription>

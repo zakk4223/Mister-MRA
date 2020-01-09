@@ -7,24 +7,24 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='928599c869c28c0f8a4cab9d22cb29c2' type='merged' zip='puckman.zip'>
-    <part name='abscam/as0.bin'/>
-    <part name='abscam/as4.bin'/>
-    <part name='abscam/as1.bin'/>
-    <part name='abscam/as5.bin'/>
-    <part name='abscam/as2.bin'/>
-    <part name='abscam/as6.bin'/>
-    <part name='abscam/as3.bin'/>
-    <part name='abscam/as7.bin'/>
+  <rom index='0' md5='928599c869c28c0f8a4cab9d22cb29c2' type='merged|nonmerged|split' zip='puckman.zip'>
+    <part crc='FIXME' name='as0.bin'/>
+    <part crc='FIXME' name='as4.bin'/>
+    <part crc='FIXME' name='as1.bin'/>
+    <part crc='FIXME' name='as5.bin'/>
+    <part crc='FIXME' name='as2.bin'/>
+    <part crc='FIXME' name='as6.bin'/>
+    <part crc='FIXME' name='as3.bin'/>
+    <part crc='FIXME' name='as7.bin'/>
     <part repeat='16384'>00</part>
-    <part name='abscam/as8.bin'/>
-    <part name='abscam/as10.bin'/>
-    <part name='abscam/as9.bin'/>
-    <part name='abscam/as11.bin'/>
+    <part crc='FIXME' name='as8.bin'/>
+    <part crc='FIXME' name='as10.bin'/>
+    <part crc='FIXME' name='as9.bin'/>
+    <part crc='FIXME' name='as11.bin'/>
     <part repeat='8192'>00</part>
-    <part name='pm1-3.1m'/>
-    <part name='abscam/as4a.bin'/>
-    <part name='pm1-2.3m'/>
-    <part name='pm1-1.7f'/>
+    <part crc='a9cc86bf' name='pm1-3.1m'/>
+    <part crc='FIXME' name='as4a.bin'/>
+    <part crc='77245b66' name='pm1-2.3m'/>
+    <part crc='2fc650bd' name='pm1-1.7f'/>
   </rom>
 </misterromdescription>

@@ -7,31 +7,19 @@
   <category>Maze</category>
   <category>Space / Robots</category>
   <rbf>berzerk</rbf>
-  <rom index='0' md5='c08dd5e37375798a1a02e2608078e54d' type='merged|nonmerged' zip='berzerk.zip'>
-    <part name='berzerkg/berzerk_rc32_1d.rom1.1d'/>
-    <part name='berzerks/berzerk_rc32_3d.rom2.3d'/>
-    <part name='berzerkg/berzerk_rc32_5d.rom3.5d'/>
-    <part name='berzerks/berzerk_rc32_6d.rom4.6d'/>
-    <part name='berzerks/berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerks/berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerks/berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerks/berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerkg/berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerkg/berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerks/berzerk_rvos_1c.1c'/>
-  </rom>
-  <rom index='0' md5='c08dd5e37375798a1a02e2608078e54d' type='split|nonmerged' zip='berzerks.zip'>
-    <part name='berzerk_rc32_1d.rom1.1d'/>
-    <part name='berzerk_rc32_3d.rom2.3d'/>
-    <part name='berzerk_rc32_5d.rom3.5d'/>
-    <part name='berzerk_rc32_6d.rom4.6d'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32s_5c.rom5.5c'/>
-    <part name='berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerk_rc32_1c.rom0.1c'/>
-    <part name='berzerk_rvos_1c.1c'/>
+  
+  <rom index='0' md5='c08dd5e37375798a1a02e2608078e54d' type='merged|nonmerged|split' zip='berzerks.zip|berzerk.zip'>
+    <part crc='19bb3aac' name='berzerk_rc32_1d.rom1.1d'/>
+    <part crc='5423ea87' name='berzerk_rc32_3d.rom2.3d'/>
+    <part crc='e23239a9' name='berzerk_rc32_5d.rom3.5d'/>
+    <part crc='959efd86' name='berzerk_rc32_6d.rom4.6d'/>
+    <part crc='9ad80e4e' name='berzerk_rc32s_5c.rom5.5c'/>
+    <part crc='9ad80e4e' name='berzerk_rc32s_5c.rom5.5c'/>
+    <part crc='9ad80e4e' name='berzerk_rc32s_5c.rom5.5c'/>
+    <part crc='9ad80e4e' name='berzerk_rc32s_5c.rom5.5c'/>
+    <part crc='77923a9e' name='berzerk_rc32_1c.rom0.1c'/>
+    <part crc='77923a9e' name='berzerk_rc32_1c.rom0.1c'/>
+    <part crc='0b51409c' name='berzerk_rvos_1c.1c'/>
   </rom>
   
   

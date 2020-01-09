@@ -7,10 +7,10 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='9b5bf5fcece3e72acb6e62bc0041ff79' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='pac90/rom1.ic87'/>
+  <rom index='0' md5='9b5bf5fcece3e72acb6e62bc0041ff79' type='merged|nonmerged|split' zip='/hbmame/pac90.zip|/hbmame/puckman.zip'>
+    <part crc='8af34306' name='rom1.ic87'/>
     <part repeat='16384'>00</part>
-    <part name='pac90/char.ic85'/>
+    <part crc='70941a50' name='char.ic85'/>
     <part repeat='8192'>00</part>
   </rom>
 </misterromdescription>

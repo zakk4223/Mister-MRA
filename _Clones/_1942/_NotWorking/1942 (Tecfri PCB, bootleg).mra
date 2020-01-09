@@ -3,52 +3,22 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>1942</rbf>
-  <rom index="0" md5="82e6794e91e6ed1f7fe554cd3331cc8b" type="merged" zip="1942.zip">
-    <part name="1942p/1.bin"/>
-    <part name="1942p/2.bin"/>
-    <part name="1942p/3.bin"/>
-    <part name="1942p/04.bin"/>
-    <part name="sr-02.f2"/>
-    <part name="1942p/6.bin"/>
-    <part name="1942p/5.bin"/>
-    <part name="1942p/7.bin"/>
-    <part name="1942p/7.bin"/>
-    <part name="1942p/9.bin"/>
-    <part name="1942p/11.bin"/>
-    <part name="1942p/10.bin"/>
-    <part name="1942p/12.bin"/>
-    <part name="sb-8.k3"/>
-  </rom>
-  <rom index="0" md5="82e6794e91e6ed1f7fe554cd3331cc8b" type="split" zip="1942p.zip">
-    <part name="1.bin"/>
-    <part name="2.bin"/>
-    <part name="3.bin"/>
-    <part name="04.bin"/>
-    <part name="sr-02.f2" zip="1942.zip"/>
-    <part name="6.bin"/>
-    <part name="5.bin"/>
-    <part name="7.bin"/>
-    <part name="7.bin"/>
-    <part name="9.bin"/>
-    <part name="11.bin"/>
-    <part name="10.bin"/>
-    <part name="12.bin"/>
-    <part name="sb-8.k3" zip="1942.zip"/>
-  </rom>
-  <rom index="0" md5="82e6794e91e6ed1f7fe554cd3331cc8b" type="nonmerged" zip="1942p.zip">
-    <part name="1.bin"/>
-    <part name="2.bin"/>
-    <part name="3.bin"/>
-    <part name="04.bin"/>
-    <part name="8.bin"/>
-    <part name="6.bin"/>
-    <part name="5.bin"/>
-    <part name="7.bin"/>
-    <part name="7.bin"/>
-    <part name="9.bin"/>
-    <part name="11.bin"/>
-    <part name="10.bin"/>
-    <part name="12.bin"/>
-    <part name="ic22.bin"/>
+  
+  
+  <rom index='0' md5='82e6794e91e6ed1f7fe554cd3331cc8b' type='merged|nonmerged|split' zip='1942p.zip|1942.zip'>
+    <part crc='d8506aee' name='1.bin'/>
+    <part crc='793a8fbc' name='2.bin'/>
+    <part crc='108fda63' name='3.bin'/>
+    <part crc='b4efd1af' name='04.bin'/>
+    <part crc='6ebca191' name='8.bin'/>
+    <part crc='2d6acd8c' name='6.bin'/>
+    <part crc='1081b88c' name='5.bin'/>
+    <part crc='30f13e78' name='7.bin'/>
+    <part crc='30f13e78' name='7.bin'/>
+    <part crc='755a4762' name='9.bin'/>
+    <part crc='d2ce3eb6' name='11.bin'/>
+    <part crc='4a5a9084' name='10.bin'/>
+    <part crc='aaa86493' name='12.bin'/>
+    <part crc='f6fad943' name='ic22.bin'/>
   </rom>
 </misterromdescription>

@@ -7,16 +7,16 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='dd69dabb4369d4f9687da2c52afb703b' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='scroller/scroller.6e'/>
-    <part name='scroller/scroller.6f'/>
+  <rom index='0' md5='dd69dabb4369d4f9687da2c52afb703b' type='merged|nonmerged|split' zip='/hbmame/scroller.zip|/hbmame/puckman.zip'>
+    <part crc='081b47c5' name='scroller.6e'/>
+    <part crc='93ef7735' name='scroller.6f'/>
     <part repeat='16384'>00</part>
-    <part name='scroller/scroller.5e'/>
-    <part name='scroller/scroller.5f'/>
+    <part crc='14473363' name='scroller.5e'/>
+    <part crc='47e8e97e' name='scroller.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

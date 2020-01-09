@@ -7,55 +7,55 @@
   <manufacturer>Capcom (Romstar license)</manufacturer>
   <category>Racing / F1</category>
   <rbf>jtf1dream</rbf>
-  <rom index="0" md5="9d55df39a571fed44bdde363e0d07bf9" type="merged" zip="f1dream.zip">
-    <part name="f1dreamb/f1d_04.bin"/>
-    <part name="f1dreamb/f1d_05.bin"/>
-    <part name="f1_04.12k"/>
-    <part name="f1_04.12k"/>
-    <part name="f1_04.12k"/>
-    <part name="f1_01.10d"/>
-    <part name="f1_15.7l"/>
-    <part name="f1_15.7l"/>
-    <part name="f1_11.2f"/>
-    <part name="f1_09.17f"/>
-    <part name="f1_13.2h"/>
-    <part name="f1_13.2h"/>
-    <part name="f1_11.2f"/>
-    <part name="f1_09.17f"/>
-    <part name="f1_13.2h"/>
-    <part name="f1_13.2h"/>
-    <part name="f1_12.3f"/>
-    <part name="f1_10.1f"/>
-    <part name="f1_14.3h"/>
-    <part name="f1_14.3h"/>
-    <part name="f1_12.3f"/>
-    <part name="f1_10.1f"/>
-    <part name="f1_14.3h"/>
-    <part name="f1_14.3h"/>
-    <part name="f1_07.2d"/>
-    <part name="f1_07.2d"/>
-    <part name="f1_08.3d"/>
-    <part name="f1_08.3d"/>
-    <part name="f1_05.2b"/>
-    <part name="f1_05.2b"/>
-    <part name="f1_06.3b"/>
-    <part name="f1_06.3b"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="tr.9e"/>
-    <part name="f1.9j"/>
+  <rom index='0' md5='9d55df39a571fed44bdde363e0d07bf9' type='merged|nonmerged|split' zip='f1dream.zip'>
+    <part crc='FIXME' name='f1d_04.bin'/>
+    <part crc='FIXME' name='f1d_05.bin'/>
+    <part crc='4b9a7524' name='f1_04.12k'/>
+    <part crc='4b9a7524' name='f1_04.12k'/>
+    <part crc='4b9a7524' name='f1_04.12k'/>
+    <part crc='361caf00' name='f1_01.10d'/>
+    <part crc='978758b7' name='f1_15.7l'/>
+    <part crc='978758b7' name='f1_15.7l'/>
+    <part crc='4aa49cd7' name='f1_11.2f'/>
+    <part crc='ca622155' name='f1_09.17f'/>
+    <part crc='2a63961e' name='f1_13.2h'/>
+    <part crc='2a63961e' name='f1_13.2h'/>
+    <part crc='4aa49cd7' name='f1_11.2f'/>
+    <part crc='ca622155' name='f1_09.17f'/>
+    <part crc='2a63961e' name='f1_13.2h'/>
+    <part crc='2a63961e' name='f1_13.2h'/>
+    <part crc='bc13e43c' name='f1_12.3f'/>
+    <part crc='f7617ad9' name='f1_10.1f'/>
+    <part crc='e33cd438' name='f1_14.3h'/>
+    <part crc='e33cd438' name='f1_14.3h'/>
+    <part crc='bc13e43c' name='f1_12.3f'/>
+    <part crc='f7617ad9' name='f1_10.1f'/>
+    <part crc='e33cd438' name='f1_14.3h'/>
+    <part crc='e33cd438' name='f1_14.3h'/>
+    <part crc='aa9a1233' name='f1_07.2d'/>
+    <part crc='aa9a1233' name='f1_07.2d'/>
+    <part crc='811f2e22' name='f1_08.3d'/>
+    <part crc='811f2e22' name='f1_08.3d'/>
+    <part crc='cdd119fd' name='f1_05.2b'/>
+    <part crc='cdd119fd' name='f1_05.2b'/>
+    <part crc='5e54e391' name='f1_06.3b'/>
+    <part crc='5e54e391' name='f1_06.3b'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='ec80ae36' name='tr.9e'/>
+    <part crc='c8e6075c' name='f1.9j'/>
   </rom>
 </misterromdescription>

@@ -6,42 +6,20 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='51e791e4924906d1c972f32a389cfa31' type='merged|nonmerged' zip='defender.zip'>
-    <part name='tornado2/tto15.bin'/>
-    <part name='tornado2/to16.bin'/>
-    <part name='tornado2/tto17.bin'/>
-    <part name='tornado1/tornc4.bin'/>
-    <part name='tornado2/to20.bin'/>
-    <part name='tornado2/to19.bin'/>
-    <part name='tornado2/to18.bin'/>
-    <part name='defndjeu/s'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
-  </rom>
-  <rom index='0' md5='51e791e4924906d1c972f32a389cfa31' type='split' zip='tornado2.zip'>
-    <part name='tto15.bin'/>
-    <part name='to16.bin'/>
-    <part name='tto17.bin'/>
-    <part name='to21.bin'/>
-    <part name='to20.bin'/>
-    <part name='to19.bin'/>
-    <part name='to18.bin'/>
-    <part name='to_s.bin'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
   
   
-  <rom index='0' md5='51e791e4924906d1c972f32a389cfa31' type='nonmerged' zip='tornado2.zip'>
-    <part name='tto15.bin'/>
-    <part name='to16.bin'/>
-    <part name='tto17.bin'/>
-    <part name='to21.bin'/>
-    <part name='to20.bin'/>
-    <part name='to19.bin'/>
-    <part name='to18.bin'/>
-    <part name='to_s.bin'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
+  
+  
+  <rom index='0' md5='51e791e4924906d1c972f32a389cfa31' type='merged|nonmerged|split' zip='tornado2.zip|defender.zip'>
+    <part crc='910ac603' name='tto15.bin'/>
+    <part crc='46ccd582' name='to16.bin'/>
+    <part crc='faa3613c' name='tto17.bin'/>
+    <part crc='e30f4c00' name='to21.bin'/>
+    <part crc='e90bdcb2' name='to20.bin'/>
+    <part crc='42885b4f' name='to19.bin'/>
+    <part crc='c15ffc03' name='to18.bin'/>
+    <part crc='cb79ae42' name='to_s.bin'/>
+    <part crc='FIXME' name='decoder.2'/>
+    <part crc='FIXME' name='decoder.3'/>
   </rom>
 </misterromdescription>

@@ -6,29 +6,18 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='supergx/sg1'/>
-    <part name='supergx/sg2'/>
-    <part name='supergx/sg3'/>
-    <part name='supergx/sg4'/>
-    <part name='supergx/sg5'/>
-    <part name='supergx/sg5'/>
-    <part name='supergx/sg5'/>
-    <part name='supergx/sg5'/>
-    <part name='supergx/sgg1'/>
-    <part name='supergx/sgg2'/>
-  </rom>
-  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='split|nonmerged' zip='supergx.zip'>
-    <part name='sg1'/>
-    <part name='sg2'/>
-    <part name='sg3'/>
-    <part name='sg4'/>
-    <part name='sg5'/>
-    <part name='sg5'/>
-    <part name='sg5'/>
-    <part name='sg5'/>
-    <part name='sgg1'/>
-    <part name='sgg2'/>
+  
+  <rom index='0' md5='36aac7a499ef0a224acbad1551206075' type='merged|nonmerged|split' zip='supergx.zip|galaxian.zip'>
+    <part crc='b83f4578' name='sg1'/>
+    <part crc='d12ca054' name='sg2'/>
+    <part crc='53714cb1' name='sg3'/>
+    <part crc='2f36fc69' name='sg4'/>
+    <part crc='1e0ed4fd' name='sg5'/>
+    <part crc='1e0ed4fd' name='sg5'/>
+    <part crc='1e0ed4fd' name='sg5'/>
+    <part crc='1e0ed4fd' name='sg5'/>
+    <part crc='a1287bf6' name='sgg1'/>
+    <part crc='528f1481' name='sgg2'/>
   </rom>
   
 </misterromdescription>

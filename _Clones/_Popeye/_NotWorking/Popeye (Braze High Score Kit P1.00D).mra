@@ -3,36 +3,21 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtpopeye</rbf>
-  <rom index="0" md5="58f5b597f9aa4b81b4c0861b3d80497c" type="merged|nonmerged" zip="popeye.zip">
-    <part name="tpp2-c.7a"/>
-    <part name="tpp2-c.7b"/>
-    <part name="tpp2-c.7c"/>
-    <part name="tpp2-c.7e"/>
-    <part name="tpp2-v.1e"/>
-    <part name="tpp2-v.1f"/>
-    <part name="tpp2-v.1j"/>
-    <part name="tpp2-v.1k"/>
-    <part name="tpp2-v.5n"/>
-    <part name="tpp2-v.7j"/>
-    <part name="tpp2-c.5b"/>
-    <part name="tpp2-c.5a"/>
-    <part name="tpp2-c.4a"/>
-    <part name="tpp2-c.3a"/>
+  <rom index='0' md5='58f5b597f9aa4b81b4c0861b3d80497c' type='merged|nonmerged|split' zip='popeye.zip'>
+    <part crc='9af7c821' name='tpp2-c.7a'/>
+    <part crc='c3704958' name='tpp2-c.7b'/>
+    <part crc='5882ebf9' name='tpp2-c.7c'/>
+    <part crc='ef8649ca' name='tpp2-c.7e'/>
+    <part crc='0f2cd853' name='tpp2-v.1e'/>
+    <part crc='888f3474' name='tpp2-v.1f'/>
+    <part crc='7e864668' name='tpp2-v.1j'/>
+    <part crc='49e1d170' name='tpp2-v.1k'/>
+    <part crc='cca61ddd' name='tpp2-v.5n'/>
+    <part crc='a4655e2e' name='tpp2-v.7j'/>
+    <part crc='c5826883' name='tpp2-c.5b'/>
+    <part crc='c576afba' name='tpp2-c.5a'/>
+    <part crc='375e1602' name='tpp2-c.4a'/>
+    <part crc='e950bea1' name='tpp2-c.3a'/>
   </rom>
-  <rom index="0" md5="58f5b597f9aa4b81b4c0861b3d80497c" type="split" zip="popeyehs.zip">
-    <part name="tpp2-c.7a" zip="popeye.zip"/>
-    <part name="tpp2-c.7b" zip="popeye.zip"/>
-    <part name="tpp2-c.7c" zip="popeye.zip"/>
-    <part name="tpp2-c.7e" zip="popeye.zip"/>
-    <part name="tpp2-v.1e" zip="popeye.zip"/>
-    <part name="tpp2-v.1f" zip="popeye.zip"/>
-    <part name="tpp2-v.1j" zip="popeye.zip"/>
-    <part name="tpp2-v.1k" zip="popeye.zip"/>
-    <part name="tpp2-v.5n" zip="popeye.zip"/>
-    <part name="tpp2-v.7j" zip="popeye.zip"/>
-    <part name="tpp2-c.5b" zip="popeye.zip"/>
-    <part name="tpp2-c.5a" zip="popeye.zip"/>
-    <part name="tpp2-c.4a" zip="popeye.zip"/>
-    <part name="tpp2-c.3a" zip="popeye.zip"/>
-  </rom>
+  
 </misterromdescription>

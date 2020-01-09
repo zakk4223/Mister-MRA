@@ -6,52 +6,22 @@
   <manufacturer>Miky SRL</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacmanclub</rbf>
-  <rom index='0' md5='5078fa94b016a3a893a4485b039f221f' type='merged|nonmerged' zip='clubpacm.zip'>
-    <part name='clubpacma/new_club.bin'/>
-    <part name='12.5e'/>
-    <part name='14.5h'/>
-    <part name='13.5f'/>
-    <part name='15.5j'/>
-    <part name='12.5e'/>
-    <part name='14.5h'/>
-    <part name='13.5f'/>
-    <part name='15.5j'/>
-    <part name='12.5e'/>
-    <part name='m7611.1m'/>
-    <part name='m7611.4a'/>
-    <part name='m7611.3m'/>
-    <part name='n82s123n.7f'/>
-  </rom>
-  <rom index='0' md5='5078fa94b016a3a893a4485b039f221f' type='split' zip='clubpacma.zip'>
-    <part name='new_club.bin'/>
-    <part name='12.5e' zip='clubpacm.zip'/>
-    <part name='14.5h' zip='clubpacm.zip'/>
-    <part name='13.5f' zip='clubpacm.zip'/>
-    <part name='15.5j' zip='clubpacm.zip'/>
-    <part name='12.5e' zip='clubpacm.zip'/>
-    <part name='14.5h' zip='clubpacm.zip'/>
-    <part name='13.5f' zip='clubpacm.zip'/>
-    <part name='15.5j' zip='clubpacm.zip'/>
-    <part name='12.5e' zip='clubpacm.zip'/>
-    <part name='m7611.1m' zip='clubpacm.zip'/>
-    <part name='m7611.4a' zip='clubpacm.zip'/>
-    <part name='m7611.3m' zip='clubpacm.zip'/>
-    <part name='n82s123n.7f' zip='clubpacm.zip'/>
-  </rom>
-  <rom index='0' md5='5078fa94b016a3a893a4485b039f221f' type='nonmerged' zip='clubpacma.zip'>
-    <part name='new_club.bin'/>
-    <part name='12.5e'/>
-    <part name='14.5h'/>
-    <part name='13.5f'/>
-    <part name='15.5j'/>
-    <part name='12.5e'/>
-    <part name='14.5h'/>
-    <part name='13.5f'/>
-    <part name='15.5j'/>
-    <part name='12.5e'/>
-    <part name='m7611.1m'/>
-    <part name='m7611.4a'/>
-    <part name='m7611.3m'/>
-    <part name='n82s123n.7f'/>
+  
+  
+  <rom index='0' md5='5078fa94b016a3a893a4485b039f221f' type='merged|nonmerged|split' zip='clubpacma.zip|clubpacm.zip'>
+    <part crc='6d79d3f2' name='new_club.bin'/>
+    <part crc='93933d1d' name='12.5e'/>
+    <part crc='7409fbec' name='14.5h'/>
+    <part crc='22b0188a' name='13.5f'/>
+    <part crc='50c7477d' name='15.5j'/>
+    <part crc='93933d1d' name='12.5e'/>
+    <part crc='7409fbec' name='14.5h'/>
+    <part crc='22b0188a' name='13.5f'/>
+    <part crc='50c7477d' name='15.5j'/>
+    <part crc='93933d1d' name='12.5e'/>
+    <part crc='a9cc86bf' name='m7611.1m'/>
+    <part crc='3eb3a8e4' name='m7611.4a'/>
+    <part crc='0e307106' name='m7611.3m'/>
+    <part crc='2fc650bd' name='n82s123n.7f'/>
   </rom>
 </misterromdescription>

@@ -1,26 +1,26 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index='0' md5='5e572f0dbc5b2a447d317f2e0dfddf3f' type='merged' zip='/hbmame/xevious.zip'>
-    <part name='xeviousp/xvip_1.3p'/>
-    <part name='sxeviouss01/xvip_2.3m'/>
-    <part name='sxeviouss01/xvip_3.2m'/>
-    <part name='xeviousp/xvip_4.2l'/>
-    <part name='xeviousp/xvip_5.3f'/>
-    <part name='xeviousp/xvip_6.3j'/>
-    <part name='xvi_7.2c'/>
-    <part name='sxeviouss01/xvip_12.3b'/>
-    <part name='xvi_13.3c'/>
-    <part name='xvi_14.3d'/>
-    <part name='xvi_15.4m'/>
-    <part name='xvi_17.4p'/>
-    <part name='xvi_16.4n'/>
-    <part name='sxeviouss01/xvip_16.4n'/>
-    <part name='sxeviouss01/xvip_9.2a'/>
-    <part name='sxeviouss01/xvip_10.2b'/>
-    <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='/hbmame/namco50.zip'/>
-    <part name='51xx.bin' zip='/hbmame/namco51.zip'/>
-    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
+  <rom index='0' md5='5e572f0dbc5b2a447d317f2e0dfddf3f' type='merged|nonmerged|split' zip='/hbmame/sxeviouss01.zip|/hbmame/xevious.zip'>
+    <part crc='FIXME' name='xvip_1.3p'/>
+    <part crc='a2cf842d' name='xvip_2.3m'/>
+    <part crc='7ab657cd' name='xvip_3.2m'/>
+    <part crc='FIXME' name='xvip_4.2l'/>
+    <part crc='FIXME' name='xvip_5.3f'/>
+    <part crc='FIXME' name='xvip_6.3j'/>
+    <part crc='dd35cf1c' name='xvi_7.2c'/>
+    <part crc='08f184f1' name='xvip_12.3b'/>
+    <part crc='de60ba25' name='xvi_13.3c'/>
+    <part crc='535cdbbc' name='xvi_14.3d'/>
+    <part crc='dc2c0ecb' name='xvi_15.4m'/>
+    <part crc='dfb587ce' name='xvi_17.4p'/>
+    <part crc='605ca889' name='xvi_16.4n'/>
+    <part crc='00babaa1' name='xvip_16.4n'/>
+    <part crc='529aecf0' name='xvip_9.2a'/>
+    <part crc='f09eb6f9' name='xvip_10.2b'/>
+    <part crc='31e244dd' name='xvi_11.2c'/>
+    <part crc='a0acbaf7' name='50xx.bin' zip='/hbmame/namco50.zip'/>
+    <part crc='c2f57ef8' name='51xx.bin' zip='/hbmame/namco51.zip'/>
+    <part crc='ee7357e0' name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

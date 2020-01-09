@@ -7,28 +7,28 @@
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
   <rom index='0' md5='7f7855b1b6174c44e4d6a777c23fb368' type='merged|nonmerged|split' zip='bagman.zip'>
-    <part name='e9_b05.bin'/>
-    <part name='f9_b06.bin'/>
-    <part name='f9_b07.bin'/>
-    <part name='k9_b08.bin'/>
-    <part name='m9_b09s.bin'/>
-    <part name='n9_b10.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='e1_b02.bin'/>
-    <part name='c1_b01.bin'/>
-    <part name='j1_b04.bin'/>
-    <part name='f1_b03s.bin'/>
-    <part name='r9_b11.bin'/>
-    <part name='t9_b12.bin'/>
+    <part crc='e0156191' name='e9_b05.bin'/>
+    <part crc='7b758982' name='f9_b06.bin'/>
+    <part crc='302a077b' name='f9_b07.bin'/>
+    <part crc='f04293cb' name='k9_b08.bin'/>
+    <part crc='68e83e4f' name='m9_b09s.bin'/>
+    <part crc='1d6579f7' name='n9_b10.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='4a0a6b55' name='e1_b02.bin'/>
+    <part crc='705193b2' name='c1_b01.bin'/>
+    <part crc='c680ef04' name='j1_b04.bin'/>
+    <part crc='dba1eda7' name='f1_b03s.bin'/>
+    <part crc='2e0057ff' name='r9_b11.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
   </rom>
   
   

@@ -3,52 +3,22 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtpopeye</rbf>
-  <rom index="0" md5="aefa9c994c90c381261b13e5499e9456" type="merged" zip="popeye.zip">
-    <part name="popeyebl/app_exe.3j.2764"/>
-    <part name="popeyeb2/po2"/>
-    <part name="popeyeb2/po3"/>
-    <part name="popeyeb2/po4"/>
-    <part name="tpp2-v.1e"/>
-    <part name="tpp2-v.1f"/>
-    <part name="tpp2-v.1j"/>
-    <part name="tpp2-v.1k"/>
-    <part name="popeyeb2/po5"/>
-    <part name="popeyebl/7.11s.24s10"/>
-    <part name="popeyeb2/popeye.pr4"/>
-    <part name="popeyeb2/popeye.pr3"/>
-    <part name="popeyeb2/popeye.pr1"/>
-    <part name="popeyeb2/popeye.pr2"/>
-  </rom>
-  <rom index="0" md5="aefa9c994c90c381261b13e5499e9456" type="split" zip="popeyebl.zip">
-    <part name="app_exe.3j.2764"/>
-    <part name="2.3l.2764"/>
-    <part name="3.3m.2764"/>
-    <part name="4.3p.2764"/>
-    <part name="tpp2-v.1e" zip="popeye.zip"/>
-    <part name="tpp2-v.1f" zip="popeye.zip"/>
-    <part name="tpp2-v.1j" zip="popeye.zip"/>
-    <part name="tpp2-v.1k" zip="popeye.zip"/>
-    <part name="5.10gh.2732"/>
-    <part name="7.11s.24s10"/>
-    <part name="4.2s.24s10"/>
-    <part name="3.2r.24s10"/>
-    <part name="6.2u.18s030"/>
-    <part name="5.2t.18s030"/>
-  </rom>
-  <rom index="0" md5="aefa9c994c90c381261b13e5499e9456" type="nonmerged" zip="popeyebl.zip">
-    <part name="app_exe.3j.2764"/>
-    <part name="2.3l.2764"/>
-    <part name="3.3m.2764"/>
-    <part name="4.3p.2764"/>
-    <part name="6.6n.2764"/>
-    <part name="7.6r.2764"/>
-    <part name="8.6s.2764"/>
-    <part name="9.6u.2764"/>
-    <part name="5.10gh.2732"/>
-    <part name="7.11s.24s10"/>
-    <part name="4.2s.24s10"/>
-    <part name="3.2r.24s10"/>
-    <part name="6.2u.18s030"/>
-    <part name="5.2t.18s030"/>
+  
+  
+  <rom index='0' md5='aefa9c994c90c381261b13e5499e9456' type='merged|nonmerged|split' zip='popeyebl.zip|popeye.zip'>
+    <part crc='6e267c48' name='app_exe.3j.2764'/>
+    <part crc='995475ff' name='2.3l.2764'/>
+    <part crc='99d6a04a' name='3.3m.2764'/>
+    <part crc='548a6514' name='4.3p.2764'/>
+    <part crc='0f2cd853' name='6.6n.2764'/>
+    <part crc='888f3474' name='7.6r.2764'/>
+    <part crc='7e864668' name='8.6s.2764'/>
+    <part crc='49e1d170' name='9.6u.2764'/>
+    <part crc='ce6c9f8e' name='5.10gh.2732'/>
+    <part crc='1c5c8dea' name='7.11s.24s10'/>
+    <part crc='cab9bc53' name='4.2s.24s10'/>
+    <part crc='ca4d7b6a' name='3.2r.24s10'/>
+    <part crc='d138e8a4' name='6.2u.18s030'/>
+    <part crc='0f364007' name='5.2t.18s030'/>
   </rom>
 </misterromdescription>

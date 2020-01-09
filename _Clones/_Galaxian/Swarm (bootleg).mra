@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='bfba3850b13f247e4733fc1b139e7c44' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='astrians/astrians.7h'/>
-    <part name='astrians/astrians.7j'/>
-    <part name='astrians/astrians.7k'/>
-    <part name='swarm/swarm4.bin'/>
-    <part name='swarm/swarm5.bin'/>
-    <part name='swarm/swarm5.bin'/>
-    <part name='swarm/swarm5.bin'/>
-    <part name='swarm/swarm5.bin'/>
-    <part name='swarm/swarma.bin'/>
-    <part name='swarm/swarma.bin'/>
-    <part name='swarm/swarmb.bin'/>
-    <part name='swarm/swarmb.bin'/>
-  </rom>
-  <rom index='0' md5='bfba3850b13f247e4733fc1b139e7c44' type='split|nonmerged' zip='swarm.zip'>
-    <part name='swarm1.bin'/>
-    <part name='swarm2.bin'/>
-    <part name='swarm3.bin'/>
-    <part name='swarm4.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarm5.bin'/>
-    <part name='swarma.bin'/>
-    <part name='swarma.bin'/>
-    <part name='swarmb.bin'/>
-    <part name='swarmb.bin'/>
+  
+  <rom index='0' md5='bfba3850b13f247e4733fc1b139e7c44' type='merged|nonmerged|split' zip='swarm.zip|galaxian.zip'>
+    <part crc='21eba3d0' name='swarm1.bin'/>
+    <part crc='f3a436cd' name='swarm2.bin'/>
+    <part crc='2915e38b' name='swarm3.bin'/>
+    <part crc='8bbbf486' name='swarm4.bin'/>
+    <part crc='f1b1987e' name='swarm5.bin'/>
+    <part crc='f1b1987e' name='swarm5.bin'/>
+    <part crc='f1b1987e' name='swarm5.bin'/>
+    <part crc='f1b1987e' name='swarm5.bin'/>
+    <part crc='ef8657bb' name='swarma.bin'/>
+    <part crc='ef8657bb' name='swarma.bin'/>
+    <part crc='60c4bd31' name='swarmb.bin'/>
+    <part crc='60c4bd31' name='swarmb.bin'/>
   </rom>
   
 </misterromdescription>

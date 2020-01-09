@@ -6,51 +6,23 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='5b1097e1f2e74094d73abb46c2f123e7' type='merged|nonmerged' zip='defender.zip'>
-    <part name='defence/1'/>
-    <part name='defence/2'/>
-    <part name='defence/3'/>
-    <part name='defence/0'/>
-    <part name='defence/7'/>
-    <part name='defence/9'/>
-    <part name='defence/6'/>
-    <part name='defence/8'/>
-    <part name='defence/5'/>
-    <part name='defence/4'/>
-    <part name='defcmnd/defcmnda.snd'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
-  </rom>
-  <rom index='0' md5='5b1097e1f2e74094d73abb46c2f123e7' type='split' zip='defence.zip'>
-    <part name='1'/>
-    <part name='2'/>
-    <part name='3'/>
-    <part name='0'/>
-    <part name='7'/>
-    <part name='9'/>
-    <part name='6'/>
-    <part name='8'/>
-    <part name='5'/>
-    <part name='4'/>
-    <part name='defcmnda.snd'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
   
   
-  <rom index='0' md5='5b1097e1f2e74094d73abb46c2f123e7' type='nonmerged' zip='defence.zip'>
-    <part name='1'/>
-    <part name='2'/>
-    <part name='3'/>
-    <part name='0'/>
-    <part name='7'/>
-    <part name='9'/>
-    <part name='6'/>
-    <part name='8'/>
-    <part name='5'/>
-    <part name='4'/>
-    <part name='defcmnda.snd'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
+  
+  
+  <rom index='0' md5='5b1097e1f2e74094d73abb46c2f123e7' type='merged|nonmerged|split' zip='defence.zip|defender.zip'>
+    <part crc='ebc93622' name='1'/>
+    <part crc='2a4f4f44' name='2'/>
+    <part crc='a4112f91' name='3'/>
+    <part crc='7a1e5998' name='0'/>
+    <part crc='4c2616a3' name='7'/>
+    <part crc='7b146003' name='9'/>
+    <part crc='6d748030' name='6'/>
+    <part crc='52d5438b' name='8'/>
+    <part crc='4a270340' name='5'/>
+    <part crc='e13f457c' name='4'/>
+    <part crc='f122d9c9' name='defcmnda.snd'/>
+    <part crc='FIXME' name='decoder.2'/>
+    <part crc='FIXME' name='decoder.3'/>
   </rom>
 </misterromdescription>

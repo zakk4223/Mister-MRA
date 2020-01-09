@@ -3,50 +3,22 @@
   <rom index='1'>
     <part>03</part>
   </rom>
-  <rom index='0' md5='58c7ee6f2311602d342644bd577b41ca' type='merged|nonmerged' zip='digdug2.zip'>
-    <part name='digdug2o/d21_3.1d'/>
-    <part name='digdug2o/d21_1.1b'/>
-    <part name='d21_6.3m'/>
-    <part name='d21_7.3n'/>
-    <part name='d21_4.1k'/>
-    <part name='d21_5.3b'/>
-    <part name='digdug2o/d2x-7.5k'/>
-    <part name='digdug2o/d2x-7.5k'/>
-    <part name='digdug2o/d2x-7.5k'/>
-    <part name='digdug2o/d2x-7.5k'/>
-    <part name='d21-6.4c'/>
-    <part name='d21-3.3m'/>
-    <part name='d21-5.5b'/>
-  </rom>
-  <rom index='0' md5='58c7ee6f2311602d342644bd577b41ca' type='split' zip='digdug2o.zip'>
-    <part name='d21_3.1d'/>
-    <part name='d21_1.1b'/>
-    <part name='d21_6.3m' zip='digdug2.zip'/>
-    <part name='d21_7.3n' zip='digdug2.zip'/>
-    <part name='d21_4.1k' zip='digdug2.zip'/>
-    <part name='d21_5.3b' zip='digdug2.zip'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d21-6.4c' zip='digdug2.zip'/>
-    <part name='d21-3.3m' zip='digdug2.zip'/>
-    <part name='d21-5.5b' zip='digdug2.zip'/>
-  </rom>
   
-  <rom index='0' md5='58c7ee6f2311602d342644bd577b41ca' type='nonmerged' zip='digdug2o.zip'>
-    <part name='d21_3.1d'/>
-    <part name='d21_1.1b'/>
-    <part name='d21_6.3m'/>
-    <part name='d21_7.3n'/>
-    <part name='d21_4.1k'/>
-    <part name='d21_5.3b'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d2x-7.5k'/>
-    <part name='d21-6.4c'/>
-    <part name='d21-3.3m'/>
-    <part name='d21-5.5b'/>
+  
+  
+  <rom index='0' md5='58c7ee6f2311602d342644bd577b41ca' type='merged|nonmerged|split' zip='digdug2o.zip|digdug2.zip'>
+    <part crc='be7ec80b' name='d21_3.1d'/>
+    <part crc='5c77c0d4' name='d21_1.1b'/>
+    <part crc='df1f4ad8' name='d21_6.3m'/>
+    <part crc='ccadb3ea' name='d21_7.3n'/>
+    <part crc='737443b1' name='d21_4.1k'/>
+    <part crc='afcb4509' name='d21_5.3b'/>
+    <part crc='1525a4d1' name='d2x-7.5k'/>
+    <part crc='1525a4d1' name='d2x-7.5k'/>
+    <part crc='1525a4d1' name='d2x-7.5k'/>
+    <part crc='1525a4d1' name='d2x-7.5k'/>
+    <part crc='55a88695' name='d21-6.4c'/>
+    <part crc='e0074ee2' name='d21-3.3m'/>
+    <part crc='9b169db5' name='d21-5.5b'/>
   </rom>
 </misterromdescription>

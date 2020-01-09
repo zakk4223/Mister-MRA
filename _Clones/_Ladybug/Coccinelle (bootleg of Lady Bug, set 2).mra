@@ -7,40 +7,18 @@
   <category>Maze</category>
   <category>Maze / Bugs</category>
   <rbf>ladybug</rbf>
-  <rom index='0' md5='530d955a6796e9890c9bdba469229e1e' type='merged|nonmerged' zip='ladybug.zip'>
-    <part name='ladybugb2/lb1b.cpu'/>
-    <part name='ladybugb2/lb2b.cpu'/>
-    <part name='ladybugb2/lb3b.cpu'/>
-    <part name='l4.h4'/>
-    <part name='l5.j4'/>
-    <part name='ladybugb2/lb6b.cpu'/>
-    <part name='l8.l7'/>
-    <part name='l7.m7'/>
-    <part name='l9.f7'/>
-    <part name='l0.h7'/>
-  </rom>
-  <rom index='0' md5='530d955a6796e9890c9bdba469229e1e' type='split' zip='ladybugb2.zip'>
-    <part name='lb1b.cpu'/>
-    <part name='lb2b.cpu'/>
-    <part name='lb3b.cpu'/>
-    <part name='l4.h4' zip='ladybug.zip'/>
-    <part name='l5.j4' zip='ladybug.zip'/>
-    <part name='lb6b.cpu'/>
-    <part name='l8.l7' zip='ladybug.zip'/>
-    <part name='l7.m7' zip='ladybug.zip'/>
-    <part name='l9.f7' zip='ladybug.zip'/>
-    <part name='l0.h7' zip='ladybug.zip'/>
-  </rom>
-  <rom index='0' md5='530d955a6796e9890c9bdba469229e1e' type='nonmerged' zip='ladybugb2.zip'>
-    <part name='lb1b.cpu'/>
-    <part name='lb2b.cpu'/>
-    <part name='lb3b.cpu'/>
-    <part name='l4.h4'/>
-    <part name='l5.j4'/>
-    <part name='lb6b.cpu'/>
-    <part name='l8.l7'/>
-    <part name='l7.m7'/>
-    <part name='l9.f7'/>
-    <part name='l0.h7'/>
+  
+  
+  <rom index='0' md5='530d955a6796e9890c9bdba469229e1e' type='merged|nonmerged|split' zip='ladybugb2.zip|ladybug.zip'>
+    <part crc='35d61e65' name='lb1b.cpu'/>
+    <part crc='a13e0fe4' name='lb2b.cpu'/>
+    <part crc='ee8ac716' name='lb3b.cpu'/>
+    <part crc='ffc424d7' name='l4.h4'/>
+    <part crc='ad6af809' name='l5.j4'/>
+    <part crc='dc906e89' name='lb6b.cpu'/>
+    <part crc='8b99910b' name='l8.l7'/>
+    <part crc='86a5b448' name='l7.m7'/>
+    <part crc='77b1da1e' name='l9.f7'/>
+    <part crc='aa82e00b' name='l0.h7'/>
   </rom>
 </misterromdescription>

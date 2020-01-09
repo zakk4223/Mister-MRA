@@ -6,49 +6,21 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='dbb64330a16aaf146e96b4dccb70ed57' type='merged' zip='scramble.zip'>
-    <part name='scramce/es1.2c'/>
-    <part name='offensiv/2716-9e.bin'/>
-    <part name='offensiv/2716-9f.bin'/>
-    <part name='bomber/4.3f'/>
-    <part name='offensiv/2716-9j.bin'/>
-    <part name='bomber/6.3d'/>
-    <part name='bomber/7.3c'/>
-    <part name='scrambp/b8-2716.cpu'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='kamikazesp/1-a.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
-  </rom>
-  <rom index='0' md5='dbb64330a16aaf146e96b4dccb70ed57' type='split' zip='scramce.zip'>
-    <part name='es1.2c'/>
-    <part name='es2.2e'/>
-    <part name='es3.2f'/>
-    <part name='es4.2h'/>
-    <part name='es5.2j'/>
-    <part name='es6.2l'/>
-    <part name='es7.2m'/>
-    <part name='es8.2p'/>
-    <part name='c1.5h' zip='scramble.zip'/>
-    <part name='c2.5f' zip='scramble.zip'/>
-    <part name='11.5c'/>
-    <part name='ot2.5d' zip='scramble.zip'/>
-    <part name='ot3.5e' zip='scramble.zip'/>
-  </rom>
-  <rom index='0' md5='dbb64330a16aaf146e96b4dccb70ed57' type='nonmerged' zip='scramce.zip'>
-    <part name='es1.2c'/>
-    <part name='es2.2e'/>
-    <part name='es3.2f'/>
-    <part name='es4.2h'/>
-    <part name='es5.2j'/>
-    <part name='es6.2l'/>
-    <part name='es7.2m'/>
-    <part name='es8.2p'/>
-    <part name='10.5h'/>
-    <part name='9.5f'/>
-    <part name='11.5c'/>
-    <part name='12.5d'/>
-    <part name='13.5e'/>
+  
+  
+  <rom index='0' md5='dbb64330a16aaf146e96b4dccb70ed57' type='merged|nonmerged|split' zip='scramce.zip|scramble.zip'>
+    <part crc='726fb19e' name='es1.2c'/>
+    <part crc='66ebc070' name='es2.2e'/>
+    <part crc='317548fd' name='es3.2f'/>
+    <part crc='dd380a22' name='es4.2h'/>
+    <part crc='fa4f1a70' name='es5.2j'/>
+    <part crc='9fd96374' name='es6.2l'/>
+    <part crc='88ac07a0' name='es7.2m'/>
+    <part crc='d20088ee' name='es8.2p'/>
+    <part crc='11fd2887' name='10.5h'/>
+    <part crc='4708845b' name='9.5f'/>
+    <part crc='be037cf6' name='11.5c'/>
+    <part crc='de7912da' name='12.5d'/>
+    <part crc='ba2fa933' name='13.5e'/>
   </rom>
 </misterromdescription>

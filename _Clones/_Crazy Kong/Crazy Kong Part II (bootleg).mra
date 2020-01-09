@@ -8,90 +8,36 @@
   <category>Platform</category>
   <category>Platform / Mario Bros.</category>
   <rbf>crazykong</rbf>
-  <rom index='0' md5='892bae532feebe75ec336e8dcc16e052' type='merged|nonmerged' zip='ckongpt2.zip'>
-    <part name='ckongpt2b2/0.bin'/>
-    <part name='8.5e'/>
-    <part name='9.5h'/>
-    <part name='ckongpt2b2/3.bin'/>
-    <part name='11.5l'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='12.5n'/>
-    <part name='6.11n'/>
-    <part name='5.11l'/>
-    <part name='4.11k'/>
-    <part name='3.11h'/>
-    <part name='2.11c'/>
-    <part name='1.11a'/>
-    <part name='2.11c'/>
-    <part name='1.11a'/>
-    <part name='14.5s'/>
-    <part name='13.5p'/>
-  </rom>
-  <rom index='0' md5='892bae532feebe75ec336e8dcc16e052' type='split' zip='ckongpt2b2.zip'>
-    <part name='0.bin'/>
-    <part name='8.5e' zip='ckongpt2.zip'/>
-    <part name='9.5h' zip='ckongpt2.zip'/>
-    <part name='3.bin'/>
-    <part name='11.5l' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='12.5n' zip='ckongpt2.zip'/>
-    <part name='6.11n' zip='ckongpt2.zip'/>
-    <part name='5.11l' zip='ckongpt2.zip'/>
-    <part name='4.11k' zip='ckongpt2.zip'/>
-    <part name='3.11h' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='14.5s' zip='ckongpt2.zip'/>
-    <part name='13.5p' zip='ckongpt2.zip'/>
-  </rom>
   
   
-  <rom index='0' md5='892bae532feebe75ec336e8dcc16e052' type='nonmerged' zip='ckongpt2b2.zip'>
-    <part name='0.bin'/>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='4.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='5.bin'/>
-    <part name='d.bin'/>
-    <part name='c.bin'/>
-    <part name='b.bin'/>
-    <part name='a.bin'/>
-    <part name='9.bin'/>
-    <part name='8.bin'/>
-    <part name='9.bin'/>
-    <part name='8.bin'/>
-    <part name='7.bin'/>
-    <part name='6.bin'/>
+  
+  
+  <rom index='0' md5='892bae532feebe75ec336e8dcc16e052' type='merged|nonmerged|split' zip='ckongpt2b2.zip|ckongpt2.zip'>
+    <part crc='1c21386f' name='0.bin'/>
+    <part crc='5dc1aaba' name='1.bin'/>
+    <part crc='c9054c94' name='2.bin'/>
+    <part crc='84903b9d' name='3.bin'/>
+    <part crc='ae159192' name='4.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='966bc9ab' name='5.bin'/>
+    <part crc='2dcedd12' name='d.bin'/>
+    <part crc='fa7cbd91' name='c.bin'/>
+    <part crc='3375b3bd' name='b.bin'/>
+    <part crc='5655cc11' name='a.bin'/>
+    <part crc='d1352c31' name='9.bin'/>
+    <part crc='a7a2fdbd' name='8.bin'/>
+    <part crc='d1352c31' name='9.bin'/>
+    <part crc='a7a2fdbd' name='8.bin'/>
+    <part crc='5f0bcdfb' name='7.bin'/>
+    <part crc='9003ffbd' name='6.bin'/>
   </rom>
 </misterromdescription>

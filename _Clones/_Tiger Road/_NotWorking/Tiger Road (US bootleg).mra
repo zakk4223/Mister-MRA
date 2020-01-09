@@ -3,73 +3,29 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jttora</rbf>
-  <rom index="0" md5="6221c8b48794c75807d6a498f84ac50f" type="merged" zip="tigeroad.zip">
-    <part name="tigeroadb/tgrroad.3"/>
-    <part name="tigeroadb/tgrroad.5"/>
-    <part name="tru_05.12k"/>
-    <part name="tru_05.12k"/>
-    <part name="tru_05.12k"/>
-    <part name="tr_01.10d"/>
-    <part name="tr_13.7l"/>
-    <part name="tr_13.7l"/>
-    <part name="tr-03a.2f"/>
-    <part name="tr-06a.2h"/>
-    <part name="tr-07a.2j"/>
-    <part name="tigeroadb/tgrroad.17"/>
-    <part name="tr-01a.3f"/>
-    <part name="tr-04a.3h"/>
-    <part name="tr-02a.3j"/>
-    <part name="tr-05.3l"/>
-    <part name="tr-12a.2d"/>
-    <part name="tr-11a.3d"/>
-    <part name="tr-10a.2b"/>
-    <part name="tr-09a.3b"/>
-    <part name="tr.9e"/>
-  </rom>
-  <rom index="0" md5="6221c8b48794c75807d6a498f84ac50f" type="split" zip="tigeroadb.zip">
-    <part name="tgrroad.3"/>
-    <part name="tgrroad.5"/>
-    <part name="tru_05.12k" zip="tigeroad.zip"/>
-    <part name="tru_05.12k" zip="tigeroad.zip"/>
-    <part name="tru_05.12k" zip="tigeroad.zip"/>
-    <part name="tr_01.10d" zip="tigeroad.zip"/>
-    <part name="tr_13.7l" zip="tigeroad.zip"/>
-    <part name="tr_13.7l" zip="tigeroad.zip"/>
-    <part name="tr-03a.2f" zip="tigeroad.zip"/>
-    <part name="tr-06a.2h" zip="tigeroad.zip"/>
-    <part name="tr-07a.2j" zip="tigeroad.zip"/>
-    <part name="tgrroad.17"/>
-    <part name="tr-01a.3f" zip="tigeroad.zip"/>
-    <part name="tr-04a.3h" zip="tigeroad.zip"/>
-    <part name="tr-02a.3j" zip="tigeroad.zip"/>
-    <part name="tr-05.3l" zip="tigeroad.zip"/>
-    <part name="tr-12a.2d" zip="tigeroad.zip"/>
-    <part name="tr-11a.3d" zip="tigeroad.zip"/>
-    <part name="tr-10a.2b" zip="tigeroad.zip"/>
-    <part name="tr-09a.3b" zip="tigeroad.zip"/>
-    <part name="tr.9e" zip="tigeroad.zip"/>
-  </rom>
-  <rom index="0" md5="6221c8b48794c75807d6a498f84ac50f" type="nonmerged" zip="tigeroadb.zip">
-    <part name="tgrroad.3"/>
-    <part name="tgrroad.5"/>
-    <part name="tru05.bin"/>
-    <part name="tru05.bin"/>
-    <part name="tru05.bin"/>
-    <part name="tr01.bin"/>
-    <part name="tr13.bin"/>
-    <part name="tr13.bin"/>
-    <part name="tr-03a.bin"/>
-    <part name="tr-06a.bin"/>
-    <part name="tr-07a.bin"/>
-    <part name="tgrroad.17"/>
-    <part name="tr-01a.bin"/>
-    <part name="tr-04a.bin"/>
-    <part name="tr-02a.bin"/>
-    <part name="tr05.bin"/>
-    <part name="tr-12a.bin"/>
-    <part name="tr-11a.bin"/>
-    <part name="tr-10a.bin"/>
-    <part name="tr-09a.bin"/>
-    <part name="trprom.bin"/>
+  
+  
+  <rom index='0' md5='6221c8b48794c75807d6a498f84ac50f' type='merged|nonmerged|split' zip='tigeroadb.zip|tigeroad.zip'>
+    <part crc='14c87e07' name='tgrroad.3'/>
+    <part crc='0904254c' name='tgrroad.5'/>
+    <part crc='f9a7c9bf' name='tru05.bin'/>
+    <part crc='f9a7c9bf' name='tru05.bin'/>
+    <part crc='f9a7c9bf' name='tru05.bin'/>
+    <part crc='74a9f08c' name='tr01.bin'/>
+    <part crc='a79be1eb' name='tr13.bin'/>
+    <part crc='a79be1eb' name='tr13.bin'/>
+    <part crc='1e0537ea' name='tr-03a.bin'/>
+    <part crc='b636c23a' name='tr-06a.bin'/>
+    <part crc='5f907d4d' name='tr-07a.bin'/>
+    <part crc='3f7539cc' name='tgrroad.17'/>
+    <part crc='a8aa2e59' name='tr-01a.bin'/>
+    <part crc='8863a63c' name='tr-04a.bin'/>
+    <part crc='1a2c5f89' name='tr-02a.bin'/>
+    <part crc='5bf453b3' name='tr05.bin'/>
+    <part crc='7d8a99d0' name='tr-12a.bin'/>
+    <part crc='cd9152e5' name='tr-11a.bin'/>
+    <part crc='8f6f03d7' name='tr-10a.bin'/>
+    <part crc='3d98ad1e' name='tr-09a.bin'/>
+    <part crc='ec80ae36' name='trprom.bin'/>
   </rom>
 </misterromdescription>

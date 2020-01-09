@@ -1,31 +1,31 @@
 <misterromdescription>
   <rbf>DonkeyKong</rbf>
-  <rom index='0' md5='ef3a87b0204e3bbe2f0e24abdc45bb85' type='merged' zip='/hbmame/dkong.zip'>
-    <part name='c_5et_g.bin'/>
-    <part name='c_5ct_g.bin'/>
-    <part name='c_5bt_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='nadkong/nadkong.3p'/>
-    <part name='nadkong/nadkong.3p'/>
-    <part name='nadkong/nadkong.5h'/>
-    <part name='nadkong/nadkong.5h'/>
-    <part name='c_5at_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='nadkong/nadkong.4m'/>
-    <part name='nadkong/nadkong.4m'/>
-    <part name='nadkong/nadkong.4n'/>
-    <part name='nadkong/nadkong.4n'/>
-    <part name='nadkong/nadkong.4r'/>
-    <part name='nadkong/nadkong.4r'/>
-    <part name='nadkong/nadkong.4s'/>
-    <part name='nadkong/nadkong.4s'/>
-    <part name='s_3i_b.bin'/>
-    <part name='s_3j_b.bin'/>
-    <part name='c-2k.bpr'/>
-    <part name='c-2j.bpr'/>
-    <part name='v-5e.bpr'/>
+  <rom index='0' md5='ef3a87b0204e3bbe2f0e24abdc45bb85' type='merged|nonmerged|split' zip='/hbmame/nadkong.zip|/hbmame/dkong.zip'>
+    <part crc='ba70b88b' name='c_5et_g.bin'/>
+    <part crc='5ec461ec' name='c_5ct_g.bin'/>
+    <part crc='1c97d324' name='c_5bt_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='4c8aa728' name='nadkong.3p'/>
+    <part crc='4c8aa728' name='nadkong.3p'/>
+    <part crc='88772f5b' name='nadkong.5h'/>
+    <part crc='88772f5b' name='nadkong.5h'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='2afbf9e6' name='nadkong.4m'/>
+    <part crc='2afbf9e6' name='nadkong.4m'/>
+    <part crc='4f077877' name='nadkong.4n'/>
+    <part crc='4f077877' name='nadkong.4n'/>
+    <part crc='d868da93' name='nadkong.4r'/>
+    <part crc='d868da93' name='nadkong.4r'/>
+    <part crc='7ebfe9f3' name='nadkong.4s'/>
+    <part crc='7ebfe9f3' name='nadkong.4s'/>
+    <part crc='45a4ed06' name='s_3i_b.bin'/>
+    <part crc='4743fe92' name='s_3j_b.bin'/>
+    <part crc='e273ede5' name='c-2k.bpr'/>
+    <part crc='d6412358' name='c-2j.bpr'/>
+    <part crc='b869b8f5' name='v-5e.bpr'/>
     <part repeat='3328'>00</part>
     <part>
 80 80 80 80 80 80 7f 7f 7f 7f 7f 7f 7f 80 80 80 

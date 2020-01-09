@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='0525dceccf40d5239ed78b326042af1a' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='avefenixl/01_ic45.a1'/>
-    <part name='avefenixl/02_ic46.a2'/>
-    <part name='avefenix/4103-8516.rom'/>
-    <part name='avefenixl/04_ic48.a4'/>
-    <part name='avefenixl/05_ic49.a5'/>
-    <part name='h6-ic50.6a'/>
-    <part name='h7-ic51.7a'/>
-    <part name='avefenix/4108-8516.rom'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='avefenixl/09_ic39.b3'/>
-    <part name='avefenixl/10_ic40.b4'/>
-  </rom>
-  <rom index='0' md5='0525dceccf40d5239ed78b326042af1a' type='split' zip='avefenixl.zip'>
-    <part name='01_ic45.a1'/>
-    <part name='02_ic46.a2'/>
-    <part name='03_ic47.a3'/>
-    <part name='04_ic48.a4'/>
-    <part name='05_ic49.a5'/>
-    <part name='h6-ic50.6a' zip='phoenix.zip'/>
-    <part name='h7-ic51.7a' zip='phoenix.zip'/>
-    <part name='08_ic52.a8'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='09_ic39.b3'/>
-    <part name='10_ic40.b4'/>
-  </rom>
-  <rom index='0' md5='0525dceccf40d5239ed78b326042af1a' type='nonmerged' zip='avefenixl.zip'>
-    <part name='01_ic45.a1'/>
-    <part name='02_ic46.a2'/>
-    <part name='03_ic47.a3'/>
-    <part name='04_ic48.a4'/>
-    <part name='05_ic49.a5'/>
-    <part name='06_ic50.a6'/>
-    <part name='07_ic51.a7'/>
-    <part name='08_ic52.a8'/>
-    <part name='11_ic23.d3'/>
-    <part name='12_ic24.d4'/>
-    <part name='09_ic39.b3'/>
-    <part name='10_ic40.b4'/>
+  
+  
+  <rom index='0' md5='0525dceccf40d5239ed78b326042af1a' type='merged|nonmerged|split' zip='avefenixl.zip|phoenix.zip'>
+    <part crc='2c53998c' name='01_ic45.a1'/>
+    <part crc='fea2435c' name='02_ic46.a2'/>
+    <part crc='cbbb8839' name='03_ic47.a3'/>
+    <part crc='90a02a45' name='04_ic48.a4'/>
+    <part crc='74b1cf66' name='05_ic49.a5'/>
+    <part crc='ac5e9ec1' name='06_ic50.a6'/>
+    <part crc='2eab35b4' name='07_ic51.a7'/>
+    <part crc='f15c439d' name='08_ic52.a8'/>
+    <part crc='3c7e623f' name='11_ic23.d3'/>
+    <part crc='59916d3b' name='12_ic24.d4'/>
+    <part crc='bb0525ed' name='09_ic39.b3'/>
+    <part crc='4178aa4f' name='10_ic40.b4'/>
   </rom>
 </misterromdescription>

@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='e24de067ea417a8a6bdc39c88d354ce3' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='astrians/astrians.7h'/>
-    <part name='astrians/astrians.7j'/>
-    <part name='astrians/astrians.7k'/>
-    <part name='astrians/astrians.7l'/>
-    <part name='astrians/astrians.7m'/>
-    <part name='astrians/astrians.7m'/>
-    <part name='astrians/astrians.7m'/>
-    <part name='astrians/astrians.7m'/>
-    <part name='astrians/astrians.1h'/>
-    <part name='astrians/astrians.1h'/>
-    <part name='astrians/astrians.1k'/>
-    <part name='astrians/astrians.1k'/>
-  </rom>
-  <rom index='0' md5='e24de067ea417a8a6bdc39c88d354ce3' type='split|nonmerged' zip='astrians.zip'>
-    <part name='astrians.7h'/>
-    <part name='astrians.7j'/>
-    <part name='astrians.7k'/>
-    <part name='astrians.7l'/>
-    <part name='astrians.7m'/>
-    <part name='astrians.7m'/>
-    <part name='astrians.7m'/>
-    <part name='astrians.7m'/>
-    <part name='astrians.1h'/>
-    <part name='astrians.1h'/>
-    <part name='astrians.1k'/>
-    <part name='astrians.1k'/>
+  
+  <rom index='0' md5='e24de067ea417a8a6bdc39c88d354ce3' type='merged|nonmerged|split' zip='astrians.zip|galaxian.zip'>
+    <part crc='21eba3d0' name='astrians.7h'/>
+    <part crc='f3a436cd' name='astrians.7j'/>
+    <part crc='2915e38b' name='astrians.7k'/>
+    <part crc='2db56b2f' name='astrians.7l'/>
+    <part crc='41075efb' name='astrians.7m'/>
+    <part crc='41075efb' name='astrians.7m'/>
+    <part crc='41075efb' name='astrians.7m'/>
+    <part crc='41075efb' name='astrians.7m'/>
+    <part crc='77c074b4' name='astrians.1h'/>
+    <part crc='77c074b4' name='astrians.1h'/>
+    <part crc='c30fcc46' name='astrians.1k'/>
+    <part crc='c30fcc46' name='astrians.1k'/>
   </rom>
   
 </misterromdescription>

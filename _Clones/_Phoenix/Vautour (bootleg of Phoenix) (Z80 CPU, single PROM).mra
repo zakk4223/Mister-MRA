@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='815e735e2e40aa27facfbb64641ab1fc' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='vautour/vautor01.1e'/>
-    <part name='fenix/1.1f'/>
-    <part name='avefenix/4103-8516.rom'/>
-    <part name='vautour/vautor04.1j'/>
-    <part name='falcon/phoenixc.49'/>
-    <part name='vautourza/6.h1'/>
-    <part name='condor/cond07c.bin'/>
-    <part name='condor/cond08c.bin'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='fenix/11.3h'/>
-    <part name='fenix/10.3j'/>
-  </rom>
-  <rom index='0' md5='815e735e2e40aa27facfbb64641ab1fc' type='split' zip='vautourza.zip'>
-    <part name='1.e1'/>
-    <part name='2.f1'/>
-    <part name='3.h1'/>
-    <part name='4.j1'/>
-    <part name='5.k1'/>
-    <part name='6.h1'/>
-    <part name='7.m1'/>
-    <part name='8.n1'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='12.h4'/>
-    <part name='11.j4'/>
-  </rom>
-  <rom index='0' md5='815e735e2e40aa27facfbb64641ab1fc' type='nonmerged' zip='vautourza.zip'>
-    <part name='1.e1'/>
-    <part name='2.f1'/>
-    <part name='3.h1'/>
-    <part name='4.j1'/>
-    <part name='5.k1'/>
-    <part name='6.h1'/>
-    <part name='7.m1'/>
-    <part name='8.n1'/>
-    <part name='10.h2'/>
-    <part name='9.j2'/>
-    <part name='12.h4'/>
-    <part name='11.j4'/>
+  
+  
+  <rom index='0' md5='815e735e2e40aa27facfbb64641ab1fc' type='merged|nonmerged|split' zip='vautourza.zip|phoenix.zip'>
+    <part crc='cd2807ee' name='1.e1'/>
+    <part crc='3699b11a' name='2.f1'/>
+    <part crc='cbbb8839' name='3.h1'/>
+    <part crc='106262eb' name='4.j1'/>
+    <part crc='1a1ce0d0' name='5.k1'/>
+    <part crc='1fcac707' name='6.h1'/>
+    <part crc='805ec2e8' name='7.m1'/>
+    <part crc='1edebb45' name='8.n1'/>
+    <part crc='3c7e623f' name='10.h2'/>
+    <part crc='59916d3b' name='9.j2'/>
+    <part crc='8eff75c9' name='12.h4'/>
+    <part crc='369e7476' name='11.j4'/>
   </rom>
 </misterromdescription>

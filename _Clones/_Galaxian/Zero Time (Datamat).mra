@@ -6,19 +6,13 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='eb6ab7f84c84b9872fa67e94c34ed1a4' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='zerotimed/zerotime_datamat.bin'/>
-    <part name='zerotime/ztc-2.016'/>
-    <part name='zerotime/ztc-2.016'/>
-    <part name='zerotime/ztc-1.016'/>
-    <part name='zerotime/ztc-1.016'/>
-  </rom>
-  <rom index='0' md5='eb6ab7f84c84b9872fa67e94c34ed1a4' type='split|nonmerged' zip='zerotimed.zip'>
-    <part name='zerotime_datamat.bin'/>
-    <part name='ztc-2.016'/>
-    <part name='ztc-2.016'/>
-    <part name='ztc-1.016'/>
-    <part name='ztc-1.016'/>
+  
+  <rom index='0' md5='eb6ab7f84c84b9872fa67e94c34ed1a4' type='merged|nonmerged|split' zip='zerotimed.zip|galaxian.zip'>
+    <part crc='be60834b' name='zerotime_datamat.bin'/>
+    <part crc='1b13ca05' name='ztc-2.016'/>
+    <part crc='1b13ca05' name='ztc-2.016'/>
+    <part crc='5cd7df03' name='ztc-1.016'/>
+    <part crc='5cd7df03' name='ztc-1.016'/>
   </rom>
   
 </misterromdescription>

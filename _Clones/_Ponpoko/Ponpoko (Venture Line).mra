@@ -6,58 +6,24 @@
   <manufacturer>Sigma Enterprises Inc.</manufacturer>
   <category>Platform</category>
   <rbf>ponpoko</rbf>
-  <rom index='0' md5='cc22d21f27084d460a5fe3c27419e79a' type='merged|nonmerged' zip='ponpoko.zip'>
-    <part name='ponpokov/ppoko1.bin'/>
-    <part name='ponpokov/ppoko2.bin'/>
-    <part name='ponpokov/ppoko3.bin'/>
-    <part name='ponpokov/ppoko4.bin'/>
-    <part name='ppoko5.bin'/>
-    <part name='ppoko6.bin'/>
-    <part name='ppoko7.bin'/>
-    <part name='ponpokov/ppoko8.bin'/>
-    <part name='ppoko9.bin'/>
-    <part name='ppoko10.bin'/>
-    <part name='ppoko9.bin'/>
-    <part name='ppoko10.bin'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
-  </rom>
-  <rom index='0' md5='cc22d21f27084d460a5fe3c27419e79a' type='split' zip='ponpokov.zip'>
-    <part name='ppoko1.bin'/>
-    <part name='ppoko2.bin'/>
-    <part name='ppoko3.bin'/>
-    <part name='ppoko4.bin'/>
-    <part name='ppoko5.bin' zip='ponpoko.zip'/>
-    <part name='ppoko6.bin' zip='ponpoko.zip'/>
-    <part name='ppoko7.bin' zip='ponpoko.zip'/>
-    <part name='ppoko8.bin'/>
-    <part name='ppoko9.bin' zip='ponpoko.zip'/>
-    <part name='ppoko10.bin' zip='ponpoko.zip'/>
-    <part name='ppoko9.bin' zip='ponpoko.zip'/>
-    <part name='ppoko10.bin' zip='ponpoko.zip'/>
-    <part name='82s126.1m' zip='ponpoko.zip'/>
-    <part name='82s126.4a' zip='ponpoko.zip'/>
-    <part name='82s126.3m' zip='ponpoko.zip'/>
-    <part name='82s123.7f' zip='ponpoko.zip'/>
-  </rom>
-  <rom index='0' md5='cc22d21f27084d460a5fe3c27419e79a' type='nonmerged' zip='ponpokov.zip'>
-    <part name='ppoko1.bin'/>
-    <part name='ppoko2.bin'/>
-    <part name='ppoko3.bin'/>
-    <part name='ppoko4.bin'/>
-    <part name='ppoko5.bin'/>
-    <part name='ppoko6.bin'/>
-    <part name='ppoko7.bin'/>
-    <part name='ppoko8.bin'/>
-    <part name='ppoko9.bin'/>
-    <part name='ppoko10.bin'/>
-    <part name='ppoko9.bin'/>
-    <part name='ppoko10.bin'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  
+  
+  <rom index='0' md5='cc22d21f27084d460a5fe3c27419e79a' type='merged|nonmerged|split' zip='ponpokov.zip|ponpoko.zip'>
+    <part crc='49077667' name='ppoko1.bin'/>
+    <part crc='5101781a' name='ppoko2.bin'/>
+    <part crc='d790ed22' name='ppoko3.bin'/>
+    <part crc='4e449069' name='ppoko4.bin'/>
+    <part crc='54ca3d7d' name='ppoko5.bin'/>
+    <part crc='3055c7e0' name='ppoko6.bin'/>
+    <part crc='3cbe47ca' name='ppoko7.bin'/>
+    <part crc='b39be27d' name='ppoko8.bin'/>
+    <part crc='b73e1a06' name='ppoko9.bin'/>
+    <part crc='62069b5d' name='ppoko10.bin'/>
+    <part crc='b73e1a06' name='ppoko9.bin'/>
+    <part crc='62069b5d' name='ppoko10.bin'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

@@ -3,15 +3,15 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>arkanoid</rbf>
-  <rom index='0' md5='ce5428e93585223fb2cae1e343c26386' type='merged' zip='arkanoid.zip'>
-    <part name='arkangc/arkgc.1'/>
-    <part name='arkangc/arkgc.2'/>
-    <part name='a75-03.ic64'/>
-    <part name='a75-04.ic63'/>
-    <part name='a75-05.ic62'/>
-    <part name='a75-07.ic24'/>
-    <part name='a75-08.ic23'/>
-    <part name='a75-09.ic22'/>
+  <rom index='0' md5='ce5428e93585223fb2cae1e343c26386' type='merged|nonmerged|split' zip='arkanoid.zip'>
+    <part crc='FIXME' name='arkgc.1'/>
+    <part crc='FIXME' name='arkgc.2'/>
+    <part crc='038b74ba' name='a75-03.ic64'/>
+    <part crc='71fae199' name='a75-04.ic63'/>
+    <part crc='c76374e2' name='a75-05.ic62'/>
+    <part crc='0af8b289' name='a75-07.ic24'/>
+    <part crc='abb002fb' name='a75-08.ic23'/>
+    <part crc='a7c6c277' name='a75-09.ic22'/>
     <patch offset='0x33C2'>49</patch>
     <patch offset='0x33F4'>49</patch>
     <patch offset='0x3437'>49</patch>

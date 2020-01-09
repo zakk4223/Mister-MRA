@@ -1,30 +1,14 @@
 <misterromdescription>
   <rbf>TimePilot</rbf>
-  <rom index='0' md5='4537481f5bcaea03efa511e9d1bdf612' type='merged' zip='timeplt.zip'>
-    <part name='spaceplt/sp1'/>
-    <part name='spaceplt/sp2'/>
-    <part name='spaceplt/sp3'/>
-    <part name='spaceplt/sp6'/>
-    <part name='spaceplt/sp4'/>
-    <part name='tm5'/>
-    <part name='tm7'/>
-  </rom>
-  <rom index='0' md5='4537481f5bcaea03efa511e9d1bdf612' type='split' zip='spaceplt.zip'>
-    <part name='sp1'/>
-    <part name='sp2'/>
-    <part name='sp3'/>
-    <part name='sp6'/>
-    <part name='sp4'/>
-    <part name='tm5' zip='timeplt.zip'/>
-    <part name='tm7' zip='timeplt.zip'/>
-  </rom>
-  <rom index='0' md5='4537481f5bcaea03efa511e9d1bdf612' type='nonmerged' zip='spaceplt.zip'>
-    <part name='sp1'/>
-    <part name='sp2'/>
-    <part name='sp3'/>
-    <part name='sp6'/>
-    <part name='sp4'/>
-    <part name='tm5'/>
-    <part name='tm7'/>
+  
+  
+  <rom index='0' md5='4537481f5bcaea03efa511e9d1bdf612' type='merged|nonmerged|split' zip='spaceplt.zip|timeplt.zip'>
+    <part crc='ac8ca3ae' name='sp1'/>
+    <part crc='1f0308ef' name='sp2'/>
+    <part crc='90aeca50' name='sp3'/>
+    <part crc='76caa8af' name='sp6'/>
+    <part crc='3781ce7a' name='sp4'/>
+    <part crc='e8ca87b9' name='tm5'/>
+    <part crc='d66da813' name='tm7'/>
   </rom>
 </misterromdescription>

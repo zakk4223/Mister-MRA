@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='39046ae9e9ea813fab15b38bbc25cecc' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='fpnleash/punleash.1'/>
-    <part name='fpnleash/punleash.2'/>
-    <part name='fpnleash/punleash.3'/>
-    <part name='fpnleash/punleash.4'/>
+  <rom index='0' md5='39046ae9e9ea813fab15b38bbc25cecc' type='merged|nonmerged|split' zip='/hbmame/fpnleash.zip|/hbmame/puckman.zip'>
+    <part crc='eddb20e7' name='punleash.1'/>
+    <part crc='57fe8b4d' name='punleash.2'/>
+    <part crc='94c63bb1' name='punleash.3'/>
+    <part crc='fe7734d5' name='punleash.4'/>
     <part repeat='16384'>00</part>
-    <part name='fpnleash/fpnleash.5e'/>
-    <part name='fpnleash/punleash.5f'/>
+    <part crc='1f69d1d0' name='fpnleash.5e'/>
+    <part crc='98d3d364' name='punleash.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='fpnleash/punleash.4a'/>
-    <part name='82s126.3m'/>
-    <part name='fpnleash/punleash.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='5ff3b85a' name='punleash.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='357c2523' name='punleash.7f'/>
   </rom>
 </misterromdescription>

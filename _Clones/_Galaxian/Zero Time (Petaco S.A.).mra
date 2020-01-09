@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='59c2710750f2a55613725a19314295b8' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='zerotime/zt-p01c.016'/>
-    <part name='galaxrf/princip2.v'/>
-    <part name='galaxrf/princip3.w'/>
-    <part name='zerotime/zt-4.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotime/ztc-2.016'/>
-    <part name='zerotime/ztc-2.016'/>
-    <part name='zerotime/ztc-1.016'/>
-    <part name='zerotime/ztc-1.016'/>
-  </rom>
-  <rom index='0' md5='59c2710750f2a55613725a19314295b8' type='split|nonmerged' zip='zerotime.zip'>
-    <part name='zt-p01c.016'/>
-    <part name='zt-2.016'/>
-    <part name='zt-3.016'/>
-    <part name='zt-4.016'/>
-    <part name='zt-5.016'/>
-    <part name='zt-5.016'/>
-    <part name='zt-5.016'/>
-    <part name='zt-5.016'/>
-    <part name='ztc-2.016'/>
-    <part name='ztc-2.016'/>
-    <part name='ztc-1.016'/>
-    <part name='ztc-1.016'/>
+  
+  <rom index='0' md5='59c2710750f2a55613725a19314295b8' type='merged|nonmerged|split' zip='zerotime.zip|galaxian.zip'>
+    <part crc='90a2bc61' name='zt-p01c.016'/>
+    <part crc='a433067e' name='zt-2.016'/>
+    <part crc='aaf038d4' name='zt-3.016'/>
+    <part crc='786d690a' name='zt-4.016'/>
+    <part crc='af9260d7' name='zt-5.016'/>
+    <part crc='af9260d7' name='zt-5.016'/>
+    <part crc='af9260d7' name='zt-5.016'/>
+    <part crc='af9260d7' name='zt-5.016'/>
+    <part crc='1b13ca05' name='ztc-2.016'/>
+    <part crc='1b13ca05' name='ztc-2.016'/>
+    <part crc='5cd7df03' name='ztc-1.016'/>
+    <part crc='5cd7df03' name='ztc-1.016'/>
   </rom>
   
 </misterromdescription>

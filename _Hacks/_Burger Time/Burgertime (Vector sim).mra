@@ -7,22 +7,22 @@
   <category>Maze / Food</category>
   <category>Platform</category>
   <rbf>burgertime</rbf>
-  <rom index='0' md5='fe27c8e39f436642aed3c02533ee9914' type='merged' zip='/hbmame/btime.zip'>
-    <part name='vecbtime/ab04.9b'/>
-    <part name='vecbtime/ab06.13b'/>
-    <part name='vecbtime/ab05.10b'/>
-    <part name='vecbtime/ab07.15b'/>
-    <part name='vecbtime/vec_ab12.7k'/>
-    <part name='vecbtime/vec_ab13.9k'/>
-    <part name='vecbtime/vec_ab10.10k'/>
-    <part name='vecbtime/vec_ab11.12k'/>
-    <part name='vecbtime/vec_ab8.13k'/>
-    <part name='vecbtime/vec_ab9.15k'/>
-    <part name='vecbtime/vec_ab00.1b'/>
-    <part name='vecbtime/vec_ab01.3b'/>
-    <part name='vecbtime/vec_ab02.4b'/>
-    <part name='ab03.6b'/>
-    <part name='ab14.12h'/>
+  <rom index='0' md5='fe27c8e39f436642aed3c02533ee9914' type='merged|nonmerged|split' zip='/hbmame/vecbtime.zip|/hbmame/btime.zip'>
+    <part crc='797e5f75' name='ab04.9b'/>
+    <part crc='c77f3f64' name='ab06.13b'/>
+    <part crc='b0d3640f' name='ab05.10b'/>
+    <part crc='a142f862' name='ab07.15b'/>
+    <part crc='b02d859c' name='vec_ab12.7k'/>
+    <part crc='d9757010' name='vec_ab13.9k'/>
+    <part crc='2b71a1db' name='vec_ab10.10k'/>
+    <part crc='a98fea41' name='vec_ab11.12k'/>
+    <part crc='0ca7828f' name='vec_ab8.13k'/>
+    <part crc='1e460ff7' name='vec_ab9.15k'/>
+    <part crc='03dbe9b6' name='vec_ab00.1b'/>
+    <part crc='698089da' name='vec_ab01.3b'/>
+    <part crc='4464ccef' name='vec_ab02.4b'/>
+    <part crc='d26bc1f3' name='ab03.6b'/>
+    <part crc='f55e5211' name='ab14.12h'/>
   </rom>
   
   

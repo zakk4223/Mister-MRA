@@ -1,16 +1,16 @@
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='e4b964af9694015a059c3ca20b22864a' type='merged' zip='/hbmame/galaga.zip'>
-    <part name='galaga99/gg1-1'/>
-    <part name='galagabl/galagabl.1_2'/>
-    <part name='gg1_3.2m'/>
-    <part name='galagabl/gg1-4'/>
-    <part name='galaga99/gg1-5'/>
-    <part name='galaga84/gg1-7'/>
-    <part name='gg1_11.4d'/>
-    <part name='gg1_10.4f'/>
-    <part name='gg1_9.4l'/>
-    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
+  <rom index='0' md5='e4b964af9694015a059c3ca20b22864a' type='merged|nonmerged|split' zip='/hbmame/galaga99.zip|/hbmame/galaga.zip'>
+    <part crc='a3a0f743' name='gg1-1'/>
+    <part crc='FIXME' name='galagabl.1_2'/>
+    <part crc='753ce503' name='gg1_3.2m'/>
+    <part crc='FIXME' name='gg1-4'/>
+    <part crc='3102fccd' name='gg1-5'/>
+    <part crc='8995088d' name='gg1-7'/>
+    <part crc='FIXME' name='gg1_11.4d'/>
+    <part crc='FIXME' name='gg1_10.4f'/>
+    <part crc='FIXME' name='gg1_9.4l'/>
+    <part crc='ee7357e0' name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='1a2cf91f649e485e90a4813606d3e7eb' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='condor/cond01c.bin'/>
-    <part name='condor/cond02c.bin'/>
-    <part name='condor/cond03c.bin'/>
-    <part name='condorn/4.bin'/>
-    <part name='condor/cond05c.bin'/>
-    <part name='condor/cond06c.bin'/>
-    <part name='condor/cond07c.bin'/>
-    <part name='condor/cond08c.bin'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='condorn/a.bin'/>
-    <part name='condor/cond12c.bin'/>
-  </rom>
-  <rom index='0' md5='1a2cf91f649e485e90a4813606d3e7eb' type='split' zip='condorn.zip'>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='4.bin'/>
-    <part name='5.bin'/>
-    <part name='6.bin'/>
-    <part name='7.bin'/>
-    <part name='8.bin'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='a.bin'/>
-    <part name='b.bin'/>
-  </rom>
-  <rom index='0' md5='1a2cf91f649e485e90a4813606d3e7eb' type='nonmerged' zip='condorn.zip'>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='4.bin'/>
-    <part name='5.bin'/>
-    <part name='6.bin'/>
-    <part name='7.bin'/>
-    <part name='8.bin'/>
-    <part name='c.bin'/>
-    <part name='d.bin'/>
-    <part name='a.bin'/>
-    <part name='b.bin'/>
+  
+  
+  <rom index='0' md5='1a2cf91f649e485e90a4813606d3e7eb' type='merged|nonmerged|split' zip='condorn.zip|phoenix.zip'>
+    <part crc='c0f73929' name='1.bin'/>
+    <part crc='440d56e8' name='2.bin'/>
+    <part crc='750b059b' name='3.bin'/>
+    <part crc='78416372' name='4.bin'/>
+    <part crc='1ff3a982' name='5.bin'/>
+    <part crc='8c83bff7' name='6.bin'/>
+    <part crc='805ec2e8' name='7.bin'/>
+    <part crc='1edebb45' name='8.bin'/>
+    <part crc='3c7e623f' name='c.bin'/>
+    <part crc='59916d3b' name='d.bin'/>
+    <part crc='cdd5ef12' name='a.bin'/>
+    <part crc='eba42f0f' name='b.bin'/>
   </rom>
 </misterromdescription>

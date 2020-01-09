@@ -7,16 +7,16 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='06977885598faa52a731d538ca656b15' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='zolaad/zolapac1.bin'/>
-    <part name='zolaad/zolapac2.bin'/>
+  <rom index='0' md5='06977885598faa52a731d538ca656b15' type='merged|nonmerged|split' zip='/hbmame/zolaad.zip|/hbmame/mspacman.zip'>
+    <part crc='1aa2f312' name='zolapac1.bin'/>
+    <part crc='420ff603' name='zolapac2.bin'/>
     <part repeat='8192'>00</part>
-    <part name='5e'/>
-    <part name='5f'/>
+    <part crc='FIXME' name='5e'/>
+    <part crc='FIXME' name='5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

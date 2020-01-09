@@ -7,26 +7,14 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroids</rbf>
-  <rom index='0' md5='e03dfeb3cc03d0b85030f69a70351e3f' type='merged|nonmerged' zip='asteroid.zip'>
-    <part name='aerolitos/2516_1e.bin'/>
-    <part name='aerolitos/2516_1d.bin'/>
-    <part name='aerolitos/2516_1c.bin'/>
-    <part name='spcrocks/e.bin'/>
-    <part name='034602-01.c8'/>
-  </rom>
-  <rom index='0' md5='e03dfeb3cc03d0b85030f69a70351e3f' type='split' zip='spcrocks.zip'>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='e.bin'/>
-    <part name='034602-01.c8' zip='asteroid.zip'/>
-  </rom>
-  <rom index='0' md5='e03dfeb3cc03d0b85030f69a70351e3f' type='nonmerged' zip='spcrocks.zip'>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='e.bin'/>
-    <part name='034602-01.c8'/>
+  
+  
+  <rom index='0' md5='e03dfeb3cc03d0b85030f69a70351e3f' type='merged|nonmerged|split' zip='spcrocks.zip|asteroid.zip'>
+    <part crc='0cc75459' name='1.bin'/>
+    <part crc='096ed35c' name='2.bin'/>
+    <part crc='b912754d' name='3.bin'/>
+    <part crc='148ef465' name='e.bin'/>
+    <part crc='97953db8' name='034602-01.c8'/>
   </rom>
   
 </misterromdescription>

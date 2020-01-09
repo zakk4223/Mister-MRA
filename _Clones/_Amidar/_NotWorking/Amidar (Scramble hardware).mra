@@ -7,29 +7,19 @@
   <category>Maze</category>
   <category>Maze / Qix</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='233da0a4ce249be9b068cbf604030f6e' type='nonmerged' zip='amidars.zip'>
-    <part name='am2d'/>
-    <part name='am2e'/>
-    <part name='am2f'/>
-    <part name='am2h'/>
-    <part name='am2j'/>
-    <part name='am2l'/>
-    <part name='am2m'/>
-    <part name='am2p'/>
-    <part name='2716.a5'/>
-    <part name='2716.a6'/>
-    <part name='amidarus.5c'/>
-    <part name='amidarus.5d'/>
+  <rom index='0' md5='233da0a4ce249be9b068cbf604030f6e' type='merged|nonmerged|split' zip='amidars.zip|amidar.zip'>
+    <part crc='24b79547' name='am2d'/>
+    <part crc='4c64161e' name='am2e'/>
+    <part crc='b3987a72' name='am2f'/>
+    <part crc='29873461' name='am2h'/>
+    <part crc='0fdd54d8' name='am2j'/>
+    <part crc='5382f7ed' name='am2l'/>
+    <part crc='1d7109e9' name='am2m'/>
+    <part crc='c9163ac6' name='am2p'/>
+    <part crc='3029f94f' name='2716.a5'/>
+    <part crc='2082ad0a' name='2716.a6'/>
+    <part crc='8ca7b750' name='amidarus.5c'/>
+    <part crc='9b5bdc0a' name='amidarus.5d'/>
   </rom>
-  <rom index='0' md5='233da0a4ce249be9b068cbf604030f6e' type='merged' zip='amidar.zip'>
-    <part name='1.2c'/>
-    <part name='2.2e'/>
-    <part name='3.2f'/>
-    <part name='4.2h'/>
-    <part name='5.2j'/>
-    <part name='c2.5d'/>
-    <part name='c2.5f'/>
-    <part name='s1.5c'/>
-    <part name='s2.5d'/>
-  </rom>
+  
 </misterromdescription>

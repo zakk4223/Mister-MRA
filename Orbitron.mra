@@ -7,18 +7,18 @@
   <category>Space / Shooter</category>
   <rbf>orbitron</rbf>
   <rom index='0' md5='a7fe12b562282dd7fda795107c39decc' type='merged|nonmerged|split' zip='orbitron.zip'>
-    <part name='orbitron.3'/>
-    <part name='orbitron.4'/>
-    <part name='orbitron.1'/>
-    <part name='orbitron.2'/>
-    <part name='orbitron.5'/>
-    <part name='orbitron.5'/>
-    <part name='orbitron.5'/>
-    <part name='orbitron.5'/>
-    <part name='orbitron.6'/>
-    <part name='orbitron.6'/>
-    <part name='orbitron.7'/>
-    <part name='orbitron.7'/>
+    <part crc='419f9c9b' name='orbitron.3'/>
+    <part crc='44ad56ac' name='orbitron.4'/>
+    <part crc='da3f5168' name='orbitron.1'/>
+    <part crc='a3b813fc' name='orbitron.2'/>
+    <part crc='20cd8bb8' name='orbitron.5'/>
+    <part crc='20cd8bb8' name='orbitron.5'/>
+    <part crc='20cd8bb8' name='orbitron.5'/>
+    <part crc='20cd8bb8' name='orbitron.5'/>
+    <part crc='2c91b83f' name='orbitron.6'/>
+    <part crc='2c91b83f' name='orbitron.6'/>
+    <part crc='46f4cca4' name='orbitron.7'/>
+    <part crc='46f4cca4' name='orbitron.7'/>
   </rom>
   
   

@@ -6,15 +6,15 @@
   <manufacturer>Data East</manufacturer>
   <category>Racing / Cars</category>
   <rbf>burningrubber</rbf>
-  <rom index='0' md5='e2f26b8dc5b1e1acb0f1b4b915667c78' type='merged' zip='/hbmame/brubber.zip'>
-    <part name='bnjr/bnj12c.bin'/>
-    <part name='bnjr/bnj12d.bin'/>
-    <part name='bnjr/bnjr4e.bin'/>
-    <part name='bnjr/bnjr4f.bin'/>
-    <part name='bnjr/bnjr4h.bin'/>
-    <part name='bnjr/bnjr10e.bin'/>
-    <part name='bnjr/bnjr10f.bin'/>
-    <part name='bnj6c.bin'/>
+  <rom index='0' md5='e2f26b8dc5b1e1acb0f1b4b915667c78' type='merged|nonmerged|split' zip='/hbmame/bnjr.zip|/hbmame/brubber.zip'>
+    <part crc='fb3a2cdd' name='bnj12c.bin'/>
+    <part crc='b88bc99e' name='bnj12d.bin'/>
+    <part crc='876cc672' name='bnjr4e.bin'/>
+    <part crc='e5e95e3f' name='bnjr4f.bin'/>
+    <part crc='570ffa46' name='bnjr4h.bin'/>
+    <part crc='9e523e4c' name='bnjr10e.bin'/>
+    <part crc='5cf10f28' name='bnjr10f.bin'/>
+    <part crc='8c02f662' name='bnj6c.bin'/>
   </rom>
   
   

@@ -8,40 +8,18 @@
   <category>Maze / Pigs</category>
   <category>Sports / Shooting</category>
   <rbf>pooyan</rbf>
-  <rom index='0' md5='112d8ff41daf9902522f1ce217ae498f' type='merged|nonmerged' zip='pooyan.zip'>
-    <part name='pootan/poo_ic22.bin'/>
-    <part name='pootan/poo_ic23.bin'/>
-    <part name='3.6a'/>
-    <part name='pootan/poo_ic25.bin'/>
-    <part name='pootan/poo_ic13.bin'/>
-    <part name='pootan/poo_ic14.bin'/>
-    <part name='6.9a'/>
-    <part name='5.8a'/>
-    <part name='xx.7a'/>
-    <part name='xx.8a'/>
-  </rom>
-  <rom index='0' md5='112d8ff41daf9902522f1ce217ae498f' type='split' zip='pootan.zip'>
-    <part name='poo_ic22.bin'/>
-    <part name='poo_ic23.bin'/>
-    <part name='3.6a' zip='pooyan.zip'/>
-    <part name='poo_ic25.bin'/>
-    <part name='poo_ic13.bin'/>
-    <part name='poo_ic14.bin'/>
-    <part name='6.9a' zip='pooyan.zip'/>
-    <part name='5.8a' zip='pooyan.zip'/>
-    <part name='xx.7a' zip='pooyan.zip'/>
-    <part name='xx.8a' zip='pooyan.zip'/>
-  </rom>
-  <rom index='0' md5='112d8ff41daf9902522f1ce217ae498f' type='nonmerged' zip='pootan.zip'>
-    <part name='poo_ic22.bin'/>
-    <part name='poo_ic23.bin'/>
-    <part name='3.6a'/>
-    <part name='poo_ic25.bin'/>
-    <part name='poo_ic13.bin'/>
-    <part name='poo_ic14.bin'/>
-    <part name='6.9a'/>
-    <part name='5.8a'/>
-    <part name='xx.7a'/>
-    <part name='xx.8a'/>
+  
+  
+  <rom index='0' md5='112d8ff41daf9902522f1ce217ae498f' type='merged|nonmerged|split' zip='pootan.zip|pooyan.zip'>
+    <part crc='41b23a24' name='poo_ic22.bin'/>
+    <part crc='c9d94661' name='poo_ic23.bin'/>
+    <part crc='fe1a9e08' name='3.6a'/>
+    <part crc='8ae459ef' name='poo_ic25.bin'/>
+    <part crc='0be802e4' name='poo_ic13.bin'/>
+    <part crc='cba29096' name='poo_ic14.bin'/>
+    <part crc='b2d8c121' name='6.9a'/>
+    <part crc='1097c2b6' name='5.8a'/>
+    <part crc='fbe2b368' name='xx.7a'/>
+    <part crc='e1795b3d' name='xx.8a'/>
   </rom>
 </misterromdescription>

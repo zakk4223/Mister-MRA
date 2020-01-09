@@ -6,95 +6,37 @@
   <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
   <category>Maze</category>
   <rbf>crushroller</rbf>
-  <rom index='0' md5='559a0e16f4e7e7dafb00319cd8bb1bf6' type='nonmerged' zip='crush2.zip'>
-    <part name='tp1'/>
-    <part name='tp5a'/>
-    <part name='tp2'/>
-    <part name='tp6'/>
-    <part name='tp3'/>
-    <part name='tp7'/>
-    <part name='tp4'/>
-    <part name='tp8'/>
-    <part name='tp1'/>
-    <part name='tp5a'/>
-    <part name='tp2'/>
-    <part name='tp6'/>
-    <part name='tp3'/>
-    <part name='tp7'/>
-    <part name='tp4'/>
-    <part name='tp8'/>
-    <part name='tpa'/>
-    <part name='tpc'/>
-    <part name='tpb'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='tpd'/>
-    <part name='82s126.1m'/>
-    <part name='2s140.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  <rom index='0' md5='559a0e16f4e7e7dafb00319cd8bb1bf6' type='merged|nonmerged|split' zip='crush2.zip|crush.zip'>
+    <part crc='f276592e' name='tp1'/>
+    <part crc='3d302abe' name='tp5a'/>
+    <part crc='25f42e70' name='tp2'/>
+    <part crc='98279cbe' name='tp6'/>
+    <part crc='8377b4cb' name='tp3'/>
+    <part crc='d8e76c8c' name='tp7'/>
+    <part crc='90b28fa3' name='tp4'/>
+    <part crc='10854e1b' name='tp8'/>
+    <part crc='f276592e' name='tp1'/>
+    <part crc='3d302abe' name='tp5a'/>
+    <part crc='25f42e70' name='tp2'/>
+    <part crc='98279cbe' name='tp6'/>
+    <part crc='8377b4cb' name='tp3'/>
+    <part crc='d8e76c8c' name='tp7'/>
+    <part crc='90b28fa3' name='tp4'/>
+    <part crc='10854e1b' name='tp8'/>
+    <part crc='c7617198' name='tpa'/>
+    <part crc='e129d76a' name='tpc'/>
+    <part crc='d1899f05' name='tpb'/>
+    <part crc='d35d1caf' name='tpd'/>
+    <part crc='d35d1caf' name='tpd'/>
+    <part crc='d35d1caf' name='tpd'/>
+    <part crc='d35d1caf' name='tpd'/>
+    <part crc='d35d1caf' name='tpd'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='63efb927' name='2s140.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
-  <rom index='0' md5='559a0e16f4e7e7dafb00319cd8bb1bf6' type='merged' zip='crush.zip'>
-    <part name='crush4/unkmol.4e'/>
-    <part name='crush4/unkmol.6e'/>
-    <part name='crush4/unkmol.4f'/>
-    <part name='crush4/unkmol.6f'/>
-    <part name='crush4/unkmol.4h'/>
-    <part name='crush4/unkmol.6h'/>
-    <part name='crush4/unkmol.4j'/>
-    <part name='crush4/unkmol.6j'/>
-    <part name='crush4/unkmol.4e'/>
-    <part name='crush4/unkmol.6e'/>
-    <part name='crush4/unkmol.4f'/>
-    <part name='crush4/unkmol.6f'/>
-    <part name='crush4/unkmol.4h'/>
-    <part name='crush4/unkmol.6h'/>
-    <part name='crush4/unkmol.4j'/>
-    <part name='crush4/unkmol.6j'/>
-    <part name='crush4/unkmol.5e'/>
-    <part name='crush4/unkmol.5h'/>
-    <part name='crush4/unkmol.5f'/>
-    <part name='crush4/unkmol.5j'/>
-    <part name='crush4/unkmol.5j'/>
-    <part name='crush4/unkmol.5j'/>
-    <part name='crush4/unkmol.5j'/>
-    <part name='crush4/unkmol.5j'/>
-    <part name='82s126.1m'/>
-    <part name='2s140.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
-  </rom>
-  <rom index='0' md5='559a0e16f4e7e7dafb00319cd8bb1bf6' type='split' zip='crush4.zip'>
-    <part name='unkmol.4e'/>
-    <part name='unkmol.6e'/>
-    <part name='unkmol.4f'/>
-    <part name='unkmol.6f'/>
-    <part name='unkmol.4h'/>
-    <part name='unkmol.6h'/>
-    <part name='unkmol.4j'/>
-    <part name='unkmol.6j'/>
-    <part name='unkmol.4e'/>
-    <part name='unkmol.6e'/>
-    <part name='unkmol.4f'/>
-    <part name='unkmol.6f'/>
-    <part name='unkmol.4h'/>
-    <part name='unkmol.6h'/>
-    <part name='unkmol.4j'/>
-    <part name='unkmol.6j'/>
-    <part name='unkmol.5e'/>
-    <part name='unkmol.5h'/>
-    <part name='unkmol.5f'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='unkmol.5j'/>
-    <part name='82s126.1m' zip='crush.zip'/>
-    <part name='2s140.4a' zip='crush.zip'/>
-    <part name='82s126.3m' zip='crush.zip'/>
-    <part name='82s123.7f' zip='crush.zip'/>
-  </rom>
+  
+  
   
 </misterromdescription>

@@ -1,21 +1,21 @@
 <misterromdescription>
   <rbf>MsPacman</rbf>
-  <rom index='0' md5='ef04ddc4294eda8b104dd7e38b2d41da' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='sueworlb/sueworlb.4'/>
-    <part name='chtmspa/boot5'/>
-    <part name='chtmspa/boot5'/>
-    <part name='chtmspa/boot6'/>
-    <part name='sueworlb/sueworld.5e'/>
-    <part name='sueworlb/sueworld.5f'/>
-    <part name='sueworlb/sueworld.5f'/>
-    <part name='sueworlb/sueworld.5f'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  <rom index='0' md5='ef04ddc4294eda8b104dd7e38b2d41da' type='merged|nonmerged|split' zip='/hbmame/sueworlb.zip|/hbmame/mspacman.zip'>
+    <part crc='d16b31b7' name='boot1'/>
+    <part crc='0d32de5e' name='boot2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='edc5ad28' name='sueworlb.4'/>
+    <part crc='8c3e6de6' name='boot5'/>
+    <part crc='8c3e6de6' name='boot5'/>
+    <part crc='368cb165' name='boot6'/>
+    <part crc='6c975345' name='sueworld.5e'/>
+    <part crc='2c809842' name='sueworld.5f'/>
+    <part crc='2c809842' name='sueworld.5f'/>
+    <part crc='2c809842' name='sueworld.5f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
   
   

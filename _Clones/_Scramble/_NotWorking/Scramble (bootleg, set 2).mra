@@ -6,37 +6,17 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='0640e6497f3e7c8bdd0a69c205f09289' type='merged' zip='scramble.zip'>
-    <part name='scramb3/ra.7f'/>
-    <part name='scramb3/r2.7h'/>
-    <part name='scramb3/r3.7k'/>
-    <part name='scramb3/top32'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='ot1.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
-  </rom>
-  <rom index='0' md5='0640e6497f3e7c8bdd0a69c205f09289' type='split' zip='scramb3.zip'>
-    <part name='ra.7f'/>
-    <part name='r2.7h'/>
-    <part name='r3.7k'/>
-    <part name='top32'/>
-    <part name='c1.5h' zip='scramble.zip'/>
-    <part name='c2.5f' zip='scramble.zip'/>
-    <part name='ot1.5c' zip='scramble.zip'/>
-    <part name='ot2.5d' zip='scramble.zip'/>
-    <part name='ot3.5e' zip='scramble.zip'/>
-  </rom>
-  <rom index='0' md5='0640e6497f3e7c8bdd0a69c205f09289' type='nonmerged' zip='scramb3.zip'>
-    <part name='ra.7f'/>
-    <part name='r2.7h'/>
-    <part name='r3.7k'/>
-    <part name='top32'/>
-    <part name='5.1k'/>
-    <part name='6.1h'/>
-    <part name='ot1.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
+  
+  
+  <rom index='0' md5='0640e6497f3e7c8bdd0a69c205f09289' type='merged|nonmerged|split' zip='scramb3.zip|scramble.zip'>
+    <part crc='979be487' name='ra.7f'/>
+    <part crc='f2179cf5' name='r2.7h'/>
+    <part crc='941c804e' name='r3.7k'/>
+    <part crc='0c3297a6' name='top32'/>
+    <part crc='11fd2887' name='5.1k'/>
+    <part crc='4708845b' name='6.1h'/>
+    <part crc='FIXME' name='ot1.5c'/>
+    <part crc='FIXME' name='ot2.5d'/>
+    <part crc='FIXME' name='ot3.5e'/>
   </rom>
 </misterromdescription>

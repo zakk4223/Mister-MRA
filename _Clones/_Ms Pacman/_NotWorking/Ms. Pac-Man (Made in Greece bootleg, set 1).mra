@@ -1,31 +1,17 @@
 <misterromdescription>
   <rbf>pacman</rbf>
-  <rom index="1">
+  <rom index='1'>
     <part>05</part>
   </rom>
 
-  <rom index='0' md5='41bd6be04b984fd0dd7d0c9631b9b7cb' type='merged' zip='mspacman.zip'>
-    <part name='mspacmanbg/9.g5'/>
-    <part name='mspacmanbcc/10.e5'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='mspacmanbcc/82s123.h7'/>
-  </rom>
-  <rom index='0' md5='41bd6be04b984fd0dd7d0c9631b9b7cb' type='split' zip='mspacmanbg.zip'>
-    <part name='9.g5'/>
-    <part name='10.e5'/>
-    <part name='82s126.1m' zip='mspacman.zip'/>
-    <part name='82s126.4a' zip='mspacman.zip'/>
-    <part name='82s126.3m' zip='mspacman.zip'/>
-    <part name='82s123.h7'/>
-  </rom>
-  <rom index='0' md5='41bd6be04b984fd0dd7d0c9631b9b7cb' type='nonmerged' zip='mspacmanbg.zip'>
-    <part name='9.g5'/>
-    <part name='10.e5'/>
-    <part name='82s129-1.a9'/>
-    <part name='82s129-3.d1'/>
-    <part name='82s129-2.c9'/>
-    <part name='82s123.h7'/>
+  
+  
+  <rom index='0' md5='41bd6be04b984fd0dd7d0c9631b9b7cb' type='merged|nonmerged|split' zip='mspacmanbg.zip|mspacman.zip'>
+    <part crc='97c64918' name='9.g5'/>
+    <part crc='f2c5da43' name='10.e5'/>
+    <part crc='a9cc86bf' name='82s129-1.a9'/>
+    <part crc='3eb3a8e4' name='82s129-3.d1'/>
+    <part crc='77245b66' name='82s129-2.c9'/>
+    <part crc='3545e7e9' name='82s123.h7'/>
   </rom>
 </misterromdescription>

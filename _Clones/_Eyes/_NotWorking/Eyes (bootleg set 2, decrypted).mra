@@ -6,59 +6,25 @@
   <manufacturer>Techstar (Rock-Ola license)</manufacturer>
   <category>Maze</category>
   <rbf>eyes</rbf>
-  <rom index='0' md5='b39bbdb92ad7907844a6f0252379341b' type='merged|nonmerged' zip='eyes.zip'>
-    <part name='eyeszacb/zacb_1.bin'/>
-    <part name='eyeszacb/zacb_2.bin'/>
-    <part name='eyeszacb/zacb_3.bin'/>
-    <part name='eyeszacb/zacb_4.bin'/>
-    <part name='eyeszacb/zacb_1.bin'/>
-    <part name='eyeszacb/zacb_2.bin'/>
-    <part name='eyeszacb/zacb_3.bin'/>
-    <part name='eyeszacb/zacb_4.bin'/>
-    <part name='eyeszacb/x.bin'/>
-    <part name='eyeszacb/b.bin'/>
-    <part name='eyeszacb/b.bin'/>
-    <part name='eyeszacb/b.bin'/>
-    <part name='82s126.1m'/>
-    <part name='82s129.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
-  </rom>
-  <rom index='0' md5='b39bbdb92ad7907844a6f0252379341b' type='split' zip='eyeszacb.zip'>
-    <part name='zacb_1.bin'/>
-    <part name='zacb_2.bin'/>
-    <part name='zacb_3.bin'/>
-    <part name='zacb_4.bin'/>
-    <part name='zacb_1.bin'/>
-    <part name='zacb_2.bin'/>
-    <part name='zacb_3.bin'/>
-    <part name='zacb_4.bin'/>
-    <part name='x.bin'/>
-    <part name='b.bin'/>
-    <part name='b.bin'/>
-    <part name='b.bin'/>
-    <part name='82s126.1m' zip='eyes.zip'/>
-    <part name='82s129.4a' zip='eyes.zip'/>
-    <part name='82s126.3m' zip='eyes.zip'/>
-    <part name='82s123.7f' zip='eyes.zip'/>
-  </rom>
   
-  <rom index='0' md5='b39bbdb92ad7907844a6f0252379341b' type='nonmerged' zip='eyeszacb.zip'>
-    <part name='zacb_1.bin'/>
-    <part name='zacb_2.bin'/>
-    <part name='zacb_3.bin'/>
-    <part name='zacb_4.bin'/>
-    <part name='zacb_1.bin'/>
-    <part name='zacb_2.bin'/>
-    <part name='zacb_3.bin'/>
-    <part name='zacb_4.bin'/>
-    <part name='x.bin'/>
-    <part name='b.bin'/>
-    <part name='b.bin'/>
-    <part name='b.bin'/>
-    <part name='82s126.1m'/>
-    <part name='82s129.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  
+  
+  <rom index='0' md5='b39bbdb92ad7907844a6f0252379341b' type='merged|nonmerged|split' zip='eyeszacb.zip|eyes.zip'>
+    <part crc='a4a9d7a0' name='zacb_1.bin'/>
+    <part crc='195b9473' name='zacb_2.bin'/>
+    <part crc='ff94b015' name='zacb_3.bin'/>
+    <part crc='965cf32b' name='zacb_4.bin'/>
+    <part crc='a4a9d7a0' name='zacb_1.bin'/>
+    <part crc='195b9473' name='zacb_2.bin'/>
+    <part crc='ff94b015' name='zacb_3.bin'/>
+    <part crc='965cf32b' name='zacb_4.bin'/>
+    <part crc='59dce22e' name='x.bin'/>
+    <part crc='1969792b' name='b.bin'/>
+    <part crc='1969792b' name='b.bin'/>
+    <part crc='1969792b' name='b.bin'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='d8d78829' name='82s129.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

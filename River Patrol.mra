@@ -1,36 +1,16 @@
 <misterromdescription>
   <rbf>RiverPatrol</rbf>
-  <rom index='0' md5='91a13a2b5d567b18edba8752438c9d14' type='nonmerged' zip='rpatroln.zip'>
-    <part name='1_2.3k'/>
-    <part name='2_2.3l'/>
-    <part name='3_2.3n'/>
-    <part name='4_2.3p'/>
-    <part name='5_2.3r'/>
-    <part name='6.6l.2732'/>
-    <part name='7.6p.2732'/>
-    <part name='9.2t'/>
-    <part name='8.2s'/>
+  <rom index='0' md5='91a13a2b5d567b18edba8752438c9d14' type='merged|nonmerged|split' zip='rpatroln.zip|rpatrol.zip'>
+    <part crc='33b01c90' name='1_2.3k'/>
+    <part crc='03f53340' name='2_2.3l'/>
+    <part crc='8fa300df' name='3_2.3n'/>
+    <part crc='74a8f1f4' name='4_2.3p'/>
+    <part crc='d7ef6c87' name='5_2.3r'/>
+    <part crc='b38d8aca' name='6.6l.2732'/>
+    <part crc='bc2bddf9' name='7.6p.2732'/>
+    <part crc='065651a5' name='9.2t'/>
+    <part crc='59747c31' name='8.2s'/>
   </rom>
-  <rom index='0' md5='91a13a2b5d567b18edba8752438c9d14' type='merged' zip='rpatrol.zip'>
-    <part name='rpatroln/1_2.3k'/>
-    <part name='rpatrolb/rp2.4j'/>
-    <part name='rpatrolb/rp3.4f'/>
-    <part name='rpatrolb/rp4.4e'/>
-    <part name='rpatrolb/rp5.4c'/>
-    <part name='6.6l.2732'/>
-    <part name='7.6p.2732'/>
-    <part name='9.2t'/>
-    <part name='8.2s'/>
-  </rom>
-  <rom index='0' md5='91a13a2b5d567b18edba8752438c9d14' type='split' zip='rpatrol.zip'>
-    <part name='1_2.3k' zip='rpatroln.zip'/>
-    <part name='rp2.4j' zip='rpatrolb.zip'/>
-    <part name='rp3.4f' zip='rpatrolb.zip'/>
-    <part name='rp4.4e' zip='rpatrolb.zip'/>
-    <part name='rp5.4c' zip='rpatrolb.zip'/>
-    <part name='6.6l.2732'/>
-    <part name='7.6p.2732'/>
-    <part name='9.2t'/>
-    <part name='8.2s'/>
-  </rom>
+  
+  
 </misterromdescription>

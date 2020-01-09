@@ -1,33 +1,15 @@
 <misterromdescription>
   <rbf>Pisces</rbf>
-  <rom index='0' md5='ad3a9b0d5bd280217be0ae96d25463e6' type='merged' zip='pisces.zip'>
-    <part name='omni/omni1.7f'/>
-    <part name='omni/omni2.7j'/>
-    <part name='omni/omni3.7f'/>
-    <part name='omni/omni3.7f'/>
-    <part name='g09.bin'/>
-    <part name='g11.bin'/>
-    <part name='g10.bin'/>
-    <part name='g12.bin'/>
-  </rom>
-  <rom index='0' md5='ad3a9b0d5bd280217be0ae96d25463e6' type='split' zip='omni.zip'>
-    <part name='omni1.7f'/>
-    <part name='omni2.7j'/>
-    <part name='omni3.7f'/>
-    <part name='omni3.7f'/>
-    <part name='g09.bin' zip='pisces.zip'/>
-    <part name='g11.bin' zip='pisces.zip'/>
-    <part name='g10.bin' zip='pisces.zip'/>
-    <part name='g12.bin' zip='pisces.zip'/>
-  </rom>
-  <rom index='0' md5='ad3a9b0d5bd280217be0ae96d25463e6' type='nonmerged' zip='omni.zip'>
-    <part name='omni1.7f'/>
-    <part name='omni2.7j'/>
-    <part name='omni3.7f'/>
-    <part name='omni3.7f'/>
-    <part name='omni5b.l1'/>
-    <part name='omni6c.j22'/>
-    <part name='omni4a.j1'/>
-    <part name='omni7d.l2'/>
+  
+  
+  <rom index='0' md5='ad3a9b0d5bd280217be0ae96d25463e6' type='merged|nonmerged|split' zip='omni.zip|pisces.zip'>
+    <part crc='a9b7acc6' name='omni1.7f'/>
+    <part crc='6ade29b7' name='omni2.7j'/>
+    <part crc='9e37bb24' name='omni3.7f'/>
+    <part crc='9e37bb24' name='omni3.7f'/>
+    <part crc='9503a23a' name='omni5b.l1'/>
+    <part crc='0adfc3fe' name='omni6c.j22'/>
+    <part crc='3e61f849' name='omni4a.j1'/>
+    <part crc='7130e9eb' name='omni7d.l2'/>
   </rom>
 </misterromdescription>

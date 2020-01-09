@@ -8,13 +8,13 @@
   <category>Maze / Centipede</category>
   <category>Maze / Spiders</category>
   <rbf>centipede</rbf>
-  <rom index='0' md5='d1410ff67ce8c97333325bcb7ce2fe3d' type='merged' zip='/hbmame/centiped.zip'>
-    <part name='magworm2/magworm2.k0'/>
-    <part name='magworm2/magworm2.k1'/>
-    <part name='magworm2/11005-2.k2'/>
-    <part name='magworm2/magworm2.k3'/>
-    <part name='magworm2/11005-4.c4'/>
-    <part name='magworm2/11005-5.c5'/>
+  <rom index='0' md5='d1410ff67ce8c97333325bcb7ce2fe3d' type='merged|nonmerged|split' zip='/hbmame/magworm2.zip|/hbmame/centiped.zip'>
+    <part crc='22985495' name='magworm2.k0'/>
+    <part crc='981e1ddc' name='magworm2.k1'/>
+    <part crc='f127f1c3' name='11005-2.k2'/>
+    <part crc='95029f45' name='magworm2.k3'/>
+    <part crc='cea64e1a' name='11005-4.c4'/>
+    <part crc='24558ea5' name='11005-5.c5'/>
   </rom>
   
   

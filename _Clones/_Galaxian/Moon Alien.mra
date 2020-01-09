@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='bca9c4acce8260d39eaa1a54c8ca0b54' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galapx/galx.u'/>
-    <part name='moonaln/prg2.bin'/>
-    <part name='moonaln/prg3.bin'/>
-    <part name='moonaln/superg.y'/>
-    <part name='moonaln/prg5.bin'/>
-    <part name='moonaln/prg5.bin'/>
-    <part name='moonaln/prg5.bin'/>
-    <part name='moonaln/prg5.bin'/>
-    <part name='moonaln/ca1.bin'/>
-    <part name='moonaln/ca1.bin'/>
-    <part name='moonaln/ca2.bin'/>
-    <part name='moonaln/ca2.bin'/>
-  </rom>
-  <rom index='0' md5='bca9c4acce8260d39eaa1a54c8ca0b54' type='split|nonmerged' zip='moonaln.zip'>
-    <part name='galx.u'/>
-    <part name='prg2.bin'/>
-    <part name='prg3.bin'/>
-    <part name='superg.y'/>
-    <part name='prg5.bin'/>
-    <part name='prg5.bin'/>
-    <part name='prg5.bin'/>
-    <part name='prg5.bin'/>
-    <part name='ca1.bin'/>
-    <part name='ca1.bin'/>
-    <part name='ca2.bin'/>
-    <part name='ca2.bin'/>
+  
+  <rom index='0' md5='bca9c4acce8260d39eaa1a54c8ca0b54' type='merged|nonmerged|split' zip='moonaln.zip|galaxian.zip'>
+    <part crc='79e4007d' name='galx.u'/>
+    <part crc='59580b30' name='prg2.bin'/>
+    <part crc='b64e9d12' name='prg3.bin'/>
+    <part crc='9463f753' name='superg.y'/>
+    <part crc='8bb78987' name='prg5.bin'/>
+    <part crc='8bb78987' name='prg5.bin'/>
+    <part crc='8bb78987' name='prg5.bin'/>
+    <part crc='8bb78987' name='prg5.bin'/>
+    <part crc='074271dd' name='ca1.bin'/>
+    <part crc='074271dd' name='ca1.bin'/>
+    <part crc='84d90397' name='ca2.bin'/>
+    <part crc='84d90397' name='ca2.bin'/>
   </rom>
   
 </misterromdescription>

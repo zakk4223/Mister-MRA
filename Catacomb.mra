@@ -7,18 +7,18 @@
   <category>Space / Force</category>
   <rbf>catacomb</rbf>
   <rom index='0' md5='dfda39951da1cf12279a6dcf030ee09d' type='merged|nonmerged|split' zip='catacomb.zip'>
-    <part name='catacomb.u'/>
-    <part name='catacomb.v'/>
-    <part name='catacomb.w'/>
-    <part name='catacomb.w'/>
-    <part name='catacomb.y'/>
-    <part name='catacomb.y'/>
-    <part name='catacomb.y'/>
-    <part name='catacomb.y'/>
-    <part name='cat-gfx1'/>
-    <part name='cat-gfx1'/>
-    <part name='cat-gfx2'/>
-    <part name='cat-gfx2'/>
+    <part crc='35cc28d2' name='catacomb.u'/>
+    <part crc='1d1ce133' name='catacomb.v'/>
+    <part crc='479bbde7' name='catacomb.w'/>
+    <part crc='479bbde7' name='catacomb.w'/>
+    <part crc='5e3da534' name='catacomb.y'/>
+    <part crc='5e3da534' name='catacomb.y'/>
+    <part crc='5e3da534' name='catacomb.y'/>
+    <part crc='5e3da534' name='catacomb.y'/>
+    <part crc='e871e65c' name='cat-gfx1'/>
+    <part crc='e871e65c' name='cat-gfx1'/>
+    <part crc='b14dafaa' name='cat-gfx2'/>
+    <part crc='b14dafaa' name='cat-gfx2'/>
   </rom>
   
   

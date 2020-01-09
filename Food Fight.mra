@@ -3,19 +3,19 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>foodfight</rbf>
-  <rom index='0' md5='20f8af97e048cf8542075cc1f294da70' type='merged|split|nonmerged' zip='foodf.zip'>
-    <part name='136020-301.8c'/>
-    <part name='136020-302.9c'/>
-    <part name='136020-303.8d'/>
-    <part name='136020-204.9d'/>
-    <part name='136020-305.8e'/>
-    <part name='136020-306.9e'/>
-    <part name='136020-307.8f'/>
-    <part name='136020-208.9f'/>
-    <part name='136020-109.6lm'/>
-    <part name='136020-110.4e'/>
-    <part name='136020-111.4d'/>
-    <part name='foodf.nv'/>
+  <rom index='0' md5='20f8af97e048cf8542075cc1f294da70' type='merged|nonmerged|split' zip='foodf.zip'>
+    <part crc='dfc3d5a8' name='136020-301.8c'/>
+    <part crc='ef92dc5c' name='136020-302.9c'/>
+    <part crc='64b93076' name='136020-303.8d'/>
+    <part crc='ea596480' name='136020-204.9d'/>
+    <part crc='e6cff1b1' name='136020-305.8e'/>
+    <part crc='95159a3e' name='136020-306.9e'/>
+    <part crc='17828dbb' name='136020-307.8f'/>
+    <part crc='608690c9' name='136020-208.9f'/>
+    <part crc='c13c90eb' name='136020-109.6lm'/>
+    <part crc='8870e3d6' name='136020-110.4e'/>
+    <part crc='84372edf' name='136020-111.4d'/>
+    <part crc='a4186b13' name='foodf.nv'/>
   </rom>
   
   

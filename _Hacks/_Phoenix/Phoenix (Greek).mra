@@ -6,19 +6,19 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='2d7d37a518fd76ef05d26c40f08964d8' type='merged' zip='/hbmame/phoenix.zip'>
-    <part name='phoenixg/phoenix.45'/>
-    <part name='phoenixg/phoenix.46'/>
-    <part name='phoenixg/phoenix.47'/>
-    <part name='phoenixg/phoenixg.48'/>
-    <part name='phoenixg/phoenix.49'/>
-    <part name='h6-ic50.6a'/>
-    <part name='h7-ic51.7a'/>
-    <part name='phoenixg/phoenix.52'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='phoenixg/ic39g'/>
-    <part name='b2-ic40.4b'/>
+  <rom index='0' md5='2d7d37a518fd76ef05d26c40f08964d8' type='merged|nonmerged|split' zip='/hbmame/phoenixg.zip|/hbmame/phoenix.zip'>
+    <part crc='5b8c55a8' name='phoenix.45'/>
+    <part crc='dbc942fa' name='phoenix.46'/>
+    <part crc='cbbb8839' name='phoenix.47'/>
+    <part crc='63d4c322' name='phoenixg.48'/>
+    <part crc='c8a5d6d6' name='phoenix.49'/>
+    <part crc='ac5e9ec1' name='h6-ic50.6a'/>
+    <part crc='2eab35b4' name='h7-ic51.7a'/>
+    <part crc='b9915263' name='phoenix.52'/>
+    <part crc='3c7e623f' name='ic23.3d'/>
+    <part crc='59916d3b' name='ic24.4d'/>
+    <part crc='0ed46d30' name='ic39g'/>
+    <part crc='0be2ba91' name='b2-ic40.4b'/>
   </rom>
   
   

@@ -8,55 +8,23 @@
   <category>Maze / Chicken</category>
   <category>Platform</category>
   <rbf>joust</rbf>
-  <rom index='0' md5='37345950a424ca268af4b68c8e78fc69' type='merged|nonmerged' zip='joust.zip'>
-    <part name='joustwr/joust.wra'/>
-    <part name='3006-23.11b'/>
-    <part name='3006-24.12b'/>
-    <part name='3006-13.1b'/>
-    <part name='3006-14.2b'/>
-    <part name='3006-15.3b'/>
-    <part name='3006-16.4b'/>
-    <part name='3006-17.5b'/>
-    <part name='3006-18.6b'/>
-    <part name='joustwr/joust.wr7'/>
-    <part name='3006-20.8b'/>
-    <part name='3006-21.9b'/>
-    <part name='joust.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
-  </rom>
-  <rom index='0' md5='37345950a424ca268af4b68c8e78fc69' type='split' zip='joustwr.zip'>
-    <part name='joust.wra'/>
-    <part name='3006-23.11b' zip='joust.zip'/>
-    <part name='3006-24.12b' zip='joust.zip'/>
-    <part name='3006-13.1b' zip='joust.zip'/>
-    <part name='3006-14.2b' zip='joust.zip'/>
-    <part name='3006-15.3b' zip='joust.zip'/>
-    <part name='3006-16.4b' zip='joust.zip'/>
-    <part name='3006-17.5b' zip='joust.zip'/>
-    <part name='3006-18.6b' zip='joust.zip'/>
-    <part name='joust.wr7'/>
-    <part name='3006-20.8b' zip='joust.zip'/>
-    <part name='3006-21.9b' zip='joust.zip'/>
-    <part name='joust.snd' zip='joust.zip'/>
-    <part name='decoder.4' zip='joust.zip'/>
-    <part name='decoder.6' zip='joust.zip'/>
-  </rom>
-  <rom index='0' md5='37345950a424ca268af4b68c8e78fc69' type='nonmerged' zip='joustwr.zip'>
-    <part name='joust.wra'/>
-    <part name='joust.wgb'/>
-    <part name='joust.wgc'/>
-    <part name='joust.wg1'/>
-    <part name='joust.wg2'/>
-    <part name='joust.wg3'/>
-    <part name='joust.wg4'/>
-    <part name='joust.wg5'/>
-    <part name='joust.wg6'/>
-    <part name='joust.wr7'/>
-    <part name='joust.wg8'/>
-    <part name='joust.wg9'/>
-    <part name='joust.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+  
+  
+  <rom index='0' md5='37345950a424ca268af4b68c8e78fc69' type='merged|nonmerged|split' zip='joustwr.zip|joust.zip'>
+    <part crc='2039014a' name='joust.wra'/>
+    <part crc='ea48b359' name='joust.wgb'/>
+    <part crc='c710717b' name='joust.wgc'/>
+    <part crc='fe41b2af' name='joust.wg1'/>
+    <part crc='501c143c' name='joust.wg2'/>
+    <part crc='43f7161d' name='joust.wg3'/>
+    <part crc='db5571b6' name='joust.wg4'/>
+    <part crc='c686bb6b' name='joust.wg5'/>
+    <part crc='fac5f2cf' name='joust.wg6'/>
+    <part crc='e6f439c4' name='joust.wr7'/>
+    <part crc='ba5359ba' name='joust.wg8'/>
+    <part crc='39643147' name='joust.wg9'/>
+    <part crc='f1835bdd' name='joust.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
 </misterromdescription>

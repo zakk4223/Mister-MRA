@@ -6,49 +6,21 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='9a67294010ea8b97142ca3111ef5593f' type='merged' zip='scramble.zip'>
-    <part name='strfbomb/1.2c'/>
-    <part name='strfbomb/2.2e'/>
-    <part name='strfbomb/3.2f'/>
-    <part name='strfbomb/4.2h'/>
-    <part name='s5.2j'/>
-    <part name='strfbomb/6.2l'/>
-    <part name='strfbomb/7.2m'/>
-    <part name='strfbomb/8.2p'/>
-    <part name='strfbomb/10.5h'/>
-    <part name='strfbomb/9.5f'/>
-    <part name='ot1.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
-  </rom>
-  <rom index='0' md5='9a67294010ea8b97142ca3111ef5593f' type='split' zip='strfbomb.zip'>
-    <part name='1.2c'/>
-    <part name='2.2e'/>
-    <part name='3.2f'/>
-    <part name='4.2h'/>
-    <part name='s5.2j' zip='scramble.zip'/>
-    <part name='6.2l'/>
-    <part name='7.2m'/>
-    <part name='8.2p'/>
-    <part name='10.5h'/>
-    <part name='9.5f'/>
-    <part name='ot1.5c' zip='scramble.zip'/>
-    <part name='ot2.5d' zip='scramble.zip'/>
-    <part name='ot3.5e' zip='scramble.zip'/>
-  </rom>
-  <rom index='0' md5='9a67294010ea8b97142ca3111ef5593f' type='nonmerged' zip='strfbomb.zip'>
-    <part name='1.2c'/>
-    <part name='2.2e'/>
-    <part name='3.2f'/>
-    <part name='4.2h'/>
-    <part name='5.2j'/>
-    <part name='6.2l'/>
-    <part name='7.2m'/>
-    <part name='8.2p'/>
-    <part name='10.5h'/>
-    <part name='9.5f'/>
-    <part name='ot1.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
+  
+  
+  <rom index='0' md5='9a67294010ea8b97142ca3111ef5593f' type='merged|nonmerged|split' zip='strfbomb.zip|scramble.zip'>
+    <part crc='b102aaa0' name='1.2c'/>
+    <part crc='d4155703' name='2.2e'/>
+    <part crc='a9568c89' name='3.2f'/>
+    <part crc='663b6c35' name='4.2h'/>
+    <part crc='4919a91c' name='5.2j'/>
+    <part crc='4ec66ae3' name='6.2l'/>
+    <part crc='0feb0192' name='7.2m'/>
+    <part crc='280a6142' name='8.2p'/>
+    <part crc='79ecacbe' name='10.5h'/>
+    <part crc='3abeff25' name='9.5f'/>
+    <part crc='bcd297f0' name='ot1.5c'/>
+    <part crc='de7912da' name='ot2.5d'/>
+    <part crc='ba2fa933' name='ot3.5e'/>
   </rom>
 </misterromdescription>

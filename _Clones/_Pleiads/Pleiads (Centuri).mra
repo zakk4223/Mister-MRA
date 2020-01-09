@@ -6,46 +6,20 @@
   <manufacturer>Tehkan</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='902681424345327ad18175bde6505592' type='merged|nonmerged' zip='pleiads.zip'>
-    <part name='pleiadce/pleiades.47'/>
-    <part name='pleiadce/pleiades.48'/>
-    <part name='ic47.bin'/>
-    <part name='pleiadce/pleiades.50'/>
-    <part name='pleiadce/pleiades.51'/>
-    <part name='ic50.bin'/>
-    <part name='pleiadce/pleiades.53'/>
-    <part name='pleiadce/pleiades.54'/>
-    <part name='pleiadce/pleiades.45'/>
-    <part name='pleiadce/pleiades.44'/>
-    <part name='ic39.bin'/>
-    <part name='ic40.bin'/>
-  </rom>
-  <rom index='0' md5='902681424345327ad18175bde6505592' type='split' zip='pleiadce.zip'>
-    <part name='pleiades.47'/>
-    <part name='pleiades.48'/>
-    <part name='ic47.bin' zip='pleiads.zip'/>
-    <part name='pleiades.50'/>
-    <part name='pleiades.51'/>
-    <part name='ic50.bin' zip='pleiads.zip'/>
-    <part name='pleiades.53'/>
-    <part name='pleiades.54'/>
-    <part name='pleiades.45'/>
-    <part name='pleiades.44'/>
-    <part name='ic39.bin' zip='pleiads.zip'/>
-    <part name='ic40.bin' zip='pleiads.zip'/>
-  </rom>
-  <rom index='0' md5='902681424345327ad18175bde6505592' type='nonmerged' zip='pleiadce.zip'>
-    <part name='pleiades.47'/>
-    <part name='pleiades.48'/>
-    <part name='ic47.bin'/>
-    <part name='pleiades.50'/>
-    <part name='pleiades.51'/>
-    <part name='ic50.bin'/>
-    <part name='pleiades.53'/>
-    <part name='pleiades.54'/>
-    <part name='pleiades.45'/>
-    <part name='pleiades.44'/>
-    <part name='ic39.bin'/>
-    <part name='ic40.bin'/>
+  
+  
+  <rom index='0' md5='902681424345327ad18175bde6505592' type='merged|nonmerged|split' zip='pleiadce.zip|pleiads.zip'>
+    <part crc='711e2ba0' name='pleiades.47'/>
+    <part crc='93a36943' name='pleiades.48'/>
+    <part crc='87e700bb' name='ic47.bin'/>
+    <part crc='5a9beba0' name='pleiades.50'/>
+    <part crc='1d828719' name='pleiades.51'/>
+    <part crc='f1a8a00d' name='ic50.bin'/>
+    <part crc='037b319c' name='pleiades.53'/>
+    <part crc='ca264c7c' name='pleiades.54'/>
+    <part crc='8dbd3785' name='pleiades.45'/>
+    <part crc='0db3e436' name='pleiades.44'/>
+    <part crc='85866607' name='ic39.bin'/>
+    <part crc='a841d511' name='ic40.bin'/>
   </rom>
 </misterromdescription>

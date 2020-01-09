@@ -8,40 +8,18 @@
   <category>Maze / Pigs</category>
   <category>Sports / Shooting</category>
   <rbf>pooyan</rbf>
-  <rom index='0' md5='038f17001fe59303a36e23dd37a9bf61' type='merged|nonmerged' zip='pooyan.zip'>
-    <part name='pooyans/ic22_a4.cpu'/>
-    <part name='pooyans/ic23_a5.cpu'/>
-    <part name='pooyans/ic24_a6.cpu'/>
-    <part name='pooyans/ic25_a7.cpu'/>
-    <part name='pooyans/ic13_g10.cpu'/>
-    <part name='pooyans/ic14_g9.cpu'/>
-    <part name='6.9a'/>
-    <part name='5.8a'/>
-    <part name='xx.7a'/>
-    <part name='xx.8a'/>
-  </rom>
-  <rom index='0' md5='038f17001fe59303a36e23dd37a9bf61' type='split' zip='pooyans.zip'>
-    <part name='ic22_a4.cpu'/>
-    <part name='ic23_a5.cpu'/>
-    <part name='ic24_a6.cpu'/>
-    <part name='ic25_a7.cpu'/>
-    <part name='ic13_g10.cpu'/>
-    <part name='ic14_g9.cpu'/>
-    <part name='6.9a' zip='pooyan.zip'/>
-    <part name='5.8a' zip='pooyan.zip'/>
-    <part name='xx.7a' zip='pooyan.zip'/>
-    <part name='xx.8a' zip='pooyan.zip'/>
-  </rom>
-  <rom index='0' md5='038f17001fe59303a36e23dd37a9bf61' type='nonmerged' zip='pooyans.zip'>
-    <part name='ic22_a4.cpu'/>
-    <part name='ic23_a5.cpu'/>
-    <part name='ic24_a6.cpu'/>
-    <part name='ic25_a7.cpu'/>
-    <part name='ic13_g10.cpu'/>
-    <part name='ic14_g9.cpu'/>
-    <part name='6.9a'/>
-    <part name='5.8a'/>
-    <part name='xx.7a'/>
-    <part name='xx.8a'/>
+  
+  
+  <rom index='0' md5='038f17001fe59303a36e23dd37a9bf61' type='merged|nonmerged|split' zip='pooyans.zip|pooyan.zip'>
+    <part crc='916ae7d7' name='ic22_a4.cpu'/>
+    <part crc='8fe38c61' name='ic23_a5.cpu'/>
+    <part crc='2660218a' name='ic24_a6.cpu'/>
+    <part crc='3d2a10ad' name='ic25_a7.cpu'/>
+    <part crc='7433aea9' name='ic13_g10.cpu'/>
+    <part crc='87c1789e' name='ic14_g9.cpu'/>
+    <part crc='b2d8c121' name='6.9a'/>
+    <part crc='1097c2b6' name='5.8a'/>
+    <part crc='fbe2b368' name='xx.7a'/>
+    <part crc='e1795b3d' name='xx.8a'/>
   </rom>
 </misterromdescription>

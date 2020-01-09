@@ -1,10 +1,10 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index='0' md5='e8c36d2a908f00e628e1950422b09d51' type='merged' zip='/hbmame/rallyx.zip'>
-    <part name='nrallyv/nrallyx.1b'/>
-    <part name='nrallyv/nrallyx.1e'/>
-    <part name='nrallyv/nrallyx.1h'/>
-    <part name='nrallyv/nrallyx.1k'/>
+  <rom index='0' md5='e8c36d2a908f00e628e1950422b09d51' type='merged|nonmerged|split' zip='/hbmame/nrallyv.zip|/hbmame/rallyx.zip'>
+    <part crc='9404c8d6' name='nrallyx.1b'/>
+    <part crc='ac01bf3f' name='nrallyx.1e'/>
+    <part crc='aeba29b5' name='nrallyx.1h'/>
+    <part crc='78f17da7' name='nrallyx.1k'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
@@ -1031,11 +1031,11 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name='nrallyv/nrallyv.8e'/>
-    <part name='rx1-6.8m'/>
-    <part name='nrallyv/nrallyv.spr'/>
-    <part name='nrallyv/nrallyv.pr2'/>
-    <part name='nrallyv/nrx1-1.11n'/>
+    <part crc='031acfc5' name='nrallyv.8e'/>
+    <part crc='3c16f62c' name='rx1-6.8m'/>
+    <part crc='b75c4e87' name='nrallyv.spr'/>
+    <part crc='b2b7ca15' name='nrallyv.pr2'/>
+    <part crc='a0a49017' name='nrx1-1.11n'/>
   </rom>
   
   

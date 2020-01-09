@@ -7,22 +7,22 @@
   <category>Maze / Food</category>
   <category>Platform</category>
   <rbf>burgertime</rbf>
-  <rom index='0' md5='c463ed6abeb7cd2fbc557007ec63ec44' type='merged' zip='/hbmame/btime.zip'>
-    <part name='aa04.9b'/>
-    <part name='aa06.13b'/>
-    <part name='aa05.10b'/>
-    <part name='aa07.15b'/>
-    <part name='stictime/stic_aa12.7k'/>
-    <part name='ab13.9k'/>
-    <part name='stictime/stic_ab10.10k'/>
-    <part name='ab11.12k'/>
-    <part name='stictime/stic_aa8.13k'/>
-    <part name='ab9.15k'/>
-    <part name='stictime/stic_ab00.1b'/>
-    <part name='ab01.3b'/>
-    <part name='stictime/stic_ab02.4b'/>
-    <part name='ab03.6b'/>
-    <part name='ab14.12h'/>
+  <rom index='0' md5='c463ed6abeb7cd2fbc557007ec63ec44' type='merged|nonmerged|split' zip='/hbmame/stictime.zip|/hbmame/btime.zip'>
+    <part crc='368a25b5' name='aa04.9b'/>
+    <part crc='b4ba400d' name='aa06.13b'/>
+    <part crc='8005bffa' name='aa05.10b'/>
+    <part crc='086440ad' name='aa07.15b'/>
+    <part crc='0550e118' name='stic_aa12.7k'/>
+    <part crc='ac01042f' name='ab13.9k'/>
+    <part crc='ba774d51' name='stic_ab10.10k'/>
+    <part crc='d4848014' name='ab11.12k'/>
+    <part crc='00a15086' name='stic_aa8.13k'/>
+    <part crc='8dec15e6' name='ab9.15k'/>
+    <part crc='4010c652' name='stic_ab00.1b'/>
+    <part crc='25b49078' name='ab01.3b'/>
+    <part crc='1def5b40' name='stic_ab02.4b'/>
+    <part crc='d26bc1f3' name='ab03.6b'/>
+    <part crc='f55e5211' name='ab14.12h'/>
   </rom>
   
   

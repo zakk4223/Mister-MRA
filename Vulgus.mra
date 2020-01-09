@@ -3,36 +3,36 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtvulgus</rbf>
-  <rom index="0" md5="410250f0a3af08ead86b4ddd8dd78006" type="merged|split|nonmerged" zip="vulgus.zip">
-    <part name="vulgus.002"/>
-    <part name="vulgus.003"/>
-    <part name="vulgus.004"/>
-    <part name="vulgus.005"/>
-    <part name="1-8n.bin"/>
-    <part name="1-11c.bin"/>
-    <part name="1-11c.bin"/>
-    <part name="1-3d.bin"/>
-    <part name="2-4a.bin"/>
-    <part name="2-5a.bin"/>
-    <part name="2-2a.bin"/>
-    <part name="2-3a.bin"/>
-    <part name="2-6a.bin"/>
-    <part name="2-7a.bin"/>
-    <part name="2-6a.bin"/>
-    <part name="2-7a.bin"/>
-    <part name="2-4n.bin"/>
-    <part name="2-5n.bin"/>
-    <part name="2-2n.bin"/>
-    <part name="2-3n.bin"/>
-    <part name="82s126.9k"/>
-    <part name="c9.bin"/>
-    <part name="c9.bin"/>
-    <part name="c9.bin"/>
-    <part name="e8.bin"/>
-    <part name="e9.bin"/>
-    <part name="e10.bin"/>
-    <part name="d1.bin"/>
-    <part name="j2.bin"/>
-    <part name="82s129.8n"/>
+  <rom index='0' md5='410250f0a3af08ead86b4ddd8dd78006' type='merged|nonmerged|split' zip='vulgus.zip'>
+    <part crc='e49d6c5d' name='vulgus.002'/>
+    <part crc='51acef76' name='vulgus.003'/>
+    <part crc='489e7f60' name='vulgus.004'/>
+    <part crc='de3a24a8' name='vulgus.005'/>
+    <part crc='6ca5ca41' name='1-8n.bin'/>
+    <part crc='3bd2acf4' name='1-11c.bin'/>
+    <part crc='3bd2acf4' name='1-11c.bin'/>
+    <part crc='8bc5d7a5' name='1-3d.bin'/>
+    <part crc='206a13f1' name='2-4a.bin'/>
+    <part crc='b6d81984' name='2-5a.bin'/>
+    <part crc='e10aaca1' name='2-2a.bin'/>
+    <part crc='8da520da' name='2-3a.bin'/>
+    <part crc='5a26b38f' name='2-6a.bin'/>
+    <part crc='1e1ca773' name='2-7a.bin'/>
+    <part crc='5a26b38f' name='2-6a.bin'/>
+    <part crc='1e1ca773' name='2-7a.bin'/>
+    <part crc='0071a2e3' name='2-4n.bin'/>
+    <part crc='4023a1ec' name='2-5n.bin'/>
+    <part crc='6db1b10d' name='2-2n.bin'/>
+    <part crc='5d8c34ec' name='2-3n.bin'/>
+    <part crc='32b10521' name='82s126.9k'/>
+    <part crc='7a1f0bd6' name='c9.bin'/>
+    <part crc='7a1f0bd6' name='c9.bin'/>
+    <part crc='7a1f0bd6' name='c9.bin'/>
+    <part crc='06a83606' name='e8.bin'/>
+    <part crc='beacf13c' name='e9.bin'/>
+    <part crc='de1fb621' name='e10.bin'/>
+    <part crc='7179080d' name='d1.bin'/>
+    <part crc='d0842029' name='j2.bin'/>
+    <part crc='4921635c' name='82s129.8n'/>
   </rom>
 </misterromdescription>

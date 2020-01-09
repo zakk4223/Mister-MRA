@@ -1,18 +1,18 @@
 <misterromdescription>
   <rbf>Pisces</rbf>
-  <rom index='0' md5='7edb4559dafc34806dfbd74769859c79' type='merged' zip='/hbmame/pisces.zip'>
-    <part name='starfgh2/a1.bin'/>
-    <part name='starfgh2/a2.bin'/>
-    <part name='starfgh2/b2.bin'/>
-    <part name='starfgh2/c1.bin'/>
-    <part name='p5.bin'/>
-    <part name='starfgh2/e2.bin'/>
-    <part name='starfgh2/e2.bin'/>
-    <part name='starfgh2/e2.bin'/>
-    <part name='g09.bin'/>
-    <part name='g11.bin'/>
-    <part name='g10.bin'/>
-    <part name='g12.bin'/>
+  <rom index='0' md5='7edb4559dafc34806dfbd74769859c79' type='merged|nonmerged|split' zip='/hbmame/starfgh2.zip|/hbmame/pisces.zip'>
+    <part crc='0d496c93' name='a1.bin'/>
+    <part crc='4f0676eb' name='a2.bin'/>
+    <part crc='1496a894' name='b2.bin'/>
+    <part crc='59820900' name='c1.bin'/>
+    <part crc='fade512b' name='p5.bin'/>
+    <part crc='153316b8' name='e2.bin'/>
+    <part crc='153316b8' name='e2.bin'/>
+    <part crc='153316b8' name='e2.bin'/>
+    <part crc='9503a23a' name='g09.bin'/>
+    <part crc='0adfc3fe' name='g11.bin'/>
+    <part crc='3e61f849' name='g10.bin'/>
+    <part crc='7130e9eb' name='g12.bin'/>
   </rom>
   
   

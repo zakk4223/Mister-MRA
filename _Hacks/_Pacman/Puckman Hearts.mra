@@ -7,24 +7,24 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='379d0969a88f2552e0d56a9b1f847cf0' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='jpmmunch/newpuck1.6e'/>
-    <part name='jpmmunch/pmheart.6k'/>
-    <part name='pmheart/pmheart.6f'/>
-    <part name='pmheart/pmheart.6m'/>
-    <part name='jpmmunch/pacheart.6h'/>
-    <part name='jpmmunch/pmheart.6n'/>
-    <part name='pmheart/pmheart.6j'/>
-    <part name='pmheart/pmheart.6p'/>
+  <rom index='0' md5='379d0969a88f2552e0d56a9b1f847cf0' type='merged|nonmerged|split' zip='/hbmame/jpmmunch.zip|/hbmame/puckman.zip'>
+    <part crc='2c0fa0ab' name='newpuck1.6e'/>
+    <part crc='afeca2f1' name='pmheart.6k'/>
+    <part crc='FIXME' name='pmheart.6f'/>
+    <part crc='FIXME' name='pmheart.6m'/>
+    <part crc='9045a44c' name='pacheart.6h'/>
+    <part crc='93f344c5' name='pmheart.6n'/>
+    <part crc='FIXME' name='pmheart.6j'/>
+    <part crc='FIXME' name='pmheart.6p'/>
     <part repeat='16384'>00</part>
-    <part name='hmhearts/pacheart.5e'/>
-    <part name='puckman.5h'/>
-    <part name='hmhearts/newpuc2.5f'/>
-    <part name='puckman.5j'/>
+    <part crc='FIXME' name='pacheart.5e'/>
+    <part crc='3591b89d' name='puckman.5h'/>
+    <part crc='FIXME' name='newpuc2.5f'/>
+    <part crc='1b1d9096' name='puckman.5j'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

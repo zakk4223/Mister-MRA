@@ -1,49 +1,23 @@
 <misterromdescription>
   <rbf>pacman</rbf>
-  <rom index="1">
+  <rom index='1'>
     <part>05</part>
   </rom>
 
-  <rom index='0' md5='535dcae2f0e66c1f542f51f11775bac6' type='merged' zip='mspacman.zip'>
-    <part name='mspacmab2/2764_a.a'/>
-    <part name='mspacmab2/2764_b.b'/>
-    <part name='mspacmab2/2764_c.c'/>
-    <part name='mspacmab2/2764_c.c'/>
-    <part name='5e'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
-  </rom>
-  <rom index='0' md5='535dcae2f0e66c1f542f51f11775bac6' type='split' zip='mspacmab2.zip'>
-    <part name='2764_a.a'/>
-    <part name='2764_b.b'/>
-    <part name='2764_c.c'/>
-    <part name='2764_c.c'/>
-    <part name='5e' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='82s126.1m' zip='mspacman.zip'/>
-    <part name='82s126.4a' zip='mspacman.zip'/>
-    <part name='82s126.3m' zip='mspacman.zip'/>
-    <part name='82s123.7f' zip='mspacman.zip'/>
-  </rom>
-  <rom index='0' md5='535dcae2f0e66c1f542f51f11775bac6' type='nonmerged' zip='mspacmab2.zip'>
-    <part name='2764_a.a'/>
-    <part name='2764_b.b'/>
-    <part name='2764_c.c'/>
-    <part name='2764_c.c'/>
-    <part name='2732_e.5e'/>
-    <part name='2732_f.5f'/>
-    <part name='2732_f.5f'/>
-    <part name='2732_f.5f'/>
-    <part name='82s126.1m'/>
-    <part name='pac.4a'/>
-    <part name='63s141.3m'/>
-    <part name='tbp18s030_p1.7f'/>
+  
+  
+  <rom index='0' md5='535dcae2f0e66c1f542f51f11775bac6' type='merged|nonmerged|split' zip='mspacmab2.zip|mspacman.zip'>
+    <part crc='39ae7b16' name='2764_a.a'/>
+    <part crc='09d86ef8' name='2764_b.b'/>
+    <part crc='9921d46f' name='2764_c.c'/>
+    <part crc='9921d46f' name='2764_c.c'/>
+    <part crc='5c281d01' name='2732_e.5e'/>
+    <part crc='615af909' name='2732_f.5f'/>
+    <part crc='615af909' name='2732_f.5f'/>
+    <part crc='615af909' name='2732_f.5f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='pac.4a'/>
+    <part crc='77245b66' name='63s141.3m'/>
+    <part crc='2fc650bd' name='tbp18s030_p1.7f'/>
   </rom>
 </misterromdescription>

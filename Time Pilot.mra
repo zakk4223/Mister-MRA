@@ -1,13 +1,13 @@
 <misterromdescription>
   <rbf>TimePilot</rbf>
-  <rom index='0' md5='62e6936e8fcfc4397d4e38a8136f5664' type='merged|split|nonmerged' zip='timeplt.zip'>
-    <part name='tm1'/>
-    <part name='tm2'/>
-    <part name='tm3'/>
-    <part name='tm6'/>
-    <part name='tm4'/>
-    <part name='tm5'/>
-    <part name='tm7'/>
+  <rom index='0' md5='62e6936e8fcfc4397d4e38a8136f5664' type='merged|nonmerged|split' zip='timeplt.zip'>
+    <part crc='1551f1b9' name='tm1'/>
+    <part crc='58636cb5' name='tm2'/>
+    <part crc='ff4e0d83' name='tm3'/>
+    <part crc='c2507f40' name='tm6'/>
+    <part crc='7e437c3e' name='tm4'/>
+    <part crc='e8ca87b9' name='tm5'/>
+    <part crc='d66da813' name='tm7'/>
   </rom>
   
   

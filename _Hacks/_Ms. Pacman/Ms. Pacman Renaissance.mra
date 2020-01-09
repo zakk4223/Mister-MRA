@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='8c7bf759c4ddcc220e76110c00eb5490' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='mspacren/mspacren.4'/>
-    <part name='mspacren/mspacren.5'/>
-    <part name='mspacren/mspacren.6'/>
+  <rom index='0' md5='8c7bf759c4ddcc220e76110c00eb5490' type='merged|nonmerged|split' zip='/hbmame/mspacren.zip|/hbmame/mspacman.zip'>
+    <part crc='d16b31b7' name='boot1'/>
+    <part crc='0d32de5e' name='boot2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='efe80423' name='mspacren.4'/>
+    <part crc='f513ae17' name='mspacren.5'/>
+    <part crc='ce3b842b' name='mspacren.6'/>
     <part repeat='8192'>00</part>
-    <part name='mspacren/mspacren.5e'/>
-    <part name='mspacren/mspacren.5f'/>
+    <part crc='31b134a0' name='mspacren.5e'/>
+    <part crc='022f61d1' name='mspacren.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='mspacren/puckren.4a'/>
-    <part name='82s126.3m'/>
-    <part name='mspacren/puckren.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='64fe1dbf' name='puckren.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='7b6aa3c9' name='puckren.7f'/>
   </rom>
 </misterromdescription>

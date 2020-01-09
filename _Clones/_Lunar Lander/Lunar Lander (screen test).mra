@@ -6,24 +6,15 @@
   <manufacturer>Atari</manufacturer>
   <category>Space / Moon</category>
   <rbf>lunarlander</rbf>
-  <rom index='0' md5='cf0c1e13c8db22b390167a5bcd8315ee' type='merged|nonmerged' zip='llander.zip'>
-    <part repeat='2048'>00</part>
-    <part name='llandert/llprom0.de1'/>
-    <part name='llandert/llprom1.c1'/>
-    <part name='llandert/llprom2.b1'/>
-    <part name='llandert/llvrom0.r3'/>
-    <part name='llandert/llvrom1.np3'/>
-    <part name='llandert/llvrom2.m3'/>
-    <part name='llandert/llvrom0.r3'/>
-  </rom>
-  <rom index='0' md5='cf0c1e13c8db22b390167a5bcd8315ee' type='split|nonmerged' zip='llandert.zip'>
-    <part name='llprom0.de1'/>
-    <part name='llprom1.c1'/>
-    <part name='llprom2.b1'/>
-    <part name='llvrom0.r3'/>
-    <part name='llvrom1.np3'/>
-    <part name='llvrom2.m3'/>
-    <part name='llvrom0.r3'/>
+  
+  <rom index='0' md5='cf0c1e13c8db22b390167a5bcd8315ee' type='merged|nonmerged|split' zip='llandert.zip|llander.zip'>
+    <part crc='b5302947' name='llprom0.de1'/>
+    <part crc='761a5b45' name='llprom1.c1'/>
+    <part crc='9ec62656' name='llprom2.b1'/>
+    <part crc='c307b42a' name='llvrom0.r3'/>
+    <part crc='ace6b2be' name='llvrom1.np3'/>
+    <part crc='56c38219' name='llvrom2.m3'/>
+    <part crc='c307b42a' name='llvrom0.r3'/>
   </rom>
   
 </misterromdescription>

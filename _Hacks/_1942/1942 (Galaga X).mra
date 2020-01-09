@@ -3,36 +3,36 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jt1942</rbf>
-  <rom index='0' md5='217e43305cb120a553cea32244439a18' type='merged|split|nonmerged' zip='/hbmame/1942.zip'>
-    <part name='galagax/galagax1.n3'/>
-    <part name='galagax/galagax1.n4'/>
-    <part name='galagax/galagax1.n5'/>
-    <part name='galagax/1-n6.bin'/>
-    <part name='galagax/1-n6.bin'/>
-    <part name='galagax/1-n7.bin'/>
-    <part name='sr-01.c11'/>
-    <part name='galagax/galagax1.f2'/>
-    <part name='galagax/galagax2.a3'/>
-    <part name='galagax/galagax2.a4'/>
-    <part name='galagax/galagax2.a1'/>
-    <part name='galagax/galagax2.a2'/>
-    <part name='galagax/galagax2.a5'/>
-    <part name='galagax/galagax2.a6'/>
-    <part name='galagax/galagax2.a5'/>
-    <part name='galagax/galagax2.a6'/>
-    <part name='galagax/galagax2.l1'/>
-    <part name='galagax/galagax2.n1'/>
-    <part name='galagax/galagax2.l2'/>
-    <part name='galagax/galagax2.n2'/>
-    <part name='sb-1.k6'/>
-    <part name='sb-2.d1'/>
-    <part name='sb-3.d2'/>
-    <part name='sb-4.d6'/>
-    <part name='sb-5.e8'/>
-    <part name='sb-6.e9'/>
-    <part name='sb-7.e10'/>
-    <part name='sb-0.f1'/>
-    <part name='sb-8.k3'/>
-    <part name='sb-9.m11'/>
+  <rom index='0' md5='217e43305cb120a553cea32244439a18' type='merged|nonmerged|split' zip='/hbmame/galagax.zip|/hbmame/1942.zip'>
+    <part crc='c78cdc46' name='galagax1.n3'/>
+    <part crc='863f2f49' name='galagax1.n4'/>
+    <part crc='0da115f9' name='galagax1.n5'/>
+    <part crc='821c6481' name='1-n6.bin'/>
+    <part crc='821c6481' name='1-n6.bin'/>
+    <part crc='5df525e1' name='1-n7.bin'/>
+    <part crc='bd87f06b' name='sr-01.c11'/>
+    <part crc='b3e1862b' name='galagax1.f2'/>
+    <part crc='118e87ec' name='galagax2.a3'/>
+    <part crc='fc3db895' name='galagax2.a4'/>
+    <part crc='21f3fee2' name='galagax2.a1'/>
+    <part crc='5542beae' name='galagax2.a2'/>
+    <part crc='4a336de1' name='galagax2.a5'/>
+    <part crc='1d4a69c9' name='galagax2.a6'/>
+    <part crc='4a336de1' name='galagax2.a5'/>
+    <part crc='1d4a69c9' name='galagax2.a6'/>
+    <part crc='8408b932' name='galagax2.l1'/>
+    <part crc='4d5ed5e5' name='galagax2.n1'/>
+    <part crc='2218cb80' name='galagax2.l2'/>
+    <part crc='8f4a1688' name='galagax2.n2'/>
+    <part crc='FIXME' name='sb-1.k6'/>
+    <part crc='FIXME' name='sb-2.d1'/>
+    <part crc='FIXME' name='sb-3.d2'/>
+    <part crc='4858968d' name='sb-4.d6'/>
+    <part crc='93ab8153' name='sb-5.e8'/>
+    <part crc='8ab44f7d' name='sb-6.e9'/>
+    <part crc='f4ade9a4' name='sb-7.e10'/>
+    <part crc='6047d91b' name='sb-0.f1'/>
+    <part crc='f6fad943' name='sb-8.k3'/>
+    <part crc='FIXME' name='sb-9.m11'/>
   </rom>
 </misterromdescription>

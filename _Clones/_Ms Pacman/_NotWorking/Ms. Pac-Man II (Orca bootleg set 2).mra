@@ -1,58 +1,26 @@
 <misterromdescription>
   <rbf>pacman</rbf>
-  <rom index="1">
+  <rom index='1'>
     <part>05</part>
   </rom>
 
-  <rom index='0' md5='76e4bf948598490d6b13da5663c8882d' type='merged' zip='mspacman.zip'>
-    <part name='mspacii/p3.6e'/>
-    <part name='mspacii/p4.6f'/>
-    <part name='mspacii/p5.6h'/>
-    <part name='mspacii/p6.6j'/>
-    <part name='mspacii/p7.s1'/>
-    <part name='mspacii/p7.s1'/>
-    <part name='mspacii2/p1.bin'/>
-    <part name='mspacii/p1.5e'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
-  </rom>
-  <rom index='0' md5='76e4bf948598490d6b13da5663c8882d' type='split' zip='mspacii2.zip'>
-    <part name='p3.bin'/>
-    <part name='p4.bin'/>
-    <part name='p5.bin'/>
-    <part name='p6.bin'/>
-    <part name='p2.bin'/>
-    <part name='p2.bin'/>
-    <part name='p1.bin'/>
-    <part name='p7.bin'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='82s126.1m' zip='mspacman.zip'/>
-    <part name='82s126.4a' zip='mspacman.zip'/>
-    <part name='82s126.3m' zip='mspacman.zip'/>
-    <part name='82s123.7f' zip='mspacman.zip'/>
-  </rom>
-  <rom index='0' md5='76e4bf948598490d6b13da5663c8882d' type='nonmerged' zip='mspacii2.zip'>
-    <part name='p3.bin'/>
-    <part name='p4.bin'/>
-    <part name='p5.bin'/>
-    <part name='p6.bin'/>
-    <part name='p2.bin'/>
-    <part name='p2.bin'/>
-    <part name='p1.bin'/>
-    <part name='p7.bin'/>
-    <part name='p8.bin'/>
-    <part name='p8.bin'/>
-    <part name='p8.bin'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  
+  
+  <rom index='0' md5='76e4bf948598490d6b13da5663c8882d' type='merged|nonmerged|split' zip='mspacii2.zip|mspacman.zip'>
+    <part crc='df673b57' name='p3.bin'/>
+    <part crc='7591f606' name='p4.bin'/>
+    <part crc='c8ef1a7f' name='p5.bin'/>
+    <part crc='d498f435' name='p6.bin'/>
+    <part crc='fbbc3d2e' name='p2.bin'/>
+    <part crc='fbbc3d2e' name='p2.bin'/>
+    <part crc='aa3887c5' name='p1.bin'/>
+    <part crc='04333722' name='p7.bin'/>
+    <part crc='615af909' name='p8.bin'/>
+    <part crc='615af909' name='p8.bin'/>
+    <part crc='615af909' name='p8.bin'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

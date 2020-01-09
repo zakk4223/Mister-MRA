@@ -8,14 +8,14 @@
   <category>Platform / Breakout</category>
   <rbf>superbreakout</rbf>
   <rom index='0' md5='b80592e3c65a8c88bd48960d56c3e985' type='merged|nonmerged|split' zip='sbrkout.zip'>
-    <part name='033453.c1'/>
-    <part name='033454.d1'/>
-    <part name='033455.e1'/>
-    <part name='033455.e1'/>
-    <part name='033280.p4'/>
-    <part name='033281.r4'/>
-    <part name='006400.m2'/>
-    <part name='006401.e2'/>
+    <part crc='a35d00e3' name='033453.c1'/>
+    <part crc='d42ea79a' name='033454.d1'/>
+    <part crc='e0a6871c' name='033455.e1'/>
+    <part crc='e0a6871c' name='033455.e1'/>
+    <part crc='5a69ce85' name='033280.p4'/>
+    <part crc='066bd624' name='033281.r4'/>
+    <part crc='b8094b4c' name='006400.m2'/>
+    <part crc='857df8db' name='006401.e2'/>
   </rom>
   
   

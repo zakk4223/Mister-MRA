@@ -6,30 +6,18 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='b5811b78fad9eff4d1c32c5cc982dd55' type='merged|nonmerged' zip='ladybug.zip'>
-    <part name='ladybugg/lbuggx.1'/>
-    <part name='ladybugg/lbuggx.2'/>
-    <part name='ladybugg/lbuggx.3'/>
-    <part name='ladybugg/lbuggx.4'/>
-    <part name='ladybugg/lbuggx.5'/>
-    <part name='ladybugg/lbuggx.6'/>
-    <part name='ladybugg/lbuggx.7'/>
-    <part name='ladybugg/lbuggx.8'/>
-    <part repeat='2048'>00</part>
-    <part name='ladybugg/lbuggx.a'/>
-    <part name='ladybugg/lbuggx.b'/>
-  </rom>
-  <rom index='0' md5='b5811b78fad9eff4d1c32c5cc982dd55' type='split|nonmerged' zip='ladybugg.zip'>
-    <part name='lbuggx.1'/>
-    <part name='lbuggx.2'/>
-    <part name='lbuggx.3'/>
-    <part name='lbuggx.4'/>
-    <part name='lbuggx.5'/>
-    <part name='lbuggx.6'/>
-    <part name='lbuggx.7'/>
-    <part name='lbuggx.8'/>
-    <part name='lbuggx.a'/>
-    <part name='lbuggx.b'/>
+  
+  <rom index='0' md5='b5811b78fad9eff4d1c32c5cc982dd55' type='merged|nonmerged|split' zip='ladybugg.zip|ladybug.zip'>
+    <part crc='e67e241d' name='lbuggx.1'/>
+    <part crc='3cb1fb9a' name='lbuggx.2'/>
+    <part crc='0937009e' name='lbuggx.3'/>
+    <part crc='3e773f62' name='lbuggx.4'/>
+    <part crc='2b0d42e5' name='lbuggx.5'/>
+    <part crc='159f9433' name='lbuggx.6'/>
+    <part crc='f2be06d5' name='lbuggx.7'/>
+    <part crc='646fe79f' name='lbuggx.8'/>
+    <part crc='7efb9dc5' name='lbuggx.a'/>
+    <part crc='351d4ddc' name='lbuggx.b'/>
   </rom>
   
 </misterromdescription>

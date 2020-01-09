@@ -8,13 +8,13 @@
   <category>Maze / Balloons</category>
   <rbf>canyonbomber</rbf>
   <rom index='0' md5='570812dbc8f570392274ce95df59ac25' type='merged|nonmerged|split' zip='canyon.zip'>
-    <part name='9499-01.j1'/>
-    <part name='9503-01.p1'/>
-    <part name='9496-01.d1'/>
-    <part name='9492-01.n8'/>
-    <part name='9506-01.m5'/>
-    <part name='9505-01.n5'/>
-    <part name='9491-01.j6'/>
+    <part crc='31800767' name='9499-01.j1'/>
+    <part crc='1eddbe28' name='9503-01.p1'/>
+    <part crc='8be15080' name='9496-01.d1'/>
+    <part crc='7449f754' name='9492-01.n8'/>
+    <part crc='0d63396a' name='9506-01.m5'/>
+    <part crc='60507c07' name='9505-01.n5'/>
+    <part crc='b8094b4c' name='9491-01.j6'/>
   </rom>
   
   

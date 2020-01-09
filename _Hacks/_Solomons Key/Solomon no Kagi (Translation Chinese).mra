@@ -3,19 +3,19 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>solomonskey</rbf>
-  <rom index='0' md5='728e403a710471b1721a08467e208a89' type='merged' zip='/hbmame/solomon.zip'>
-    <part name='solomonjs01/slmn_02hc01.bin'/>
-    <part name='solomonjs01/slmn_03hc01.bin'/>
-    <part name='solomonjs01/slmn_04hc01.bin'/>
-    <part name='solomonjs01/slmn_05hc01.bin'/>
-    <part name='solomonjs01/slmn_12hc01.bin'/>
-    <part name='solomonjs01/slmn_11hc01.bin'/>
-    <part name='solomonjs01/slmn_10hc01.bin'/>
-    <part name='solomonjs01/slmn_09hc01.bin'/>
-    <part name='1.3jk'/>
-    <part name='solomonjs01/slmn_06hc01.bin'/>
-    <part name='solomonjs01/slmn_07hc01.bin'/>
-    <part name='solomonjs01/slmn_08.bin'/>
+  <rom index='0' md5='728e403a710471b1721a08467e208a89' type='merged|nonmerged|split' zip='/hbmame/solomonjs01.zip|/hbmame/solomon.zip'>
+    <part crc='bb5c5400' name='slmn_02hc01.bin'/>
+    <part crc='66137d2b' name='slmn_03hc01.bin'/>
+    <part crc='33299a3a' name='slmn_04hc01.bin'/>
+    <part crc='5856d9b0' name='slmn_05hc01.bin'/>
+    <part crc='e80594fc' name='slmn_12hc01.bin'/>
+    <part crc='9dab2e9a' name='slmn_11hc01.bin'/>
+    <part crc='cf11872e' name='slmn_10hc01.bin'/>
+    <part crc='60122e98' name='slmn_09hc01.bin'/>
+    <part crc='fa6e562e' name='1.3jk'/>
+    <part crc='bbc0d319' name='slmn_06hc01.bin'/>
+    <part crc='2465a83a' name='slmn_07hc01.bin'/>
+    <part crc='b924d162' name='slmn_08.bin'/>
   </rom>
   
   

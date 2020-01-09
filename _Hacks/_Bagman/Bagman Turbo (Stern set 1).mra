@@ -6,29 +6,29 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index='0' md5='4fd4890300d25b26f2a78a4cfe8dc21d' type='merged' zip='/hbmame/bagman.zip'>
-    <part name='bagturbo/bagt_a4_9e.bin'/>
-    <part name='bagturbo/a5-9f'/>
-    <part name='bagturbo/a4_9j.bin'/>
-    <part name='bagturbo/a5-9k'/>
-    <part name='bagturbo/bagt_a4_9m.bin'/>
-    <part name='bagturbo/a5-9n'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='bagturbo/a2_1e.bin'/>
-    <part name='bagturbo/a2_1c.bin'/>
-    <part name='j1_b04.bin'/>
-    <part name='bagturbo/a2_1f.bin'/>
-    <part name='r9_b11.bin'/>
-    <part name='t9_b12.bin'/>
+  <rom index='0' md5='4fd4890300d25b26f2a78a4cfe8dc21d' type='merged|nonmerged|split' zip='/hbmame/bagturbo.zip|/hbmame/bagman.zip'>
+    <part crc='c070635c' name='bagt_a4_9e.bin'/>
+    <part crc='2ddf6bb9' name='a5-9f'/>
+    <part crc='b2da8b77' name='a4_9j.bin'/>
+    <part crc='f91d617b' name='a5-9k'/>
+    <part crc='8cb278fe' name='bagt_a4_9m.bin'/>
+    <part crc='68e4b64d' name='a5-9n'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='f217ac09' name='a2_1e.bin'/>
+    <part crc='f3e11bd7' name='a2_1c.bin'/>
+    <part crc='c680ef04' name='j1_b04.bin'/>
+    <part crc='d0f7105b' name='a2_1f.bin'/>
+    <part crc='2e0057ff' name='r9_b11.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
   </rom>
   
   

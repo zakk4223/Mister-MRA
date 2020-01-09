@@ -1,23 +1,23 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index='0' md5='208d9f3f3a1612167080ded73acdc89d' type='merged' zip='/hbmame/xevious.zip'>
-    <part name='xviousah/xea-1m-a.bin'/>
-    <part name='xviousah/xea-1l-a.bin'/>
-    <part name='xviousah/xea-4c-a.bin'/>
-    <part name='xvi_7.2c'/>
-    <part name='sxvioush/xh_xvi_12.3b'/>
-    <part name='xvi_13.3c'/>
-    <part name='xvi_14.3d'/>
-    <part name='battlesh/xh_xvi_15.4m'/>
-    <part name='battlesh/xh_xvi_17.4p'/>
-    <part name='battlesh/xh_xvi_16.4n'/>
-    <part name='battlesh/xh_xvi_18.4r'/>
-    <part name='xvi_9.2a'/>
-    <part name='xvi_10.2b'/>
-    <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='/hbmame/namco50.zip'/>
-    <part name='51xx.bin' zip='/hbmame/namco51.zip'/>
-    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
+  <rom index='0' md5='208d9f3f3a1612167080ded73acdc89d' type='merged|nonmerged|split' zip='/hbmame/battlesh.zip|/hbmame/xevious.zip'>
+    <part crc='FIXME' name='xea-1m-a.bin'/>
+    <part crc='FIXME' name='xea-1l-a.bin'/>
+    <part crc='FIXME' name='xea-4c-a.bin'/>
+    <part crc='dd35cf1c' name='xvi_7.2c'/>
+    <part crc='FIXME' name='xh_xvi_12.3b'/>
+    <part crc='FIXME' name='xvi_13.3c'/>
+    <part crc='FIXME' name='xvi_14.3d'/>
+    <part crc='308c5bad' name='xh_xvi_15.4m'/>
+    <part crc='b06b9ccb' name='xh_xvi_17.4p'/>
+    <part crc='1cbbddce' name='xh_xvi_16.4n'/>
+    <part crc='f56c3697' name='xh_xvi_18.4r'/>
+    <part crc='57ed9879' name='xvi_9.2a'/>
+    <part crc='ae3ba9e5' name='xvi_10.2b'/>
+    <part crc='31e244dd' name='xvi_11.2c'/>
+    <part crc='FIXME' name='50xx.bin' zip='/hbmame/namco50.zip'/>
+    <part crc='c2f57ef8' name='51xx.bin' zip='/hbmame/namco51.zip'/>
+    <part crc='FIXME' name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
 </misterromdescription>

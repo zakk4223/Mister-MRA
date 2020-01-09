@@ -1,27 +1,16 @@
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='63b729213406bdbb37e30883ee999645' type='merged' zip='galaga.zip'>
-    <part name='gg1_1b.3p'/>
-    <part name='gg1_2b.3m'/>
-    <part name='gg1_3.2m'/>
-    <part name='gg1_4b.2l'/>
-    <part name='gg1_5b.3f'/>
-    <part name='gg1_7b.2c'/>
-    <part name='gg1_11.4d'/>
-    <part name='gg1_10.4f'/>
-    <part name='gg1_9.4l'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
-  </rom>
-  <rom index='0' md5='63b729213406bdbb37e30883ee999645' type='split|nonmerged' zip='galaga.zip'>
-    <part name='gg1_1b.3p'/>
-    <part name='gg1_2b.3m'/>
-    <part name='gg1_3.2m'/>
-    <part name='gg1_4b.2l'/>
-    <part name='gg1_5b.3f'/>
-    <part name='gg1_7b.2c'/>
-    <part name='gg1_11.4d'/>
-    <part name='gg1_10.4f'/>
-    <part name='gg1_9.4l'/>
+  
+  <rom index='0' md5='63b729213406bdbb37e30883ee999645' type='merged|nonmerged|split' zip='galaga.zip'>
+    <part crc='ab036c9f' name='gg1_1b.3p'/>
+    <part crc='d9232240' name='gg1_2b.3m'/>
+    <part crc='753ce503' name='gg1_3.2m'/>
+    <part crc='499fcc76' name='gg1_4b.2l'/>
+    <part crc='bb5caae3' name='gg1_5b.3f'/>
+    <part crc='d016686b' name='gg1_7b.2c'/>
+    <part crc='ad447c80' name='gg1_11.4d'/>
+    <part crc='dd6f1afc' name='gg1_10.4f'/>
+    <part crc='58b2f47c' name='gg1_9.4l'/>
   </rom>
   
 </misterromdescription>

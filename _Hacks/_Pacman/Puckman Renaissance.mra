@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='af1e27362690ef53b874ff22b778bf77' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='puckren/puckren.6e'/>
-    <part name='puckrenc/puckrenc.6f'/>
-    <part name='puckren/puckren.6h'/>
-    <part name='puckren/puckren.6j'/>
+  <rom index='0' md5='af1e27362690ef53b874ff22b778bf77' type='merged|nonmerged|split' zip='/hbmame/puckren.zip|/hbmame/puckman.zip'>
+    <part crc='0f5ecf67' name='puckren.6e'/>
+    <part crc='FIXME' name='puckrenc.6f'/>
+    <part crc='c6bb6ea6' name='puckren.6h'/>
+    <part crc='dc90f1dc' name='puckren.6j'/>
     <part repeat='16384'>00</part>
-    <part name='puckren/puckren.5e'/>
-    <part name='puckren/puckren.5f'/>
+    <part crc='a502e25f' name='puckren.5e'/>
+    <part crc='18d44098' name='puckren.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='puckren/puckren.4a'/>
-    <part name='82s126.3m'/>
-    <part name='puckren/puckren.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='64fe1dbf' name='puckren.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='7b6aa3c9' name='puckren.7f'/>
   </rom>
 </misterromdescription>

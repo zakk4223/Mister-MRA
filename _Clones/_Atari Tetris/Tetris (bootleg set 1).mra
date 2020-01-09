@@ -3,13 +3,10 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>ataritetris</rbf>
-  <rom index='0' md5='0ce76811f426fbaa42ffca53f89f3029' type='merged' zip='atetris.zip'>
-    <part name='atetrisb/tetris.01'/>
-    <part name='atetrisb/tetris.02'/>
-  </rom>
-  <rom index='0' md5='0ce76811f426fbaa42ffca53f89f3029' type='split|nonmerged' zip='atetrisb.zip'>
-    <part name='tetris.01'/>
-    <part name='tetris.02'/>
+  
+  <rom index='0' md5='0ce76811f426fbaa42ffca53f89f3029' type='merged|nonmerged|split' zip='atetrisb.zip|atetris.zip'>
+    <part crc='944d15f6' name='tetris.01'/>
+    <part crc='5c4e7258' name='tetris.02'/>
   </rom>
   
   

@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='a2c0d6982d2034bb59f20f06fbaad860' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='falcon/falcon.45'/>
-    <part name='falcon/falcon.46'/>
-    <part name='avefenix/4103-8516.rom'/>
-    <part name='falcon/falcon.48'/>
-    <part name='falcon/phoenixc.49'/>
-    <part name='h6-ic50.6a'/>
-    <part name='falcon/falcon.51'/>
-    <part name='h8-ic52.8a'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='b1-ic39.3b'/>
-    <part name='b2-ic40.4b'/>
-  </rom>
-  <rom index='0' md5='a2c0d6982d2034bb59f20f06fbaad860' type='split' zip='falcon.zip'>
-    <part name='falcon.45'/>
-    <part name='falcon.46'/>
-    <part name='phoenix.47'/>
-    <part name='falcon.48'/>
-    <part name='phoenixc.49'/>
-    <part name='h6-ic50.6a' zip='phoenix.zip'/>
-    <part name='falcon.51'/>
-    <part name='h8-ic52.8a' zip='phoenix.zip'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='b1-ic39.3b' zip='phoenix.zip'/>
-    <part name='b2-ic40.4b' zip='phoenix.zip'/>
-  </rom>
-  <rom index='0' md5='a2c0d6982d2034bb59f20f06fbaad860' type='nonmerged' zip='falcon.zip'>
-    <part name='falcon.45'/>
-    <part name='falcon.46'/>
-    <part name='phoenix.47'/>
-    <part name='falcon.48'/>
-    <part name='phoenixc.49'/>
-    <part name='h6-ic50.6a'/>
-    <part name='falcon.51'/>
-    <part name='h8-ic52.8a'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='b1-ic39.3b'/>
-    <part name='b2-ic40.4b'/>
+  
+  
+  <rom index='0' md5='a2c0d6982d2034bb59f20f06fbaad860' type='merged|nonmerged|split' zip='falcon.zip|phoenix.zip'>
+    <part crc='80382b6c' name='falcon.45'/>
+    <part crc='6a13193b' name='falcon.46'/>
+    <part crc='cbbb8839' name='phoenix.47'/>
+    <part crc='084e9766' name='falcon.48'/>
+    <part crc='1a1ce0d0' name='phoenixc.49'/>
+    <part crc='ac5e9ec1' name='h6-ic50.6a'/>
+    <part crc='6e82e400' name='falcon.51'/>
+    <part crc='aff8e9c5' name='h8-ic52.8a'/>
+    <part crc='3c7e623f' name='ic23.3d'/>
+    <part crc='59916d3b' name='ic24.4d'/>
+    <part crc='53413e8f' name='b1-ic39.3b'/>
+    <part crc='0be2ba91' name='b2-ic40.4b'/>
   </rom>
 </misterromdescription>

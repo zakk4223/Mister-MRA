@@ -8,52 +8,22 @@
   <category>Maze / Blocks</category>
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
-  <rom index='0' md5='b891c1efda84921c418a73021af60970' type='merged|nonmerged' zip='pengo.zip'>
-    <part name='pengo3u/ep5120.8'/>
-    <part name='pengo3u/ep5121.7'/>
-    <part name='pengo3u/ep5122.15'/>
-    <part name='pengo3u/ep5123.14'/>
-    <part name='pengo2u/ep5124.21'/>
-    <part name='pengo3u/ep5125.20'/>
-    <part name='pengo2u/ep5126.32'/>
-    <part name='pengo3u/ep5127.31'/>
-    <part name='ep1640.92'/>
-    <part name='ep1695.105'/>
-    <part name='pr1634.88'/>
-    <part name='pr1635.51'/>
-    <part name='pr1636.70'/>
-    <part name='pr1633.78'/>
-  </rom>
-  <rom index='0' md5='b891c1efda84921c418a73021af60970' type='split' zip='pengo3u.zip'>
-    <part name='ep5120.8'/>
-    <part name='ep5121.7'/>
-    <part name='ep5122.15'/>
-    <part name='ep5123.14'/>
-    <part name='ep5124.21'/>
-    <part name='ep5125.20'/>
-    <part name='ep5126.32'/>
-    <part name='ep5127.31'/>
-    <part name='ep1640.92' zip='pengo.zip'/>
-    <part name='ep1695.105' zip='pengo.zip'/>
-    <part name='pr1634.88' zip='pengo.zip'/>
-    <part name='pr1635.51' zip='pengo.zip'/>
-    <part name='pr1636.70' zip='pengo.zip'/>
-    <part name='pr1633.78' zip='pengo.zip'/>
-  </rom>
-  <rom index='0' md5='b891c1efda84921c418a73021af60970' type='nonmerged' zip='pengo3u.zip'>
-    <part name='ep5120.8'/>
-    <part name='ep5121.7'/>
-    <part name='ep5122.15'/>
-    <part name='ep5123.14'/>
-    <part name='ep5124.21'/>
-    <part name='ep5125.20'/>
-    <part name='ep5126.32'/>
-    <part name='ep5127.31'/>
-    <part name='ep1640.92'/>
-    <part name='ep1695.105'/>
-    <part name='pr1634.88'/>
-    <part name='pr1635.51'/>
-    <part name='pr1636.70'/>
-    <part name='pr1633.78'/>
+  
+  
+  <rom index='0' md5='b891c1efda84921c418a73021af60970' type='merged|nonmerged|split' zip='pengo3u.zip|pengo.zip'>
+    <part crc='f01afb60' name='ep5120.8'/>
+    <part crc='2eb38353' name='ep5121.7'/>
+    <part crc='c33400d7' name='ep5122.15'/>
+    <part crc='6a85c6a2' name='ep5123.14'/>
+    <part crc='95f354ff' name='ep5124.21'/>
+    <part crc='1a42310f' name='ep5125.20'/>
+    <part crc='e5920728' name='ep5126.32'/>
+    <part crc='a7d3d1d6' name='ep5127.31'/>
+    <part crc='d7eec6cd' name='ep1640.92'/>
+    <part crc='5bfd26e9' name='ep1695.105'/>
+    <part crc='766b139b' name='pr1634.88'/>
+    <part crc='c29dea27' name='pr1635.51'/>
+    <part crc='77245b66' name='pr1636.70'/>
+    <part crc='3a5844ec' name='pr1633.78'/>
   </rom>
 </misterromdescription>

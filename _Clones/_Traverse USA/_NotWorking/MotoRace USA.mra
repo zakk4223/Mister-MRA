@@ -7,55 +7,23 @@
   <manufacturer>Irem</manufacturer>
   <category>Racing / Motorbike</category>
   <rbf>traverseusa</rbf>
-  <rom index='0' md5='edcdc6d02a1cb44e0babe843ffc74fb2' type='merged|nonmerged' zip='travrusa.zip'>
-    <part name='motorace/mr.cpu'/>
-    <part name='motorace/mr1.3l'/>
-    <part name='motorace/mr2.3k'/>
-    <part name='motorace/mr3.3j'/>
-    <part name='mr10.1a'/>
-    <part name='mr10.1a'/>
-    <part name='motorace/mr7.3e'/>
-    <part name='mr8.3c'/>
-    <part name='mr9.3a'/>
-    <part name='motorace/mr4.3n'/>
-    <part name='motorace/mr5.3m'/>
-    <part name='motorace/mr6.3k'/>
-    <part name='mmi6349.ij'/>
-    <part name='tbp24s10.3'/>
-    <part name='tbp18s.2'/>
-  </rom>
-  <rom index='0' md5='edcdc6d02a1cb44e0babe843ffc74fb2' type='split' zip='motorace.zip'>
-    <part name='mr.cpu'/>
-    <part name='mr1.3l'/>
-    <part name='mr2.3k'/>
-    <part name='mr3.3j'/>
-    <part name='mr10.1a' zip='travrusa.zip'/>
-    <part name='mr10.1a' zip='travrusa.zip'/>
-    <part name='mr7.3e'/>
-    <part name='mr8.3c' zip='travrusa.zip'/>
-    <part name='mr9.3a' zip='travrusa.zip'/>
-    <part name='mr4.3n'/>
-    <part name='mr5.3m'/>
-    <part name='mr6.3k'/>
-    <part name='mmi6349.ij' zip='travrusa.zip'/>
-    <part name='tbp24s10.3' zip='travrusa.zip'/>
-    <part name='tbp18s.2' zip='travrusa.zip'/>
-  </rom>
-  <rom index='0' md5='edcdc6d02a1cb44e0babe843ffc74fb2' type='nonmerged' zip='motorace.zip'>
-    <part name='mr.cpu'/>
-    <part name='mr1.3l'/>
-    <part name='mr2.3k'/>
-    <part name='mr3.3j'/>
-    <part name='mr10.1a'/>
-    <part name='mr10.1a'/>
-    <part name='mr7.3e'/>
-    <part name='mr8.3c'/>
-    <part name='mr9.3a'/>
-    <part name='mr4.3n'/>
-    <part name='mr5.3m'/>
-    <part name='mr6.3k'/>
-    <part name='mmi6349.ij'/>
-    <part name='tbp24s10.3'/>
-    <part name='tbp18s.2'/>
+  
+  
+  <rom index='0' md5='edcdc6d02a1cb44e0babe843ffc74fb2' type='merged|nonmerged|split' zip='motorace.zip|travrusa.zip'>
+    <part crc='89030b0c' name='mr.cpu'/>
+    <part crc='0904ed58' name='mr1.3l'/>
+    <part crc='8a2374ec' name='mr2.3k'/>
+    <part crc='2f04c341' name='mr3.3j'/>
+    <part crc='a02ad8a0' name='mr10.1a'/>
+    <part crc='a02ad8a0' name='mr10.1a'/>
+    <part crc='492a60be' name='mr7.3e'/>
+    <part crc='3a046dd1' name='mr8.3c'/>
+    <part crc='1cc3d3f4' name='mr9.3a'/>
+    <part crc='5cf1a0d6' name='mr4.3n'/>
+    <part crc='f75f2aad' name='mr5.3m'/>
+    <part crc='518889a0' name='mr6.3k'/>
+    <part crc='c9724350' name='mmi6349.ij'/>
+    <part crc='76062638' name='tbp24s10.3'/>
+    <part crc='a1130007' name='tbp18s.2'/>
   </rom>
 </misterromdescription>

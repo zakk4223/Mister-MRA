@@ -6,29 +6,15 @@
   <manufacturer>Atari</manufacturer>
   <category>Maze / Tron</category>
   <rbf>dominos</rbf>
-  <rom index='0' md5='feeef312adc3e3b30146b9b50b8d6f67' type='merged|nonmerged' zip='dominos.zip'>
-    <part name='dominos4/007755-01.l0'/>
-    <part name='dominos4/007759-01.n0'/>
-    <part name='dominos4/007765-01.r4'/>
-    <part name='dominos4/007765-01.r4'/>
-    <part name='6400-01.m2'/>
-    <part name='6401-01.e2'/>
-  </rom>
-  <rom index='0' md5='feeef312adc3e3b30146b9b50b8d6f67' type='split' zip='dominos4.zip'>
-    <part name='007755-01.l0'/>
-    <part name='007759-01.n0'/>
-    <part name='007765-01.r4'/>
-    <part name='007765-01.r4'/>
-    <part name='6400-01.m2' zip='dominos.zip'/>
-    <part name='6401-01.e2' zip='dominos.zip'/>
-  </rom>
   
-  <rom index='0' md5='feeef312adc3e3b30146b9b50b8d6f67' type='nonmerged' zip='dominos4.zip'>
-    <part name='007755-01.l0'/>
-    <part name='007759-01.n0'/>
-    <part name='007765-01.r4'/>
-    <part name='007765-01.r4'/>
-    <part name='6400-01.m2'/>
-    <part name='6401-01.e2'/>
+  
+  
+  <rom index='0' md5='feeef312adc3e3b30146b9b50b8d6f67' type='merged|nonmerged|split' zip='dominos4.zip|dominos.zip'>
+    <part crc='fa2d0c04' name='007755-01.l0'/>
+    <part crc='542200c7' name='007759-01.n0'/>
+    <part crc='6e4e6c75' name='007765-01.r4'/>
+    <part crc='6e4e6c75' name='007765-01.r4'/>
+    <part crc='b8094b4c' name='6400-01.m2'/>
+    <part crc='857df8db' name='6401-01.e2'/>
   </rom>
 </misterromdescription>

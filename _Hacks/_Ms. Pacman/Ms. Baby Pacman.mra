@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='b82d31c01ccf678918007d0d374325b2' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='msbaby/msbaby.4'/>
-    <part name='msbaby/msbaby.5'/>
-    <part name='msbaby/msbaby.6'/>
+  <rom index='0' md5='b82d31c01ccf678918007d0d374325b2' type='merged|nonmerged|split' zip='/hbmame/msbaby.zip|/hbmame/mspacman.zip'>
+    <part crc='d16b31b7' name='boot1'/>
+    <part crc='0d32de5e' name='boot2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='17aea21d' name='msbaby.4'/>
+    <part crc='0c08aa7f' name='msbaby.5'/>
+    <part crc='e28aaa1f' name='msbaby.6'/>
     <part repeat='8192'>00</part>
-    <part name='msbaby/msbaby.5e'/>
-    <part name='msbaby/msbaby.5f'/>
+    <part crc='e764738d' name='msbaby.5e'/>
+    <part crc='3d316ad0' name='msbaby.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

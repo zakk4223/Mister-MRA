@@ -8,32 +8,16 @@
   <category>Maze / Centipede</category>
   <category>Maze / Spiders</category>
   <rbf>centipede</rbf>
-  <rom index='0' md5='23345ef68114602ac31992e6544f2478' type='merged|nonmerged' zip='centiped.zip'>
-    <part name='centipdb/d1'/>
-    <part name='centipdb/e1'/>
-    <part name='centipdb/h1'/>
-    <part name='centipdb2/mp4.j1'/>
-    <part name='136001-211.f7'/>
-    <part name='136001-212.hj7'/>
-    <part name='136001-213.p4'/>
-  </rom>
-  <rom index='0' md5='23345ef68114602ac31992e6544f2478' type='split' zip='centipdb2.zip'>
-    <part name='mp1.d1'/>
-    <part name='mp2.e1'/>
-    <part name='mp3.h1'/>
-    <part name='mp4.j1'/>
-    <part name='136001-211.f7' zip='centiped.zip'/>
-    <part name='136001-212.hj7' zip='centiped.zip'/>
-    <part name='136001-213.p4' zip='centiped.zip'/>
-  </rom>
   
-  <rom index='0' md5='23345ef68114602ac31992e6544f2478' type='nonmerged' zip='centipdb2.zip'>
-    <part name='mp1.d1'/>
-    <part name='mp2.e1'/>
-    <part name='mp3.h1'/>
-    <part name='mp4.j1'/>
-    <part name='mp6.f7'/>
-    <part name='mp7.j7'/>
-    <part name='82s129.p4'/>
+  
+  
+  <rom index='0' md5='23345ef68114602ac31992e6544f2478' type='merged|nonmerged|split' zip='centipdb2.zip|centiped.zip'>
+    <part crc='b17b8e0b' name='mp1.d1'/>
+    <part crc='7684398e' name='mp2.e1'/>
+    <part crc='74580fe4' name='mp3.h1'/>
+    <part crc='849b1614' name='mp4.j1'/>
+    <part crc='880acfb9' name='mp6.f7'/>
+    <part crc='b1397029' name='mp7.j7'/>
+    <part crc='6fa3093a' name='82s129.p4'/>
   </rom>
 </misterromdescription>

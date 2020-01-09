@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='2624263721bc0b73ef38bff72ccc58b1' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='falconz/f45.bin'/>
-    <part name='falconz/f46.bin'/>
-    <part name='falconz/f47.bin'/>
-    <part name='falconz/f48.bin'/>
-    <part name='condor/cond05c.bin'/>
-    <part name='condor/cond06c.bin'/>
-    <part name='condor/cond07c.bin'/>
-    <part name='falconz/f52.bin'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='condor/cond11c.bin'/>
-    <part name='condor/cond12c.bin'/>
-  </rom>
-  <rom index='0' md5='2624263721bc0b73ef38bff72ccc58b1' type='split' zip='falconz.zip'>
-    <part name='f45.bin'/>
-    <part name='f46.bin'/>
-    <part name='f47.bin'/>
-    <part name='f48.bin'/>
-    <part name='f49.bin'/>
-    <part name='f50.bin'/>
-    <part name='f51.bin'/>
-    <part name='f52.bin'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='f39.bin'/>
-    <part name='f40.bin'/>
-  </rom>
-  <rom index='0' md5='2624263721bc0b73ef38bff72ccc58b1' type='nonmerged' zip='falconz.zip'>
-    <part name='f45.bin'/>
-    <part name='f46.bin'/>
-    <part name='f47.bin'/>
-    <part name='f48.bin'/>
-    <part name='f49.bin'/>
-    <part name='f50.bin'/>
-    <part name='f51.bin'/>
-    <part name='f52.bin'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='f39.bin'/>
-    <part name='f40.bin'/>
+  
+  
+  <rom index='0' md5='2624263721bc0b73ef38bff72ccc58b1' type='merged|nonmerged|split' zip='falconz.zip|phoenix.zip'>
+    <part crc='9158b43b' name='f45.bin'/>
+    <part crc='22ddb600' name='f46.bin'/>
+    <part crc='cb2838d9' name='f47.bin'/>
+    <part crc='552cf57a' name='f48.bin'/>
+    <part crc='1ff3a982' name='f49.bin'/>
+    <part crc='8c83bff7' name='f50.bin'/>
+    <part crc='805ec2e8' name='f51.bin'/>
+    <part crc='33f3af63' name='f52.bin'/>
+    <part crc='3c7e623f' name='ic23.3d'/>
+    <part crc='59916d3b' name='ic24.4d'/>
+    <part crc='53c52eb0' name='f39.bin'/>
+    <part crc='eba42f0f' name='f40.bin'/>
   </rom>
 </misterromdescription>

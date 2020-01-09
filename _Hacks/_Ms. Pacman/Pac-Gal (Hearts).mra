@@ -7,13 +7,13 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='81f9fe8df4860893bd0e5378e86b94ac' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='pacgalu/pacgalu.bin'/>
-    <part name='pacgalu/pacgalu.gfx'/>
+  <rom index='0' md5='81f9fe8df4860893bd0e5378e86b94ac' type='merged|nonmerged|split' zip='/hbmame/pacgalu.zip|/hbmame/mspacman.zip'>
+    <part crc='23a0bd03' name='pacgalu.bin'/>
+    <part crc='d6e3a240' name='pacgalu.gfx'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

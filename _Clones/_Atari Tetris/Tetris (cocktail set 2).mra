@@ -3,13 +3,10 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>ataritetris</rbf>
-  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='merged' zip='atetris.zip'>
-    <part name='atetrisc2/136066-1102.45f'/>
-    <part name='atetrisc/136066-1103.35a'/>
-  </rom>
-  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='split|nonmerged' zip='atetrisc2.zip'>
-    <part name='136066-1102.45f'/>
-    <part name='136066-1103.35a'/>
+  
+  <rom index='0' md5='3363856fcc8e4fcbaaf5bceab01920e2' type='merged|nonmerged|split' zip='atetrisc2.zip|atetris.zip'>
+    <part crc='1bd28902' name='136066-1102.45f'/>
+    <part crc='ec2a7f93' name='136066-1103.35a'/>
   </rom>
   
   

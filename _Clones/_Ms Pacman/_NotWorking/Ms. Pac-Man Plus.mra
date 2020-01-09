@@ -1,58 +1,26 @@
 <misterromdescription>
   <rbf>pacman</rbf>
-  <rom index="1">
+  <rom index='1'>
     <part>05</part>
   </rom>
 
-  <rom index='0' md5='3733037b678a93557d6d4fc83509c05b' type='merged' zip='mspacman.zip'>
-    <part name='mspacmab/boot1'/>
-    <part name='mspacpls/mspacatk.2'/>
-    <part name='mspacmab/boot3'/>
-    <part name='mspacmab/boot4'/>
-    <part name='mspacpls/mspacatk.5'/>
-    <part name='mspacpls/mspacatk.5'/>
-    <part name='mspacpls/mspacatk.6'/>
-    <part name='5e'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
-  </rom>
-  <rom index='0' md5='3733037b678a93557d6d4fc83509c05b' type='split' zip='mspacpls.zip'>
-    <part name='boot1'/>
-    <part name='mspacatk.2'/>
-    <part name='boot3'/>
-    <part name='boot4'/>
-    <part name='mspacatk.5'/>
-    <part name='mspacatk.5'/>
-    <part name='mspacatk.6'/>
-    <part name='5e' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='5f' zip='mspacman.zip'/>
-    <part name='82s126.1m' zip='mspacman.zip'/>
-    <part name='82s126.4a' zip='mspacman.zip'/>
-    <part name='82s126.3m' zip='mspacman.zip'/>
-    <part name='82s123.7f' zip='mspacman.zip'/>
-  </rom>
-  <rom index='0' md5='3733037b678a93557d6d4fc83509c05b' type='nonmerged' zip='mspacpls.zip'>
-    <part name='boot1'/>
-    <part name='mspacatk.2'/>
-    <part name='boot3'/>
-    <part name='boot4'/>
-    <part name='mspacatk.5'/>
-    <part name='mspacatk.5'/>
-    <part name='mspacatk.6'/>
-    <part name='5e'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='5f'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  
+  
+  <rom index='0' md5='3733037b678a93557d6d4fc83509c05b' type='merged|nonmerged|split' zip='mspacpls.zip|mspacman.zip'>
+    <part crc='d16b31b7' name='boot1'/>
+    <part crc='0af09d31' name='mspacatk.2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='165a9dd8' name='boot4'/>
+    <part crc='e6e06954' name='mspacatk.5'/>
+    <part crc='e6e06954' name='mspacatk.5'/>
+    <part crc='3b5db308' name='mspacatk.6'/>
+    <part crc='5c281d01' name='5e'/>
+    <part crc='615af909' name='5f'/>
+    <part crc='615af909' name='5f'/>
+    <part crc='615af909' name='5f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

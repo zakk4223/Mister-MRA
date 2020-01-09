@@ -9,55 +9,23 @@
   <category>Maze</category>
   <category>Space / Robots</category>
   <rbf>robotron</rbf>
-  <rom index='0' md5='279f54616f09bc45ef2eee50b488dc50' type='merged|nonmerged' zip='robotron.zip'>
-    <part name='robotrontd/tiedie.sba'/>
-    <part name='robotrontd/tiedie.sbb'/>
-    <part name='robotron.sbc'/>
-    <part name='robotron.sb1'/>
-    <part name='robotron.sb2'/>
-    <part name='robotron.sb3'/>
-    <part name='robotrontd/tiedie.sb4'/>
-    <part name='robotron12/fixrobo.sb5'/>
-    <part name='robotron.sb6'/>
-    <part name='robotrontd/tiedie.sb7'/>
-    <part name='robotrontd/tiedie.sb8'/>
-    <part name='robotron.sb9'/>
-    <part name='robotron.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
-  </rom>
-  <rom index='0' md5='279f54616f09bc45ef2eee50b488dc50' type='split' zip='robotrontd.zip'>
-    <part name='tiedie.sba'/>
-    <part name='tiedie.sbb'/>
-    <part name='robotron.sbc' zip='robotron.zip'/>
-    <part name='robotron.sb1' zip='robotron.zip'/>
-    <part name='robotron.sb2' zip='robotron.zip'/>
-    <part name='robotron.sb3' zip='robotron.zip'/>
-    <part name='tiedie.sb4'/>
-    <part name='fixrobo.sb5'/>
-    <part name='robotron.sb6' zip='robotron.zip'/>
-    <part name='tiedie.sb7'/>
-    <part name='tiedie.sb8'/>
-    <part name='robotron.sb9' zip='robotron.zip'/>
-    <part name='robotron.snd' zip='robotron.zip'/>
-    <part name='decoder.4' zip='robotron.zip'/>
-    <part name='decoder.6' zip='robotron.zip'/>
-  </rom>
-  <rom index='0' md5='279f54616f09bc45ef2eee50b488dc50' type='nonmerged' zip='robotrontd.zip'>
-    <part name='tiedie.sba'/>
-    <part name='tiedie.sbb'/>
-    <part name='robotron.sbc'/>
-    <part name='robotron.sb1'/>
-    <part name='robotron.sb2'/>
-    <part name='robotron.sb3'/>
-    <part name='tiedie.sb4'/>
-    <part name='fixrobo.sb5'/>
-    <part name='robotron.sb6'/>
-    <part name='tiedie.sb7'/>
-    <part name='tiedie.sb8'/>
-    <part name='robotron.sb9'/>
-    <part name='robotron.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+  
+  
+  <rom index='0' md5='279f54616f09bc45ef2eee50b488dc50' type='merged|nonmerged|split' zip='robotrontd.zip|robotron.zip'>
+    <part crc='952bea55' name='tiedie.sba'/>
+    <part crc='4c05fd3c' name='tiedie.sbb'/>
+    <part crc='645d543e' name='robotron.sbc'/>
+    <part crc='66c7d3ef' name='robotron.sb1'/>
+    <part crc='5bc6c614' name='robotron.sb2'/>
+    <part crc='e99a82be' name='robotron.sb3'/>
+    <part crc='e8238019' name='tiedie.sb4'/>
+    <part crc='827cb5c9' name='fixrobo.sb5'/>
+    <part crc='bd2c853d' name='robotron.sb6'/>
+    <part crc='3ecf4620' name='tiedie.sb7'/>
+    <part crc='752d7a46' name='tiedie.sb8'/>
+    <part crc='b124367b' name='robotron.sb9'/>
+    <part crc='c56c1d28' name='robotron.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
 </misterromdescription>

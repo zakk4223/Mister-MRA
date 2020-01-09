@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='5100a19ae657016ecf25bbf8ef0710c4' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='fasthang/hangly.6e'/>
-    <part name='hanglyad/hangly.6f'/>
-    <part name='fasthang/hangly.6h'/>
-    <part name='fasthang/hangly.6j'/>
+  <rom index='0' md5='5100a19ae657016ecf25bbf8ef0710c4' type='merged|nonmerged|split' zip='/hbmame/hmba7000.zip|/hbmame/puckman.zip'>
+    <part crc='5fe8610a' name='hangly.6e'/>
+    <part crc='73726586' name='hangly.6f'/>
+    <part crc='4e7ef99f' name='hangly.6h'/>
+    <part crc='7f4147e6' name='hangly.6j'/>
     <part repeat='16384'>00</part>
-    <part name='hmba7000/pmba6000.5e'/>
-    <part name='hmba7000/pmba6000.5f'/>
+    <part crc='7961ed4e' name='pmba6000.5e'/>
+    <part crc='417080fd' name='pmba6000.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='hmba7000/pacplus.4a'/>
-    <part name='82s126.3m'/>
-    <part name='hmba7000/pacplus.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='e271a166' name='pacplus.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='063dd53a' name='pacplus.7f'/>
   </rom>
 </misterromdescription>

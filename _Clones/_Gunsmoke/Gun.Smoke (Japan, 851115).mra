@@ -3,106 +3,40 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtgunsmoke</rbf>
-  <rom index="0" md5="f06442c96d2b9b6115f45c30bb18cced" type="merged" zip="gunsmoke.zip">
-    <part name="gunsmokej/gsj_03.09n"/>
-    <part name="gs04.10n"/>
-    <part name="gs05.12n"/>
-    <part name="gs02.14h"/>
-    <part name="gs01.11f"/>
-    <part name="gs14.11c"/>
-    <part name="gs13.06c"/>
-    <part name="gs09.06a"/>
-    <part name="gs12.05c"/>
-    <part name="gs08.05a"/>
-    <part name="gs11.04c"/>
-    <part name="gs07.04a"/>
-    <part name="gs10.02c"/>
-    <part name="gs06.02a"/>
-    <part name="gs22.06n"/>
-    <part name="gs18.06l"/>
-    <part name="gs21.04n"/>
-    <part name="gs17.04l"/>
-    <part name="gs20.03n"/>
-    <part name="gs16.03l"/>
-    <part name="gs19.01n"/>
-    <part name="gs15.01l"/>
-    <part name="g-01.03b"/>
-    <part name="g-02.04b"/>
-    <part name="g-03.05b"/>
-    <part name="g-04.09d"/>
-    <part name="g-06.14a"/>
-    <part name="g-07.15a"/>
-    <part name="g-09.09f"/>
-    <part name="g-08.08f"/>
-    <part name="g-10.02j"/>
-    <part name="g-05.01f"/>
-  </rom>
-  <rom index="0" md5="f06442c96d2b9b6115f45c30bb18cced" type="split" zip="gunsmokej.zip">
-    <part name="gsj_03.09n"/>
-    <part name="gs04.10n" zip="gunsmoke.zip"/>
-    <part name="gs05.12n" zip="gunsmoke.zip"/>
-    <part name="gs02.14h" zip="gunsmoke.zip"/>
-    <part name="gs01.11f" zip="gunsmoke.zip"/>
-    <part name="gs14.11c" zip="gunsmoke.zip"/>
-    <part name="gs13.06c" zip="gunsmoke.zip"/>
-    <part name="gs09.06a" zip="gunsmoke.zip"/>
-    <part name="gs12.05c" zip="gunsmoke.zip"/>
-    <part name="gs08.05a" zip="gunsmoke.zip"/>
-    <part name="gs11.04c" zip="gunsmoke.zip"/>
-    <part name="gs07.04a" zip="gunsmoke.zip"/>
-    <part name="gs10.02c" zip="gunsmoke.zip"/>
-    <part name="gs06.02a" zip="gunsmoke.zip"/>
-    <part name="gs22.06n" zip="gunsmoke.zip"/>
-    <part name="gs18.06l" zip="gunsmoke.zip"/>
-    <part name="gs21.04n" zip="gunsmoke.zip"/>
-    <part name="gs17.04l" zip="gunsmoke.zip"/>
-    <part name="gs20.03n" zip="gunsmoke.zip"/>
-    <part name="gs16.03l" zip="gunsmoke.zip"/>
-    <part name="gs19.01n" zip="gunsmoke.zip"/>
-    <part name="gs15.01l" zip="gunsmoke.zip"/>
-    <part name="g-01.03b" zip="gunsmoke.zip"/>
-    <part name="g-02.04b" zip="gunsmoke.zip"/>
-    <part name="g-03.05b" zip="gunsmoke.zip"/>
-    <part name="g-04.09d" zip="gunsmoke.zip"/>
-    <part name="g-06.14a" zip="gunsmoke.zip"/>
-    <part name="g-07.15a" zip="gunsmoke.zip"/>
-    <part name="g-09.09f" zip="gunsmoke.zip"/>
-    <part name="g-08.08f" zip="gunsmoke.zip"/>
-    <part name="g-10.02j" zip="gunsmoke.zip"/>
-    <part name="g-05.01f" zip="gunsmoke.zip"/>
-  </rom>
-  <rom index="0" md5="f06442c96d2b9b6115f45c30bb18cced" type="nonmerged" zip="gunsmokej.zip">
-    <part name="gsj_03.09n"/>
-    <part name="gs04.10n"/>
-    <part name="gs05.12n"/>
-    <part name="gs02.14h"/>
-    <part name="gs01.11f"/>
-    <part name="gs14.11c"/>
-    <part name="gs13.06c"/>
-    <part name="gs09.06a"/>
-    <part name="gs12.05c"/>
-    <part name="gs08.05a"/>
-    <part name="gs11.04c"/>
-    <part name="gs07.04a"/>
-    <part name="gs10.02c"/>
-    <part name="gs06.02a"/>
-    <part name="gs22.06n"/>
-    <part name="gs18.06l"/>
-    <part name="gs21.04n"/>
-    <part name="gs17.04l"/>
-    <part name="gs20.03n"/>
-    <part name="gs16.03l"/>
-    <part name="gs19.01n"/>
-    <part name="gs15.01l"/>
-    <part name="g-01.03b"/>
-    <part name="g-02.04b"/>
-    <part name="g-03.05b"/>
-    <part name="g-04.09d"/>
-    <part name="g-06.14a"/>
-    <part name="g-07.15a"/>
-    <part name="g-09.09f"/>
-    <part name="g-08.08f"/>
-    <part name="g-10.02j"/>
-    <part name="g-05.01f"/>
+  
+  
+  <rom index='0' md5='f06442c96d2b9b6115f45c30bb18cced' type='merged|nonmerged|split' zip='gunsmokej.zip|gunsmoke.zip'>
+    <part crc='b56b5df6' name='gsj_03.09n'/>
+    <part crc='8d4b423f' name='gs04.10n'/>
+    <part crc='2b5667fb' name='gs05.12n'/>
+    <part crc='cd7a2c38' name='gs02.14h'/>
+    <part crc='b61ece9b' name='gs01.11f'/>
+    <part crc='0af4f7eb' name='gs14.11c'/>
+    <part crc='f6769fc5' name='gs13.06c'/>
+    <part crc='539f182d' name='gs09.06a'/>
+    <part crc='d997b78c' name='gs12.05c'/>
+    <part crc='e87e526d' name='gs08.05a'/>
+    <part crc='125ba58e' name='gs11.04c'/>
+    <part crc='4382c0d2' name='gs07.04a'/>
+    <part crc='f469c13c' name='gs10.02c'/>
+    <part crc='4cafe7a6' name='gs06.02a'/>
+    <part crc='dc9c508c' name='gs22.06n'/>
+    <part crc='f69a3c7c' name='gs18.06l'/>
+    <part crc='68883749' name='gs21.04n'/>
+    <part crc='4e98562a' name='gs17.04l'/>
+    <part crc='0be932ed' name='gs20.03n'/>
+    <part crc='0d99c3b3' name='gs16.03l'/>
+    <part crc='63072f93' name='gs19.01n'/>
+    <part crc='7f14270e' name='gs15.01l'/>
+    <part crc='02f55589' name='g-01.03b'/>
+    <part crc='e1e36dd9' name='g-02.04b'/>
+    <part crc='989399c0' name='g-03.05b'/>
+    <part crc='906612b5' name='g-04.09d'/>
+    <part crc='4a9da18b' name='g-06.14a'/>
+    <part crc='cb9394fc' name='g-07.15a'/>
+    <part crc='3cee181e' name='g-09.09f'/>
+    <part crc='ef91cdd2' name='g-08.08f'/>
+    <part crc='0eaf5158' name='g-10.02j'/>
+    <part crc='25c90c2a' name='g-05.01f'/>
   </rom>
 </misterromdescription>

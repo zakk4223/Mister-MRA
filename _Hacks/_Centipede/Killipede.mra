@@ -8,14 +8,14 @@
   <category>Maze / Centipede</category>
   <category>Maze / Spiders</category>
   <rbf>centipede</rbf>
-  <rom index='0' md5='e2712a9e1b299de3ad669c2073667a93' type='merged' zip='/hbmame/centiped.zip'>
-    <part name='astropd2/136001-307.d1'/>
-    <part name='astropd2/136001-308.e1'/>
-    <part name='astropd2/136001-309.fh1'/>
-    <part name='astropd2/136001-310.j1'/>
-    <part name='killiped/killiped.211'/>
-    <part name='killiped/killiped.212'/>
-    <part name='136001-213.p4'/>
+  <rom index='0' md5='e2712a9e1b299de3ad669c2073667a93' type='merged|nonmerged|split' zip='/hbmame/astropd2.zip|/hbmame/centiped.zip'>
+    <part crc='5ab0d9de' name='136001-307.d1'/>
+    <part crc='4c07fd3e' name='136001-308.e1'/>
+    <part crc='ff69b424' name='136001-309.fh1'/>
+    <part crc='44e40fa4' name='136001-310.j1'/>
+    <part crc='FIXME' name='killiped.211'/>
+    <part crc='FIXME' name='killiped.212'/>
+    <part crc='6fa3093a' name='136001-213.p4'/>
   </rom>
   
   

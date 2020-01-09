@@ -1,10 +1,10 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index='0' md5='47b5dc3c2683e23b387115da19e2771a' type='nonmerged|split|merged' zip='rallyx.zip'>
-    <part name='1b'/>
-    <part name='rallyxn.1e'/>
-    <part name='rallyxn.1h'/>
-    <part name='rallyxn.1k'/>
+  <rom index='0' md5='47b5dc3c2683e23b387115da19e2771a' type='merged|nonmerged|split' zip='rallyx.zip'>
+    <part crc='5882700d' name='1b'/>
+    <part crc='ed1eba2b' name='rallyxn.1e'/>
+    <part crc='4f98dd1c' name='rallyxn.1h'/>
+    <part crc='9aacccf0' name='rallyxn.1k'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
@@ -1031,11 +1031,11 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name='8e'/>
-    <part name='rx1-6.8m'/>
-    <part name='rx1-5.3p'/>
-    <part name='rx1-7.8p'/>
-    <part name='rx1-1.11n'/>
+    <part crc='277c1de5' name='8e'/>
+    <part crc='3c16f62c' name='rx1-6.8m'/>
+    <part crc='4bad7017' name='rx1-5.3p'/>
+    <part crc='834d4fda' name='rx1-7.8p'/>
+    <part crc='c7865434' name='rx1-1.11n'/>
   </rom>
   
   

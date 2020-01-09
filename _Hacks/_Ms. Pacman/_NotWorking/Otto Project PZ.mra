@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='26ed9076111c6d10d26959bc6c37d9ba' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='ottopz/ottopz.1'/>
-    <part name='ottopz/ottopz.2'/>
-    <part name='ottopz/ottopz.3'/>
-    <part name='ottopz/ottopz.4'/>
-    <part name='ottopz/ottopz.5'/>
-    <part name='ottopz/ottopz.6'/>
+  <rom index='0' md5='26ed9076111c6d10d26959bc6c37d9ba' type='merged|nonmerged|split' zip='/hbmame/ottopz.zip|/hbmame/mspacman.zip'>
+    <part crc='35b94585' name='ottopz.1'/>
+    <part crc='298dbd3d' name='ottopz.2'/>
+    <part crc='6f0c25bd' name='ottopz.3'/>
+    <part crc='3af7ef8c' name='ottopz.4'/>
+    <part crc='098c2a09' name='ottopz.5'/>
+    <part crc='367e5c05' name='ottopz.6'/>
     <part repeat='8192'>00</part>
-    <part name='ottopz/ottopz.5e'/>
-    <part name='ottopz/ottopz.5f'/>
+    <part crc='046d76fb' name='ottopz.5e'/>
+    <part crc='402e194d' name='ottopz.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

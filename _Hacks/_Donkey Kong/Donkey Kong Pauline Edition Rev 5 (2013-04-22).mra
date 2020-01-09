@@ -1,31 +1,31 @@
 <misterromdescription>
   <rbf>DonkeyKong</rbf>
-  <rom index='0' md5='4199f3c6b3ff198240e925f728e96080' type='merged' zip='/hbmame/dkong.zip'>
-    <part name='c_5et_g.bin'/>
-    <part name='dkongpe/c_5ct_gp.bin'/>
-    <part name='dkongpe/c_5bt_gp.bin'/>
-    <part name='dkongpe/c_5at_gp.bin'/>
-    <part name='dkongpe/c_5at_gp.bin'/>
-    <part name='dkongpe/c_5at_gp.bin'/>
-    <part name='dkongpe/v_3ptp.bin'/>
-    <part name='dkongpe/v_3ptp.bin'/>
-    <part name='dkongpe/v_5h_bp.bin'/>
-    <part name='dkongpe/v_5h_bp.bin'/>
-    <part name='dkongpe/c_5at_gp.bin'/>
-    <part name='dkongpe/c_5at_gp.bin'/>
-    <part name='dkongpe/l_4m_bp.bin'/>
-    <part name='dkongpe/l_4m_bp.bin'/>
-    <part name='dkongpe/l_4n_bp.bin'/>
-    <part name='dkongpe/l_4n_bp.bin'/>
-    <part name='dkongpe/l_4r_bp.bin'/>
-    <part name='dkongpe/l_4r_bp.bin'/>
-    <part name='dkongpe/l_4s_bp.bin'/>
-    <part name='dkongpe/l_4s_bp.bin'/>
-    <part name='s_3i_b.bin'/>
-    <part name='s_3j_b.bin'/>
-    <part name='c-2k.bpr'/>
-    <part name='c-2j.bpr'/>
-    <part name='v-5e.bpr'/>
+  <rom index='0' md5='4199f3c6b3ff198240e925f728e96080' type='merged|nonmerged|split' zip='/hbmame/dkongpe.zip|/hbmame/dkong.zip'>
+    <part crc='ba70b88b' name='c_5et_g.bin'/>
+    <part crc='45af403e' name='c_5ct_gp.bin'/>
+    <part crc='3a9783b7' name='c_5bt_gp.bin'/>
+    <part crc='32bc20ff' name='c_5at_gp.bin'/>
+    <part crc='32bc20ff' name='c_5at_gp.bin'/>
+    <part crc='32bc20ff' name='c_5at_gp.bin'/>
+    <part crc='a967aff0' name='v_3ptp.bin'/>
+    <part crc='a967aff0' name='v_3ptp.bin'/>
+    <part crc='007aa348' name='v_5h_bp.bin'/>
+    <part crc='007aa348' name='v_5h_bp.bin'/>
+    <part crc='32bc20ff' name='c_5at_gp.bin'/>
+    <part crc='32bc20ff' name='c_5at_gp.bin'/>
+    <part crc='766ae006' name='l_4m_bp.bin'/>
+    <part crc='766ae006' name='l_4m_bp.bin'/>
+    <part crc='39e7ca4b' name='l_4n_bp.bin'/>
+    <part crc='39e7ca4b' name='l_4n_bp.bin'/>
+    <part crc='012f2f25' name='l_4r_bp.bin'/>
+    <part crc='012f2f25' name='l_4r_bp.bin'/>
+    <part crc='84eb5bfb' name='l_4s_bp.bin'/>
+    <part crc='84eb5bfb' name='l_4s_bp.bin'/>
+    <part crc='45a4ed06' name='s_3i_b.bin'/>
+    <part crc='4743fe92' name='s_3j_b.bin'/>
+    <part crc='e273ede5' name='c-2k.bpr'/>
+    <part crc='d6412358' name='c-2j.bpr'/>
+    <part crc='b869b8f5' name='v-5e.bpr'/>
     <part repeat='3328'>00</part>
     <part>
 80 80 80 80 80 80 7f 7f 7f 7f 7f 7f 7f 80 80 80 

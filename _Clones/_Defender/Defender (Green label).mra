@@ -6,54 +6,24 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='5e2632f4068a825befd041dc21ac9fb3' type='merged|nonmerged' zip='defender.zip'>
-    <part name='defenderg/defeng01.bin'/>
-    <part name='defenderg/defeng04.bin'/>
-    <part name='attackf/002-2.ic2'/>
-    <part name='defenderg/defeng03.bin'/>
-    <part name='attackf/002-9.ic12'/>
-    <part name='defenderb/defeng12.bin'/>
-    <part name='defenderb/defeng08.bin'/>
-    <part name='attackf/002-11.ic8'/>
-    <part name='attackf/002-7.ic10'/>
-    <part name='defenderb/defeng10.bin'/>
-    <part name='attackf/002-6.ic6'/>
-    <part name='defend.snd'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
-  </rom>
-  <rom index='0' md5='5e2632f4068a825befd041dc21ac9fb3' type='split' zip='defenderg.zip'>
-    <part name='defeng01.bin'/>
-    <part name='defeng04.bin'/>
-    <part name='defeng02.bin'/>
-    <part name='defeng03.bin'/>
-    <part name='defeng09.bin'/>
-    <part name='defeng12.bin'/>
-    <part name='defeng08.bin'/>
-    <part name='defeng11.bin'/>
-    <part name='defeng07.bin'/>
-    <part name='defeng10.bin'/>
-    <part name='defeng06.bin'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
   
   
-  <rom index='0' md5='5e2632f4068a825befd041dc21ac9fb3' type='nonmerged' zip='defenderg.zip'>
-    <part name='defeng01.bin'/>
-    <part name='defeng04.bin'/>
-    <part name='defeng02.bin'/>
-    <part name='defeng03.bin'/>
-    <part name='defeng09.bin'/>
-    <part name='defeng12.bin'/>
-    <part name='defeng08.bin'/>
-    <part name='defeng11.bin'/>
-    <part name='defeng07.bin'/>
-    <part name='defeng10.bin'/>
-    <part name='defeng06.bin'/>
-    <part name='defend.snd'/>
-    <part name='decoder.1'/>
-    <part name='decoder.3'/>
+  
+  
+  <rom index='0' md5='5e2632f4068a825befd041dc21ac9fb3' type='merged|nonmerged|split' zip='defenderg.zip|defender.zip'>
+    <part crc='6111d74d' name='defeng01.bin'/>
+    <part crc='3cfc04ce' name='defeng04.bin'/>
+    <part crc='d184ab6b' name='defeng02.bin'/>
+    <part crc='788b76d7' name='defeng03.bin'/>
+    <part crc='f57caa62' name='defeng09.bin'/>
+    <part crc='33db686f' name='defeng12.bin'/>
+    <part crc='9a9eb3d2' name='defeng08.bin'/>
+    <part crc='5ca4e860' name='defeng11.bin'/>
+    <part crc='545c3326' name='defeng07.bin'/>
+    <part crc='941cf34e' name='defeng10.bin'/>
+    <part crc='3af34c05' name='defeng06.bin'/>
+    <part crc='fefd5b48' name='defend.snd'/>
+    <part crc='8dd98da5' name='decoder.1'/>
+    <part crc='FIXME' name='decoder.3'/>
   </rom>
 </misterromdescription>

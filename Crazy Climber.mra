@@ -7,19 +7,19 @@
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
   <rom index='0' md5='b6b06723da0f0e6e183723285b0bf5be' type='merged|nonmerged|split' zip='cclimber.zip'>
-    <part name='cc11'/>
-    <part name='cc10'/>
-    <part name='cc09'/>
-    <part name='cc08'/>
-    <part name='cc07'/>
-    <part name='cc06'/>
-    <part name='cc05'/>
-    <part name='cc04'/>
-    <part name='cc03'/>
-    <part name='cc02'/>
-    <part name='cc01'/>
-    <part name='cc13'/>
-    <part name='cc12'/>
+    <part crc='217ec4ff' name='cc11'/>
+    <part crc='b3c26cef' name='cc10'/>
+    <part crc='6db0879c' name='cc09'/>
+    <part crc='f48c5fe3' name='cc08'/>
+    <part crc='3e873baf' name='cc07'/>
+    <part crc='481b64cc' name='cc06'/>
+    <part crc='2c33b760' name='cc05'/>
+    <part crc='332347cb' name='cc04'/>
+    <part crc='4e4b3658' name='cc03'/>
+    <part crc='14f3ecc9' name='cc02'/>
+    <part crc='21c0f9fb' name='cc01'/>
+    <part crc='e0042f75' name='cc13'/>
+    <part crc='5da13aaa' name='cc12'/>
   </rom>
   
   

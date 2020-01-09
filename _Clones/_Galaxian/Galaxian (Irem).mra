@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='5080c261323e3d3524e3e54f08d7ebc3' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galaxiani/cp-1.8g'/>
-    <part name='galaxianbl2/j7.7j'/>
-    <part name='galap1/galaxian.w'/>
-    <part name='galaxiani/cp-4.8d'/>
-    <part name='galaxiana/7l.bin'/>
-    <part name='galaxiana/7l.bin'/>
-    <part name='galaxiana/7l.bin'/>
-    <part name='galaxiana/7l.bin'/>
-    <part name='galaxiani/cp-7.1k'/>
-    <part name='galaxiani/cp-7.1k'/>
-    <part name='galaxiani/cp-6.1j'/>
-    <part name='galaxiani/cp-6.1j'/>
-  </rom>
-  <rom index='0' md5='5080c261323e3d3524e3e54f08d7ebc3' type='split|nonmerged' zip='galaxiani.zip'>
-    <part name='cp-1.8g'/>
-    <part name='cp-2.8f'/>
-    <part name='cp-3.8e'/>
-    <part name='cp-4.8d'/>
-    <part name='cp-5.8c'/>
-    <part name='cp-5.8c'/>
-    <part name='cp-5.8c'/>
-    <part name='cp-5.8c'/>
-    <part name='cp-7.1k'/>
-    <part name='cp-7.1k'/>
-    <part name='cp-6.1j'/>
-    <part name='cp-6.1j'/>
+  
+  <rom index='0' md5='5080c261323e3d3524e3e54f08d7ebc3' type='merged|nonmerged|split' zip='galaxiani.zip|galaxian.zip'>
+    <part crc='e8f3aa67' name='cp-1.8g'/>
+    <part crc='f58283e3' name='cp-2.8f'/>
+    <part crc='4c7031c0' name='cp-3.8e'/>
+    <part crc='097d92a2' name='cp-4.8d'/>
+    <part crc='5341d75a' name='cp-5.8c'/>
+    <part crc='5341d75a' name='cp-5.8c'/>
+    <part crc='5341d75a' name='cp-5.8c'/>
+    <part crc='5341d75a' name='cp-5.8c'/>
+    <part crc='287159b7' name='cp-7.1k'/>
+    <part crc='287159b7' name='cp-7.1k'/>
+    <part crc='6fb54cb1' name='cp-6.1j'/>
+    <part crc='6fb54cb1' name='cp-6.1j'/>
   </rom>
   
 </misterromdescription>

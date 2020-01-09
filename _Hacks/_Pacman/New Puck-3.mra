@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='a06bd10529b4a25f9777ee2499aac731' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='chtpman2/newpuck2.6e'/>
-    <part name='baby2/pacman.6f'/>
-    <part name='newpuck3/newpuck3.6h'/>
-    <part name='newpuck3/newpuck3.6j'/>
+  <rom index='0' md5='a06bd10529b4a25f9777ee2499aac731' type='merged|nonmerged|split' zip='/hbmame/newpuck3.zip|/hbmame/puckman.zip'>
+    <part crc='a8ae23c5' name='newpuck2.6e'/>
+    <part crc='1a6fb2d4' name='pacman.6f'/>
+    <part crc='ee3c8685' name='newpuck3.6h'/>
+    <part crc='6ee64463' name='newpuck3.6j'/>
     <part repeat='16384'>00</part>
-    <part name='newpuck3/newpuck3.5e'/>
-    <part name='newpuck3/newpuck3.5f'/>
+    <part crc='6209b614' name='newpuck3.5e'/>
+    <part crc='923515bc' name='newpuck3.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

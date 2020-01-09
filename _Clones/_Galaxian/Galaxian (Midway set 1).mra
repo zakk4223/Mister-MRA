@@ -6,46 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='82e9e2735900bcadf5c3fdcb73dcf101' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galmidw.u'/>
-    <part name='galmidw.v'/>
-    <part name='galmidw.w'/>
-    <part name='galmidw.y'/>
-    <part name='galaxianm/galmidw.z'/>
-    <part name='galaxianm/galmidw.z'/>
-    <part name='galaxianm/galmidw.z'/>
-    <part name='galaxianm/galmidw.z'/>
-    <part name='galap1/galmidw.1j'/>
-    <part name='galap1/galmidw.1j'/>
-    <part name='galap1/galmidw.1k'/>
-    <part name='galap1/galmidw.1k'/>
-  </rom>
-  <rom index='0' md5='82e9e2735900bcadf5c3fdcb73dcf101' type='split' zip='galaxianm.zip'>
-    <part name='galmidw.u' zip='galaxian.zip'/>
-    <part name='galmidw.v' zip='galaxian.zip'/>
-    <part name='galmidw.w' zip='galaxian.zip'/>
-    <part name='galmidw.y' zip='galaxian.zip'/>
-    <part name='galmidw.z'/>
-    <part name='galmidw.z'/>
-    <part name='galmidw.z'/>
-    <part name='galmidw.z'/>
-    <part name='galaxian.j1'/>
-    <part name='galaxian.j1'/>
-    <part name='galaxian.l1'/>
-    <part name='galaxian.l1'/>
-  </rom>
-  <rom index='0' md5='82e9e2735900bcadf5c3fdcb73dcf101' type='nonmerged' zip='galaxianm.zip'>
-    <part name='galmidw.u'/>
-    <part name='galmidw.v'/>
-    <part name='galmidw.w'/>
-    <part name='galmidw.y'/>
-    <part name='galmidw.z'/>
-    <part name='galmidw.z'/>
-    <part name='galmidw.z'/>
-    <part name='galmidw.z'/>
-    <part name='galaxian.j1'/>
-    <part name='galaxian.j1'/>
-    <part name='galaxian.l1'/>
-    <part name='galaxian.l1'/>
+  
+  
+  <rom index='0' md5='82e9e2735900bcadf5c3fdcb73dcf101' type='merged|nonmerged|split' zip='galaxianm.zip|galaxian.zip'>
+    <part crc='745e2d61' name='galmidw.u'/>
+    <part crc='9c999a40' name='galmidw.v'/>
+    <part crc='b5894925' name='galmidw.w'/>
+    <part crc='6b3ca10b' name='galmidw.y'/>
+    <part crc='cb24f797' name='galmidw.z'/>
+    <part crc='cb24f797' name='galmidw.z'/>
+    <part crc='cb24f797' name='galmidw.z'/>
+    <part crc='cb24f797' name='galmidw.z'/>
+    <part crc='84decf98' name='galaxian.j1'/>
+    <part crc='84decf98' name='galaxian.j1'/>
+    <part crc='c31ada9e' name='galaxian.l1'/>
+    <part crc='c31ada9e' name='galaxian.l1'/>
   </rom>
 </misterromdescription>

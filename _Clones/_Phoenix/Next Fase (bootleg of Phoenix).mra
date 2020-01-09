@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='cd6737ba7acdfe20da59c22eb83ef218' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='nextfase/nf01.bin'/>
-    <part name='nextfase/nf02.bin'/>
-    <part name='nextfase/nf03.bin'/>
-    <part name='nextfase/nf04.bin'/>
-    <part name='nextfase/nf05.bin'/>
-    <part name='h6-ic50.6a'/>
-    <part name='h7-ic51.7a'/>
-    <part name='nextfase/nf08.bin'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='nextfase/nf09.bin'/>
-    <part name='nextfase/nf10.bin'/>
-  </rom>
-  <rom index='0' md5='cd6737ba7acdfe20da59c22eb83ef218' type='split' zip='nextfase.zip'>
-    <part name='nf01.bin'/>
-    <part name='nf02.bin'/>
-    <part name='nf03.bin'/>
-    <part name='nf04.bin'/>
-    <part name='nf05.bin'/>
-    <part name='h6-ic50.6a' zip='phoenix.zip'/>
-    <part name='h7-ic51.7a' zip='phoenix.zip'/>
-    <part name='nf08.bin'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='nf09.bin'/>
-    <part name='nf10.bin'/>
-  </rom>
-  <rom index='0' md5='cd6737ba7acdfe20da59c22eb83ef218' type='nonmerged' zip='nextfase.zip'>
-    <part name='nf01.bin'/>
-    <part name='nf02.bin'/>
-    <part name='nf03.bin'/>
-    <part name='nf04.bin'/>
-    <part name='nf05.bin'/>
-    <part name='nf06.bin'/>
-    <part name='nf07.bin'/>
-    <part name='nf08.bin'/>
-    <part name='nf11.bin'/>
-    <part name='nf12.bin'/>
-    <part name='nf09.bin'/>
-    <part name='nf10.bin'/>
+  
+  
+  <rom index='0' md5='cd6737ba7acdfe20da59c22eb83ef218' type='merged|nonmerged|split' zip='nextfase.zip|phoenix.zip'>
+    <part crc='b31ce820' name='nf01.bin'/>
+    <part crc='891d21e1' name='nf02.bin'/>
+    <part crc='2ab7389d' name='nf03.bin'/>
+    <part crc='590d3c36' name='nf04.bin'/>
+    <part crc='3527f247' name='nf05.bin'/>
+    <part crc='ac5e9ec1' name='nf06.bin'/>
+    <part crc='2eab35b4' name='nf07.bin'/>
+    <part crc='04c2323f' name='nf08.bin'/>
+    <part crc='3c7e623f' name='nf11.bin'/>
+    <part crc='59916d3b' name='nf12.bin'/>
+    <part crc='bacbfa88' name='nf09.bin'/>
+    <part crc='3143a9ee' name='nf10.bin'/>
   </rom>
 </misterromdescription>

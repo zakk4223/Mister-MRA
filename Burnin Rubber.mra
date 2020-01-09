@@ -7,14 +7,14 @@
   <category>Racing / Cars</category>
   <rbf>burningrubber</rbf>
   <rom index='0' md5='c7d288bc1514495a741b17001e2400a2' type='merged|nonmerged|split' zip='brubber.zip'>
-    <part name='brubber.12c'/>
-    <part name='brubber.12d'/>
-    <part name='bnj4e.bin'/>
-    <part name='bnj4f.bin'/>
-    <part name='bnj4h.bin'/>
-    <part name='bnj10e.bin'/>
-    <part name='bnj10f.bin'/>
-    <part name='bnj6c.bin'/>
+    <part crc='b5279c70' name='brubber.12c'/>
+    <part crc='b2ce51f5' name='brubber.12d'/>
+    <part crc='b864d082' name='bnj4e.bin'/>
+    <part crc='6c31d77a' name='bnj4f.bin'/>
+    <part crc='5824e6fb' name='bnj4h.bin'/>
+    <part crc='f4e9eb49' name='bnj10e.bin'/>
+    <part crc='a9ffacb4' name='bnj10f.bin'/>
+    <part crc='8c02f662' name='bnj6c.bin'/>
   </rom>
   
   

@@ -7,30 +7,16 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroidsdeluxe</rbf>
-  <rom index='0' md5='395f5f531f098e826a0dab03382e17fc' type='merged' zip='astdelux.zip'>
-    <part name='astdelux1/036430-01.d1'/>
-    <part name='astdelux1/036431-01.ef1'/>
-    <part name='astdelux1/036432-01.fh1'/>
-    <part name='astdelux2/036433-02.j1'/>
-    <part name='astdelux1/036800-01.r2'/>
-    <part name='036799-01.np2'/>
+  
+  <rom index='0' md5='395f5f531f098e826a0dab03382e17fc' type='merged|nonmerged|split' zip='astdelux2.zip|astdelux.zip'>
+    <part crc='8f5dabc6' name='036430-01.d1'/>
+    <part crc='157a8516' name='036431-01.ef1'/>
+    <part crc='fdea913c' name='036432-01.fh1'/>
+    <part crc='d8db74e3' name='036433-02.j1'/>
+    <part crc='3b597407' name='036800-01.r2'/>
+    <part crc='7d511572' name='036799-01.np2'/>
   </rom>
-  <rom index='0' md5='395f5f531f098e826a0dab03382e17fc' type='nonmerged' zip='astdelux2.zip'>
-    <part name='036430-01.d1'/>
-    <part name='036431-01.ef1'/>
-    <part name='036432-01.fh1'/>
-    <part name='036433-02.j1'/>
-    <part name='036800-01.r2'/>
-    <part name='036799-01.np2'/>
-  </rom>
-  <rom index='0' md5='395f5f531f098e826a0dab03382e17fc' type='split' zip='astdelux2.zip'>
-    <part name='036430-01.d1'/>
-    <part name='036431-01.ef1'/>
-    <part name='036432-01.fh1'/>
-    <part name='036433-02.j1'/>
-    <part name='036800-01.r2'/>
-    <part name='036799-01.np2' zip='astdelux.zip'/>
-  </rom>
+  
   
   
   

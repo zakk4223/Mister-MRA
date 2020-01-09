@@ -3,30 +3,30 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtcommando</rbf>
-  <rom index='0' md5='da24fcf65015675db696af1c8eaff8ef' type='merged' zip='/hbmame/commando.zip'>
-    <part name='cm04.9m'/>
-    <part name='cm03.8m'/>
-    <part name='cm02.9f'/>
-    <part name='vt01.5d'/>
-    <part name='vt11.5a'/>
-    <part name='vt12.6a'/>
-    <part name='vt15.9a'/>
-    <part name='vt16.10a'/>
-    <part name='vt13.7a'/>
-    <part name='vt14.8a'/>
-    <part name='vt15.9a'/>
-    <part name='vt16.10a'/>
-    <part name='comdelux/dx_vt05.7e'/>
-    <part name='vt06.8e'/>
-    <part name='comdelux/dx_vt07.9e'/>
-    <part name='comdelux/dx_vt08.7h'/>
-    <part name='vt09.8h'/>
-    <part name='comdelux/dx_vt10.9h'/>
-    <part name='vtb1.1d'/>
-    <part name='vtb2.2d'/>
-    <part name='vtb3.3d'/>
-    <part name='vtb4.1h'/>
-    <part name='vtb5.6l'/>
-    <part name='vtb6.6e'/>
+  <rom index='0' md5='da24fcf65015675db696af1c8eaff8ef' type='merged|nonmerged|split' zip='/hbmame/comdelux.zip|/hbmame/commando.zip'>
+    <part crc='8438b694' name='cm04.9m'/>
+    <part crc='35486542' name='cm03.8m'/>
+    <part crc='f9cc4a74' name='cm02.9f'/>
+    <part crc='505726e0' name='vt01.5d'/>
+    <part crc='7b2e1b48' name='vt11.5a'/>
+    <part crc='81b417d3' name='vt12.6a'/>
+    <part crc='de70babf' name='vt15.9a'/>
+    <part crc='14178237' name='vt16.10a'/>
+    <part crc='5612dbd2' name='vt13.7a'/>
+    <part crc='2b2dee36' name='vt14.8a'/>
+    <part crc='de70babf' name='vt15.9a'/>
+    <part crc='14178237' name='vt16.10a'/>
+    <part crc='b1839dd4' name='dx_vt05.7e'/>
+    <part crc='26fee521' name='vt06.8e'/>
+    <part crc='4cb1cd67' name='dx_vt07.9e'/>
+    <part crc='42ff8a11' name='dx_vt08.7h'/>
+    <part crc='98703982' name='vt09.8h'/>
+    <part crc='7650a262' name='dx_vt10.9h'/>
+    <part crc='3aba15a1' name='vtb1.1d'/>
+    <part crc='88865754' name='vtb2.2d'/>
+    <part crc='4c14c3f6' name='vtb3.3d'/>
+    <part crc='b388c246' name='vtb4.1h'/>
+    <part crc='712ac508' name='vtb5.6l'/>
+    <part crc='0eaf5158' name='vtb6.6e'/>
   </rom>
 </misterromdescription>

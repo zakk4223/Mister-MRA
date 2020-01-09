@@ -8,23 +8,15 @@
   <category>Maze / Centipede</category>
   <category>Maze / Spiders</category>
   <rbf>centipede</rbf>
-  <rom index='0' md5='fd85408bd817da7bf48b5e16bd9696fc' type='merged|nonmerged' zip='centiped.zip'>
-    <part name='millpac/millpac1.1d'/>
-    <part name='millpac/millpac2.1e'/>
-    <part name='millpac/millpac3.1h'/>
-    <part name='millpac/millpac4.1j'/>
-    <part name='millpac/millpac6.7f'/>
-    <part name='millpac/millpac7.7j'/>
-    <part name='millpac/millpac.4p'/>
-  </rom>
-  <rom index='0' md5='fd85408bd817da7bf48b5e16bd9696fc' type='split|nonmerged' zip='millpac.zip'>
-    <part name='millpac1.1d'/>
-    <part name='millpac2.1e'/>
-    <part name='millpac3.1h'/>
-    <part name='millpac4.1j'/>
-    <part name='millpac6.7f'/>
-    <part name='millpac7.7j'/>
-    <part name='millpac.4p'/>
+  
+  <rom index='0' md5='fd85408bd817da7bf48b5e16bd9696fc' type='merged|nonmerged|split' zip='millpac.zip|centiped.zip'>
+    <part crc='4dd6913d' name='millpac1.1d'/>
+    <part crc='411c81f1' name='millpac2.1e'/>
+    <part crc='577076cc' name='millpac3.1h'/>
+    <part crc='89aedd75' name='millpac4.1j'/>
+    <part crc='79f05520' name='millpac6.7f'/>
+    <part crc='4880b2bd' name='millpac7.7j'/>
+    <part crc='ba40e1a9' name='millpac.4p'/>
   </rom>
   
   

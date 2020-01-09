@@ -6,37 +6,17 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='831104c5af513b714319b7aa234332fb' type='merged' zip='scramble.zip'>
-    <part name='scramrf/2c.cpu'/>
-    <part name='scrammr/302.e2'/>
-    <part name='scramrf/2j.cpu'/>
-    <part name='scramrf/2m.cpu'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='kamikazesp/1-a.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
-  </rom>
-  <rom index='0' md5='831104c5af513b714319b7aa234332fb' type='split' zip='scramrf.zip'>
-    <part name='2c.cpu'/>
-    <part name='2f.cpu'/>
-    <part name='2j.cpu'/>
-    <part name='2m.cpu'/>
-    <part name='c1.5h' zip='scramble.zip'/>
-    <part name='c2.5f' zip='scramble.zip'/>
-    <part name='5c.cpu'/>
-    <part name='ot2.5d' zip='scramble.zip'/>
-    <part name='ot3.5e' zip='scramble.zip'/>
-  </rom>
-  <rom index='0' md5='831104c5af513b714319b7aa234332fb' type='nonmerged' zip='scramrf.zip'>
-    <part name='2c.cpu'/>
-    <part name='2f.cpu'/>
-    <part name='2j.cpu'/>
-    <part name='2m.cpu'/>
-    <part name='5h.cpu'/>
-    <part name='5f.cpu'/>
-    <part name='5c.cpu'/>
-    <part name='5d.cpu'/>
-    <part name='5e.cpu'/>
+  
+  
+  <rom index='0' md5='831104c5af513b714319b7aa234332fb' type='merged|nonmerged|split' zip='scramrf.zip|scramble.zip'>
+    <part crc='85fa7de3' name='2c.cpu'/>
+    <part crc='5b500c90' name='2f.cpu'/>
+    <part crc='179e1c1f' name='2j.cpu'/>
+    <part crc='4a4bb870' name='2m.cpu'/>
+    <part crc='11fd2887' name='5h.cpu'/>
+    <part crc='4708845b' name='5f.cpu'/>
+    <part crc='be037cf6' name='5c.cpu'/>
+    <part crc='de7912da' name='5d.cpu'/>
+    <part crc='ba2fa933' name='5e.cpu'/>
   </rom>
 </misterromdescription>

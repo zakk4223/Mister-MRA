@@ -7,49 +7,21 @@
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
-  <rom index='0' md5='e7f2fac51ee3cd33859b702c75089707' type='merged|nonmerged' zip='uniwars.zip'>
-    <part name='f07_1a.bin'/>
-    <part name='gteikokub3/g0.a2'/>
-    <part name='k07_3a.bin'/>
-    <part name='m07_4a.bin'/>
-    <part name='d08p_5a.bin'/>
-    <part name='galemp/6'/>
-    <part name='m08p_7a.bin'/>
-    <part name='n08p_8a.bin'/>
-    <part name='gteikoku/h01_1.bin'/>
-    <part name='h01_2.bin'/>
-    <part name='gteikoku/k01_1.bin'/>
-    <part name='k01_2.bin'/>
-    <part name='galemp/l06_prom.bin'/>
-  </rom>
-  <rom index='0' md5='e7f2fac51ee3cd33859b702c75089707' type='split' zip='gteikokub3.zip'>
-    <part name='f07_1a.bin' zip='uniwars.zip'/>
-    <part name='g0.a2'/>
-    <part name='k07_3a.bin' zip='uniwars.zip'/>
-    <part name='m07_4a.bin' zip='uniwars.zip'/>
-    <part name='d08p_5a.bin' zip='uniwars.zip'/>
-    <part name='g6.b2'/>
-    <part name='m08p_7a.bin' zip='uniwars.zip'/>
-    <part name='n08p_8a.bin' zip='uniwars.zip'/>
-    <part name='g10.2'/>
-    <part name='h01_2.bin' zip='uniwars.zip'/>
-    <part name='g9.1'/>
-    <part name='k01_2.bin' zip='uniwars.zip'/>
-    <part name='colprom.6l'/>
-  </rom>
-  <rom index='0' md5='e7f2fac51ee3cd33859b702c75089707' type='nonmerged' zip='gteikokub3.zip'>
-    <part name='g1.a3'/>
-    <part name='g0.a2'/>
-    <part name='xx.a1'/>
-    <part name='g2.a4'/>
-    <part name='g5.b1'/>
-    <part name='g6.b2'/>
-    <part name='g7.b3'/>
-    <part name='xx.b4'/>
-    <part name='g10.2'/>
-    <part name='g12.4'/>
-    <part name='g9.1'/>
-    <part name='g11.3'/>
-    <part name='colprom.6l'/>
+  
+  
+  <rom index='0' md5='e7f2fac51ee3cd33859b702c75089707' type='merged|nonmerged|split' zip='gteikokub3.zip|uniwars.zip'>
+    <part crc='d975af10' name='g1.a3'/>
+    <part crc='378aba50' name='g0.a2'/>
+    <part crc='945f4160' name='xx.a1'/>
+    <part crc='ddc80bc5' name='g2.a4'/>
+    <part crc='62354351' name='g5.b1'/>
+    <part crc='d915a389' name='g6.b2'/>
+    <part crc='c9245346' name='g7.b3'/>
+    <part crc='797d45c7' name='xx.b4'/>
+    <part crc='8313c959' name='g10.2'/>
+    <part crc='c26132af' name='g12.4'/>
+    <part crc='c9d4537e' name='g9.1'/>
+    <part crc='dcc2b33b' name='g11.3'/>
+    <part crc='6a0c7d87' name='colprom.6l'/>
   </rom>
 </misterromdescription>

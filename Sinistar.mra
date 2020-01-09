@@ -9,21 +9,21 @@
   <category>Space / Fighter</category>
   <rbf>sinistar</rbf>
   <rom index='0' md5='d0628eadf60fe7f2fed1c2e541f55a22' type='merged|nonmerged|split' zip='sinistar.zip'>
-    <part name='sinistar.10'/>
-    <part name='sinistar.10'/>
-    <part name='sinistar.11'/>
-    <part name='sinistar.01'/>
-    <part name='sinistar.02'/>
-    <part name='sinistar.03'/>
-    <part name='sinistar.04'/>
-    <part name='sinistar.05'/>
-    <part name='sinistar.06'/>
-    <part name='sinistar.07'/>
-    <part name='sinistar.08'/>
-    <part name='sinistar.09'/>
-    <part name='sinistar.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+    <part crc='3d670417' name='sinistar.10'/>
+    <part crc='3d670417' name='sinistar.10'/>
+    <part crc='3162bc50' name='sinistar.11'/>
+    <part crc='f6f3a22c' name='sinistar.01'/>
+    <part crc='cab3185c' name='sinistar.02'/>
+    <part crc='1ce1b3cc' name='sinistar.03'/>
+    <part crc='6da632ba' name='sinistar.04'/>
+    <part crc='b662e8fc' name='sinistar.05'/>
+    <part crc='2306183d' name='sinistar.06'/>
+    <part crc='e5dd918e' name='sinistar.07'/>
+    <part crc='4785a787' name='sinistar.08'/>
+    <part crc='50cb63ad' name='sinistar.09'/>
+    <part crc='b82f4ddb' name='sinistar.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
   
   

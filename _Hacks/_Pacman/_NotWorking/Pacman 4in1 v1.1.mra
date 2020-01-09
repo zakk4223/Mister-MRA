@@ -7,13 +7,13 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='807e123699e75c8324fb99832c6e9f3a' type='merged' zip='/hbmame/puckman.zip'>
+  <rom index='0' md5='807e123699e75c8324fb99832c6e9f3a' type='merged|nonmerged|split' zip='/hbmame/pm4n1.zip|/hbmame/puckman.zip'>
     <part repeat='16384'>00</part>
-    <part name='pm4n1/96in1a.gfx'/>
+    <part crc='f4ce2dca' name='96in1a.gfx'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

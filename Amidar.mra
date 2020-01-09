@@ -7,46 +7,20 @@
   <category>Maze</category>
   <category>Maze / Qix</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='nonmerged' zip='amidars.zip'>
-    <part name='am2d'/>
-    <part name='am2e'/>
-    <part name='am2f'/>
-    <part name='am2h'/>
-    <part name='am2j'/>
-    <part name='am2l'/>
-    <part name='am2m'/>
-    <part name='am2p'/>
-    <part name='2716.a5'/>
-    <part name='2716.a6'/>
-    <part name='amidarus.5c'/>
-    <part name='amidarus.5d'/>
+  <rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='merged|nonmerged|split' zip='amidars.zip|amidar.zip'>
+    <part crc='24b79547' name='am2d'/>
+    <part crc='4c64161e' name='am2e'/>
+    <part crc='b3987a72' name='am2f'/>
+    <part crc='29873461' name='am2h'/>
+    <part crc='0fdd54d8' name='am2j'/>
+    <part crc='5382f7ed' name='am2l'/>
+    <part crc='1d7109e9' name='am2m'/>
+    <part crc='c9163ac6' name='am2p'/>
+    <part crc='3029f94f' name='2716.a5'/>
+    <part crc='2082ad0a' name='2716.a6'/>
+    <part crc='8ca7b750' name='amidarus.5c'/>
+    <part crc='9b5bdc0a' name='amidarus.5d'/>
   </rom>
-  <rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='merged' zip='amidar.zip'>
-    <part name='amidars/am2d'/>
-    <part name='amidars/am2e'/>
-    <part name='amidars/am2f'/>
-    <part name='amidars/am2h'/>
-    <part name='amidars/am2j'/>
-    <part name='amidars/am2l'/>
-    <part name='amidars/am2m'/>
-    <part name='amidars/am2p'/>
-    <part name='amidarb/6.5h'/>
-    <part name='amidarb/5.5f'/>
-    <part name='s1.5c'/>
-    <part name='s2.5d'/>
-  </rom>
-  <rom index='0' md5='29dbfb61bc9e45f2cebe63743de85a57' type='split' zip='amidar.zip'>
-    <part name='am2d' zip='amidars.zip'/>
-    <part name='am2e' zip='amidars.zip'/>
-    <part name='am2f' zip='amidars.zip'/>
-    <part name='am2h' zip='amidars.zip'/>
-    <part name='am2j' zip='amidars.zip'/>
-    <part name='am2l' zip='amidars.zip'/>
-    <part name='am2m' zip='amidars.zip'/>
-    <part name='am2p' zip='amidars.zip'/>
-    <part name='6.5h' zip='amidarb.zip'/>
-    <part name='5.5f' zip='amidarb.zip'/>
-    <part name='s1.5c'/>
-    <part name='s2.5d'/>
-  </rom>
+  
+  
 </misterromdescription>

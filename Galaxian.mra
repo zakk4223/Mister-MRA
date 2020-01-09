@@ -7,18 +7,18 @@
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
   <rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged|split' zip='galaxian.zip'>
-    <part name='galmidw.u'/>
-    <part name='galmidw.v'/>
-    <part name='galmidw.w'/>
-    <part name='galmidw.y'/>
-    <part name='7l'/>
-    <part name='7l'/>
-    <part name='7l'/>
-    <part name='7l'/>
-    <part name='1h.bin'/>
-    <part name='1h.bin'/>
-    <part name='1k.bin'/>
-    <part name='1k.bin'/>
+    <part crc='745e2d61' name='galmidw.u'/>
+    <part crc='9c999a40' name='galmidw.v'/>
+    <part crc='b5894925' name='galmidw.w'/>
+    <part crc='6b3ca10b' name='galmidw.y'/>
+    <part crc='1b933207' name='7l'/>
+    <part crc='1b933207' name='7l'/>
+    <part crc='1b933207' name='7l'/>
+    <part crc='1b933207' name='7l'/>
+    <part crc='39fb43a4' name='1h.bin'/>
+    <part crc='39fb43a4' name='1h.bin'/>
+    <part crc='7e3f56a2' name='1k.bin'/>
+    <part crc='7e3f56a2' name='1k.bin'/>
   </rom>
   
   

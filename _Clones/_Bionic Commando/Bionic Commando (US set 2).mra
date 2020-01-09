@@ -3,94 +3,36 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtbiocom</rbf>
-  <rom index="0" md5="576aee4c876c70772cabee6928ccc0ec" type="merged" zip="bionicc.zip">
-    <part name="bionicc2/tsu_02.1a"/>
-    <part name="bionicc2/tsu_03.2a"/>
-    <part name="bionicc2/tsu_04.1b"/>
-    <part name="bionicc2/tsu_05.2b"/>
-    <part name="ts_01b.4e"/>
-    <part name="tsu_08.8l"/>
-    <part name="ts_13.18f"/>
-    <part name="ts_18.18g"/>
-    <part name="ts_23.18j"/>
-    <part name="ts_24.18k"/>
-    <part name="tsu_06.4l"/>
-    <part name="tsu_06.4l"/>
-    <part name="ts_12.17f"/>
-    <part name="ts_11.15f"/>
-    <part name="ts_17.17g"/>
-    <part name="ts_16.15g"/>
-    <part name="tsu_07.5l"/>
-    <part name="tsu_07.5l"/>
-    <part name="bionicc1/tsu_22.17j"/>
-    <part name="tsu_21.15j"/>
-    <part name="bionicc1/tsu_20.13j"/>
-    <part name="tsu_19.11j"/>
-    <part name="bionicc1/tsu_15.13g"/>
-    <part name="tsu_14.11g"/>
-    <part name="bionicc1/tsu_10.13f"/>
-    <part name="tsu_09.11f"/>
-    <part name="ts.2f"/>
-    <part name="63s141.18f"/>
-  </rom>
-  <rom index="0" md5="576aee4c876c70772cabee6928ccc0ec" type="split" zip="bionicc2.zip">
-    <part name="tsu_02.1a"/>
-    <part name="tsu_03.2a"/>
-    <part name="tsu_04.1b"/>
-    <part name="tsu_05.2b"/>
-    <part name="ts_01b.4e" zip="bionicc.zip"/>
-    <part name="tsu_08.8l" zip="bionicc.zip"/>
-    <part name="ts_13.18f" zip="bionicc.zip"/>
-    <part name="ts_18.18g" zip="bionicc.zip"/>
-    <part name="ts_23.18j" zip="bionicc.zip"/>
-    <part name="ts_24.18k" zip="bionicc.zip"/>
-    <part name="tsu_06.4l" zip="bionicc.zip"/>
-    <part name="tsu_06.4l" zip="bionicc.zip"/>
-    <part name="ts_12.17f" zip="bionicc.zip"/>
-    <part name="ts_11.15f" zip="bionicc.zip"/>
-    <part name="ts_17.17g" zip="bionicc.zip"/>
-    <part name="ts_16.15g" zip="bionicc.zip"/>
-    <part name="tsu_07.5l" zip="bionicc.zip"/>
-    <part name="tsu_07.5l" zip="bionicc.zip"/>
-    <part name="tsu_22.17j"/>
-    <part name="tsu_21.15j" zip="bionicc.zip"/>
-    <part name="tsu_20.13j"/>
-    <part name="tsu_19.11j" zip="bionicc.zip"/>
-    <part name="tsu_15.13g"/>
-    <part name="tsu_14.11g" zip="bionicc.zip"/>
-    <part name="tsu_10.13f"/>
-    <part name="tsu_09.11f" zip="bionicc.zip"/>
-    <part name="ts.2f" zip="bionicc.zip"/>
-    <part name="63s141.18f" zip="bionicc.zip"/>
-  </rom>
-  <rom index="0" md5="576aee4c876c70772cabee6928ccc0ec" type="nonmerged" zip="bionicc2.zip">
-    <part name="tsu_02.1a"/>
-    <part name="tsu_03.2a"/>
-    <part name="tsu_04.1b"/>
-    <part name="tsu_05.2b"/>
-    <part name="ts_01b.4e"/>
-    <part name="tsu_08.8l"/>
-    <part name="ts_13.18f"/>
-    <part name="ts_18.18g"/>
-    <part name="ts_23.18j"/>
-    <part name="ts_24.18k"/>
-    <part name="tsu_06.4l"/>
-    <part name="tsu_06.4l"/>
-    <part name="ts_12.17f"/>
-    <part name="ts_11.15f"/>
-    <part name="ts_17.17g"/>
-    <part name="ts_16.15g"/>
-    <part name="tsu_07.5l"/>
-    <part name="tsu_07.5l"/>
-    <part name="tsu_22.17j"/>
-    <part name="tsu_21.15j"/>
-    <part name="tsu_20.13j"/>
-    <part name="tsu_19.11j"/>
-    <part name="tsu_15.13g"/>
-    <part name="tsu_14.11g"/>
-    <part name="tsu_10.13f"/>
-    <part name="tsu_09.11f"/>
-    <part name="ts.2f"/>
-    <part name="63s141.18f"/>
+  
+  
+  <rom index='0' md5='576aee4c876c70772cabee6928ccc0ec' type='merged|nonmerged|split' zip='bionicc2.zip|bionicc.zip'>
+    <part crc='f2528f08' name='tsu_02.1a'/>
+    <part crc='72c3b76f' name='tsu_03.2a'/>
+    <part crc='38b1c7e4' name='tsu_04.1b'/>
+    <part crc='70621f83' name='tsu_05.2b'/>
+    <part crc='a9a6cafa' name='ts_01b.4e'/>
+    <part crc='9bf0b7a2' name='tsu_08.8l'/>
+    <part crc='a8f5a004' name='ts_13.18f'/>
+    <part crc='3b36948c' name='ts_18.18g'/>
+    <part crc='bbfbe58a' name='ts_23.18j'/>
+    <part crc='f156e564' name='ts_24.18k'/>
+    <part crc='40bf0eb4' name='tsu_06.4l'/>
+    <part crc='40bf0eb4' name='tsu_06.4l'/>
+    <part crc='e4b4619e' name='ts_12.17f'/>
+    <part crc='ab30237a' name='ts_11.15f'/>
+    <part crc='deb657e4' name='ts_17.17g'/>
+    <part crc='d363b5f9' name='ts_16.15g'/>
+    <part crc='9469efa4' name='tsu_07.5l'/>
+    <part crc='9469efa4' name='tsu_07.5l'/>
+    <part crc='5ee1ae6a' name='tsu_22.17j'/>
+    <part crc='98777006' name='tsu_21.15j'/>
+    <part crc='17857ad2' name='tsu_20.13j'/>
+    <part crc='b5c82722' name='tsu_19.11j'/>
+    <part crc='ea912701' name='tsu_15.13g'/>
+    <part crc='46b2ad83' name='tsu_14.11g'/>
+    <part crc='f1180d02' name='tsu_10.13f'/>
+    <part crc='6a049292' name='tsu_09.11f'/>
+    <part crc='3ed7f0be' name='ts.2f'/>
+    <part crc='b58d0023' name='63s141.18f'/>
   </rom>
 </misterromdescription>

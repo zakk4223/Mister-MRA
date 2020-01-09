@@ -8,18 +8,18 @@
   <category>Space / Robots</category>
   <rbf>berzerk</rbf>
   <rom index='0' md5='e892f2597fb827d126cc047dec751cb5' type='merged|nonmerged|split' zip='berzerk.zip'>
-    <part name='berzerk_rc31_1d.rom1.1d'/>
-    <part name='berzerk_rc31_3d.rom2.3d'/>
-    <part name='berzerk_rc31_5d.rom3.5d'/>
-    <part name='berzerk_rc31_6d.rom4.6d'/>
-    <part name='berzerk_rc31a_5c.rom5.5c'/>
-    <part name='berzerk_rc31a_5c.rom5.5c'/>
-    <part name='berzerk_rc31a_5c.rom5.5c'/>
-    <part name='berzerk_rc31a_5c.rom5.5c'/>
-    <part name='berzerk_rc31_1c.rom0.1c'/>
-    <part name='berzerk_rc31_1c.rom0.1c'/>
-    <part name='berzerk_r_vo_1c.1c'/>
-    <part name='berzerk_r_vo_2c.2c'/>
+    <part crc='7ba69fde' name='berzerk_rc31_1d.rom1.1d'/>
+    <part crc='a1d5248b' name='berzerk_rc31_3d.rom2.3d'/>
+    <part crc='fcaefa95' name='berzerk_rc31_5d.rom3.5d'/>
+    <part crc='1e35b9a0' name='berzerk_rc31_6d.rom4.6d'/>
+    <part crc='e0fab8f5' name='berzerk_rc31a_5c.rom5.5c'/>
+    <part crc='e0fab8f5' name='berzerk_rc31a_5c.rom5.5c'/>
+    <part crc='e0fab8f5' name='berzerk_rc31a_5c.rom5.5c'/>
+    <part crc='e0fab8f5' name='berzerk_rc31a_5c.rom5.5c'/>
+    <part crc='ca566dbc' name='berzerk_rc31_1c.rom0.1c'/>
+    <part crc='ca566dbc' name='berzerk_rc31_1c.rom0.1c'/>
+    <part crc='2cfe825d' name='berzerk_r_vo_1c.1c'/>
+    <part crc='d2b6324e' name='berzerk_r_vo_2c.2c'/>
   </rom>
   
   

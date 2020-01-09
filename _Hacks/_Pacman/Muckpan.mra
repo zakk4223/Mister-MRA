@@ -7,24 +7,24 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='d34c1ea83e25b295627df2c4c435a78e' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='puckman.6e'/>
-    <part name='puckman.6k'/>
-    <part name='puckman.6f'/>
-    <part name='puckman.6m'/>
-    <part name='puckman.6h'/>
-    <part name='puckman.6n'/>
-    <part name='muckpan/muckpan.6j'/>
-    <part name='muckpan/muckpan.6p'/>
+  <rom index='0' md5='d34c1ea83e25b295627df2c4c435a78e' type='merged|nonmerged|split' zip='/hbmame/muckpan.zip|/hbmame/puckman.zip'>
+    <part crc='f36e88ab' name='puckman.6e'/>
+    <part crc='618bd9b3' name='puckman.6k'/>
+    <part crc='7d177853' name='puckman.6f'/>
+    <part crc='d3e8914c' name='puckman.6m'/>
+    <part crc='6bf4f625' name='puckman.6h'/>
+    <part crc='a948ce83' name='puckman.6n'/>
+    <part crc='e1f4f531' name='muckpan.6j'/>
+    <part crc='1d5b18bf' name='muckpan.6p'/>
     <part repeat='16384'>00</part>
-    <part name='puckman.5e'/>
-    <part name='puckman.5h'/>
-    <part name='puckman.5f'/>
-    <part name='puckman.5j'/>
+    <part crc='2066a0b7' name='puckman.5e'/>
+    <part crc='3591b89d' name='puckman.5h'/>
+    <part crc='9e39323a' name='puckman.5f'/>
+    <part crc='1b1d9096' name='puckman.5j'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

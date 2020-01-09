@@ -8,21 +8,21 @@
   <category>Maze / Bugs</category>
   <rbf>bubbles</rbf>
   <rom index='0' md5='cf1f9388016bf30fd6300050a8b19b2c' type='merged|nonmerged|split' zip='bubbles.zip'>
-    <part name='bubbles.10b'/>
-    <part name='bubbles.11b'/>
-    <part name='bubbles.12b'/>
-    <part name='bubbles.1b'/>
-    <part name='bubbles.2b'/>
-    <part name='bubbles.3b'/>
-    <part name='bubbles.4b'/>
-    <part name='bubbles.5b'/>
-    <part name='bubbles.6b'/>
-    <part name='bubbles.7b'/>
-    <part name='bubbles.8b'/>
-    <part name='bubbles.9b'/>
-    <part name='bubbles.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+    <part crc='26e7869b' name='bubbles.10b'/>
+    <part crc='5a5b572f' name='bubbles.11b'/>
+    <part crc='ce22d2e2' name='bubbles.12b'/>
+    <part crc='8234f55c' name='bubbles.1b'/>
+    <part crc='4a188d6a' name='bubbles.2b'/>
+    <part crc='7728f07f' name='bubbles.3b'/>
+    <part crc='040be7f9' name='bubbles.4b'/>
+    <part crc='0b5f29e0' name='bubbles.5b'/>
+    <part crc='4dd0450d' name='bubbles.6b'/>
+    <part crc='e0a26ec0' name='bubbles.7b'/>
+    <part crc='4fd23d8d' name='bubbles.8b'/>
+    <part crc='b48559fb' name='bubbles.9b'/>
+    <part crc='689ce2aa' name='bubbles.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
   
   

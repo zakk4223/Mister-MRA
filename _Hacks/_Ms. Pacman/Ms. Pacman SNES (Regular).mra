@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='90128e1ed09340f49f3c6a8c02686785' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='chtmsatk/boot1'/>
-    <part name='cottoh/boot2'/>
-    <part name='mscrzyma/mscrzyma.3'/>
-    <part name='msnes4a/mspac6m.4'/>
-    <part name='msnes6m4/msnes6m4.5'/>
-    <part name='msnes6m4/msnes6m4.6'/>
+  <rom index='0' md5='90128e1ed09340f49f3c6a8c02686785' type='merged|nonmerged|split' zip='/hbmame/msnes4a.zip|/hbmame/mspacman.zip'>
+    <part crc='d16b31b7' name='boot1'/>
+    <part crc='0d32de5e' name='boot2'/>
+    <part crc='513f4d5c' name='mscrzyma.3'/>
+    <part crc='e21c81ff' name='mspac6m.4'/>
+    <part crc='FIXME' name='msnes6m4.5'/>
+    <part crc='FIXME' name='msnes6m4.6'/>
     <part repeat='8192'>00</part>
-    <part name='msnes4a/msnes4a.5e'/>
-    <part name='msnes4a/mspacnes.5f'/>
+    <part crc='22e5b64e' name='msnes4a.5e'/>
+    <part crc='6a4db98d' name='mspacnes.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='ms4000p/pacplus.4a'/>
-    <part name='82s126.3m'/>
-    <part name='ms4000p/pacplus.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='e271a166' name='pacplus.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='063dd53a' name='pacplus.7f'/>
   </rom>
 </misterromdescription>

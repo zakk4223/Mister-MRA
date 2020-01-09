@@ -8,58 +8,24 @@
   <category>Maze / Cat &amp; Mouse</category>
   <category>Platform</category>
   <rbf>woodpecker</rbf>
-  <rom index='0' md5='79460d79c8d374351130a437507ff59a' type='merged|nonmerged' zip='woodpeck.zip'>
-    <part name='woodpeca/0'/>
-    <part name='woodpeca/0'/>
-    <part name='woodpeca/0'/>
-    <part name='woodpeca/0'/>
-    <part name='woodpeca/1'/>
-    <part name='woodpeca/2'/>
-    <part name='woodpeca/3'/>
-    <part name='woodpeca/4'/>
-    <part name='woodpeca/10.5f'/>
-    <part name='woodpeca/11.5h'/>
-    <part name='woodpeca/10.5f'/>
-    <part name='woodpeca/11.5h'/>
-    <part name='pr.1k'/>
-    <part name='pr.4a'/>
-    <part name='pr.3k'/>
-    <part name='pr.8h'/>
-  </rom>
-  <rom index='0' md5='79460d79c8d374351130a437507ff59a' type='split' zip='woodpeca.zip'>
-    <part name='0'/>
-    <part name='0'/>
-    <part name='0'/>
-    <part name='0'/>
-    <part name='1'/>
-    <part name='2'/>
-    <part name='3'/>
-    <part name='4'/>
-    <part name='10.5f'/>
-    <part name='11.5h'/>
-    <part name='10.5f'/>
-    <part name='11.5h'/>
-    <part name='pr.1k' zip='woodpeck.zip'/>
-    <part name='pr.4a' zip='woodpeck.zip'/>
-    <part name='pr.3k' zip='woodpeck.zip'/>
-    <part name='pr.8h' zip='woodpeck.zip'/>
-  </rom>
-  <rom index='0' md5='79460d79c8d374351130a437507ff59a' type='nonmerged' zip='woodpeca.zip'>
-    <part name='0'/>
-    <part name='0'/>
-    <part name='0'/>
-    <part name='0'/>
-    <part name='1'/>
-    <part name='2'/>
-    <part name='3'/>
-    <part name='4'/>
-    <part name='10.5f'/>
-    <part name='11.5h'/>
-    <part name='10.5f'/>
-    <part name='11.5h'/>
-    <part name='pr.1k'/>
-    <part name='pr.4a'/>
-    <part name='pr.3k'/>
-    <part name='pr.8h'/>
+  
+  
+  <rom index='0' md5='79460d79c8d374351130a437507ff59a' type='merged|nonmerged|split' zip='woodpeca.zip|woodpeck.zip'>
+    <part crc='b5ee8bca' name='0'/>
+    <part crc='b5ee8bca' name='0'/>
+    <part crc='b5ee8bca' name='0'/>
+    <part crc='b5ee8bca' name='0'/>
+    <part crc='c5ec2de6' name='1'/>
+    <part crc='07ea534e' name='2'/>
+    <part crc='a3a3253a' name='3'/>
+    <part crc='6c50546b' name='4'/>
+    <part crc='0bf52102' name='10.5f'/>
+    <part crc='0ed8def8' name='11.5h'/>
+    <part crc='0bf52102' name='10.5f'/>
+    <part crc='0ed8def8' name='11.5h'/>
+    <part crc='a9cc86bf' name='pr.1k'/>
+    <part crc='d8772167' name='pr.4a'/>
+    <part crc='77245b66' name='pr.3k'/>
+    <part crc='2fc650bd' name='pr.8h'/>
   </rom>
 </misterromdescription>

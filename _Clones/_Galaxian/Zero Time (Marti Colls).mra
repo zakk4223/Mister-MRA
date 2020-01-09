@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='7c9a686a13282bd345fe9dccafb10bd0' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='zerotimemc/4_7k.bin'/>
-    <part name='galaxrf/princip2.v'/>
-    <part name='zerotimemc/6_7h.bin'/>
-    <part name='zerotime/zt-4.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotime/zt-5.016'/>
-    <part name='zerotimemc/2_1hj.bin'/>
-    <part name='zerotimemc/2_1hj.bin'/>
-    <part name='zerotimemc/1_1kl.bin'/>
-    <part name='zerotimemc/1_1kl.bin'/>
-  </rom>
-  <rom index='0' md5='7c9a686a13282bd345fe9dccafb10bd0' type='split|nonmerged' zip='zerotimemc.zip'>
-    <part name='4_7k.bin'/>
-    <part name='5_7j.bin'/>
-    <part name='6_7h.bin'/>
-    <part name='7_7f.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='3_7l.bin'/>
-    <part name='2_1hj.bin'/>
-    <part name='2_1hj.bin'/>
-    <part name='1_1kl.bin'/>
-    <part name='1_1kl.bin'/>
+  
+  <rom index='0' md5='7c9a686a13282bd345fe9dccafb10bd0' type='merged|nonmerged|split' zip='zerotimemc.zip|galaxian.zip'>
+    <part crc='ac64aabe' name='4_7k.bin'/>
+    <part crc='a433067e' name='5_7j.bin'/>
+    <part crc='7c86fc8a' name='6_7h.bin'/>
+    <part crc='786d690a' name='7_7f.bin'/>
+    <part crc='af9260d7' name='3_7l.bin'/>
+    <part crc='af9260d7' name='3_7l.bin'/>
+    <part crc='af9260d7' name='3_7l.bin'/>
+    <part crc='af9260d7' name='3_7l.bin'/>
+    <part crc='bc7d0985' name='2_1hj.bin'/>
+    <part crc='bc7d0985' name='2_1hj.bin'/>
+    <part crc='c48b88d0' name='1_1kl.bin'/>
+    <part crc='c48b88d0' name='1_1kl.bin'/>
   </rom>
   
 </misterromdescription>

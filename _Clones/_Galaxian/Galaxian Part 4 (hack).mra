@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='11518a4b45eb39724521141e61cbc0b4' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galap4/galnamco.u'/>
-    <part name='galap4/galnamco.v'/>
-    <part name='galap4/galnamco.w'/>
-    <part name='galap4/galnamco.y'/>
-    <part name='galap4/galnamco.z'/>
-    <part name='galap4/galnamco.z'/>
-    <part name='galap4/galnamco.z'/>
-    <part name='galap4/galnamco.z'/>
-    <part name='galap4/galx_4c1.rom'/>
-    <part name='galap4/galx_4c1.rom'/>
-    <part name='galap4/galx_4c2.rom'/>
-    <part name='galap4/galx_4c2.rom'/>
-  </rom>
-  <rom index='0' md5='11518a4b45eb39724521141e61cbc0b4' type='split|nonmerged' zip='galap4.zip'>
-    <part name='galnamco.u'/>
-    <part name='galnamco.v'/>
-    <part name='galnamco.w'/>
-    <part name='galnamco.y'/>
-    <part name='galnamco.z'/>
-    <part name='galnamco.z'/>
-    <part name='galnamco.z'/>
-    <part name='galnamco.z'/>
-    <part name='galx_4c1.rom'/>
-    <part name='galx_4c1.rom'/>
-    <part name='galx_4c2.rom'/>
-    <part name='galx_4c2.rom'/>
+  
+  <rom index='0' md5='11518a4b45eb39724521141e61cbc0b4' type='merged|nonmerged|split' zip='galap4.zip|galaxian.zip'>
+    <part crc='acfde501' name='galnamco.u'/>
+    <part crc='65cf3c77' name='galnamco.v'/>
+    <part crc='9eef9ae6' name='galnamco.w'/>
+    <part crc='56a5ddd1' name='galnamco.y'/>
+    <part crc='f4bc7262' name='galnamco.z'/>
+    <part crc='f4bc7262' name='galnamco.z'/>
+    <part crc='f4bc7262' name='galnamco.z'/>
+    <part crc='f4bc7262' name='galnamco.z'/>
+    <part crc='d5e88ab4' name='galx_4c1.rom'/>
+    <part crc='d5e88ab4' name='galx_4c1.rom'/>
+    <part crc='a57b83e4' name='galx_4c2.rom'/>
+    <part crc='a57b83e4' name='galx_4c2.rom'/>
   </rom>
   
 </misterromdescription>

@@ -1,14 +1,14 @@
 <misterromdescription>
   <rbf>RallyX</rbf>
-  <rom index='0' md5='113b2afb644dd386dc7c3fc1ae685ff4' type='merged|split|nonmerged' zip='nrallyx.zip'>
-    <part length='2048' name='nrx_prg1.1d' offset='0'/>
-    <part length='2048' name='nrx_prg2.1e' offset='0'/>
-    <part length='2048' name='nrx_prg1.1d' offset='2048'/>
-    <part length='2048' name='nrx_prg2.1e' offset='2048'/>
-    <part length='2048' name='nrx_prg3.1k' offset='0'/>
-    <part length='2048' name='nrx_prg4.1l' offset='0'/>
-    <part length='2048' name='nrx_prg3.1k' offset='2048'/>
-    <part length='2048' name='nrx_prg4.1l' offset='2048'/>
+  <rom index='0' md5='113b2afb644dd386dc7c3fc1ae685ff4' type='merged|nonmerged|split' zip='nrallyx.zip'>
+    <part crc='ba7de9fc' length='2048' name='nrx_prg1.1d' offset='0'/>
+    <part crc='eedfccae' length='2048' name='nrx_prg2.1e' offset='0'/>
+    <part crc='ba7de9fc' length='2048' name='nrx_prg1.1d' offset='2048'/>
+    <part crc='eedfccae' length='2048' name='nrx_prg2.1e' offset='2048'/>
+    <part crc='b4d5d34a' length='2048' name='nrx_prg3.1k' offset='0'/>
+    <part crc='7da5496d' length='2048' name='nrx_prg4.1l' offset='0'/>
+    <part crc='b4d5d34a' length='2048' name='nrx_prg3.1k' offset='2048'/>
+    <part crc='7da5496d' length='2048' name='nrx_prg4.1l' offset='2048'/>
     <part>
  80 7f 7f 79 6b 71 7f 79 95 bf d3 be bf b9 b5 b1
  ad aa a6 a3 a0 9d 9a 98 95 93 90 76 20 00 16 01
@@ -1035,12 +1035,12 @@
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
  80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
 </part>
-    <part name='nrx_chg1.8e'/>
-    <part name='nrx_chg2.8d'/>
-    <part name='rx1-6.8m'/>
-    <part name='rx1-5.3p'/>
-    <part name='nrx1-7.8p'/>
-    <part name='nrx1-1.11n'/>
+    <part crc='1fff38a4' name='nrx_chg1.8e'/>
+    <part crc='85d9fffd' name='nrx_chg2.8d'/>
+    <part crc='3c16f62c' name='rx1-6.8m'/>
+    <part crc='4bad7017' name='rx1-5.3p'/>
+    <part crc='4e46f485' name='nrx1-7.8p'/>
+    <part crc='a0a49017' name='nrx1-1.11n'/>
   </rom>
   
   

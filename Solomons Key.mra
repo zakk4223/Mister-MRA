@@ -3,19 +3,19 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>solomonskey</rbf>
-  <rom index='0' md5='1d44456556a62046505f20bc1b5bbda2' type='merged|split|nonmerged' zip='solomon.zip'>
-    <part name='2.5lm'/>
-    <part name='3.6lm'/>
-    <part name='4.7lm'/>
-    <part name='5.8lm'/>
-    <part name='12.3t'/>
-    <part name='11.3r'/>
-    <part name='10.3p'/>
-    <part name='9.3m'/>
-    <part name='1.3jk'/>
-    <part name='6.3f'/>
-    <part name='7.3h'/>
-    <part name='8.3jk'/>
+  <rom index='0' md5='1d44456556a62046505f20bc1b5bbda2' type='merged|nonmerged|split' zip='solomon.zip'>
+    <part crc='80fa2be3' name='2.5lm'/>
+    <part crc='236106b4' name='3.6lm'/>
+    <part crc='088fe5d9' name='4.7lm'/>
+    <part crc='8366232a' name='5.8lm'/>
+    <part crc='b371291c' name='12.3t'/>
+    <part crc='6f94d2af' name='11.3r'/>
+    <part crc='8310c2a1' name='10.3p'/>
+    <part crc='ab7e6c42' name='9.3m'/>
+    <part crc='fa6e562e' name='1.3jk'/>
+    <part crc='645eb0f3' name='6.3f'/>
+    <part crc='1bf5c482' name='7.3h'/>
+    <part crc='0a6cdefc' name='8.3jk'/>
   </rom>
   
   

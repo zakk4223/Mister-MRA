@@ -6,49 +6,21 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='45818412fb97702684bbf70a73f17b82' type='merged' zip='scramble.zip'>
-    <part name='offensiv/2716-9c.bin'/>
-    <part name='offensiv/2716-9e.bin'/>
-    <part name='offensiv/2716-9f.bin'/>
-    <part name='bomber/4.3f'/>
-    <part name='offensiv/2716-9j.bin'/>
-    <part name='bomber/6.3d'/>
-    <part name='bomber/7.3c'/>
-    <part name='offensiv/2716-9p.bin'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='kamikazesp/1-a.5c'/>
-    <part name='ot2.5d'/>
-    <part name='offensiv/2716-5e.bin'/>
-  </rom>
-  <rom index='0' md5='45818412fb97702684bbf70a73f17b82' type='split' zip='offensiv.zip'>
-    <part name='2716-9c.bin'/>
-    <part name='2716-9e.bin'/>
-    <part name='2716-9f.bin'/>
-    <part name='2716-9h.bin'/>
-    <part name='2716-9j.bin'/>
-    <part name='2716-9l.bin'/>
-    <part name='2716-9m.bin'/>
-    <part name='2716-9p.bin'/>
-    <part name='c1.5h' zip='scramble.zip'/>
-    <part name='c2.5f' zip='scramble.zip'/>
-    <part name='2716-5c.bin'/>
-    <part name='ot2.5d' zip='scramble.zip'/>
-    <part name='2716-5e.bin'/>
-  </rom>
-  <rom index='0' md5='45818412fb97702684bbf70a73f17b82' type='nonmerged' zip='offensiv.zip'>
-    <part name='2716-9c.bin'/>
-    <part name='2716-9e.bin'/>
-    <part name='2716-9f.bin'/>
-    <part name='2716-9h.bin'/>
-    <part name='2716-9j.bin'/>
-    <part name='2716-9l.bin'/>
-    <part name='2716-9m.bin'/>
-    <part name='2716-9p.bin'/>
-    <part name='2716-6h.bin'/>
-    <part name='2716-6f.bin'/>
-    <part name='2716-5c.bin'/>
-    <part name='2716-5d.bin'/>
-    <part name='2716-5e.bin'/>
+  
+  
+  <rom index='0' md5='45818412fb97702684bbf70a73f17b82' type='merged|nonmerged|split' zip='offensiv.zip|scramble.zip'>
+    <part crc='cc2ee7f5' name='2716-9c.bin'/>
+    <part crc='66ebc070' name='2716-9e.bin'/>
+    <part crc='317548fd' name='2716-9f.bin'/>
+    <part crc='dd380a22' name='2716-9h.bin'/>
+    <part crc='fa4f1a70' name='2716-9j.bin'/>
+    <part crc='9fd96374' name='2716-9l.bin'/>
+    <part crc='88ac07a0' name='2716-9m.bin'/>
+    <part crc='fe2866f5' name='2716-9p.bin'/>
+    <part crc='11fd2887' name='2716-6h.bin'/>
+    <part crc='4708845b' name='2716-6f.bin'/>
+    <part crc='be037cf6' name='2716-5c.bin'/>
+    <part crc='de7912da' name='2716-5d.bin'/>
+    <part crc='ad833f7e' name='2716-5e.bin'/>
   </rom>
 </misterromdescription>

@@ -6,29 +6,18 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='b9a109933574a4472dc727f7603cd8aa' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galaxrcgg/7f.bin'/>
-    <part name='galaxrcgg/7j.bin'/>
-    <part name='galaxrcgg/7l.bin'/>
-    <part name='galaxrcgg/7l.bin'/>
-    <part name='galaxrcgg/7l.bin'/>
-    <part name='galaxrcgg/7l.bin'/>
-    <part name='galaxrcgg/1hj.bin'/>
-    <part name='galaxrcgg/1hj.bin'/>
-    <part name='galaxrcgg/1kl.bin'/>
-    <part name='galaxrcgg/1kl.bin'/>
-  </rom>
-  <rom index='0' md5='b9a109933574a4472dc727f7603cd8aa' type='split|nonmerged' zip='galaxrcgg.zip'>
-    <part name='7f.bin'/>
-    <part name='7j.bin'/>
-    <part name='7l.bin'/>
-    <part name='7l.bin'/>
-    <part name='7l.bin'/>
-    <part name='7l.bin'/>
-    <part name='1hj.bin'/>
-    <part name='1hj.bin'/>
-    <part name='1kl.bin'/>
-    <part name='1kl.bin'/>
+  
+  <rom index='0' md5='b9a109933574a4472dc727f7603cd8aa' type='merged|nonmerged|split' zip='galaxrcgg.zip|galaxian.zip'>
+    <part crc='c06eeb10' name='7f.bin'/>
+    <part crc='182ff334' name='7j.bin'/>
+    <part crc='420dbbf6' name='7l.bin'/>
+    <part crc='420dbbf6' name='7l.bin'/>
+    <part crc='420dbbf6' name='7l.bin'/>
+    <part crc='420dbbf6' name='7l.bin'/>
+    <part crc='23e627ff' name='1hj.bin'/>
+    <part crc='23e627ff' name='1hj.bin'/>
+    <part crc='0dbcee5b' name='1kl.bin'/>
+    <part crc='0dbcee5b' name='1kl.bin'/>
   </rom>
   
 </misterromdescription>

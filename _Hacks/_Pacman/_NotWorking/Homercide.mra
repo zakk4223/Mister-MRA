@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='66350462a1fbba589c894ebd5419fe30' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='homercid/homercid.6e'/>
-    <part name='homercid/homercid.6f'/>
-    <part name='homercid/homercid.6h'/>
-    <part name='homercid/homercid.6j'/>
+  <rom index='0' md5='66350462a1fbba589c894ebd5419fe30' type='merged|nonmerged|split' zip='/hbmame/homercid.zip|/hbmame/puckman.zip'>
+    <part crc='2768e80e' name='homercid.6e'/>
+    <part crc='3858d8b7' name='homercid.6f'/>
+    <part crc='d61413d0' name='homercid.6h'/>
+    <part crc='e8b53076' name='homercid.6j'/>
     <part repeat='16384'>00</part>
-    <part name='homercid/homercid.5e'/>
-    <part name='homercid/homercid.5f'/>
+    <part crc='4879edc5' name='homercid.5e'/>
+    <part crc='475e51c9' name='homercid.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='homercid/homercid.4a'/>
-    <part name='82s126.3m'/>
-    <part name='homercid/homercid.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='9717a6be' name='homercid.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2b7e868a' name='homercid.7f'/>
   </rom>
 </misterromdescription>

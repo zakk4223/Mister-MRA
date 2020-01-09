@@ -1,31 +1,31 @@
 <misterromdescription>
   <rbf>DonkeyKong</rbf>
-  <rom index='0' md5='95e67c2305b1f8dd98f79ac5072b8853' type='merged' zip='/hbmame/dkong.zip'>
-    <part name='c_5et_g.bin'/>
-    <part name='c_5ct_g.bin'/>
-    <part name='c_5bt_g.bin'/>
-    <part name='dkongpac/dkongpac.5a'/>
-    <part name='dkongpac/dkongpac.5a'/>
-    <part name='dkongpac/dkongpac.5a'/>
-    <part name='dkongpac/dkongpac.3p'/>
-    <part name='dkongpac/dkongpac.3p'/>
-    <part name='dkongpac/dkongpac.3n'/>
-    <part name='dkongpac/dkongpac.3n'/>
-    <part name='dkongpac/dkongpac.5a'/>
-    <part name='dkongpac/dkongpac.5a'/>
-    <part name='dkongpac/dkongpac.7c'/>
-    <part name='dkongpac/dkongpac.7c'/>
-    <part name='dkongpac/dkongpac.7d'/>
-    <part name='dkongpac/dkongpac.7d'/>
-    <part name='dkongpac/dkongpac.7e'/>
-    <part name='dkongpac/dkongpac.7e'/>
-    <part name='dkongpac/dkongpac.7f'/>
-    <part name='dkongpac/dkongpac.7f'/>
-    <part name='s_3i_b.bin'/>
-    <part name='s_3j_b.bin'/>
-    <part name='dkongpac/k2600.2k'/>
-    <part name='dkongpac/k2600.2j'/>
-    <part name='dkongpac/k2600.5f'/>
+  <rom index='0' md5='95e67c2305b1f8dd98f79ac5072b8853' type='merged|nonmerged|split' zip='/hbmame/dkongpac.zip|/hbmame/dkong.zip'>
+    <part crc='ba70b88b' name='c_5et_g.bin'/>
+    <part crc='5ec461ec' name='c_5ct_g.bin'/>
+    <part crc='1c97d324' name='c_5bt_g.bin'/>
+    <part crc='56d28137' name='dkongpac.5a'/>
+    <part crc='56d28137' name='dkongpac.5a'/>
+    <part crc='56d28137' name='dkongpac.5a'/>
+    <part crc='94d61766' name='dkongpac.3p'/>
+    <part crc='94d61766' name='dkongpac.3p'/>
+    <part crc='1beba830' name='dkongpac.3n'/>
+    <part crc='1beba830' name='dkongpac.3n'/>
+    <part crc='56d28137' name='dkongpac.5a'/>
+    <part crc='56d28137' name='dkongpac.5a'/>
+    <part crc='065e2713' name='dkongpac.7c'/>
+    <part crc='065e2713' name='dkongpac.7c'/>
+    <part crc='a84b347d' name='dkongpac.7d'/>
+    <part crc='a84b347d' name='dkongpac.7d'/>
+    <part crc='6ae6f476' name='dkongpac.7e'/>
+    <part crc='6ae6f476' name='dkongpac.7e'/>
+    <part crc='9d293922' name='dkongpac.7f'/>
+    <part crc='9d293922' name='dkongpac.7f'/>
+    <part crc='45a4ed06' name='s_3i_b.bin'/>
+    <part crc='4743fe92' name='s_3j_b.bin'/>
+    <part crc='1e82d375' name='k2600.2k'/>
+    <part crc='2ab01dc8' name='k2600.2j'/>
+    <part crc='44988665' name='k2600.5f'/>
     <part repeat='3328'>00</part>
     <part>
 80 80 80 80 80 80 7f 7f 7f 7f 7f 7f 7f 80 80 80 

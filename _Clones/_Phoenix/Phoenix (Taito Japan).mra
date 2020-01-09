@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='e2a2769f0e40037a1804351515a3baf4' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='phoenix2/ic45-pg1.1a'/>
-    <part name='phoenixass/ic46.bin'/>
-    <part name='avefenix/4103-8516.rom'/>
-    <part name='phoenixj/pn04.48'/>
-    <part name='falcon/phoenixc.49'/>
-    <part name='h6-ic50.6a'/>
-    <part name='h7-ic51.7a'/>
-    <part name='phoenixj/pn08.52'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='b1-ic39.3b'/>
-    <part name='b2-ic40.4b'/>
-  </rom>
-  <rom index='0' md5='e2a2769f0e40037a1804351515a3baf4' type='split' zip='phoenixj.zip'>
-    <part name='pn01.45'/>
-    <part name='pn02.46'/>
-    <part name='pn03.47'/>
-    <part name='pn04.48'/>
-    <part name='pn05.49'/>
-    <part name='h6-ic50.6a' zip='phoenix.zip'/>
-    <part name='h7-ic51.7a' zip='phoenix.zip'/>
-    <part name='pn08.52'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='b1-ic39.3b' zip='phoenix.zip'/>
-    <part name='b2-ic40.4b' zip='phoenix.zip'/>
-  </rom>
-  <rom index='0' md5='e2a2769f0e40037a1804351515a3baf4' type='nonmerged' zip='phoenixj.zip'>
-    <part name='pn01.45'/>
-    <part name='pn02.46'/>
-    <part name='pn03.47'/>
-    <part name='pn04.48'/>
-    <part name='pn05.49'/>
-    <part name='pn06.50'/>
-    <part name='pn07.51'/>
-    <part name='pn08.52'/>
-    <part name='pn11.23'/>
-    <part name='pn12.24'/>
-    <part name='pn09.39'/>
-    <part name='pn10.40'/>
+  
+  
+  <rom index='0' md5='e2a2769f0e40037a1804351515a3baf4' type='merged|nonmerged|split' zip='phoenixj.zip|phoenix.zip'>
+    <part crc='5b8c55a8' name='pn01.45'/>
+    <part crc='dbc942fa' name='pn02.46'/>
+    <part crc='cbbb8839' name='pn03.47'/>
+    <part crc='dd41f22b' name='pn04.48'/>
+    <part crc='1a1ce0d0' name='pn05.49'/>
+    <part crc='ac5e9ec1' name='pn06.50'/>
+    <part crc='2eab35b4' name='pn07.51'/>
+    <part crc='b9915263' name='pn08.52'/>
+    <part crc='3c7e623f' name='pn11.23'/>
+    <part crc='59916d3b' name='pn12.24'/>
+    <part crc='53413e8f' name='pn09.39'/>
+    <part crc='0be2ba91' name='pn10.40'/>
   </rom>
 </misterromdescription>

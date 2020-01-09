@@ -1,45 +1,19 @@
 <misterromdescription>
   <rbf>Pisces</rbf>
-  <rom index='0' md5='26624e73da6f10782b19d0eb5a4f7285' type='merged' zip='pisces.zip'>
-    <part name='piscesb/pisces.a1'/>
-    <part name='p2.bin'/>
-    <part name='piscesb/pisces.b2'/>
-    <part name='p4.bin'/>
-    <part name='p5.bin'/>
-    <part name='p6.bin'/>
-    <part name='p6.bin'/>
-    <part name='p6.bin'/>
-    <part name='g09.bin'/>
-    <part name='g11.bin'/>
-    <part name='g10.bin'/>
-    <part name='g12.bin'/>
-  </rom>
-  <rom index='0' md5='26624e73da6f10782b19d0eb5a4f7285' type='split' zip='piscesb.zip'>
-    <part name='pisces.a1'/>
-    <part name='p2.bin' zip='pisces.zip'/>
-    <part name='pisces.b2'/>
-    <part name='p4.bin' zip='pisces.zip'/>
-    <part name='p5.bin' zip='pisces.zip'/>
-    <part name='p6.bin' zip='pisces.zip'/>
-    <part name='p6.bin' zip='pisces.zip'/>
-    <part name='p6.bin' zip='pisces.zip'/>
-    <part name='g09.bin' zip='pisces.zip'/>
-    <part name='g11.bin' zip='pisces.zip'/>
-    <part name='g10.bin' zip='pisces.zip'/>
-    <part name='g12.bin' zip='pisces.zip'/>
-  </rom>
-  <rom index='0' md5='26624e73da6f10782b19d0eb5a4f7285' type='nonmerged' zip='piscesb.zip'>
-    <part name='pisces.a1'/>
-    <part name='p2.bin'/>
-    <part name='pisces.b2'/>
-    <part name='p4.bin'/>
-    <part name='p5.bin'/>
-    <part name='p6.bin'/>
-    <part name='p6.bin'/>
-    <part name='p6.bin'/>
-    <part name='g09.bin'/>
-    <part name='g11.bin'/>
-    <part name='g10.bin'/>
-    <part name='g12.bin'/>
+  
+  
+  <rom index='0' md5='26624e73da6f10782b19d0eb5a4f7285' type='merged|nonmerged|split' zip='piscesb.zip|pisces.zip'>
+    <part crc='856b8e1f' name='pisces.a1'/>
+    <part crc='055f9762' name='p2.bin'/>
+    <part crc='5540f2e4' name='pisces.b2'/>
+    <part crc='44aaf525' name='p4.bin'/>
+    <part crc='fade512b' name='p5.bin'/>
+    <part crc='5ab2822f' name='p6.bin'/>
+    <part crc='5ab2822f' name='p6.bin'/>
+    <part crc='5ab2822f' name='p6.bin'/>
+    <part crc='9503a23a' name='g09.bin'/>
+    <part crc='0adfc3fe' name='g11.bin'/>
+    <part crc='3e61f849' name='g10.bin'/>
+    <part crc='7130e9eb' name='g12.bin'/>
   </rom>
 </misterromdescription>

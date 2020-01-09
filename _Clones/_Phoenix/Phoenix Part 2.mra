@@ -6,33 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='phoenxp2/1'/>
-    <part name='phoenxp2/2'/>
-    <part name='phoenxp2/3'/>
-    <part name='phoenxp2/4'/>
-    <part name='phoenxp2/5'/>
-    <part name='phoenxp2/6'/>
-    <part name='phoenxp2/7'/>
-    <part name='phoenxp2/8'/>
-    <part name='batman2/09.bin'/>
-    <part name='batman2/11.bin'/>
-    <part name='batman2/10.bin'/>
-    <part name='batman2/12.bin'/>
-  </rom>
-  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='split|nonmerged' zip='phoenxp2.zip'>
-    <part name='1'/>
-    <part name='2'/>
-    <part name='3'/>
-    <part name='4'/>
-    <part name='5'/>
-    <part name='6'/>
-    <part name='7'/>
-    <part name='8'/>
-    <part name='09'/>
-    <part name='11'/>
-    <part name='10'/>
-    <part name='12'/>
+  
+  <rom index='0' md5='24bce670a4e201f5fcef459e05280339' type='merged|nonmerged|split' zip='phoenxp2.zip|phoenix.zip'>
+    <part crc='f6dcfd51' name='1'/>
+    <part crc='de951936' name='2'/>
+    <part crc='7a3af2da' name='3'/>
+    <part crc='c820ad32' name='4'/>
+    <part crc='08e83233' name='5'/>
+    <part crc='f31fb9d6' name='6'/>
+    <part crc='d3a480c1' name='7'/>
+    <part crc='edf9779e' name='8'/>
+    <part crc='1a657b1f' name='09'/>
+    <part crc='7a2b48e5' name='11'/>
+    <part crc='9b570016' name='10'/>
+    <part crc='73956244' name='12'/>
   </rom>
   
 </misterromdescription>

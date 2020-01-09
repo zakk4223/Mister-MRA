@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='60bb78dec7a91edecc830e3a429fc260' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='condor/cond01c.bin'/>
-    <part name='condor/cond02c.bin'/>
-    <part name='condor/cond03c.bin'/>
-    <part name='condor/cond04c.bin'/>
-    <part name='condor/cond05c.bin'/>
-    <part name='condor/cond06c.bin'/>
-    <part name='condor/cond07c.bin'/>
-    <part name='condor/cond08c.bin'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='condor/cond11c.bin'/>
-    <part name='condor/cond12c.bin'/>
-  </rom>
-  <rom index='0' md5='60bb78dec7a91edecc830e3a429fc260' type='split' zip='condor.zip'>
-    <part name='cond01c.bin'/>
-    <part name='cond02c.bin'/>
-    <part name='cond03c.bin'/>
-    <part name='cond04c.bin'/>
-    <part name='cond05c.bin'/>
-    <part name='cond06c.bin'/>
-    <part name='cond07c.bin'/>
-    <part name='cond08c.bin'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='cond11c.bin'/>
-    <part name='cond12c.bin'/>
-  </rom>
-  <rom index='0' md5='60bb78dec7a91edecc830e3a429fc260' type='nonmerged' zip='condor.zip'>
-    <part name='cond01c.bin'/>
-    <part name='cond02c.bin'/>
-    <part name='cond03c.bin'/>
-    <part name='cond04c.bin'/>
-    <part name='cond05c.bin'/>
-    <part name='cond06c.bin'/>
-    <part name='cond07c.bin'/>
-    <part name='cond08c.bin'/>
-    <part name='cond09c.bin'/>
-    <part name='cond10c.bin'/>
-    <part name='cond11c.bin'/>
-    <part name='cond12c.bin'/>
+  
+  
+  <rom index='0' md5='60bb78dec7a91edecc830e3a429fc260' type='merged|nonmerged|split' zip='condor.zip|phoenix.zip'>
+    <part crc='c0f73929' name='cond01c.bin'/>
+    <part crc='440d56e8' name='cond02c.bin'/>
+    <part crc='750b059b' name='cond03c.bin'/>
+    <part crc='ca55e1dd' name='cond04c.bin'/>
+    <part crc='1ff3a982' name='cond05c.bin'/>
+    <part crc='8c83bff7' name='cond06c.bin'/>
+    <part crc='805ec2e8' name='cond07c.bin'/>
+    <part crc='1edebb45' name='cond08c.bin'/>
+    <part crc='3c7e623f' name='cond09c.bin'/>
+    <part crc='59916d3b' name='cond10c.bin'/>
+    <part crc='53c52eb0' name='cond11c.bin'/>
+    <part crc='eba42f0f' name='cond12c.bin'/>
   </rom>
 </misterromdescription>

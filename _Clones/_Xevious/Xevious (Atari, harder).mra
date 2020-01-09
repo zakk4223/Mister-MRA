@@ -1,60 +1,24 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index='0' md5='cee6c8a29348f57877bdd09c14d07d66' type='merged' zip='xevious.zip'>
-    <part name='xeviousa/xea-1m-a.bin'/>
-    <part name='xeviousa/xea-1l-a.bin'/>
-    <part name='xeviousa/xea-4c-a.bin'/>
-    <part name='xvi_7.2c'/>
-    <part name='xvi_12.3b'/>
-    <part name='xvi_13.3c'/>
-    <part name='xvi_14.3d'/>
-    <part name='xvi_15.4m'/>
-    <part name='xvi_17.4p'/>
-    <part name='xvi_16.4n'/>
-    <part name='xvi_18.4r'/>
-    <part name='xvi_9.2a'/>
-    <part name='xvi_10.2b'/>
-    <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
-  </rom>
-  <rom index='0' md5='cee6c8a29348f57877bdd09c14d07d66' type='split' zip='xeviousa.zip'>
-    <part name='xea-1m-a.bin'/>
-    <part name='xea-1l-a.bin'/>
-    <part name='xea-4c-a.bin'/>
-    <part name='xvi_7.2c' zip='xevious.zip'/>
-    <part name='xvi_12.3b' zip='xevious.zip'/>
-    <part name='xvi_13.3c' zip='xevious.zip'/>
-    <part name='xvi_14.3d' zip='xevious.zip'/>
-    <part name='xvi_15.4m' zip='xevious.zip'/>
-    <part name='xvi_17.4p' zip='xevious.zip'/>
-    <part name='xvi_16.4n' zip='xevious.zip'/>
-    <part name='xvi_18.4r' zip='xevious.zip'/>
-    <part name='xvi_9.2a' zip='xevious.zip'/>
-    <part name='xvi_10.2b' zip='xevious.zip'/>
-    <part name='xvi_11.2c' zip='xevious.zip'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
-  </rom>
-  <rom index='0' md5='cee6c8a29348f57877bdd09c14d07d66' type='nonmerged' zip='xeviousa.zip'>
-    <part name='xea-1m-a.bin'/>
-    <part name='xea-1l-a.bin'/>
-    <part name='xea-4c-a.bin'/>
-    <part name='xvi_7.2c'/>
-    <part name='xvi_12.3b'/>
-    <part name='xvi_13.3c'/>
-    <part name='xvi_14.3d'/>
-    <part name='xvi_15.4m'/>
-    <part name='xvi_17.4p'/>
-    <part name='xvi_16.4n'/>
-    <part name='xvi_18.4r'/>
-    <part name='xvi_9.2a'/>
-    <part name='xvi_10.2b'/>
-    <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
+  
+  
+  <rom index='0' md5='cee6c8a29348f57877bdd09c14d07d66' type='merged|nonmerged|split' zip='xeviousa.zip|xevious.zip'>
+    <part crc='8c2b50ec' name='xea-1m-a.bin'/>
+    <part crc='0821642b' name='xea-1l-a.bin'/>
+    <part crc='14d8fa03' name='xea-4c-a.bin'/>
+    <part crc='dd35cf1c' name='xvi_7.2c'/>
+    <part crc='088c8b26' name='xvi_12.3b'/>
+    <part crc='de60ba25' name='xvi_13.3c'/>
+    <part crc='535cdbbc' name='xvi_14.3d'/>
+    <part crc='dc2c0ecb' name='xvi_15.4m'/>
+    <part crc='dfb587ce' name='xvi_17.4p'/>
+    <part crc='605ca889' name='xvi_16.4n'/>
+    <part crc='02417d19' name='xvi_18.4r'/>
+    <part crc='57ed9879' name='xvi_9.2a'/>
+    <part crc='ae3ba9e5' name='xvi_10.2b'/>
+    <part crc='31e244dd' name='xvi_11.2c'/>
+    <part crc='a0acbaf7' name='50xx.bin' zip='namco50.zip'/>
+    <part crc='c2f57ef8' name='51xx.bin' zip='namco51.zip'/>
+    <part crc='ee7357e0' name='54xx.bin' zip='namco54.zip'/>
   </rom>
 </misterromdescription>

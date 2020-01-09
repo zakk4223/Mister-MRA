@@ -6,51 +6,23 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='merged|nonmerged' zip='defender.zip'>
-    <part name='defcmnd/defcmnda.1'/>
-    <part name='defcmnd/defcmnda.2'/>
-    <part name='defcmnd/defcmnda.3'/>
-    <part name='defcmnd/defcmnda.10'/>
-    <part name='defcmnd/defcmnda.7'/>
-    <part name='defcmnd/defcmnda.9'/>
-    <part name='defcmnd/defcmnda.6'/>
-    <part name='defcmnd/defcmnda.8'/>
-    <part name='defcmnd/defcmnda.5'/>
-    <part name='defcmnd/defcmnda.4'/>
-    <part name='defcmnd/defcmnda.snd'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
-  </rom>
-  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='split' zip='defcmnd.zip'>
-    <part name='defcmnda.1'/>
-    <part name='defcmnda.2'/>
-    <part name='defcmnda.3'/>
-    <part name='defcmnda.10'/>
-    <part name='defcmnda.7'/>
-    <part name='defcmnda.9'/>
-    <part name='defcmnda.6'/>
-    <part name='defcmnda.8'/>
-    <part name='defcmnda.5'/>
-    <part name='defcmnda.4'/>
-    <part name='defcmnda.snd'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
   
   
-  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='nonmerged' zip='defcmnd.zip'>
-    <part name='defcmnda.1'/>
-    <part name='defcmnda.2'/>
-    <part name='defcmnda.3'/>
-    <part name='defcmnda.10'/>
-    <part name='defcmnda.7'/>
-    <part name='defcmnda.9'/>
-    <part name='defcmnda.6'/>
-    <part name='defcmnda.8'/>
-    <part name='defcmnda.5'/>
-    <part name='defcmnda.4'/>
-    <part name='defcmnda.snd'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
+  
+  
+  <rom index='0' md5='cca9e5ecb15c90965b834511700bc48c' type='merged|nonmerged|split' zip='defcmnd.zip|defender.zip'>
+    <part crc='68effc1d' name='defcmnda.1'/>
+    <part crc='1126adc9' name='defcmnda.2'/>
+    <part crc='7340209d' name='defcmnda.3'/>
+    <part crc='3dddae75' name='defcmnda.10'/>
+    <part crc='3f1e7cf8' name='defcmnda.7'/>
+    <part crc='8882e1ff' name='defcmnda.9'/>
+    <part crc='d068f0c5' name='defcmnda.6'/>
+    <part crc='fef4cb77' name='defcmnda.8'/>
+    <part crc='49b50b40' name='defcmnda.5'/>
+    <part crc='43d42a1b' name='defcmnda.4'/>
+    <part crc='f122d9c9' name='defcmnda.snd'/>
+    <part crc='FIXME' name='decoder.2'/>
+    <part crc='FIXME' name='decoder.3'/>
   </rom>
 </misterromdescription>

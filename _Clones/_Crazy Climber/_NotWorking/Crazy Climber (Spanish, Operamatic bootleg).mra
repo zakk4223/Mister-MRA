@@ -6,35 +6,21 @@
   <manufacturer>Nichibutsu</manufacturer>
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
-  <rom index='0' md5='ad4e064b531dbc266cf61df6a4f749ae' type='merged|nonmerged' zip='cclimber.zip'>
-    <part name='cclimbroper/cc5-2532.cpu'/>
-    <part name='cclimbroper/cc4-2532.cpu'/>
-    <part name='cclimbroper/cc3-2532.cpu'/>
-    <part name='cclimbroper/cc2-2532.cpu'/>
-    <part name='cclimbroper/cc1-2532.cpu'/>
-    <part name='cclimbroper/cc13-2716.cpu'/>
-    <part name='cclimbroper/cc12-2716.cpu'/>
-    <part name='cclimbroper/cc11-2716.cpu'/>
-    <part name='cclimbroper/cc10-2716.cpu'/>
-    <part name='cclimbroper/cc9-2716.cpu'/>
-    <part name='cclimbroper/cc8-2716.cpu'/>
-    <part name='ccboot/cc13j.bin'/>
-    <part name='ccboot/cc12j.bin'/>
-  </rom>
-  <rom index='0' md5='ad4e064b531dbc266cf61df6a4f749ae' type='split|nonmerged' zip='cclimbroper.zip'>
-    <part name='cc5-2532.cpu'/>
-    <part name='cc4-2532.cpu'/>
-    <part name='cc3-2532.cpu'/>
-    <part name='cc2-2532.cpu'/>
-    <part name='cc1-2532.cpu'/>
-    <part name='cc13-2716.cpu'/>
-    <part name='cc12-2716.cpu'/>
-    <part name='cc11-2716.cpu'/>
-    <part name='cc10-2716.cpu'/>
-    <part name='cc9-2716.cpu'/>
-    <part name='cc8-2716.cpu'/>
-    <part name='cc7-2532.cpu'/>
-    <part name='cc6-2532.cpu'/>
+  
+  <rom index='0' md5='ad4e064b531dbc266cf61df6a4f749ae' type='merged|nonmerged|split' zip='cclimbroper.zip|cclimber.zip'>
+    <part crc='f94b96e8' name='cc5-2532.cpu'/>
+    <part crc='4b1abea6' name='cc4-2532.cpu'/>
+    <part crc='5612bb3c' name='cc3-2532.cpu'/>
+    <part crc='653cebc4' name='cc2-2532.cpu'/>
+    <part crc='3fcf912b' name='cc1-2532.cpu'/>
+    <part crc='9324846d' name='cc13-2716.cpu'/>
+    <part crc='6d15ba36' name='cc12-2716.cpu'/>
+    <part crc='25886f13' name='cc11-2716.cpu'/>
+    <part crc='437471ec' name='cc10-2716.cpu'/>
+    <part crc='a546a18f' name='cc9-2716.cpu'/>
+    <part crc='0224e507' name='cc8-2716.cpu'/>
+    <part crc='5f0bcdfb' name='cc7-2532.cpu'/>
+    <part crc='9003ffbd' name='cc6-2532.cpu'/>
   </rom>
   
   

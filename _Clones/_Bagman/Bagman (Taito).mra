@@ -6,52 +6,29 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index='0' md5='34d8a018aab9b335e91a85f179ea8846' type='merged|nonmerged' zip='bagman.zip'>
-    <part name='bagmanj/bf8_06.e9'/>
-    <part name='bagmanj/bf8_07.f9'/>
-    <part name='bagmanj/bf8_08.j9'/>
-    <part name='bagmanj/bf8_09.k9'/>
-    <part name='bagmanj/bf8_10.m9'/>
-    <part name='bagmanj/bf8_11.n9'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='bagmanj/bf8_03.e1'/>
-    <part name='bagmanj/bf8_02.c1'/>
-    <part name='j1_b04.bin'/>
-    <part name='bagmanj/bf8_04-1.f1'/>
-    <part name='r9_b11.bin'/>
-    <part name='t9_b12.bin'/>
+  <rom index='0' md5='34d8a018aab9b335e91a85f179ea8846' type='merged|nonmerged|split' zip='bagman.zip'>
+    <part crc='FIXME' name='bf8_06.e9'/>
+    <part crc='FIXME' name='bf8_07.f9'/>
+    <part crc='FIXME' name='bf8_08.j9'/>
+    <part crc='FIXME' name='bf8_09.k9'/>
+    <part crc='FIXME' name='bf8_10.m9'/>
+    <part crc='FIXME' name='bf8_11.n9'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='FIXME' name='bf8_03.e1'/>
+    <part crc='FIXME' name='bf8_02.c1'/>
+    <part crc='c680ef04' name='j1_b04.bin'/>
+    <part crc='FIXME' name='bf8_04-1.f1'/>
+    <part crc='2e0057ff' name='r9_b11.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
   </rom>
-  <rom index='0' md5='34d8a018aab9b335e91a85f179ea8846' type='split' zip='bagmanj.zip'>
-    <part name='bf8_06.e9'/>
-    <part name='bf8_07.f9'/>
-    <part name='bf8_08.j9'/>
-    <part name='bf8_09.k9'/>
-    <part name='bf8_10.m9'/>
-    <part name='bf8_11.n9'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='bf8_03.e1'/>
-    <part name='bf8_02.c1'/>
-    <part name='j1_b04.bin' zip='bagman.zip'/>
-    <part name='bf8_04-1.f1'/>
-    <part name='r9_b11.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-  </rom>
+  
 </misterromdescription>

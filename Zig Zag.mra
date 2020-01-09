@@ -8,12 +8,12 @@
   <category>Maze / Digging</category>
   <rbf>zigzag</rbf>
   <rom index='0' md5='273678b3c924d6c56072e56fa12944f2' type='merged|nonmerged|split' zip='zigzagb.zip'>
-    <part name='zz_d1.7l'/>
-    <part name='zz_d2.7k'/>
-    <part name='zz_d4.7f'/>
-    <part name='zz_d3.7h'/>
-    <part name='zz_6.1h'/>
-    <part name='zz_5.1k'/>
+    <part crc='8cc08d81' name='zz_d1.7l'/>
+    <part crc='326d8d45' name='zz_d2.7k'/>
+    <part crc='a94ed92a' name='zz_d4.7f'/>
+    <part crc='ce5e7a00' name='zz_d3.7h'/>
+    <part crc='780c162a' name='zz_6.1h'/>
+    <part crc='f3cdfec5' name='zz_5.1k'/>
   </rom>
   
   

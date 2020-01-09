@@ -7,49 +7,21 @@
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
-  <rom index='0' md5='18b184643b9a5e74b28d089ad5c1da65' type='merged|nonmerged' zip='uniwars.zip'>
-    <part name='f07_1a.bin'/>
-    <part name='h07_2a.bin'/>
-    <part name='k07_3a.bin'/>
-    <part name='m07_4a.bin'/>
-    <part name='uniwarsa/u5'/>
-    <part name='gg6'/>
-    <part name='m08p_7a.bin'/>
-    <part name='uniwarsa/u8'/>
-    <part name='egg10'/>
-    <part name='h01_2.bin'/>
-    <part name='egg9'/>
-    <part name='k01_2.bin'/>
-    <part name='galemp/l06_prom.bin'/>
-  </rom>
-  <rom index='0' md5='18b184643b9a5e74b28d089ad5c1da65' type='split' zip='uniwarsa.zip'>
-    <part name='f07_1a.bin' zip='uniwars.zip'/>
-    <part name='h07_2a.bin' zip='uniwars.zip'/>
-    <part name='k07_3a.bin' zip='uniwars.zip'/>
-    <part name='m07_4a.bin' zip='uniwars.zip'/>
-    <part name='u5'/>
-    <part name='gg6' zip='uniwars.zip'/>
-    <part name='m08p_7a.bin' zip='uniwars.zip'/>
-    <part name='u8'/>
-    <part name='egg10' zip='uniwars.zip'/>
-    <part name='h01_2.bin' zip='uniwars.zip'/>
-    <part name='egg9' zip='uniwars.zip'/>
-    <part name='k01_2.bin' zip='uniwars.zip'/>
-    <part name='kareteco.clr'/>
-  </rom>
-  <rom index='0' md5='18b184643b9a5e74b28d089ad5c1da65' type='nonmerged' zip='uniwarsa.zip'>
-    <part name='u1'/>
-    <part name='u2'/>
-    <part name='u3'/>
-    <part name='u4'/>
-    <part name='u5'/>
-    <part name='u6'/>
-    <part name='u7'/>
-    <part name='u8'/>
-    <part name='u10'/>
-    <part name='u12'/>
-    <part name='u9'/>
-    <part name='u11'/>
-    <part name='kareteco.clr'/>
+  
+  
+  <rom index='0' md5='18b184643b9a5e74b28d089ad5c1da65' type='merged|nonmerged|split' zip='uniwarsa.zip|uniwars.zip'>
+    <part crc='d975af10' name='u1'/>
+    <part crc='b2ed14c3' name='u2'/>
+    <part crc='945f4160' name='u3'/>
+    <part crc='ddc80bc5' name='u4'/>
+    <part crc='a0847fe4' name='u5'/>
+    <part crc='270a3f4d' name='u6'/>
+    <part crc='c9245346' name='u7'/>
+    <part crc='5760b65c' name='u8'/>
+    <part crc='012941e0' name='u10'/>
+    <part crc='c26132af' name='u12'/>
+    <part crc='fc8b58fd' name='u9'/>
+    <part crc='dcc2b33b' name='u11'/>
+    <part crc='6a0c7d87' name='kareteco.clr'/>
   </rom>
 </misterromdescription>

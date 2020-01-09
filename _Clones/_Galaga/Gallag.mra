@@ -1,40 +1,18 @@
-<?xml version="1.0"?>
+<?xml version='1.0'?>
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="merged" zip="galaga.zip">
-    <part fixme="maincpu:0" name="gg1_1b.3p"/>
-    <part fixme="maincpu:1000" name="gg1_2b.3m"/>
-    <part name="gg1_3.2m"/>
-    <part fixme="maincpu:3000" name="gg1_4b.2l"/>
-    <part fixme="sub:0" name="gg1_5b.3f"/>
-    <part fixme="sub2:0" name="gg1_7b.2c"/>
-    <part name="gg1_11.4d"/>
-    <part name="gg1_10.4f"/>
-    <part fixme="gfx1:0" name="gg1_9.4l"/>
-    <part name="54xx.bin" zip="namco54.zip"/>
-  </rom>
-  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="split" zip="gallag.zip">
-    <part name="gg1_1b.3p" zip="galaga.zip"/>
-    <part name="gg1_2b.3m" zip="galaga.zip"/>
-    <part name="gg1_3.2m" zip="galaga.zip"/>
-    <part name="gg1_4b.2l" zip="galaga.zip"/>
-    <part name="gg1_5b.3f" zip="galaga.zip"/>
-    <part name="gg1_7b.2c" zip="galaga.zip"/>
-    <part name="gg1_11.4d" zip="galaga.zip"/>
-    <part name="gg1_10.4f" zip="galaga.zip"/>
-    <part name="gg1_9.4l" zip="galaga.zip"/>
-    <part name="54xx.bin" zip="namco54.zip"/>
-  </rom>
-  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="nonmerged" zip="gallag.zip">
-    <part name="gg1_1b.3p"/>
-    <part name="gg1_2b.3m"/>
-    <part name="gallag.3"/>
-    <part name="gg1_4b.2l"/>
-    <part name="gg1_5b.3f"/>
-    <part name="gg1_7b.2c"/>
-    <part name="gallag.a"/>
-    <part name="gallag.9"/>
-    <part name="gg1_9.4l"/>
-    <part name="54xx.bin" zip="namco54.zip"/>
+  
+  
+  <rom index='0' md5='63b729213406bdbb37e30883ee999645' type='merged|nonmerged|split' zip='gallag.zip|galaga.zip'>
+    <part crc='FIXME' name='gg1_1b.3p'/>
+    <part crc='FIXME' name='gg1_2b.3m'/>
+    <part crc='753ce503' name='gallag.3'/>
+    <part crc='FIXME' name='gg1_4b.2l'/>
+    <part crc='FIXME' name='gg1_5b.3f'/>
+    <part crc='FIXME' name='gg1_7b.2c'/>
+    <part crc='ad447c80' name='gallag.a'/>
+    <part crc='dd6f1afc' name='gallag.9'/>
+    <part crc='FIXME' name='gg1_9.4l'/>
+    <part crc='FIXME' name='54xx.bin' zip='namco54.zip'/>
   </rom>
 </misterromdescription>

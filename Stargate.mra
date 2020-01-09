@@ -8,22 +8,22 @@
   <category>Space / Defender</category>
   <rbf>stargate</rbf>
   <rom index='0' md5='b08b58a9c0b9564c61299cfc5b37e226' type='merged|nonmerged|split' zip='stargate.zip'>
-    <part name='10'/>
-    <part name='11'/>
-    <part name='12'/>
-    <part name='01'/>
-    <part name='02'/>
-    <part name='03'/>
-    <part name='04'/>
-    <part name='05'/>
-    <part name='06'/>
-    <part name='07'/>
-    <part name='08'/>
-    <part name='09'/>
-    <part name='sg.snd'/>
-    <part name='sg.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.5'/>
+    <part crc='60b07ff7' name='10'/>
+    <part crc='7d2c5daf' name='11'/>
+    <part crc='a0396670' name='12'/>
+    <part crc='88824d18' name='01'/>
+    <part crc='afc614c5' name='02'/>
+    <part crc='15077a9d' name='03'/>
+    <part crc='a8b4bf0f' name='04'/>
+    <part crc='2d306074' name='05'/>
+    <part crc='53598dde' name='06'/>
+    <part crc='23606060' name='07'/>
+    <part crc='4ec490c7' name='08'/>
+    <part crc='88187b64' name='09'/>
+    <part crc='2fcf6c4d' name='sg.snd'/>
+    <part crc='2fcf6c4d' name='sg.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='f921c5fe' name='decoder.5'/>
   </rom>
   
   

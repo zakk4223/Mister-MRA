@@ -1,16 +1,16 @@
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='0d9f0047c43b1389513fa561bf2e0b07' type='merged' zip='/hbmame/galaga.zip'>
-    <part name='gg1_1b.3p'/>
-    <part name='galaga84/gal84_u2'/>
-    <part name='gg1_3.2m'/>
-    <part name='gg1_4b.2l'/>
-    <part name='gg1_5b.3f'/>
-    <part name='galaga84/gg1-7'/>
-    <part name='galaga84/gal84u4d'/>
-    <part name='galaga84/gal84u4e'/>
-    <part name='gg1_9.4l'/>
-    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
+  <rom index='0' md5='0d9f0047c43b1389513fa561bf2e0b07' type='merged|nonmerged|split' zip='/hbmame/galaga84.zip|/hbmame/galaga.zip'>
+    <part crc='ab036c9f' name='gg1_1b.3p'/>
+    <part crc='4d832a30' name='gal84_u2'/>
+    <part crc='753ce503' name='gg1_3.2m'/>
+    <part crc='499fcc76' name='gg1_4b.2l'/>
+    <part crc='bb5caae3' name='gg1_5b.3f'/>
+    <part crc='8995088d' name='gg1-7'/>
+    <part crc='22e339d5' name='gal84u4d'/>
+    <part crc='60dcf940' name='gal84u4e'/>
+    <part crc='58b2f47c' name='gg1_9.4l'/>
+    <part crc='ee7357e0' name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

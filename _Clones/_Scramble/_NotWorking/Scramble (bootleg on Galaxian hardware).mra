@@ -6,40 +6,18 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='merged' zip='scramble.zip'>
-    <part name='scramblb/scramble.1k'/>
-    <part name='scramblb/scramble.2k'/>
-    <part name='scramblb/scramble.3k'/>
-    <part name='bomber/4.3f'/>
-    <part name='scramblb/scramble.5k'/>
-    <part name='scramblb/scramble.1j'/>
-    <part name='bomber/7.3c'/>
-    <part name='scramblb/scramble.3j'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-  </rom>
-  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='split' zip='scramblb.zip'>
-    <part name='scramble.1k'/>
-    <part name='scramble.2k'/>
-    <part name='scramble.3k'/>
-    <part name='scramble.4k'/>
-    <part name='scramble.5k'/>
-    <part name='scramble.1j'/>
-    <part name='scramble.2j'/>
-    <part name='scramble.3j'/>
-    <part name='c1.5h' zip='scramble.zip'/>
-    <part name='c2.5f' zip='scramble.zip'/>
-  </rom>
-  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='nonmerged' zip='scramblb.zip'>
-    <part name='scramble.1k'/>
-    <part name='scramble.2k'/>
-    <part name='scramble.3k'/>
-    <part name='scramble.4k'/>
-    <part name='scramble.5k'/>
-    <part name='scramble.1j'/>
-    <part name='scramble.2j'/>
-    <part name='scramble.3j'/>
-    <part name='5h.k'/>
-    <part name='5f.k'/>
+  
+  
+  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='merged|nonmerged|split' zip='scramblb.zip|scramble.zip'>
+    <part crc='9e025c4a' name='scramble.1k'/>
+    <part crc='306f783e' name='scramble.2k'/>
+    <part crc='0500b701' name='scramble.3k'/>
+    <part crc='dd380a22' name='scramble.4k'/>
+    <part crc='df0b9648' name='scramble.5k'/>
+    <part crc='b8c07b3c' name='scramble.1j'/>
+    <part crc='88ac07a0' name='scramble.2j'/>
+    <part crc='c67d57ca' name='scramble.3j'/>
+    <part crc='11fd2887' name='5h.k'/>
+    <part crc='4708845b' name='5f.k'/>
   </rom>
 </misterromdescription>

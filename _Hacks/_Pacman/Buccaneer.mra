@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='d8a8ceffa55731dbe609d614bacb8aea' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='abortman/puckmanb.6e'/>
-    <part name='abortman/puckmanb.6f'/>
-    <part name='bucaneerx/newpuck2.6h'/>
-    <part name='bucaneerx/bucaneer.6k'/>
+  <rom index='0' md5='d8a8ceffa55731dbe609d614bacb8aea' type='merged|nonmerged|split' zip='/hbmame/bucaneerx.zip|/hbmame/puckman.zip'>
+    <part crc='fee263b3' name='puckmanb.6e'/>
+    <part crc='39d1fc83' name='puckmanb.6f'/>
+    <part crc='197443f8' name='newpuck2.6h'/>
+    <part crc='c4d9169a' name='bucaneer.6k'/>
     <part repeat='16384'>00</part>
-    <part name='bucaneerx/bucaneer.5e'/>
-    <part name='bucaneerx/bucaneer.5h'/>
-    <part name='bucaneerx/bucaneer.5f'/>
-    <part name='bucaneerx/bucaneer.5j'/>
+    <part crc='4060c077' name='bucaneer.5e'/>
+    <part crc='e3861283' name='bucaneer.5h'/>
+    <part crc='09f66dec' name='bucaneer.5f'/>
+    <part crc='653314e7' name='bucaneer.5j'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

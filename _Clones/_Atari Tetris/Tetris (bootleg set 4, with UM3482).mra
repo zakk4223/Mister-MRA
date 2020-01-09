@@ -3,17 +3,11 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>ataritetris</rbf>
-  <rom index='0' md5='a0c77ec919e7958798ce6ca999df4f85' type='merged' zip='atetris.zip'>
-    <part name='136066-1100.45f'/>
-    <part name='136066-1101.35a'/>
-  </rom>
-  <rom index='0' md5='a0c77ec919e7958798ce6ca999df4f85' type='split' zip='atetb3482.zip'>
-    <part name='136066-1100.45f' zip='atetris.zip'/>
-    <part name='136066-1101.35a' zip='atetris.zip'/>
-  </rom>
-  <rom index='0' md5='a0c77ec919e7958798ce6ca999df4f85' type='nonmerged' zip='atetb3482.zip'>
-    <part name='i4-d1.bin'/>
-    <part name='f8-d2.bin'/>
+  
+  
+  <rom index='0' md5='a0c77ec919e7958798ce6ca999df4f85' type='merged|nonmerged|split' zip='atetb3482.zip|atetris.zip'>
+    <part crc='2acbdb09' name='i4-d1.bin'/>
+    <part crc='84a1939f' name='f8-d2.bin'/>
   </rom>
   
   

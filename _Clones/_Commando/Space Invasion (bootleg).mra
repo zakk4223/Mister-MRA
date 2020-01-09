@@ -3,82 +3,32 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtcommando</rbf>
-  <rom index="0" md5="764ef00e691dfcf4a682226426ee8606" type="merged" zip="commando.zip">
-    <part name="sinvasnb/u4"/>
-    <part name="sinvasnb/u3"/>
-    <part name="sinvasn/u2.9f"/>
-    <part name="sinvasn/u1.5d"/>
-    <part name="vt11.5a"/>
-    <part name="vt12.6a"/>
-    <part name="vt15.9a"/>
-    <part name="vt16.10a"/>
-    <part name="vt13.7a"/>
-    <part name="vt14.8a"/>
-    <part name="vt15.9a"/>
-    <part name="vt16.10a"/>
-    <part name="sinvasn/u5.e7"/>
-    <part name="vt06.8e"/>
-    <part name="vt07.9e"/>
-    <part name="sinvasn/u8.h7"/>
-    <part name="vt09.8h"/>
-    <part name="vt10.9h"/>
-    <part name="vtb1.1d"/>
-    <part name="vtb2.2d"/>
-    <part name="vtb3.3d"/>
-    <part name="vtb4.1h"/>
-    <part name="vtb5.6l"/>
-    <part name="vtb6.6e"/>
-  </rom>
-  <rom index="0" md5="764ef00e691dfcf4a682226426ee8606" type="split" zip="sinvasnb.zip">
-    <part name="u4"/>
-    <part name="u3"/>
-    <part name="u2"/>
-    <part name="u1"/>
-    <part name="vt11.5a" zip="commando.zip"/>
-    <part name="vt12.6a" zip="commando.zip"/>
-    <part name="vt15.9a" zip="commando.zip"/>
-    <part name="vt16.10a" zip="commando.zip"/>
-    <part name="vt13.7a" zip="commando.zip"/>
-    <part name="vt14.8a" zip="commando.zip"/>
-    <part name="vt15.9a" zip="commando.zip"/>
-    <part name="vt16.10a" zip="commando.zip"/>
-    <part name="u5"/>
-    <part name="vt06.8e" zip="commando.zip"/>
-    <part name="vt07.9e" zip="commando.zip"/>
-    <part name="u8"/>
-    <part name="vt09.8h" zip="commando.zip"/>
-    <part name="vt10.9h" zip="commando.zip"/>
-    <part name="vtb1.1d" zip="commando.zip"/>
-    <part name="vtb2.2d" zip="commando.zip"/>
-    <part name="vtb3.3d" zip="commando.zip"/>
-    <part name="vtb4.1h" zip="commando.zip"/>
-    <part name="vtb5.6l" zip="commando.zip"/>
-    <part name="vtb6.6e" zip="commando.zip"/>
-  </rom>
-  <rom index="0" md5="764ef00e691dfcf4a682226426ee8606" type="nonmerged" zip="sinvasnb.zip">
-    <part name="u4"/>
-    <part name="u3"/>
-    <part name="u2"/>
-    <part name="u1"/>
-    <part name="vt11.5a"/>
-    <part name="vt12.6a"/>
-    <part name="vt15.9a"/>
-    <part name="vt16.10a"/>
-    <part name="vt13.7a"/>
-    <part name="vt14.8a"/>
-    <part name="vt15.9a"/>
-    <part name="vt16.10a"/>
-    <part name="u5"/>
-    <part name="vt06.e8"/>
-    <part name="vt07.e9"/>
-    <part name="u8"/>
-    <part name="vt09.h8"/>
-    <part name="vt10.h9"/>
-    <part name="vtb1.1d"/>
-    <part name="vtb2.2d"/>
-    <part name="vtb3.3d"/>
-    <part name="vtb4.1h"/>
-    <part name="vtb5.6l"/>
-    <part name="vtb6.6e"/>
+  
+  
+  <rom index='0' md5='764ef00e691dfcf4a682226426ee8606' type='merged|nonmerged|split' zip='sinvasnb.zip|commando.zip'>
+    <part crc='834ba0de' name='u4'/>
+    <part crc='07e4ee3a' name='u3'/>
+    <part crc='cbf8c40e' name='u2'/>
+    <part crc='f477e13a' name='u1'/>
+    <part crc='7b2e1b48' name='vt11.5a'/>
+    <part crc='81b417d3' name='vt12.6a'/>
+    <part crc='de70babf' name='vt15.9a'/>
+    <part crc='14178237' name='vt16.10a'/>
+    <part crc='5612dbd2' name='vt13.7a'/>
+    <part crc='2b2dee36' name='vt14.8a'/>
+    <part crc='de70babf' name='vt15.9a'/>
+    <part crc='14178237' name='vt16.10a'/>
+    <part crc='2a97c933' name='u5'/>
+    <part crc='26fee521' name='vt06.e8'/>
+    <part crc='ca88bdfd' name='vt07.e9'/>
+    <part crc='d6b4aa2e' name='u8'/>
+    <part crc='98703982' name='vt09.h8'/>
+    <part crc='f069d2f8' name='vt10.h9'/>
+    <part crc='3aba15a1' name='vtb1.1d'/>
+    <part crc='88865754' name='vtb2.2d'/>
+    <part crc='4c14c3f6' name='vtb3.3d'/>
+    <part crc='b388c246' name='vtb4.1h'/>
+    <part crc='712ac508' name='vtb5.6l'/>
+    <part crc='0eaf5158' name='vtb6.6e'/>
   </rom>
 </misterromdescription>

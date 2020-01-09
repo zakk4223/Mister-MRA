@@ -7,13 +7,13 @@
   <category>Maze</category>
   <rbf>dorodon</rbf>
   <rom index='0' md5='72cf4f0a5baf5a53342df3908589c359' type='merged|nonmerged|split' zip='dorodon.zip'>
-    <part name='dorodon.0'/>
-    <part name='dorodon.1'/>
-    <part name='dorodon.2'/>
-    <part name='dorodon.4'/>
-    <part name='dorodon.3'/>
-    <part name='dorodon.5'/>
-    <part name='dorodon.6'/>
+    <part crc='460aaf26' name='dorodon.0'/>
+    <part crc='d2451eb6' name='dorodon.1'/>
+    <part crc='d3c6ee6c' name='dorodon.2'/>
+    <part crc='d70bb50a' name='dorodon.4'/>
+    <part crc='e44e59e6' name='dorodon.3'/>
+    <part crc='5eee2b85' name='dorodon.5'/>
+    <part crc='395ac25a' name='dorodon.6'/>
   </rom>
   
   

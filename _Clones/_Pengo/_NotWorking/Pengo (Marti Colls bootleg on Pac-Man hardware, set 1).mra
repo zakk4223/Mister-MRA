@@ -8,52 +8,22 @@
   <category>Maze / Blocks</category>
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
-  <rom index='0' md5='28a23c0175898bc92aacac9f46f5d99a' type='merged|nonmerged' zip='pengo.zip'>
-    <part name='pengomc1/pengomc_02.bin'/>
-    <part fixme='maincpu:1000' name='ep1690b.7'/>
-    <part fixme='maincpu:2000' name='ep1691b.15'/>
-    <part fixme='maincpu:3000' name='ep1692b.14'/>
-    <part name='pengomc1/pengomc_01.bin'/>
-    <part name='pengomc1/pengomc_03.bin'/>
-    <part name='pengomc1/pengomc_04.bin'/>
-    <part name='pengomc1/pengomc_05.bin'/>
-    <part name='pengojpm/pengoa.bin'/>
-    <part name='pengojpm/pengob.bin'/>
-    <part name='pr1634.88'/>
-    <part name='pengojpm/82s126.1m'/>
-    <part name='pr1636.70'/>
-    <part name='pr1633.78'/>
-  </rom>
-  <rom index='0' md5='28a23c0175898bc92aacac9f46f5d99a' type='split' zip='pengomc1.zip'>
-    <part name='pengomc_02.bin'/>
-    <part name='ep1690b.7' zip='pengo.zip'/>
-    <part name='ep1691b.15' zip='pengo.zip'/>
-    <part name='ep1692b.14' zip='pengo.zip'/>
-    <part name='pengomc_01.bin'/>
-    <part name='pengomc_03.bin'/>
-    <part name='pengomc_04.bin'/>
-    <part name='pengomc_05.bin'/>
-    <part name='pengomc_09.bin'/>
-    <part name='pengomc_10.bin'/>
-    <part name='pr1634.88' zip='pengo.zip'/>
-    <part name='82s126.1m'/>
-    <part name='pr1636.70' zip='pengo.zip'/>
-    <part name='pr1633.78' zip='pengo.zip'/>
-  </rom>
-  <rom index='0' md5='28a23c0175898bc92aacac9f46f5d99a' type='nonmerged' zip='pengomc1.zip'>
-    <part name='pengomc_02.bin'/>
-    <part name='ep1690b.7'/>
-    <part name='ep1691b.15'/>
-    <part name='ep1692b.14'/>
-    <part name='pengomc_01.bin'/>
-    <part name='pengomc_03.bin'/>
-    <part name='pengomc_04.bin'/>
-    <part name='pengomc_05.bin'/>
-    <part name='pengomc_09.bin'/>
-    <part name='pengomc_10.bin'/>
-    <part name='pr1634.88'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.3m'/>
-    <part name='pr1633.78'/>
+  
+  
+  <rom index='0' md5='28a23c0175898bc92aacac9f46f5d99a' type='merged|nonmerged|split' zip='pengomc1.zip|pengo.zip'>
+    <part crc='dfe9640e' name='pengomc_02.bin'/>
+    <part crc='FIXME' name='ep1690b.7'/>
+    <part crc='FIXME' name='ep1691b.15'/>
+    <part crc='FIXME' name='ep1692b.14'/>
+    <part crc='ea415ede' name='pengomc_01.bin'/>
+    <part crc='0ac08ae4' name='pengomc_03.bin'/>
+    <part crc='1717a7d9' name='pengomc_04.bin'/>
+    <part crc='cb6eb19c' name='pengomc_05.bin'/>
+    <part crc='ad88978a' name='pengomc_09.bin'/>
+    <part crc='bae319a3' name='pengomc_10.bin'/>
+    <part crc='766b139b' name='pr1634.88'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='3a5844ec' name='pr1633.78'/>
   </rom>
 </misterromdescription>

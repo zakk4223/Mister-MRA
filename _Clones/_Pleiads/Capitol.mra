@@ -6,33 +6,20 @@
   <manufacturer>Tehkan</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='4779c5afc2648ea7a523287da194b9c0' type='merged|nonmerged' zip='pleiads.zip'>
-    <part name='capitol/cp1.45'/>
-    <part name='capitol/cp2.46'/>
-    <part name='capitol/cp3.47'/>
-    <part name='capitol/cp4.48'/>
-    <part name='capitol/cp5.49'/>
-    <part name='capitol/cp6.50'/>
-    <part name='capitol/cp7.51'/>
-    <part name='capitol/cp8.52'/>
-    <part name='capitol/cp11.23'/>
-    <part name='capitol/cp12.24'/>
-    <part name='capitol/cp9.39'/>
-    <part name='capitol/cp10.40'/>
-  </rom>
-  <rom index='0' md5='4779c5afc2648ea7a523287da194b9c0' type='split|nonmerged' zip='capitol.zip'>
-    <part name='cp1.45'/>
-    <part name='cp2.46'/>
-    <part name='cp3.47'/>
-    <part name='cp4.48'/>
-    <part name='cp5.49'/>
-    <part name='cp6.50'/>
-    <part name='cp7.51'/>
-    <part name='cp8.52'/>
-    <part name='cp11.23'/>
-    <part name='cp12.24'/>
-    <part name='cp9.39'/>
-    <part name='cp10.40'/>
+  
+  <rom index='0' md5='4779c5afc2648ea7a523287da194b9c0' type='merged|nonmerged|split' zip='capitol.zip|pleiads.zip'>
+    <part crc='0922905b' name='cp1.45'/>
+    <part crc='4f168f45' name='cp2.46'/>
+    <part crc='3975e0b0' name='cp3.47'/>
+    <part crc='da49caa8' name='cp4.48'/>
+    <part crc='38e4362b' name='cp5.49'/>
+    <part crc='aaf798eb' name='cp6.50'/>
+    <part crc='eaadf14c' name='cp7.51'/>
+    <part crc='d3fe2af4' name='cp8.52'/>
+    <part crc='9b0bbb8d' name='cp11.23'/>
+    <part crc='39949e66' name='cp12.24'/>
+    <part crc='04f7d19a' name='cp9.39'/>
+    <part crc='4807408f' name='cp10.40'/>
   </rom>
   
 </misterromdescription>

@@ -6,29 +6,18 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='3ed705135b1045d7c4db4c119ccb0207' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galaxrcgg/7f.bin'/>
-    <part name='galaxrcgg/7j.bin'/>
-    <part name='galaxrfgg/gxrf.7l'/>
-    <part name='galaxrfgg/gxrf.7l'/>
-    <part name='galaxrfgg/gxrf.7l'/>
-    <part name='galaxrfgg/gxrf.7l'/>
-    <part name='galaxrcgg/1hj.bin'/>
-    <part name='galaxrcgg/1hj.bin'/>
-    <part name='galaxrcgg/1kl.bin'/>
-    <part name='galaxrcgg/1kl.bin'/>
-  </rom>
-  <rom index='0' md5='3ed705135b1045d7c4db4c119ccb0207' type='split|nonmerged' zip='galaxrfgg.zip'>
-    <part name='gxrf.7f'/>
-    <part name='gxrf.7j'/>
-    <part name='gxrf.7l'/>
-    <part name='gxrf.7l'/>
-    <part name='gxrf.7l'/>
-    <part name='gxrf.7l'/>
-    <part name='gxrf.1jh'/>
-    <part name='gxrf.1jh'/>
-    <part name='gxrf.1lk'/>
-    <part name='gxrf.1lk'/>
+  
+  <rom index='0' md5='3ed705135b1045d7c4db4c119ccb0207' type='merged|nonmerged|split' zip='galaxrfgg.zip|galaxian.zip'>
+    <part crc='c06eeb10' name='gxrf.7f'/>
+    <part crc='182ff334' name='gxrf.7j'/>
+    <part crc='ee827e75' name='gxrf.7l'/>
+    <part crc='ee827e75' name='gxrf.7l'/>
+    <part crc='ee827e75' name='gxrf.7l'/>
+    <part crc='ee827e75' name='gxrf.7l'/>
+    <part crc='23e627ff' name='gxrf.1jh'/>
+    <part crc='23e627ff' name='gxrf.1jh'/>
+    <part crc='0dbcee5b' name='gxrf.1lk'/>
+    <part crc='0dbcee5b' name='gxrf.1lk'/>
   </rom>
   
 </misterromdescription>

@@ -3,22 +3,22 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>splat</rbf>
-  <rom index='0' md5='7e37df07c0c0cfa76cb8a254bd457f15' type='merged|split|nonmerged' zip='splat.zip'>
-    <part name='splat.10'/>
-    <part name='splat.11'/>
-    <part name='splat.12'/>
-    <part name='splat.01'/>
-    <part name='splat.02'/>
-    <part name='splat.03'/>
-    <part name='splat.04'/>
-    <part name='splat.05'/>
-    <part name='splat.06'/>
-    <part name='splat.07'/>
-    <part name='splat.08'/>
-    <part name='splat.09'/>
-    <part name='splat.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+  <rom index='0' md5='7e37df07c0c0cfa76cb8a254bd457f15' type='merged|nonmerged|split' zip='splat.zip'>
+    <part crc='d1a1f632' name='splat.10'/>
+    <part crc='ca8cde95' name='splat.11'/>
+    <part crc='5bee3e60' name='splat.12'/>
+    <part crc='1cf26e48' name='splat.01'/>
+    <part crc='ac0d4276' name='splat.02'/>
+    <part crc='74873e59' name='splat.03'/>
+    <part crc='70a7064e' name='splat.04'/>
+    <part crc='c6895221' name='splat.05'/>
+    <part crc='ea4ab7fd' name='splat.06'/>
+    <part crc='82fd8713' name='splat.07'/>
+    <part crc='7dded1b4' name='splat.08'/>
+    <part crc='71cbfe5a' name='splat.09'/>
+    <part crc='a878d5f3' name='splat.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
   
   

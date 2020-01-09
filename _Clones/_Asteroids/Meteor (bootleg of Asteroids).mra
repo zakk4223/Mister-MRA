@@ -7,26 +7,16 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroids</rbf>
-  <rom index='0' md5='845cda7f82c10d89970ccda8013754cd' type='merged|nonmerged' zip='asteroid.zip'>
-    <part name='meteorho/g.bin'/>
-    <part name='meteorho/h.bin'/>
-    <part name='meteorho/f.bin'/>
-    <part name='meteorho/d.bin'/>
-    <part name='meteorho/c.bin'/>
-    <part name='meteorho/e.bin'/>
-    <part name='meteorho/a.bin'/>
-    <part name='meteorho/b.bin'/>
-    <part name='meteorho/prom.bin'/>
+  <rom index='0' md5='845cda7f82c10d89970ccda8013754cd' type='merged|nonmerged|split' zip='asteroid.zip'>
+    <part crc='FIXME' name='g.bin'/>
+    <part crc='FIXME' name='h.bin'/>
+    <part crc='FIXME' name='f.bin'/>
+    <part crc='FIXME' name='d.bin'/>
+    <part crc='FIXME' name='c.bin'/>
+    <part crc='FIXME' name='e.bin'/>
+    <part crc='FIXME' name='a.bin'/>
+    <part crc='FIXME' name='b.bin'/>
+    <part crc='FIXME' name='prom.bin'/>
   </rom>
-  <rom index='0' md5='845cda7f82c10d89970ccda8013754cd' type='split' zip='meteorho.zip'>
-    <part name='g.bin'/>
-    <part name='h.bin'/>
-    <part name='f.bin'/>
-    <part name='d.bin'/>
-    <part name='c.bin'/>
-    <part name='e.bin'/>
-    <part name='a.bin'/>
-    <part name='b.bin'/>
-    <part name='prom.bin'/>
-  </rom>
+  
 </misterromdescription>

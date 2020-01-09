@@ -1,18 +1,18 @@
 <misterromdescription>
   <rbf>MoonPatrol</rbf>
-  <rom index='0' md5='a57e34beb4084b75c0318a1cacde7c71' type='merged' zip='/hbmame/mpatrol.zip'>
-    <part name='mpa-1.3m'/>
-    <part name='mpa-2.3l'/>
-    <part name='mpa-3.3k'/>
-    <part name='mpa-4.3j'/>
-    <part name='spatrol/spatrol.3e'/>
-    <part name='spatrol/spatrol.3f'/>
-    <part name='spatrol/spatrol.3m'/>
-    <part name='spatrol/spatrol.3n'/>
-    <part name='spatrol/spatrol.3h'/>
-    <part name='mpe-2.3k'/>
-    <part name='spatrol/spatrol.3l'/>
-    <part name='mp-s1.1a'/>
+  <rom index='0' md5='a57e34beb4084b75c0318a1cacde7c71' type='merged|nonmerged|split' zip='/hbmame/spatrol.zip|/hbmame/mpatrol.zip'>
+    <part crc='5873a860' name='mpa-1.3m'/>
+    <part crc='f4b85974' name='mpa-2.3l'/>
+    <part crc='2e1a598c' name='mpa-3.3k'/>
+    <part crc='dd05b587' name='mpa-4.3j'/>
+    <part crc='130709e8' name='spatrol.3e'/>
+    <part crc='1ac58abc' name='spatrol.3f'/>
+    <part crc='09e18f9a' name='spatrol.3m'/>
+    <part crc='36b1891e' name='spatrol.3n'/>
+    <part crc='091045ad' name='spatrol.3h'/>
+    <part crc='c7aa1fb0' name='mpe-2.3k'/>
+    <part crc='49877023' name='spatrol.3l'/>
+    <part crc='561d3108' name='mp-s1.1a'/>
   </rom>
   
   

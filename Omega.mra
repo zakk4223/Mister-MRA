@@ -5,46 +5,20 @@
   <year>19??</year>
   <manufacturer>bootleg?</manufacturer>
   <rbf>omega</rbf>
-  <rom index='0' md5='40677db838969eb33e01ffc92d05aabc' type='nonmerged' zip='omegab.zip'>
-    <part name='omega1.bin'/>
-    <part name='omega2.bin'/>
-    <part name='omega3.bin'/>
-    <part name='omega4.bin'/>
-    <part name='omega5.bin'/>
-    <part name='omega6.bin'/>
-    <part name='omega6.bin'/>
-    <part name='omega6.bin'/>
-    <part name='omega1h.bin'/>
-    <part name='omega1h.bin'/>
-    <part name='omega1k.bin'/>
-    <part name='omega1k.bin'/>
+  <rom index='0' md5='40677db838969eb33e01ffc92d05aabc' type='merged|nonmerged|split' zip='omegab.zip|theend.zip'>
+    <part crc='fc2a096b' name='omega1.bin'/>
+    <part crc='ad100357' name='omega2.bin'/>
+    <part crc='d7e3be79' name='omega3.bin'/>
+    <part crc='42068171' name='omega4.bin'/>
+    <part crc='d8a93383' name='omega5.bin'/>
+    <part crc='32a42f44' name='omega6.bin'/>
+    <part crc='32a42f44' name='omega6.bin'/>
+    <part crc='32a42f44' name='omega6.bin'/>
+    <part crc='527fd384' name='omega1h.bin'/>
+    <part crc='527fd384' name='omega1h.bin'/>
+    <part crc='36de42c6' name='omega1k.bin'/>
+    <part crc='36de42c6' name='omega1k.bin'/>
   </rom>
-  <rom index='0' md5='40677db838969eb33e01ffc92d05aabc' type='merged' zip='theend.zip'>
-    <part name='omegab/omega1.bin'/>
-    <part name='omegab/omega2.bin'/>
-    <part name='omegab/omega3.bin'/>
-    <part name='omegab/omega4.bin'/>
-    <part name='omegab/omega5.bin'/>
-    <part name='omegab/omega6.bin'/>
-    <part name='omegab/omega6.bin'/>
-    <part name='omegab/omega6.bin'/>
-    <part name='omegab/omega1h.bin'/>
-    <part name='omegab/omega1h.bin'/>
-    <part name='omegab/omega1k.bin'/>
-    <part name='omegab/omega1k.bin'/>
-  </rom>
-  <rom index='0' md5='40677db838969eb33e01ffc92d05aabc' type='split' zip='omega.zip'>
-    <part name='omega1.bin' zip='omegab.zip'/>
-    <part name='omega2.bin' zip='omegab.zip'/>
-    <part name='omega3.bin' zip='omegab.zip'/>
-    <part name='omega4.bin' zip='omegab.zip'/>
-    <part name='omega5.bin' zip='omegab.zip'/>
-    <part name='omega6.bin' zip='omegab.zip'/>
-    <part name='omega6.bin' zip='omegab.zip'/>
-    <part name='omega6.bin' zip='omegab.zip'/>
-    <part name='omega1h.bin' zip='omegab.zip'/>
-    <part name='omega1h.bin' zip='omegab.zip'/>
-    <part name='omega1k.bin' zip='omegab.zip'/>
-    <part name='omega1k.bin' zip='omegab.zip'/>
-  </rom>
+  
+  
 </misterromdescription>

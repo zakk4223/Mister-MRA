@@ -1,31 +1,17 @@
 <misterromdescription>
   <rbf>pacman</rbf>
-  <rom index="1">
+  <rom index='1'>
     <part>05</part>
   </rom>
 
-  <rom index='0' md5='ce47da9ee140c0ca17c0be465f077fa6' type='merged' zip='mspacman.zip'>
-    <part name='mschamp/9fg.bin'/>
-    <part name='mschamp/8e.bin'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
-  </rom>
-  <rom index='0' md5='ce47da9ee140c0ca17c0be465f077fa6' type='split' zip='mschamp.zip'>
-    <part name='9fg.bin'/>
-    <part name='8e.bin'/>
-    <part name='82s126.1m' zip='mspacman.zip'/>
-    <part name='82s126.4a' zip='mspacman.zip'/>
-    <part name='82s126.3m' zip='mspacman.zip'/>
-    <part name='82s123.7f' zip='mspacman.zip'/>
-  </rom>
-  <rom index='0' md5='ce47da9ee140c0ca17c0be465f077fa6' type='nonmerged' zip='mschamp.zip'>
-    <part name='9fg.bin'/>
-    <part name='8e.bin'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  
+  
+  <rom index='0' md5='ce47da9ee140c0ca17c0be465f077fa6' type='merged|nonmerged|split' zip='mschamp.zip|mspacman.zip'>
+    <part crc='04dba113' name='9fg.bin'/>
+    <part crc='17435f53' name='8e.bin'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

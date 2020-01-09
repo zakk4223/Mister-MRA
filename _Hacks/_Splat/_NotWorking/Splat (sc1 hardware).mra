@@ -3,22 +3,22 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>splat</rbf>
-  <rom index='0' md5='29a626e00deed2b43a06c5c98c978ed9' type='merged' zip='/hbmame/splat.zip'>
-    <part name='splatsc1/splatsc1.10'/>
-    <part name='splatsc1/splatsc1.11'/>
-    <part name='splatsc1/splatsc1.12'/>
-    <part name='splat.01'/>
-    <part name='splat.02'/>
-    <part name='splat.03'/>
-    <part name='splat.04'/>
-    <part name='splatsc1/splatsc1.05'/>
-    <part name='splatsc1/splatsc1.06'/>
-    <part name='splatsc1/splatsc1.07'/>
-    <part name='splatsc1/splatsc1.08'/>
-    <part name='splatsc1/splatsc1.09'/>
-    <part name='splat.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+  <rom index='0' md5='29a626e00deed2b43a06c5c98c978ed9' type='merged|nonmerged|split' zip='/hbmame/splatsc1.zip|/hbmame/splat.zip'>
+    <part crc='6cc2988a' name='splatsc1.10'/>
+    <part crc='ee960115' name='splatsc1.11'/>
+    <part crc='21916fce' name='splatsc1.12'/>
+    <part crc='1cf26e48' name='splat.01'/>
+    <part crc='ac0d4276' name='splat.02'/>
+    <part crc='74873e59' name='splat.03'/>
+    <part crc='70a7064e' name='splat.04'/>
+    <part crc='6989e923' name='splatsc1.05'/>
+    <part crc='82b22e55' name='splatsc1.06'/>
+    <part crc='e0c4230c' name='splatsc1.07'/>
+    <part crc='42ff589f' name='splatsc1.08'/>
+    <part crc='f67564be' name='splatsc1.09'/>
+    <part crc='a878d5f3' name='splat.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
   
   

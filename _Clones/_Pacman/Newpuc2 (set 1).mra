@@ -7,24 +7,24 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='6fe4a9e7ba66ea057368745be32edd21' type='merged' zip='puckman.zip'>
-    <part name='newpuc2/6e.cpu'/>
-    <part name='newpuc2/6k.cpu'/>
-    <part name='pm1_prg3.6f'/>
-    <part name='newpuc2/6m.cpu'/>
-    <part name='newpuc2/6h.cpu'/>
-    <part name='newpuc2/6n.cpu'/>
-    <part name='newpuc2/6j.cpu'/>
-    <part name='newpuc2/6p.cpu'/>
+  <rom index='0' md5='6fe4a9e7ba66ea057368745be32edd21' type='merged|nonmerged|split' zip='puckman.zip'>
+    <part crc='FIXME' name='6e.cpu'/>
+    <part crc='FIXME' name='6k.cpu'/>
+    <part crc='7d177853' name='pm1_prg3.6f'/>
+    <part crc='FIXME' name='6m.cpu'/>
+    <part crc='FIXME' name='6h.cpu'/>
+    <part crc='FIXME' name='6n.cpu'/>
+    <part crc='FIXME' name='6j.cpu'/>
+    <part crc='FIXME' name='6p.cpu'/>
     <part repeat='16384'>00</part>
-    <part name='pm1_chg1.5e'/>
-    <part name='newpuc2/5h.cpu'/>
-    <part name='newpuc2/5f.cpu'/>
-    <part name='newpuc2/5j.cpu'/>
+    <part crc='2066a0b7' name='pm1_chg1.5e'/>
+    <part crc='FIXME' name='5h.cpu'/>
+    <part crc='FIXME' name='5f.cpu'/>
+    <part crc='FIXME' name='5j.cpu'/>
     <part repeat='8192'>00</part>
-    <part name='pm1-3.1m'/>
-    <part name='pm1-4.4a'/>
-    <part name='pm1-2.3m'/>
-    <part name='pm1-1.7f'/>
+    <part crc='a9cc86bf' name='pm1-3.1m'/>
+    <part crc='3eb3a8e4' name='pm1-4.4a'/>
+    <part crc='77245b66' name='pm1-2.3m'/>
+    <part crc='2fc650bd' name='pm1-1.7f'/>
   </rom>
 </misterromdescription>

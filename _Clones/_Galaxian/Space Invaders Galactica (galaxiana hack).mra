@@ -6,31 +6,19 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='e1559a273a92b8022d54c8e20e78d4bb' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galap1/7f.bin'/>
-    <part name='galap1/galaxian.w'/>
-    <part name='galap1/galx_1_4.rom'/>
-    <part name='galap1/galx_1_5.rom'/>
-    <part name='galap1/galx_1_5.rom'/>
-    <part name='galap1/galx_1_5.rom'/>
-    <part name='galap1/galx_1_5.rom'/>
-    <part name='galap1/galmidw.1j'/>
-    <part name='galap1/galmidw.1j'/>
-    <part name='galap1/galmidw.1k'/>
-    <part name='galap1/galmidw.1k'/>
-  </rom>
-  <rom index='0' md5='e1559a273a92b8022d54c8e20e78d4bb' type='split|nonmerged' zip='galap1.zip'>
-    <part name='7f.bin'/>
-    <part name='galaxian.w'/>
-    <part name='galx_1_4.rom'/>
-    <part name='galx_1_5.rom'/>
-    <part name='galx_1_5.rom'/>
-    <part name='galx_1_5.rom'/>
-    <part name='galx_1_5.rom'/>
-    <part name='galmidw.1j'/>
-    <part name='galmidw.1j'/>
-    <part name='galmidw.1k'/>
-    <part name='galmidw.1k'/>
+  
+  <rom index='0' md5='e1559a273a92b8022d54c8e20e78d4bb' type='merged|nonmerged|split' zip='galap1.zip|galaxian.zip'>
+    <part crc='4335b1de' name='7f.bin'/>
+    <part crc='4c7031c0' name='galaxian.w'/>
+    <part crc='e71e1d9e' name='galx_1_4.rom'/>
+    <part crc='6e65a3b2' name='galx_1_5.rom'/>
+    <part crc='6e65a3b2' name='galx_1_5.rom'/>
+    <part crc='6e65a3b2' name='galx_1_5.rom'/>
+    <part crc='6e65a3b2' name='galx_1_5.rom'/>
+    <part crc='84decf98' name='galmidw.1j'/>
+    <part crc='84decf98' name='galmidw.1j'/>
+    <part crc='c31ada9e' name='galmidw.1k'/>
+    <part crc='c31ada9e' name='galmidw.1k'/>
   </rom>
   
 </misterromdescription>

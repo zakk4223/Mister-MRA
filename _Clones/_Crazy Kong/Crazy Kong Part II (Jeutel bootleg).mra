@@ -8,90 +8,36 @@
   <category>Platform</category>
   <category>Platform / Mario Bros.</category>
   <rbf>crazykong</rbf>
-  <rom index='0' md5='f7c07c3b9a3dfef38a7f92bbf173e3a1' type='merged|nonmerged' zip='ckongpt2.zip'>
-    <part name='7.5d'/>
-    <part name='8.5e'/>
-    <part name='9.5h'/>
-    <part name='ckongpt2jeu/ckjeu10.dat'/>
-    <part name='11.5l'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='ckongpt2jeu/ckjeu12.dat'/>
-    <part name='6.11n'/>
-    <part name='5.11l'/>
-    <part name='4.11k'/>
-    <part name='3.11h'/>
-    <part name='2.11c'/>
-    <part name='1.11a'/>
-    <part name='2.11c'/>
-    <part name='1.11a'/>
-    <part name='14.5s'/>
-    <part name='13.5p'/>
-  </rom>
-  <rom index='0' md5='f7c07c3b9a3dfef38a7f92bbf173e3a1' type='split' zip='ckongpt2jeu.zip'>
-    <part name='7.5d' zip='ckongpt2.zip'/>
-    <part name='8.5e' zip='ckongpt2.zip'/>
-    <part name='9.5h' zip='ckongpt2.zip'/>
-    <part name='ckjeu10.dat'/>
-    <part name='11.5l' zip='ckongpt2.zip'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='6.11n' zip='ckongpt2.zip'/>
-    <part name='5.11l' zip='ckongpt2.zip'/>
-    <part name='4.11k' zip='ckongpt2.zip'/>
-    <part name='3.11h' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='2.11c' zip='ckongpt2.zip'/>
-    <part name='1.11a' zip='ckongpt2.zip'/>
-    <part name='14.5s' zip='ckongpt2.zip'/>
-    <part name='13.5p' zip='ckongpt2.zip'/>
-  </rom>
   
   
-  <rom index='0' md5='f7c07c3b9a3dfef38a7f92bbf173e3a1' type='nonmerged' zip='ckongpt2jeu.zip'>
-    <part name='7.5d'/>
-    <part name='8.5e'/>
-    <part name='9.5h'/>
-    <part name='ckjeu10.dat'/>
-    <part name='11.5l'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='ckjeu12.dat'/>
-    <part name='6.11n'/>
-    <part name='5.11l'/>
-    <part name='4.11k'/>
-    <part name='3.11h'/>
-    <part name='2.11c'/>
-    <part name='1.11a'/>
-    <part name='2.11c'/>
-    <part name='1.11a'/>
-    <part name='14.5s'/>
-    <part name='13.5p'/>
+  
+  
+  <rom index='0' md5='f7c07c3b9a3dfef38a7f92bbf173e3a1' type='merged|nonmerged|split' zip='ckongpt2jeu.zip|ckongpt2.zip'>
+    <part crc='b27df032' name='7.5d'/>
+    <part crc='5dc1aaba' name='8.5e'/>
+    <part crc='c9054c94' name='9.5h'/>
+    <part crc='7e6eeec4' name='ckjeu10.dat'/>
+    <part crc='ae159192' name='11.5l'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='0532f270' name='ckjeu12.dat'/>
+    <part crc='2dcedd12' name='6.11n'/>
+    <part crc='fa7cbd91' name='5.11l'/>
+    <part crc='3375b3bd' name='4.11k'/>
+    <part crc='5655cc11' name='3.11h'/>
+    <part crc='d1352c31' name='2.11c'/>
+    <part crc='a7a2fdbd' name='1.11a'/>
+    <part crc='d1352c31' name='2.11c'/>
+    <part crc='a7a2fdbd' name='1.11a'/>
+    <part crc='5f0bcdfb' name='14.5s'/>
+    <part crc='9003ffbd' name='13.5p'/>
   </rom>
 </misterromdescription>

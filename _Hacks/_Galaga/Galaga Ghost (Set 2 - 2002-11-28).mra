@@ -1,16 +1,16 @@
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index='0' md5='9374df0918eab87c23c37fee7017acc5' type='merged' zip='/hbmame/galaga.zip'>
-    <part name='galagads/3200a.bin'/>
-    <part name='galagads/3300b.bin'/>
-    <part name='galagads/3400c.bin'/>
-    <part name='galagads/3500d.bin'/>
-    <part name='galagads/3600fast.bin'/>
-    <part name='galagads/3700g.bin'/>
-    <part name='galagosb/gost_07e_g10.bin'/>
-    <part name='galagosb/gosb_07h_g09.bin'/>
-    <part name='galagosb/gost_07m_g08.bin'/>
-    <part name='54xx.bin' zip='/hbmame/namco54.zip'/>
+  <rom index='0' md5='9374df0918eab87c23c37fee7017acc5' type='merged|nonmerged|split' zip='/hbmame/galagads.zip|/hbmame/galaga.zip'>
+    <part crc='3ef0b053' name='3200a.bin'/>
+    <part crc='1b280831' name='3300b.bin'/>
+    <part crc='16233d33' name='3400c.bin'/>
+    <part crc='0aaf5c23' name='3500d.bin'/>
+    <part crc='23d586e5' name='3600fast.bin'/>
+    <part crc='b07f0aa4' name='3700g.bin'/>
+    <part crc='FIXME' name='gost_07e_g10.bin'/>
+    <part crc='FIXME' name='gosb_07h_g09.bin'/>
+    <part crc='FIXME' name='gost_07m_g08.bin'/>
+    <part crc='ee7357e0' name='54xx.bin' zip='/hbmame/namco54.zip'/>
   </rom>
   
   

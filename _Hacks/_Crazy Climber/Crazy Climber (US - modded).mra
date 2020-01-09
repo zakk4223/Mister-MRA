@@ -6,20 +6,20 @@
   <manufacturer>Nichibutsu</manufacturer>
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
-  <rom index='0' md5='8e35d47fa3f973664be996a2f682e026' type='merged' zip='/hbmame/cclimber.zip'>
-    <part name='cclimbrm/cc11m'/>
-    <part name='cc10'/>
-    <part name='cc09'/>
-    <part name='cc08'/>
-    <part name='cclimbrm/cc07m'/>
-    <part name='cc06'/>
-    <part name='cc05'/>
-    <part name='cc04'/>
-    <part name='cc03'/>
-    <part name='cc02'/>
-    <part name='cc01'/>
-    <part name='cc13'/>
-    <part name='cc12'/>
+  <rom index='0' md5='8e35d47fa3f973664be996a2f682e026' type='merged|nonmerged|split' zip='/hbmame/cclimbrm.zip|/hbmame/cclimber.zip'>
+    <part crc='a7d58b7e' name='cc11m'/>
+    <part crc='b3c26cef' name='cc10'/>
+    <part crc='6db0879c' name='cc09'/>
+    <part crc='f48c5fe3' name='cc08'/>
+    <part crc='a417e7a3' name='cc07m'/>
+    <part crc='481b64cc' name='cc06'/>
+    <part crc='2c33b760' name='cc05'/>
+    <part crc='332347cb' name='cc04'/>
+    <part crc='4e4b3658' name='cc03'/>
+    <part crc='14f3ecc9' name='cc02'/>
+    <part crc='21c0f9fb' name='cc01'/>
+    <part crc='e0042f75' name='cc13'/>
+    <part crc='5da13aaa' name='cc12'/>
   </rom>
   
   

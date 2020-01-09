@@ -3,73 +3,29 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtgng</rbf>
-  <rom index="0" md5="3da9708518bfb1b90ba960b22f71e0c9" type="merged" zip="gng.zip">
-    <part name="gngblita/4-5"/>
-    <part name="gngblita/3"/>
-    <part name="gngblita/1-2"/>
-    <part name="gg1.bin"/>
-    <part name="gg2.bin"/>
-    <part name="gg9.bin"/>
-    <part name="gg8.bin"/>
-    <part name="gg7.bin"/>
-    <part name="gg6.bin"/>
-    <part name="gg11.bin"/>
-    <part name="gg10.bin"/>
-    <part name="gg11.bin"/>
-    <part name="gg10.bin"/>
-    <part name="gg17.bin"/>
-    <part name="gg16.bin"/>
-    <part name="gg15.bin"/>
-    <part name="gg15.bin"/>
-    <part name="gg14.bin"/>
-    <part name="gg13.bin"/>
-    <part name="gg12.bin"/>
-    <part name="gg12.bin"/>
-  </rom>
-  <rom index="0" md5="3da9708518bfb1b90ba960b22f71e0c9" type="split" zip="gngblita.zip">
-    <part name="4-5"/>
-    <part name="3"/>
-    <part name="1-2"/>
-    <part name="gg1.bin" zip="gng.zip"/>
-    <part name="gg2.bin" zip="gng.zip"/>
-    <part name="gg9.bin" zip="gng.zip"/>
-    <part name="gg8.bin" zip="gng.zip"/>
-    <part name="gg7.bin" zip="gng.zip"/>
-    <part name="gg6.bin" zip="gng.zip"/>
-    <part name="gg11.bin" zip="gng.zip"/>
-    <part name="gg10.bin" zip="gng.zip"/>
-    <part name="gg11.bin" zip="gng.zip"/>
-    <part name="gg10.bin" zip="gng.zip"/>
-    <part name="gg17.bin" zip="gng.zip"/>
-    <part name="gg16.bin" zip="gng.zip"/>
-    <part name="gg15.bin" zip="gng.zip"/>
-    <part name="gg15.bin" zip="gng.zip"/>
-    <part name="gg14.bin" zip="gng.zip"/>
-    <part name="gg13.bin" zip="gng.zip"/>
-    <part name="gg12.bin" zip="gng.zip"/>
-    <part name="gg12.bin" zip="gng.zip"/>
-  </rom>
-  <rom index="0" md5="3da9708518bfb1b90ba960b22f71e0c9" type="nonmerged" zip="gngblita.zip">
-    <part name="4-5"/>
-    <part name="3"/>
-    <part name="1-2"/>
-    <part name="gg1.bin"/>
-    <part name="gg2.bin"/>
-    <part name="gg9.bin"/>
-    <part name="gg8.bin"/>
-    <part name="gg7.bin"/>
-    <part name="gg6.bin"/>
-    <part name="gg11.bin"/>
-    <part name="gg10.bin"/>
-    <part name="gg11.bin"/>
-    <part name="gg10.bin"/>
-    <part name="gg17.bin"/>
-    <part name="gg16.bin"/>
-    <part name="gg15.bin"/>
-    <part name="gg15.bin"/>
-    <part name="gg14.bin"/>
-    <part name="gg13.bin"/>
-    <part name="gg12.bin"/>
-    <part name="gg12.bin"/>
+  
+  
+  <rom index='0' md5='3da9708518bfb1b90ba960b22f71e0c9' type='merged|nonmerged|split' zip='gngblita.zip|gng.zip'>
+    <part crc='233a4589' name='4-5'/>
+    <part crc='4859d068' name='3'/>
+    <part crc='ed28e86e' name='1-2'/>
+    <part crc='ecfccf07' name='gg1.bin'/>
+    <part crc='615f5b6f' name='gg2.bin'/>
+    <part crc='20035bda' name='gg9.bin'/>
+    <part crc='f12ba271' name='gg8.bin'/>
+    <part crc='e525207d' name='gg7.bin'/>
+    <part crc='2d77e9b2' name='gg6.bin'/>
+    <part crc='ddd56fa9' name='gg11.bin'/>
+    <part crc='7302529d' name='gg10.bin'/>
+    <part crc='ddd56fa9' name='gg11.bin'/>
+    <part crc='7302529d' name='gg10.bin'/>
+    <part crc='93e50a8f' name='gg17.bin'/>
+    <part crc='06d7e5ca' name='gg16.bin'/>
+    <part crc='bc1fe02d' name='gg15.bin'/>
+    <part crc='bc1fe02d' name='gg15.bin'/>
+    <part crc='6aaf12f9' name='gg14.bin'/>
+    <part crc='e80c3fca' name='gg13.bin'/>
+    <part crc='7780a925' name='gg12.bin'/>
+    <part crc='7780a925' name='gg12.bin'/>
   </rom>
 </misterromdescription>

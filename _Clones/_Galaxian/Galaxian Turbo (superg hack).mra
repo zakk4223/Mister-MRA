@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='cc94cd83f32bef8516845684b7acb1f2' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galaxiani/cp-1.8g'/>
-    <part name='galapx/galx.v'/>
-    <part name='galturbo/superg.w'/>
-    <part name='galturbo/galturbo.y'/>
-    <part name='galturbo/galturbo.z'/>
-    <part name='galturbo/galturbo.z'/>
-    <part name='galturbo/galturbo.z'/>
-    <part name='galturbo/galturbo.z'/>
-    <part name='galturbo/galturbo.1h'/>
-    <part name='galturbo/galturbo.1h'/>
-    <part name='galturbo/galturbo.1k'/>
-    <part name='galturbo/galturbo.1k'/>
-  </rom>
-  <rom index='0' md5='cc94cd83f32bef8516845684b7acb1f2' type='split|nonmerged' zip='galturbo.zip'>
-    <part name='galturbo.u'/>
-    <part name='galx.v'/>
-    <part name='superg.w'/>
-    <part name='galturbo.y'/>
-    <part name='galturbo.z'/>
-    <part name='galturbo.z'/>
-    <part name='galturbo.z'/>
-    <part name='galturbo.z'/>
-    <part name='galturbo.1h'/>
-    <part name='galturbo.1h'/>
-    <part name='galturbo.1k'/>
-    <part name='galturbo.1k'/>
+  
+  <rom index='0' md5='cc94cd83f32bef8516845684b7acb1f2' type='merged|nonmerged|split' zip='galturbo.zip|galaxian.zip'>
+    <part crc='e8f3aa67' name='galturbo.u'/>
+    <part crc='bc16064e' name='galx.v'/>
+    <part crc='ddeabdae' name='superg.w'/>
+    <part crc='a44f450f' name='galturbo.y'/>
+    <part crc='3247f3d4' name='galturbo.z'/>
+    <part crc='3247f3d4' name='galturbo.z'/>
+    <part crc='3247f3d4' name='galturbo.z'/>
+    <part crc='3247f3d4' name='galturbo.z'/>
+    <part crc='a713fd1a' name='galturbo.1h'/>
+    <part crc='a713fd1a' name='galturbo.1h'/>
+    <part crc='28511790' name='galturbo.1k'/>
+    <part crc='28511790' name='galturbo.1k'/>
   </rom>
   
 </misterromdescription>

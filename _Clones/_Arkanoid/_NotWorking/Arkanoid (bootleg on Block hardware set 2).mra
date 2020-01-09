@@ -3,18 +3,18 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>arkanoid</rbf>
-  <rom index='0' md5='c96dfd5f711052144182871fcbdd1f97' type='merged' zip='arkanoid.zip'>
-    <part name='arkgcbla/k101.e7'/>
-    <part name='arkgcbla/k102.f7'/>
-    <part name='a75-03.ic64'/>
-    <part name='a75-04.ic63'/>
-    <part name='a75-05.ic62'/>
-    <part name='arkgcbl/82s129.5k'/>
-    <part name='arkgcbl/82s129.5jk'/>
-    <part name='arkgcbl/82s129.5l'/>
-    <part name='arkgcbl/82s129.5kl'/>
-    <part name='arkgcbl/82s129.5mn'/>
-    <part name='arkgcbl/63s141.5m'/>
+  <rom index='0' md5='c96dfd5f711052144182871fcbdd1f97' type='merged|nonmerged|split' zip='arkanoid.zip'>
+    <part crc='FIXME' name='k101.e7'/>
+    <part crc='FIXME' name='k102.f7'/>
+    <part crc='038b74ba' name='a75-03.ic64'/>
+    <part crc='71fae199' name='a75-04.ic63'/>
+    <part crc='c76374e2' name='a75-05.ic62'/>
+    <part crc='FIXME' name='82s129.5k'/>
+    <part crc='FIXME' name='82s129.5jk'/>
+    <part crc='FIXME' name='82s129.5l'/>
+    <part crc='FIXME' name='82s129.5kl'/>
+    <part crc='FIXME' name='82s129.5mn'/>
+    <part crc='FIXME' name='63s141.5m'/>
 
     <patch offset='0x33C2'>49</patch>
     <patch offset='0x33F4'>49</patch>

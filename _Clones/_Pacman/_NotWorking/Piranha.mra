@@ -7,24 +7,24 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='eac45c004988009d2ee762519271ba08' type='merged' zip='puckman.zip'>
-    <part name='piranha/pir1.7e'/>
-    <part name='piranha/pir5.6e'/>
-    <part name='piranha/pir2.7f'/>
-    <part name='piranha/pir6.6f'/>
-    <part name='piranha/pir3.7h'/>
-    <part name='piranha/pir7.6h'/>
-    <part name='piranha/pir4.7j'/>
-    <part name='piranha/pir8.6j'/>
+  <rom index='0' md5='eac45c004988009d2ee762519271ba08' type='merged|nonmerged|split' zip='puckman.zip'>
+    <part crc='FIXME' name='pir1.7e'/>
+    <part crc='FIXME' name='pir5.6e'/>
+    <part crc='FIXME' name='pir2.7f'/>
+    <part crc='FIXME' name='pir6.6f'/>
+    <part crc='FIXME' name='pir3.7h'/>
+    <part crc='FIXME' name='pir7.6h'/>
+    <part crc='FIXME' name='pir4.7j'/>
+    <part crc='FIXME' name='pir8.6j'/>
     <part repeat='16384'>00</part>
-    <part name='piranha/pir9.5e'/>
-    <part name='piranha/pir11.5h'/>
-    <part name='piranha/pir10.5f'/>
-    <part name='piranha/pir12.5j'/>
+    <part crc='FIXME' name='pir9.5e'/>
+    <part crc='FIXME' name='pir11.5h'/>
+    <part crc='FIXME' name='pir10.5f'/>
+    <part crc='FIXME' name='pir12.5j'/>
     <part repeat='8192'>00</part>
-    <part name='pm1-3.1m'/>
-    <part name='piranha/piranha.4a'/>
-    <part name='pm1-2.3m'/>
-    <part name='pm1-1.7f'/>
+    <part crc='a9cc86bf' name='pm1-3.1m'/>
+    <part crc='FIXME' name='piranha.4a'/>
+    <part crc='77245b66' name='pm1-2.3m'/>
+    <part crc='2fc650bd' name='pm1-1.7f'/>
   </rom>
 </misterromdescription>

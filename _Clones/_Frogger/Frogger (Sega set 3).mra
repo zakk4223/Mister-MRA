@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Frogger (Sega set 3)</name>
   <mameversion>0216</mameversion>
@@ -8,37 +8,17 @@
   <category>Maze</category>
   <category>Maze / Frogs</category>
   <rbf>frogger</rbf>
-  <rom index="0" md5="ac805812350a631c33207cb1ae9de692" type="nonmerged" zip="froggers2.zip">
-    <part name="epr-1012.ic5"/>
-    <part name="epr-1013a.ic6"/>
-    <part name="epr-1014.ic7"/>
-    <part name="epr-1015.ic8"/>
-    <part name="epr-606.ic102"/>
-    <part name="epr-607.ic101"/>
-    <part name="epr-608.ic32"/>
-    <part name="epr-609.ic33"/>
-    <part name="epr-610.ic34"/>
+  <rom index='0' md5='ac805812350a631c33207cb1ae9de692' type='merged|nonmerged|split' zip='froggers2.zip|frogger.zip'>
+    <part crc='efab0c79' name='epr-1012.ic5'/>
+    <part crc='aeca9c13' name='epr-1013a.ic6'/>
+    <part crc='dd251066' name='epr-1014.ic7'/>
+    <part crc='bf293a02' name='epr-1015.ic8'/>
+    <part crc='f524ee30' name='epr-606.ic102'/>
+    <part crc='05f7d883' name='epr-607.ic101'/>
+    <part crc='e8ab0256' name='epr-608.ic32'/>
+    <part crc='7380a48f' name='epr-609.ic33'/>
+    <part crc='31d7eb27' name='epr-610.ic34'/>
   </rom>
-  <rom index="0" md5="ac805812350a631c33207cb1ae9de692" type="merged" zip="frogger.zip">
-    <part name="froggers3/29"/>
-    <part name="froggers3/30"/>
-    <part name="froggers3/31"/>
-    <part repeat="4096">00</part>
-    <part name="frogger.606"/>
-    <part name="frogger.607"/>
-    <part name="frogger.608"/>
-    <part name="frogger.609"/>
-    <part name="frogger.610"/>
-  </rom>
-  <rom index="0" md5="ac805812350a631c33207cb1ae9de692" type="split" zip="froggers3.zip">
-    <part name="29"/>
-    <part name="30"/>
-    <part name="31"/>
-    <part repeat="4096">00</part>
-    <part name="frogger.606" zip="frogger.zip"/>
-    <part name="frogger.607" zip="frogger.zip"/>
-    <part name="frogger.608" zip="frogger.zip"/>
-    <part name="frogger.609" zip="frogger.zip"/>
-    <part name="frogger.610" zip="frogger.zip"/>
-  </rom>
+  
+  
 </misterromdescription>

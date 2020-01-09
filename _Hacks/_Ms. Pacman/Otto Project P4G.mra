@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='64be640d66dc745ab432e176e4567d10' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='superp4g/superp4g.1'/>
-    <part name='superp4g/superp4g.2'/>
-    <part name='superp4g/superp4g.3'/>
-    <part name='superp4g/superp4g.4'/>
-    <part name='superp4g/superp4g.5'/>
-    <part name='chtmspa/boot6'/>
+  <rom index='0' md5='64be640d66dc745ab432e176e4567d10' type='merged|nonmerged|split' zip='/hbmame/superp4g.zip|/hbmame/mspacman.zip'>
+    <part crc='f88c992f' name='superp4g.1'/>
+    <part crc='e6886710' name='superp4g.2'/>
+    <part crc='c76dd2e6' name='superp4g.3'/>
+    <part crc='ba5b054e' name='superp4g.4'/>
+    <part crc='c701506b' name='superp4g.5'/>
+    <part crc='368cb165' name='boot6'/>
     <part repeat='8192'>00</part>
-    <part name='superp4g/superp4g.5e'/>
-    <part name='superp4g/superp4g.5f'/>
+    <part crc='593576fe' name='superp4g.5e'/>
+    <part crc='e64e0f6d' name='superp4g.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

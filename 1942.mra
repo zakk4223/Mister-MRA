@@ -3,36 +3,36 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>1942</rbf>
-  <rom index="0" md5="b034856e2abf228761a3828c8c883b4c" type="merged|split|nonmerged" zip="1942.zip">
-    <part name="srb-03.m3"/>
-    <part name="srb-04.m4"/>
-    <part name="srb-05.m5"/>
-    <part name="srb-06.m6"/>
-    <part name="srb-06.m6"/>
-    <part name="srb-07.m7"/>
-    <part name="sr-01.c11"/>
-    <part name="sr-02.f2"/>
-    <part name="sr-10.a3"/>
-    <part name="sr-11.a4"/>
-    <part name="sr-08.a1"/>
-    <part name="sr-09.a2"/>
-    <part name="sr-12.a5"/>
-    <part name="sr-13.a6"/>
-    <part name="sr-12.a5"/>
-    <part name="sr-13.a6"/>
-    <part name="sr-14.l1"/>
-    <part name="sr-16.n1"/>
-    <part name="sr-15.l2"/>
-    <part name="sr-17.n2"/>
-    <part name="sb-1.k6"/>
-    <part name="sb-2.d1"/>
-    <part name="sb-3.d2"/>
-    <part name="sb-4.d6"/>
-    <part name="sb-5.e8"/>
-    <part name="sb-6.e9"/>
-    <part name="sb-7.e10"/>
-    <part name="sb-0.f1"/>
-    <part name="sb-8.k3"/>
-    <part name="sb-9.m11"/>
+  <rom index='0' md5='b034856e2abf228761a3828c8c883b4c' type='merged|nonmerged|split' zip='1942.zip'>
+    <part crc='d9dafcc3' name='srb-03.m3'/>
+    <part crc='da0cf924' name='srb-04.m4'/>
+    <part crc='d102911c' name='srb-05.m5'/>
+    <part crc='466f8248' name='srb-06.m6'/>
+    <part crc='466f8248' name='srb-06.m6'/>
+    <part crc='0d31038c' name='srb-07.m7'/>
+    <part crc='bd87f06b' name='sr-01.c11'/>
+    <part crc='6ebca191' name='sr-02.f2'/>
+    <part crc='8edb273a' name='sr-10.a3'/>
+    <part crc='3a2726c3' name='sr-11.a4'/>
+    <part crc='3884d9eb' name='sr-08.a1'/>
+    <part crc='999cf6e0' name='sr-09.a2'/>
+    <part crc='1bd3d8bb' name='sr-12.a5'/>
+    <part crc='658f02c4' name='sr-13.a6'/>
+    <part crc='1bd3d8bb' name='sr-12.a5'/>
+    <part crc='658f02c4' name='sr-13.a6'/>
+    <part crc='2528bec6' name='sr-14.l1'/>
+    <part crc='024418f8' name='sr-16.n1'/>
+    <part crc='f89287aa' name='sr-15.l2'/>
+    <part crc='e2c7e489' name='sr-17.n2'/>
+    <part crc='712ac508' name='sb-1.k6'/>
+    <part crc='8bb8b3df' name='sb-2.d1'/>
+    <part crc='3b0c99af' name='sb-3.d2'/>
+    <part crc='4858968d' name='sb-4.d6'/>
+    <part crc='93ab8153' name='sb-5.e8'/>
+    <part crc='8ab44f7d' name='sb-6.e9'/>
+    <part crc='f4ade9a4' name='sb-7.e10'/>
+    <part crc='6047d91b' name='sb-0.f1'/>
+    <part crc='f6fad943' name='sb-8.k3'/>
+    <part crc='4921635c' name='sb-9.m11'/>
   </rom>
 </misterromdescription>

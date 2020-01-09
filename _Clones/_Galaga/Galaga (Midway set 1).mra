@@ -1,40 +1,18 @@
-<?xml version="1.0"?>
+<?xml version='1.0'?>
 <misterromdescription>
   <rbf>Galaga</rbf>
-  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="merged" zip="galaga.zip">
-    <part fixme="maincpu:0" name="gg1_1b.3p"/>
-    <part fixme="maincpu:1000" name="gg1_2b.3m"/>
-    <part fixme="maincpu:2000" name="gg1_3.2m"/>
-    <part fixme="maincpu:3000" name="gg1_4b.2l"/>
-    <part fixme="sub:0" name="gg1_5b.3f"/>
-    <part fixme="sub2:0" name="gg1_7b.2c"/>
-    <part name="gg1_11.4d"/>
-    <part name="gg1_10.4f"/>
-    <part name="gg1_9.4l"/>
-    <part name="54xx.bin" zip="namco54.zip"/>
-  </rom>
-  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="split" zip="galagamw.zip">
-    <part name="gg1_1b.3p" zip="galaga.zip"/>
-    <part name="gg1_2b.3m" zip="galaga.zip"/>
-    <part name="gg1_3.2m" zip="galaga.zip"/>
-    <part name="gg1_4b.2l" zip="galaga.zip"/>
-    <part name="gg1_5b.3f" zip="galaga.zip"/>
-    <part name="gg1_7b.2c" zip="galaga.zip"/>
-    <part name="gg1_11.4d" zip="galaga.zip"/>
-    <part name="gg1_10.4f" zip="galaga.zip"/>
-    <part name="gg1_9.4l" zip="galaga.zip"/>
-    <part name="54xx.bin" zip="namco54.zip"/>
-  </rom>
-  <rom index="0" md5="63b729213406bdbb37e30883ee999645" type="nonmerged" zip="galagamw.zip">
-    <part name="gg1_1b.3p"/>
-    <part name="gg1_2b.3m"/>
-    <part name="gg1_3.2m"/>
-    <part name="gg1_4b.2l"/>
-    <part name="gg1_5b.3f"/>
-    <part name="gg1_7b.2c"/>
-    <part name="2800l.bin"/>
-    <part name="2700k.bin"/>
-    <part name="2600j.bin"/>
-    <part name="54xx.bin" zip="namco54.zip"/>
+  
+  
+  <rom index='0' md5='63b729213406bdbb37e30883ee999645' type='merged|nonmerged|split' zip='galagamw.zip|galaga.zip'>
+    <part crc='FIXME' name='gg1_1b.3p'/>
+    <part crc='FIXME' name='gg1_2b.3m'/>
+    <part crc='FIXME' name='gg1_3.2m'/>
+    <part crc='FIXME' name='gg1_4b.2l'/>
+    <part crc='FIXME' name='gg1_5b.3f'/>
+    <part crc='FIXME' name='gg1_7b.2c'/>
+    <part crc='ad447c80' name='2800l.bin'/>
+    <part crc='dd6f1afc' name='2700k.bin'/>
+    <part crc='58b2f47c' name='2600j.bin'/>
+    <part crc='ee7357e0' name='54xx.bin' zip='namco54.zip'/>
   </rom>
 </misterromdescription>

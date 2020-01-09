@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='3845ec4911a3fed54b571834ff073a23' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='pacrab/pacrab.1'/>
-    <part name='pacrab/pacrab.2'/>
-    <part name='pacrab/pacrab.3'/>
-    <part name='pacrab/pacrab.4'/>
+  <rom index='0' md5='3845ec4911a3fed54b571834ff073a23' type='merged|nonmerged|split' zip='/hbmame/pacrab.zip|/hbmame/puckman.zip'>
+    <part crc='bb14430f' name='pacrab.1'/>
+    <part crc='f3f5a91b' name='pacrab.2'/>
+    <part crc='44caab2a' name='pacrab.3'/>
+    <part crc='25523534' name='pacrab.4'/>
     <part repeat='16384'>00</part>
-    <part name='pacrab/pacrab.5e'/>
-    <part name='pacrab/pacrab.5f'/>
+    <part crc='f33761a4' name='pacrab.5e'/>
+    <part crc='60e1a3b7' name='pacrab.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

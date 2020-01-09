@@ -8,55 +8,23 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>sinistar</rbf>
-  <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='merged' zip='sinistar.zip'>
-    <part name='sinistar.10'/>
-    <part name='sinistar.10'/>
-    <part name='sinistar2/sinrev2.11'/>
-    <part name='sinistar.01'/>
-    <part name='sinistar.02'/>
-    <part name='sinistar.03'/>
-    <part name='sinistar.04'/>
-    <part name='sinistar.05'/>
-    <part name='sinistar.06'/>
-    <part name='sinistar.07'/>
-    <part name='sinistar2/sinrev2.08'/>
-    <part name='sinistar.09'/>
-    <part name='sinistar.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
-  </rom>
-  <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='split' zip='sinistar2.zip'>
-    <part name='sinistar.10' zip='sinistar.zip'/>
-    <part name='sinistar.10' zip='sinistar.zip'/>
-    <part name='sinrev2.11'/>
-    <part name='sinistar.01' zip='sinistar.zip'/>
-    <part name='sinistar.02' zip='sinistar.zip'/>
-    <part name='sinistar.03' zip='sinistar.zip'/>
-    <part name='sinistar.04' zip='sinistar.zip'/>
-    <part name='sinistar.05' zip='sinistar.zip'/>
-    <part name='sinistar.06' zip='sinistar.zip'/>
-    <part name='sinistar.07' zip='sinistar.zip'/>
-    <part name='sinrev2.08'/>
-    <part name='sinistar.09' zip='sinistar.zip'/>
-    <part name='sinistar.snd' zip='sinistar.zip'/>
-    <part name='decoder.4' zip='sinistar.zip'/>
-    <part name='decoder.6' zip='sinistar.zip'/>
-  </rom>
-  <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='nonmerged' zip='sinistar2.zip'>
-    <part name='sinistar.10'/>
-    <part name='sinistar.10'/>
-    <part name='sinrev2.11'/>
-    <part name='sinistar.01'/>
-    <part name='sinistar.02'/>
-    <part name='sinistar.03'/>
-    <part name='sinistar.04'/>
-    <part name='sinistar.05'/>
-    <part name='sinistar.06'/>
-    <part name='sinistar.07'/>
-    <part name='sinrev2.08'/>
-    <part name='sinistar.09'/>
-    <part name='sinistar.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+  
+  
+  <rom index='0' md5='069a99a7264bdb9f84ce6298031a8b44' type='merged|nonmerged|split' zip='sinistar2.zip|sinistar.zip'>
+    <part crc='3d670417' name='sinistar.10'/>
+    <part crc='3d670417' name='sinistar.10'/>
+    <part crc='792c8b00' name='sinrev2.11'/>
+    <part crc='f6f3a22c' name='sinistar.01'/>
+    <part crc='cab3185c' name='sinistar.02'/>
+    <part crc='1ce1b3cc' name='sinistar.03'/>
+    <part crc='6da632ba' name='sinistar.04'/>
+    <part crc='b662e8fc' name='sinistar.05'/>
+    <part crc='2306183d' name='sinistar.06'/>
+    <part crc='e5dd918e' name='sinistar.07'/>
+    <part crc='d7ecee45' name='sinrev2.08'/>
+    <part crc='50cb63ad' name='sinistar.09'/>
+    <part crc='b82f4ddb' name='sinistar.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
 </misterromdescription>

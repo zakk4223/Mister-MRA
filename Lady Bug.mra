@@ -8,16 +8,16 @@
   <category>Maze / Bugs</category>
   <rbf>ladybug</rbf>
   <rom index='0' md5='89d961d878363b9859930a3e2c463867' type='merged|nonmerged|split' zip='ladybug.zip'>
-    <part name='l1.c4'/>
-    <part name='l2.d4'/>
-    <part name='l3.e4'/>
-    <part name='l4.h4'/>
-    <part name='l5.j4'/>
-    <part name='l6.k4'/>
-    <part name='l8.l7'/>
-    <part name='l7.m7'/>
-    <part name='l9.f7'/>
-    <part name='l0.h7'/>
+    <part crc='d09e0adb' name='l1.c4'/>
+    <part crc='88bc4a0a' name='l2.d4'/>
+    <part crc='53e9efce' name='l3.e4'/>
+    <part crc='ffc424d7' name='l4.h4'/>
+    <part crc='ad6af809' name='l5.j4'/>
+    <part crc='cf1acca4' name='l6.k4'/>
+    <part crc='8b99910b' name='l8.l7'/>
+    <part crc='86a5b448' name='l7.m7'/>
+    <part crc='77b1da1e' name='l9.f7'/>
+    <part crc='aa82e00b' name='l0.h7'/>
   </rom>
   
   

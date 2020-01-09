@@ -6,47 +6,20 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='7e4cbc7944985af9d3d4cda9b0e4b014' type='merged' zip='scramble.zip'>
-    <part name='bomber/1.3l'/>
-    <part name='bomber/2.3k'/>
-    <part name='bomber/3.3h'/>
-    <part name='bomber/4.3f'/>
-    <part name='bomber/5.3e'/>
-    <part name='bomber/6.3d'/>
-    <part name='bomber/7.3c'/>
-    <part name='bomber/8.3a'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='bomber/11.8k'/>
-    <part name='bomber/12.8l'/>
-    <part repeat='2048'>00</part>
-  </rom>
-  <rom index='0' md5='7e4cbc7944985af9d3d4cda9b0e4b014' type='split' zip='bomber.zip'>
-    <part name='1.3l'/>
-    <part name='2.3k'/>
-    <part name='3.3h'/>
-    <part name='4.3f'/>
-    <part name='5.3e'/>
-    <part name='6.3d'/>
-    <part name='7.3c'/>
-    <part name='8.3a'/>
-    <part name='c1.5h' zip='scramble.zip'/>
-    <part name='c2.5f' zip='scramble.zip'/>
-    <part name='11.8k'/>
-    <part name='12.8l'/>
-  </rom>
-  <rom index='0' md5='7e4cbc7944985af9d3d4cda9b0e4b014' type='nonmerged' zip='bomber.zip'>
-    <part name='1.3l'/>
-    <part name='2.3k'/>
-    <part name='3.3h'/>
-    <part name='4.3f'/>
-    <part name='5.3e'/>
-    <part name='6.3d'/>
-    <part name='7.3c'/>
-    <part name='8.3a'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='11.8k'/>
-    <part name='12.8l'/>
+  
+  
+  <rom index='0' md5='7e4cbc7944985af9d3d4cda9b0e4b014' type='merged|nonmerged|split' zip='bomber.zip|scramble.zip'>
+    <part crc='8c30c7c3' name='1.3l'/>
+    <part crc='1fca370c' name='2.3k'/>
+    <part crc='8a714167' name='3.3h'/>
+    <part crc='dd380a22' name='4.3f'/>
+    <part crc='92980e72' name='5.3e'/>
+    <part crc='9fd96374' name='6.3d'/>
+    <part crc='88ac07a0' name='7.3c'/>
+    <part crc='75232e09' name='8.3a'/>
+    <part crc='11fd2887' name='c1.5h'/>
+    <part crc='4708845b' name='c2.5f'/>
+    <part crc='97ba15e8' name='11.8k'/>
+    <part crc='6510761d' name='12.8l'/>
   </rom>
 </misterromdescription>

@@ -1,40 +1,20 @@
-<?xml version="1.0"?>
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Frogger</name>
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>scramble</rbf>
-  <rom index="0" md5="d713fe66a9f8816aa147246bac86243f" type="merged" zip="frogger.zip">
-    <part name="froggrs/frog4.bin"/>
-    <part name="froggrs/frog5.bin"/>
-    <part name="froggrs/frog6.bin"/>
-    <part name="froggrs/frog6.bin"/>
-    <part name="frogger.606"/>
-    <part name="frogger.607"/>
-    <part name="froggrs/frog3.bin"/>
-    <part name="froggrs/frog3.bin"/>
-    <part name="froggrs/frog3.bin"/>
-  </rom>
-  <rom index="0" md5="d713fe66a9f8816aa147246bac86243f" type="split" zip="froggers.zip">
-    <part name="frog4.bin" zip="froggrs.zip"/>
-    <part name="frog5.bin" zip="froggrs.zip"/>
-    <part name="frog6.bin" zip="froggrs.zip"/>
-    <part name="frog6.bin" zip="froggrs.zip"/>
-    <part name="frogger.606" zip="frogger.zip"/>
-    <part name="frogger.607" zip="frogger.zip"/>
-    <part name="frog3.bin" zip="froggrs.zip"/>
-    <part name="frog3.bin" zip="froggrs.zip"/>
-    <part name="frog3.bin" zip="froggrs.zip"/>
-  </rom>
-  <rom index="0" md5="d713fe66a9f8816aa147246bac86243f" type="nonmerged" zip="froggers.zip">
-    <part name="frog4.bin" zip="froggrs"/>
-    <part name="frog5.bin" zip="froggrs"/>
-    <part name="frog6.bin" zip="froggrs"/>
-    <part name="frog6.bin" zip="froggrs"/>
-    <part name="frogger.606"/>
-    <part name="frogger.607"/>
-    <part name="frog3.bin" zip="froggrs"/>
-    <part name="frog3.bin" zip="froggrs"/>
-    <part name="frog3.bin" zip="froggrs"/>
+  
+  
+  <rom index='0' md5='d713fe66a9f8816aa147246bac86243f' type='merged|nonmerged|split' zip='froggers.zip|frogger.zip'>
+    <part crc='FIXME' name='frog4.bin' zip='froggrs'/>
+    <part crc='FIXME' name='frog5.bin' zip='froggrs'/>
+    <part crc='FIXME' name='frog6.bin' zip='froggrs'/>
+    <part crc='FIXME' name='frog6.bin' zip='froggrs'/>
+    <part crc='FIXME' name='frogger.606'/>
+    <part crc='05f7d883' name='frogger.607'/>
+    <part crc='FIXME' name='frog3.bin' zip='froggrs'/>
+    <part crc='FIXME' name='frog3.bin' zip='froggrs'/>
+    <part crc='FIXME' name='frog3.bin' zip='froggrs'/>
   </rom>
 </misterromdescription>

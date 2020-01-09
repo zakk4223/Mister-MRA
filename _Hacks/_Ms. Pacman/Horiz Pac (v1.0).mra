@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='cfd87908bf6e6baa55dd13627e65da38' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='horizpab/horizpac.1'/>
-    <part name='horizpab/horizpac.2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='horizpab/horizpab.4'/>
-    <part name='chtmspa/boot5'/>
-    <part name='chtmspa/boot6'/>
+  <rom index='0' md5='cfd87908bf6e6baa55dd13627e65da38' type='merged|nonmerged|split' zip='/hbmame/horizpab.zip|/hbmame/mspacman.zip'>
+    <part crc='7cc1979d' name='horizpac.1'/>
+    <part crc='14202b73' name='horizpac.2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='c9df7abe' name='horizpab.4'/>
+    <part crc='8c3e6de6' name='boot5'/>
+    <part crc='368cb165' name='boot6'/>
     <part repeat='8192'>00</part>
-    <part name='horizpab/horizpac.5e'/>
-    <part name='horizpab/horizpac.5f'/>
+    <part crc='0572335d' name='horizpac.5e'/>
+    <part crc='4198511d' name='horizpac.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

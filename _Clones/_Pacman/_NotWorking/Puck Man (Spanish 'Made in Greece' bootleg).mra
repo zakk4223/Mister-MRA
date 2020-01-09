@@ -7,13 +7,13 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='c97de7a5f5d4821b42e81f58764c0845' type='merged' zip='puckman.zip'>
-    <part name='pacmansp/1.bin'/>
-    <part name='pacmansp/2.bin'/>
+  <rom index='0' md5='c97de7a5f5d4821b42e81f58764c0845' type='merged|nonmerged|split' zip='puckman.zip'>
+    <part crc='FIXME' name='1.bin'/>
+    <part crc='FIXME' name='2.bin'/>
     <part repeat='8192'>00</part>
-    <part name='pm1-3.1m'/>
-    <part name='pm1-4.4a'/>
-    <part name='pm1-2.3m'/>
-    <part name='pm1-1.7f'/>
+    <part crc='a9cc86bf' name='pm1-3.1m'/>
+    <part crc='3eb3a8e4' name='pm1-4.4a'/>
+    <part crc='77245b66' name='pm1-2.3m'/>
+    <part crc='2fc650bd' name='pm1-1.7f'/>
   </rom>
 </misterromdescription>

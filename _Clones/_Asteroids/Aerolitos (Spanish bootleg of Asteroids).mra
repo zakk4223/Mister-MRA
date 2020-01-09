@@ -7,27 +7,15 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroids</rbf>
-  <rom index='0' md5='22d2b37eb86b3e4d60f3fe12e8b5e16a' type='merged|nonmerged' zip='asteroid.zip'>
-    <part name='aerolitos/2516_1e.bin'/>
-    <part name='aerolitos/2516_1d.bin'/>
-    <part name='aerolitos/2516_1c.bin'/>
-    <part name='aerolitos/2716_3n.bin'/>
-    <part name='034602-01.c8'/>
-  </rom>
-  <rom index='0' md5='22d2b37eb86b3e4d60f3fe12e8b5e16a' type='split' zip='aerolitos.zip'>
-    <part name='2516_1e.bin'/>
-    <part name='2516_1d.bin'/>
-    <part name='2516_1c.bin'/>
-    <part name='2716_3n.bin'/>
-    <part name='034602-01.c8' zip='asteroid.zip'/>
-  </rom>
   
-  <rom index='0' md5='22d2b37eb86b3e4d60f3fe12e8b5e16a' type='nonmerged' zip='aerolitos.zip'>
-    <part name='2516_1e.bin'/>
-    <part name='2516_1d.bin'/>
-    <part name='2516_1c.bin'/>
-    <part name='2716_3n.bin'/>
-    <part name='034602-01.c8'/>
+  
+  
+  <rom index='0' md5='22d2b37eb86b3e4d60f3fe12e8b5e16a' type='merged|nonmerged|split' zip='aerolitos.zip|asteroid.zip'>
+    <part crc='0cc75459' name='2516_1e.bin'/>
+    <part crc='096ed35c' name='2516_1d.bin'/>
+    <part crc='b912754d' name='2516_1c.bin'/>
+    <part crc='32e69e66' name='2716_3n.bin'/>
+    <part crc='97953db8' name='034602-01.c8'/>
   </rom>
   
 </misterromdescription>

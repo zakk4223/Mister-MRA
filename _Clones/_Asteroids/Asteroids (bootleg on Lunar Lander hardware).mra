@@ -7,18 +7,12 @@
   <category>Space / Asteroids</category>
   <category>Space / Fighter</category>
   <rbf>asteroids</rbf>
-  <rom index='0' md5='7a923b36977c71df5911cf742f20c2d8' type='merged|nonmerged' zip='asteroid.zip'>
-    <part name='asteroidb/035145ll.de1'/>
-    <part name='asteroidb/035144ll.c1'/>
-    <part name='asteroidb/035143ll.b1'/>
-    <part name='035127-02.np3'/>
-    <part name='034602-01.c8'/>
+  <rom index='0' md5='7a923b36977c71df5911cf742f20c2d8' type='merged|nonmerged|split' zip='asteroid.zip'>
+    <part crc='FIXME' name='035145ll.de1'/>
+    <part crc='FIXME' name='035144ll.c1'/>
+    <part crc='FIXME' name='035143ll.b1'/>
+    <part crc='8b71fd9e' name='035127-02.np3'/>
+    <part crc='97953db8' name='034602-01.c8'/>
   </rom>
-  <rom index='0' md5='7a923b36977c71df5911cf742f20c2d8' type='split' zip='asteroidb.zip'>
-    <part name='035145ll.de1'/>
-    <part name='035144ll.c1'/>
-    <part name='035143ll.b1'/>
-    <part name='035127-02.np3' zip='asteroid.zip'/>
-    <part name='034602-01.c8' zip='asteroid.zip'/>
-  </rom>
+  
 </misterromdescription>

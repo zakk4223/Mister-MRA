@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='f57c70ead350916700cc0133bb893e52' type='merged' zip='puckman.zip'>
-    <part name='hangly/hangly.6e'/>
-    <part name='hangly/hangly.6f'/>
-    <part name='hangly/hangly.6h'/>
-    <part name='hangly/hangly.6j'/>
+  <rom index='0' md5='f57c70ead350916700cc0133bb893e52' type='merged|nonmerged|split' zip='puckman.zip'>
+    <part crc='FIXME' name='hangly.6e'/>
+    <part crc='FIXME' name='hangly.6f'/>
+    <part crc='FIXME' name='hangly.6h'/>
+    <part crc='FIXME' name='hangly.6j'/>
     <part repeat='16384'>00</part>
-    <part name='hangly/pacman.5e'/>
-    <part name='hangly/pacman.5f'/>
+    <part crc='FIXME' name='pacman.5e'/>
+    <part crc='FIXME' name='pacman.5f'/>
     <part repeat='8192'>00</part>
-    <part name='pm1-3.1m'/>
-    <part name='pm1-4.4a'/>
-    <part name='pm1-2.3m'/>
-    <part name='pm1-1.7f'/>
+    <part crc='a9cc86bf' name='pm1-3.1m'/>
+    <part crc='3eb3a8e4' name='pm1-4.4a'/>
+    <part crc='77245b66' name='pm1-2.3m'/>
+    <part crc='2fc650bd' name='pm1-1.7f'/>
   </rom>
 </misterromdescription>

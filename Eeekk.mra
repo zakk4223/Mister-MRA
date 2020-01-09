@@ -6,47 +6,29 @@
   <manufacturer>Epos Corporation</manufacturer>
   <category>Adventure / Horror</category>
   <category>Platform</category>
-  <rbf>eeekk</rbf>
-  <rom index='0' md5='3656309ff07929583f908b80ca128780' type='nonmerged' zip='eeekkp.zip'>
-    <part name='u_2_eeekk_pg03094.u2'/>
-    <part name='u_3_eeekk_pg03094.u3'/>
-    <part name='u_2_eeekk_pg03094.u2'/>
-    <part name='u_3_eeekk_pg03094.u3'/>
-    <part name='5_e_eeekk_pg03094.5e'/>
-    <part name='5_f_eeekk_pg03094.5f'/>
-    <part name='5_f_eeekk_pg03094.5f'/>
-    <part name='5_f_eeekk_pg03094.5f'/>
-    <part name='82s126.1m'/>
-    <part name='4_a_eeekk.4a'/>
-    <part name='82s126.3m'/>
-    <part name='7_f_eeekk.7f'/>
+  <rbf>pacman</rbf>
+  <switches default="FF,FF,F3">
+    <dip bits="16,17" name="Lives" ids="6,5,4,3"/>
+    <dip bits="18,20" name="Difficulty" ids="8(Hard),7,6,5,4,3,2,1(Easy)"/>
+    <dip bits="21"    name="Demo Sounds" ids="On,Off"/>
+  </switches>
+  <rom index="1">
+    <part>09</part>
   </rom>
-  <rom index='0' md5='3656309ff07929583f908b80ca128780' type='merged' zip='eeekk.zip'>
-    <part name='eeekkp/u_2_eeekk_pg03094.u2'/>
-    <part name='eeekkp/u_3_eeekk_pg03094.u3'/>
-    <part name='eeekkp/u_2_eeekk_pg03094.u2'/>
-    <part name='eeekkp/u_3_eeekk_pg03094.u3'/>
-    <part name='eeekkp/5_e_eeekk_pg03094.5e'/>
-    <part name='eeekkp/5_f_eeekk_pg03094.5f'/>
-    <part name='eeekkp/5_f_eeekk_pg03094.5f'/>
-    <part name='eeekkp/5_f_eeekk_pg03094.5f'/>
-    <part name='eeekkp/82s126.1m'/>
-    <part name='eeekkp/4_a_eeekk.4a'/>
-    <part name='eeekkp/82s126.3m'/>
-    <part name='eeekkp/7_f_eeekk.7f'/>
+  <rom index='0' md5='3656309ff07929583f908b80ca128780' type='merged|nonmerged|split' zip='eeekkp.zip|eeekk.zip'>
+    <part crc='701e37f2' name='u_2_eeekk_pg03094.u2'/>
+    <part crc='bcf524ae' name='u_3_eeekk_pg03094.u3'/>
+    <part crc='701e37f2' name='u_2_eeekk_pg03094.u2'/>
+    <part crc='bcf524ae' name='u_3_eeekk_pg03094.u3'/>
+    <part crc='780183a8' name='5_e_eeekk_pg03094.5e'/>
+    <part crc='418526e4' name='5_f_eeekk_pg03094.5f'/>
+    <part crc='418526e4' name='5_f_eeekk_pg03094.5f'/>
+    <part crc='418526e4' name='5_f_eeekk_pg03094.5f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='a5044ded' name='4_a_eeekk.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='c64c8a53' name='7_f_eeekk.7f'/>
   </rom>
-  <rom index='0' md5='3656309ff07929583f908b80ca128780' type='split' zip='eeekk.zip'>
-    <part name='u_2_eeekk_pg03094.u2' zip='eeekkp.zip'/>
-    <part name='u_3_eeekk_pg03094.u3' zip='eeekkp.zip'/>
-    <part name='u_2_eeekk_pg03094.u2' zip='eeekkp.zip'/>
-    <part name='u_3_eeekk_pg03094.u3' zip='eeekkp.zip'/>
-    <part name='5_e_eeekk_pg03094.5e' zip='eeekkp.zip'/>
-    <part name='5_f_eeekk_pg03094.5f' zip='eeekkp.zip'/>
-    <part name='5_f_eeekk_pg03094.5f' zip='eeekkp.zip'/>
-    <part name='5_f_eeekk_pg03094.5f' zip='eeekkp.zip'/>
-    <part name='82s126.1m' zip='eeekkp.zip'/>
-    <part name='4_a_eeekk.4a' zip='eeekkp.zip'/>
-    <part name='82s126.3m' zip='eeekkp.zip'/>
-    <part name='7_f_eeekk.7f' zip='eeekkp.zip'/>
-  </rom>
+  
+  
 </misterromdescription>

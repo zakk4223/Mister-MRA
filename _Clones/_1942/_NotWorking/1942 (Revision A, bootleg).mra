@@ -3,73 +3,29 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>1942</rbf>
-  <rom index="0" md5="7a3570f93c9e7259a6a8f7355d1b617a" type="merged" zip="1942.zip">
-    <part name="1942abl/3.bin"/>
-    <part name="1942a/sr-05.m5"/>
-    <part name="1942abl/7.bin"/>
-    <part name="sr-01.c11"/>
-    <part name="sr-02.f2"/>
-    <part name="1942abl/11.bin"/>
-    <part name="1942abl/9.bin"/>
-    <part name="1942abl/13.bin"/>
-    <part name="1942abl/13.bin"/>
-    <part name="1942abl/16.bin"/>
-    <part name="1942abl/14.bin"/>
-    <part name="sb-1.k6"/>
-    <part name="sb-2.d1"/>
-    <part name="sb-3.d2"/>
-    <part name="sb-4.d6"/>
-    <part name="sb-5.e8"/>
-    <part name="sb-6.e9"/>
-    <part name="sb-7.e10"/>
-    <part name="sb-0.f1"/>
-    <part name="sb-8.k3"/>
-    <part name="sb-9.m11"/>
-  </rom>
-  <rom index="0" md5="7a3570f93c9e7259a6a8f7355d1b617a" type="split" zip="1942abl.zip">
-    <part name="3.bin"/>
-    <part name="5.bin"/>
-    <part name="7.bin"/>
-    <part name="sr-01.c11" zip="1942.zip"/>
-    <part name="sr-02.f2" zip="1942.zip"/>
-    <part name="11.bin"/>
-    <part name="9.bin"/>
-    <part name="13.bin"/>
-    <part name="13.bin"/>
-    <part name="16.bin"/>
-    <part name="14.bin"/>
-    <part name="sb-1.k6" zip="1942.zip"/>
-    <part name="sb-2.d1" zip="1942.zip"/>
-    <part name="sb-3.d2" zip="1942.zip"/>
-    <part name="sb-4.d6" zip="1942.zip"/>
-    <part name="sb-5.e8" zip="1942.zip"/>
-    <part name="sb-6.e9" zip="1942.zip"/>
-    <part name="sb-7.e10" zip="1942.zip"/>
-    <part name="sb-0.f1" zip="1942.zip"/>
-    <part name="sb-8.k3" zip="1942.zip"/>
-    <part name="sb-9.m11" zip="1942.zip"/>
-  </rom>
-  <rom index="0" md5="7a3570f93c9e7259a6a8f7355d1b617a" type="nonmerged" zip="1942abl.zip">
-    <part name="3.bin"/>
-    <part name="5.bin"/>
-    <part name="7.bin"/>
-    <part name="1.bin"/>
-    <part name="2.bin"/>
-    <part name="11.bin"/>
-    <part name="9.bin"/>
-    <part name="13.bin"/>
-    <part name="13.bin"/>
-    <part name="16.bin"/>
-    <part name="14.bin"/>
-    <part name="sb-1.k6"/>
-    <part name="sb-2.d1"/>
-    <part name="sb-3.d2"/>
-    <part name="sb-4.d6"/>
-    <part name="sb-5.e8"/>
-    <part name="sb-6.e9"/>
-    <part name="sb-7.e10"/>
-    <part name="sb-0.f1"/>
-    <part name="sb-8.k3"/>
-    <part name="sb-9.m11"/>
+  
+  
+  <rom index='0' md5='7a3570f93c9e7259a6a8f7355d1b617a' type='merged|nonmerged|split' zip='1942abl.zip|1942.zip'>
+    <part crc='f3184f5a' name='3.bin'/>
+    <part crc='835f7b24' name='5.bin'/>
+    <part crc='2f456c6e' name='7.bin'/>
+    <part crc='bd87f06b' name='1.bin'/>
+    <part crc='6ebca191' name='2.bin'/>
+    <part crc='66bac116' name='11.bin'/>
+    <part crc='60329fa4' name='9.bin'/>
+    <part crc='623fcec1' name='13.bin'/>
+    <part crc='623fcec1' name='13.bin'/>
+    <part crc='c106b1ed' name='16.bin'/>
+    <part crc='df2345ef' name='14.bin'/>
+    <part crc='712ac508' name='sb-1.k6'/>
+    <part crc='8bb8b3df' name='sb-2.d1'/>
+    <part crc='3b0c99af' name='sb-3.d2'/>
+    <part crc='4858968d' name='sb-4.d6'/>
+    <part crc='93ab8153' name='sb-5.e8'/>
+    <part crc='8ab44f7d' name='sb-6.e9'/>
+    <part crc='f4ade9a4' name='sb-7.e10'/>
+    <part crc='6047d91b' name='sb-0.f1'/>
+    <part crc='f6fad943' name='sb-8.k3'/>
+    <part crc='4921635c' name='sb-9.m11'/>
   </rom>
 </misterromdescription>

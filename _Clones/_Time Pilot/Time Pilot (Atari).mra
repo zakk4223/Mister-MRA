@@ -1,30 +1,14 @@
 <misterromdescription>
   <rbf>TimePilot</rbf>
-  <rom index='0' md5='5e9b4b26f0394c2321d01a30494ce700' type='merged' zip='timeplt.zip'>
-    <part name='timeplta/cd_e1.bin'/>
-    <part name='timeplta/cd_e2.bin'/>
-    <part name='timeplta/cd_e3.bin'/>
-    <part name='tm6'/>
-    <part name='tm4'/>
-    <part name='tm5'/>
-    <part name='tm7'/>
-  </rom>
-  <rom index='0' md5='5e9b4b26f0394c2321d01a30494ce700' type='split' zip='timeplta.zip'>
-    <part name='cd_e1.bin'/>
-    <part name='cd_e2.bin'/>
-    <part name='cd_e3.bin'/>
-    <part name='tm6' zip='timeplt.zip'/>
-    <part name='tm4' zip='timeplt.zip'/>
-    <part name='tm5' zip='timeplt.zip'/>
-    <part name='tm7' zip='timeplt.zip'/>
-  </rom>
-  <rom index='0' md5='5e9b4b26f0394c2321d01a30494ce700' type='nonmerged' zip='timeplta.zip'>
-    <part name='cd_e1.bin'/>
-    <part name='cd_e2.bin'/>
-    <part name='cd_e3.bin'/>
-    <part name='tm6'/>
-    <part name='tm4'/>
-    <part name='tm5'/>
-    <part name='tm7'/>
+  
+  
+  <rom index='0' md5='5e9b4b26f0394c2321d01a30494ce700' type='merged|nonmerged|split' zip='timeplta.zip|timeplt.zip'>
+    <part crc='a4513b35' name='cd_e1.bin'/>
+    <part crc='38b0c72a' name='cd_e2.bin'/>
+    <part crc='83846870' name='cd_e3.bin'/>
+    <part crc='c2507f40' name='tm6'/>
+    <part crc='7e437c3e' name='tm4'/>
+    <part crc='e8ca87b9' name='tm5'/>
+    <part crc='d66da813' name='tm7'/>
   </rom>
 </misterromdescription>

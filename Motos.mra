@@ -3,20 +3,20 @@
   <rom index='1'>
     <part>04</part>
   </rom>
-  <rom index='0' md5='446203961cff53598233d2c50db390d8' type='merged|split|nonmerged' zip='motos.zip'>
-    <part name='mo1_3.1d'/>
-    <part name='mo1_1.1b'/>
-    <part name='mo1_6.3m'/>
-    <part name='mo1_7.3n'/>
-    <part name='mo1_4.1k'/>
-    <part name='mo1_5.3b'/>
-    <part name='mo1-7.5k'/>
-    <part name='mo1-7.5k'/>
-    <part name='mo1-7.5k'/>
-    <part name='mo1-7.5k'/>
-    <part name='mo1-6.4c'/>
-    <part name='mo1-3.3m'/>
-    <part name='mo1-5.5b'/>
+  <rom index='0' md5='446203961cff53598233d2c50db390d8' type='merged|nonmerged|split' zip='motos.zip'>
+    <part crc='1104abb2' name='mo1_3.1d'/>
+    <part crc='57b157e2' name='mo1_1.1b'/>
+    <part crc='2f0e396e' name='mo1_6.3m'/>
+    <part crc='cf8a3b86' name='mo1_7.3n'/>
+    <part crc='55e45d21' name='mo1_4.1k'/>
+    <part crc='5d4a2a22' name='mo1_5.3b'/>
+    <part crc='7721275d' name='mo1-7.5k'/>
+    <part crc='7721275d' name='mo1-7.5k'/>
+    <part crc='7721275d' name='mo1-7.5k'/>
+    <part crc='7721275d' name='mo1-7.5k'/>
+    <part crc='730ba7fb' name='mo1-6.4c'/>
+    <part crc='2accdfb4' name='mo1-3.3m'/>
+    <part crc='71972383' name='mo1-5.5b'/>
   </rom>
   
   

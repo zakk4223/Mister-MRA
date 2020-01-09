@@ -10,21 +10,21 @@
   <category>Space / Robots</category>
   <rbf>robotron</rbf>
   <rom index='0' md5='75a314ae1f4e1c99ec8ad914ed6e1c4e' type='merged|nonmerged|split' zip='robotron.zip'>
-    <part name='robotron.sba'/>
-    <part name='robotron.sbb'/>
-    <part name='robotron.sbc'/>
-    <part name='robotron.sb1'/>
-    <part name='robotron.sb2'/>
-    <part name='robotron.sb3'/>
-    <part name='robotron.sb4'/>
-    <part name='robotron.sb5'/>
-    <part name='robotron.sb6'/>
-    <part name='robotron.sb7'/>
-    <part name='robotron.sb8'/>
-    <part name='robotron.sb9'/>
-    <part name='robotron.snd'/>
-    <part name='decoder.4'/>
-    <part name='decoder.6'/>
+    <part crc='13797024' name='robotron.sba'/>
+    <part crc='7e3c1b87' name='robotron.sbb'/>
+    <part crc='645d543e' name='robotron.sbc'/>
+    <part crc='66c7d3ef' name='robotron.sb1'/>
+    <part crc='5bc6c614' name='robotron.sb2'/>
+    <part crc='e99a82be' name='robotron.sb3'/>
+    <part crc='afb1c561' name='robotron.sb4'/>
+    <part crc='62691e77' name='robotron.sb5'/>
+    <part crc='bd2c853d' name='robotron.sb6'/>
+    <part crc='49ac400c' name='robotron.sb7'/>
+    <part crc='3a96e88c' name='robotron.sb8'/>
+    <part crc='b124367b' name='robotron.sb9'/>
+    <part crc='c56c1d28' name='robotron.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='83faf25e' name='decoder.6'/>
   </rom>
   
   

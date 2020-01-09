@@ -3,52 +3,22 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtpopeye</rbf>
-  <rom index="0" md5="9eaafed5ce88caaafe263019751cf910" type="merged" zip="popeye.zip">
-    <part name="popeyeb2/po1"/>
-    <part name="popeyeb2/po2"/>
-    <part name="popeyeb2/po3"/>
-    <part name="popeyeb2/po4"/>
-    <part name="tpp2-v.1e"/>
-    <part name="tpp2-v.1f"/>
-    <part name="tpp2-v.1j"/>
-    <part name="tpp2-v.1k"/>
-    <part name="popeyeb2/po5"/>
-    <part fixme="timing:0" name="tpp2-v.7j"/>
-    <part name="popeyeb2/popeye.pr4"/>
-    <part name="popeyeb2/popeye.pr3"/>
-    <part name="popeyeb2/popeye.pr1"/>
-    <part name="popeyeb2/popeye.pr2"/>
-  </rom>
-  <rom index="0" md5="9eaafed5ce88caaafe263019751cf910" type="split" zip="popeyeb2.zip">
-    <part name="po1"/>
-    <part name="po2"/>
-    <part name="po3"/>
-    <part name="po4"/>
-    <part name="tpp2-v.1e" zip="popeye.zip"/>
-    <part name="tpp2-v.1f" zip="popeye.zip"/>
-    <part name="tpp2-v.1j" zip="popeye.zip"/>
-    <part name="tpp2-v.1k" zip="popeye.zip"/>
-    <part name="po5"/>
-    <part name="tpp2-v.7j" zip="popeye.zip"/>
-    <part name="popeye.pr4"/>
-    <part name="popeye.pr3"/>
-    <part name="popeye.pr1"/>
-    <part name="popeye.pr2"/>
-  </rom>
-  <rom index="0" md5="9eaafed5ce88caaafe263019751cf910" type="nonmerged" zip="popeyeb2.zip">
-    <part name="po1"/>
-    <part name="po2"/>
-    <part name="po3"/>
-    <part name="po4"/>
-    <part name="po6"/>
-    <part name="po7"/>
-    <part name="po8"/>
-    <part name="po9"/>
-    <part name="po5"/>
-    <part name="tpp2-v.7j"/>
-    <part name="popeye.pr4"/>
-    <part name="popeye.pr3"/>
-    <part name="popeye.pr1"/>
-    <part name="popeye.pr2"/>
+  
+  
+  <rom index='0' md5='9eaafed5ce88caaafe263019751cf910' type='merged|nonmerged|split' zip='popeyeb2.zip|popeye.zip'>
+    <part crc='b14a07ca' name='po1'/>
+    <part crc='995475ff' name='po2'/>
+    <part crc='99d6a04a' name='po3'/>
+    <part crc='548a6514' name='po4'/>
+    <part crc='0f2cd853' name='po6'/>
+    <part crc='888f3474' name='po7'/>
+    <part crc='7e864668' name='po8'/>
+    <part crc='49e1d170' name='po9'/>
+    <part crc='ce6c9f8e' name='po5'/>
+    <part crc='FIXME' name='tpp2-v.7j'/>
+    <part crc='cab9bc53' name='popeye.pr4'/>
+    <part crc='ca4d7b6a' name='popeye.pr3'/>
+    <part crc='d138e8a4' name='popeye.pr1'/>
+    <part crc='0f364007' name='popeye.pr2'/>
   </rom>
 </misterromdescription>

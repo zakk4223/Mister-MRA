@@ -6,51 +6,23 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='merged|nonmerged' zip='defender.zip'>
-    <part name='defenderw/rom1.bin'/>
-    <part name='defcmnd/defcmnda.2'/>
-    <part name='defenderw/rom3.bin'/>
-    <part name='defenderw/rom9.bin'/>
-    <part name='defenderw/rom12.bin'/>
-    <part name='defenderw/rom8.bin'/>
-    <part name='defcmnd/defcmnda.6'/>
-    <part name='defcmnd/defcmnda.8'/>
-    <part name='defcmnd/defcmnda.5'/>
-    <part name='defcmnd/defcmnda.4'/>
-    <part name='defend.snd'/>
-    <part name='decoder.2'/>
-    <part name='decoder.3'/>
-  </rom>
-  <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='split' zip='defenderw.zip'>
-    <part name='rom1.bin'/>
-    <part name='rom2.bin'/>
-    <part name='rom3.bin'/>
-    <part name='rom9.bin'/>
-    <part name='rom12.bin'/>
-    <part name='rom8.bin'/>
-    <part name='rom11.bin'/>
-    <part name='rom7.bin'/>
-    <part name='rom10.bin'/>
-    <part name='rom6.bin'/>
-    <part name='defend.snd' zip='defender.zip'/>
-    <part name='decoder.2' zip='defender.zip'/>
-    <part name='decoder.3' zip='defender.zip'/>
-  </rom>
   
   
-  <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='nonmerged' zip='defenderw.zip'>
-    <part name='rom1.bin'/>
-    <part name='rom2.bin'/>
-    <part name='rom3.bin'/>
-    <part name='rom9.bin'/>
-    <part name='rom12.bin'/>
-    <part name='rom8.bin'/>
-    <part name='rom11.bin'/>
-    <part name='rom7.bin'/>
-    <part name='rom10.bin'/>
-    <part name='rom6.bin'/>
-    <part name='defend.snd'/>
-    <part name='decoder.1'/>
-    <part name='decoder.3'/>
+  
+  
+  <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='merged|nonmerged|split' zip='defenderw.zip|defender.zip'>
+    <part crc='5af871e3' name='rom1.bin'/>
+    <part crc='1126adc9' name='rom2.bin'/>
+    <part crc='4097b46b' name='rom3.bin'/>
+    <part crc='93012991' name='rom9.bin'/>
+    <part crc='4bdd8dc4' name='rom12.bin'/>
+    <part crc='5227fc0b' name='rom8.bin'/>
+    <part crc='d068f0c5' name='rom11.bin'/>
+    <part crc='fef4cb77' name='rom7.bin'/>
+    <part crc='49b50b40' name='rom10.bin'/>
+    <part crc='43d42a1b' name='rom6.bin'/>
+    <part crc='fefd5b48' name='defend.snd'/>
+    <part crc='8dd98da5' name='decoder.1'/>
+    <part crc='FIXME' name='decoder.3'/>
   </rom>
 </misterromdescription>

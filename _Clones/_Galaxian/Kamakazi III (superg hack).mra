@@ -6,33 +6,20 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='04a457f3f0617760f7f622ae1efc890a' type='merged|nonmerged' zip='galaxian.zip'>
-    <part name='galaxiani/cp-1.8g'/>
-    <part name='galaxianbl2/j7.7j'/>
-    <part name='galturbo/superg.w'/>
-    <part name='kamakazi3/f_r_c.bin'/>
-    <part name='kamakazi3/f_r_d.bin'/>
-    <part name='kamakazi3/f_r_d.bin'/>
-    <part name='kamakazi3/f_r_d.bin'/>
-    <part name='kamakazi3/f_r_d.bin'/>
-    <part name='galaxianbl2/kl1.1kl'/>
-    <part name='galaxianbl2/kl1.1kl'/>
-    <part name='galaxianbl2/hj1.1hj'/>
-    <part name='galaxianbl2/hj1.1hj'/>
-  </rom>
-  <rom index='0' md5='04a457f3f0617760f7f622ae1efc890a' type='split|nonmerged' zip='kamakazi3.zip'>
-    <part name='f_r_a.bin'/>
-    <part name='f_a.bin'/>
-    <part name='f_b.bin'/>
-    <part name='f_r_c.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='f_r_d.bin'/>
-    <part name='r_b.bin'/>
-    <part name='r_b.bin'/>
-    <part name='r_a.bin'/>
-    <part name='r_a.bin'/>
+  
+  <rom index='0' md5='04a457f3f0617760f7f622ae1efc890a' type='merged|nonmerged|split' zip='kamakazi3.zip|galaxian.zip'>
+    <part crc='e8f3aa67' name='f_r_a.bin'/>
+    <part crc='f58283e3' name='f_a.bin'/>
+    <part crc='ddeabdae' name='f_b.bin'/>
+    <part crc='c8530a88' name='f_r_c.bin'/>
+    <part crc='da2d77e0' name='f_r_d.bin'/>
+    <part crc='da2d77e0' name='f_r_d.bin'/>
+    <part crc='da2d77e0' name='f_r_d.bin'/>
+    <part crc='da2d77e0' name='f_r_d.bin'/>
+    <part crc='977e37cf' name='r_b.bin'/>
+    <part crc='977e37cf' name='r_b.bin'/>
+    <part crc='d0ba22c9' name='r_a.bin'/>
+    <part crc='d0ba22c9' name='r_a.bin'/>
   </rom>
   
 </misterromdescription>

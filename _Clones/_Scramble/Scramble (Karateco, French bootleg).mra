@@ -6,49 +6,21 @@
   <manufacturer>Konami (Stern Electronics license)</manufacturer>
   <category>Space / Defender</category>
   <rbf>scramble</rbf>
-  <rom index='0' md5='d17342eb9ec8d58294c5c5b875050a93' type='merged' zip='scramble.zip'>
-    <part name='scramblebf/scf1.2d'/>
-    <part name='scramblebf/scf2.2e'/>
-    <part name='kamikazesp/6-b.2f'/>
-    <part name='bomber/4.3f'/>
-    <part name='bomber/5.3e'/>
-    <part name='bomber/6.3d'/>
-    <part name='bomber/7.3c'/>
-    <part name='bomber/8.3a'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='kamikazesp/1-a.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
-  </rom>
-  <rom index='0' md5='d17342eb9ec8d58294c5c5b875050a93' type='split' zip='scramblebf.zip'>
-    <part name='scf1.2d'/>
-    <part name='scf2.2e'/>
-    <part name='scns3.2f'/>
-    <part name='scns4.2h'/>
-    <part name='scns5.2j'/>
-    <part name='scns6.2l'/>
-    <part name='scns7.2m'/>
-    <part name='scns8.2p'/>
-    <part name='c1.5h' zip='scramble.zip'/>
-    <part name='c2.5f' zip='scramble.zip'/>
-    <part name='ot1ns.5c'/>
-    <part name='ot2.5d' zip='scramble.zip'/>
-    <part name='ot3.5e' zip='scramble.zip'/>
-  </rom>
-  <rom index='0' md5='d17342eb9ec8d58294c5c5b875050a93' type='nonmerged' zip='scramblebf.zip'>
-    <part name='scf1.2d'/>
-    <part name='scf2.2e'/>
-    <part name='scns3.2f'/>
-    <part name='scns4.2h'/>
-    <part name='scns5.2j'/>
-    <part name='scns6.2l'/>
-    <part name='scns7.2m'/>
-    <part name='scns8.2p'/>
-    <part name='c1.5h'/>
-    <part name='c2.5f'/>
-    <part name='ot1ns.5c'/>
-    <part name='ot2.5d'/>
-    <part name='ot3.5e'/>
+  
+  
+  <rom index='0' md5='d17342eb9ec8d58294c5c5b875050a93' type='merged|nonmerged|split' zip='scramblebf.zip|scramble.zip'>
+    <part crc='b126aa1f' name='scf1.2d'/>
+    <part crc='ce25fb77' name='scf2.2e'/>
+    <part crc='eec265ee' name='scns3.2f'/>
+    <part crc='dd380a22' name='scns4.2h'/>
+    <part crc='92980e72' name='scns5.2j'/>
+    <part crc='9fd96374' name='scns6.2l'/>
+    <part crc='88ac07a0' name='scns7.2m'/>
+    <part crc='75232e09' name='scns8.2p'/>
+    <part crc='11fd2887' name='c1.5h'/>
+    <part crc='4708845b' name='c2.5f'/>
+    <part crc='be037cf6' name='ot1ns.5c'/>
+    <part crc='de7912da' name='ot2.5d'/>
+    <part crc='ba2fa933' name='ot3.5e'/>
   </rom>
 </misterromdescription>

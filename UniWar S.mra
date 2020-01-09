@@ -8,19 +8,19 @@
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
   <rom index='0' md5='b270e45e9d2ca2e73b081fed66d9f3db' type='merged|nonmerged|split' zip='uniwars.zip'>
-    <part name='f07_1a.bin'/>
-    <part name='h07_2a.bin'/>
-    <part name='k07_3a.bin'/>
-    <part name='m07_4a.bin'/>
-    <part name='d08p_5a.bin'/>
-    <part name='gg6'/>
-    <part name='m08p_7a.bin'/>
-    <part name='n08p_8a.bin'/>
-    <part name='egg10'/>
-    <part name='h01_2.bin'/>
-    <part name='egg9'/>
-    <part name='k01_2.bin'/>
-    <part name='uniwars.clr'/>
+    <part crc='d975af10' name='f07_1a.bin'/>
+    <part crc='b2ed14c3' name='h07_2a.bin'/>
+    <part crc='945f4160' name='k07_3a.bin'/>
+    <part crc='ddc80bc5' name='m07_4a.bin'/>
+    <part crc='62354351' name='d08p_5a.bin'/>
+    <part crc='270a3f4d' name='gg6'/>
+    <part crc='c9245346' name='m08p_7a.bin'/>
+    <part crc='797d45c7' name='n08p_8a.bin'/>
+    <part crc='012941e0' name='egg10'/>
+    <part crc='c26132af' name='h01_2.bin'/>
+    <part crc='fc8b58fd' name='egg9'/>
+    <part crc='dcc2b33b' name='k01_2.bin'/>
+    <part crc='25c79518' name='uniwars.clr'/>
   </rom>
   
   

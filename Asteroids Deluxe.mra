@@ -8,12 +8,12 @@
   <category>Space / Fighter</category>
   <rbf>asteroidsdeluxe</rbf>
   <rom index='0' md5='6d4680945c22cb97863ac210fb5abf04' type='merged|nonmerged|split' zip='astdelux.zip'>
-    <part name='036430-02.d1'/>
-    <part name='036431-02.ef1'/>
-    <part name='036432-02.fh1'/>
-    <part name='036433-03.j1'/>
-    <part name='036800-02.r2'/>
-    <part name='036799-01.np2'/>
+    <part crc='a4d7a525' name='036430-02.d1'/>
+    <part crc='d4004aae' name='036431-02.ef1'/>
+    <part crc='6d720c41' name='036432-02.fh1'/>
+    <part crc='0dcc0be6' name='036433-03.j1'/>
+    <part crc='bb8cabe1' name='036800-02.r2'/>
+    <part crc='7d511572' name='036799-01.np2'/>
   </rom>
   
   

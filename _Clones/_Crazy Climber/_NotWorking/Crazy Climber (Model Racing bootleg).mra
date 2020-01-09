@@ -6,50 +6,22 @@
   <manufacturer>Nichibutsu</manufacturer>
   <category>Platform / Climbing</category>
   <rbf>crazyclimber</rbf>
-  <rom index='0' md5='f09f0455c389691350d294b406f3e93e' type='merged|nonmerged' zip='cclimber.zip'>
-    <part name='ccboot2/11.4k'/>
-    <part name='ccboot2/10.4j'/>
-    <part name='ccboot/cc09j.bin'/>
-    <part name='ccboot/m08.bin'/>
-    <part name='ccboot/cc07j.bin'/>
-    <part name='cc06'/>
-    <part name='cc05'/>
-    <part name='cc04'/>
-    <part name='cc03'/>
-    <part name='ccbootmr/202.c6'/>
-    <part name='ccbootmr/201.a6'/>
-    <part name='ccboot/cc13j.bin'/>
-    <part name='ccboot/cc12j.bin'/>
-  </rom>
-  <rom index='0' md5='f09f0455c389691350d294b406f3e93e' type='split' zip='ccbootmr.zip'>
-    <part name='211.k4'/>
-    <part name='210.j4'/>
-    <part name='209.f4'/>
-    <part name='208.e4'/>
-    <part name='207.c4'/>
-    <part name='cc06' zip='cclimber.zip'/>
-    <part name='cc05' zip='cclimber.zip'/>
-    <part name='cc04' zip='cclimber.zip'/>
-    <part name='cc03' zip='cclimber.zip'/>
-    <part name='202.c6'/>
-    <part name='201.a6'/>
-    <part name='213.r4'/>
-    <part name='212.n4'/>
-  </rom>
   
-  <rom index='0' md5='f09f0455c389691350d294b406f3e93e' type='nonmerged' zip='ccbootmr.zip'>
-    <part name='211.k4'/>
-    <part name='210.j4'/>
-    <part name='209.f4'/>
-    <part name='208.e4'/>
-    <part name='207.c4'/>
-    <part name='cc06'/>
-    <part name='cc05'/>
-    <part name='cc04'/>
-    <part name='cc03'/>
-    <part name='202.c6'/>
-    <part name='201.a6'/>
-    <part name='213.r4'/>
-    <part name='212.n4'/>
+  
+  
+  <rom index='0' md5='f09f0455c389691350d294b406f3e93e' type='merged|nonmerged|split' zip='ccbootmr.zip|cclimber.zip'>
+    <part crc='b2b17e24' name='211.k4'/>
+    <part crc='8382bc0f' name='210.j4'/>
+    <part crc='26489069' name='209.f4'/>
+    <part crc='e3c542d6' name='208.e4'/>
+    <part crc='fbc9626c' name='207.c4'/>
+    <part crc='481b64cc' name='cc06'/>
+    <part crc='2c33b760' name='cc05'/>
+    <part crc='332347cb' name='cc04'/>
+    <part crc='4e4b3658' name='cc03'/>
+    <part crc='5ec87c50' name='202.c6'/>
+    <part crc='76d6d9a4' name='201.a6'/>
+    <part crc='5f0bcdfb' name='213.r4'/>
+    <part crc='9003ffbd' name='212.n4'/>
   </rom>
 </misterromdescription>

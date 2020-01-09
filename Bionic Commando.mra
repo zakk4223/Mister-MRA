@@ -3,34 +3,34 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtbiocom</rbf>
-  <rom index="0" md5="1e0d5946c2618f03a29e895fa7d987f0" type="merged|split|nonmerged" zip="bionicc.zip">
-    <part name="tse_02.1a"/>
-    <part name="tse_03.2a"/>
-    <part name="tse_04.1b"/>
-    <part name="tse_05.2b"/>
-    <part name="ts_01b.4e"/>
-    <part name="tsu_08.8l"/>
-    <part name="ts_13.18f"/>
-    <part name="ts_18.18g"/>
-    <part name="ts_23.18j"/>
-    <part name="ts_24.18k"/>
-    <part name="tsu_06.4l"/>
-    <part name="tsu_06.4l"/>
-    <part name="ts_12.17f"/>
-    <part name="ts_11.15f"/>
-    <part name="ts_17.17g"/>
-    <part name="ts_16.15g"/>
-    <part name="tsu_07.5l"/>
-    <part name="tsu_07.5l"/>
-    <part name="tse_22.17j"/>
-    <part name="tsu_21.15j"/>
-    <part name="tse_20.13j"/>
-    <part name="tsu_19.11j"/>
-    <part name="tse_15.13g"/>
-    <part name="tsu_14.11g"/>
-    <part name="tse_10.13f"/>
-    <part name="tsu_09.11f"/>
-    <part name="ts.2f"/>
-    <part name="63s141.18f"/>
+  <rom index='0' md5='1e0d5946c2618f03a29e895fa7d987f0' type='merged|nonmerged|split' zip='bionicc.zip'>
+    <part crc='e4aeefaa' name='tse_02.1a'/>
+    <part crc='b2ac0a45' name='tse_03.2a'/>
+    <part crc='d0c8ec75' name='tse_04.1b'/>
+    <part crc='a79cb406' name='tse_05.2b'/>
+    <part crc='a9a6cafa' name='ts_01b.4e'/>
+    <part crc='9bf0b7a2' name='tsu_08.8l'/>
+    <part crc='a8f5a004' name='ts_13.18f'/>
+    <part crc='3b36948c' name='ts_18.18g'/>
+    <part crc='bbfbe58a' name='ts_23.18j'/>
+    <part crc='f156e564' name='ts_24.18k'/>
+    <part crc='40bf0eb4' name='tsu_06.4l'/>
+    <part crc='40bf0eb4' name='tsu_06.4l'/>
+    <part crc='e4b4619e' name='ts_12.17f'/>
+    <part crc='ab30237a' name='ts_11.15f'/>
+    <part crc='deb657e4' name='ts_17.17g'/>
+    <part crc='d363b5f9' name='ts_16.15g'/>
+    <part crc='9469efa4' name='tsu_07.5l'/>
+    <part crc='9469efa4' name='tsu_07.5l'/>
+    <part crc='d4dedeb3' name='tse_22.17j'/>
+    <part crc='98777006' name='tsu_21.15j'/>
+    <part crc='b03db778' name='tse_20.13j'/>
+    <part crc='b5c82722' name='tsu_19.11j'/>
+    <part crc='9b5593c0' name='tse_15.13g'/>
+    <part crc='46b2ad83' name='tsu_14.11g'/>
+    <part crc='d28eeacc' name='tse_10.13f'/>
+    <part crc='6a049292' name='tsu_09.11f'/>
+    <part crc='3ed7f0be' name='ts.2f'/>
+    <part crc='b58d0023' name='63s141.18f'/>
   </rom>
 </misterromdescription>

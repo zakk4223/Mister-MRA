@@ -9,20 +9,20 @@
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
   <rom index='0' md5='0cc4c1b046a0f25359cd162d7a62a39a' type='merged|nonmerged|split' zip='pengo.zip'>
-    <part name='ep1689c.8'/>
-    <part name='ep1690b.7'/>
-    <part name='ep1691b.15'/>
-    <part name='ep1692b.14'/>
-    <part name='ep1693b.21'/>
-    <part name='ep1694b.20'/>
-    <part name='ep5118b.32'/>
-    <part name='ep5119c.31'/>
-    <part name='ep1640.92'/>
-    <part name='ep1695.105'/>
-    <part name='pr1634.88'/>
-    <part name='pr1635.51'/>
-    <part name='pr1636.70'/>
-    <part name='pr1633.78'/>
+    <part crc='f37066a8' name='ep1689c.8'/>
+    <part crc='baf48143' name='ep1690b.7'/>
+    <part crc='adf0eba0' name='ep1691b.15'/>
+    <part crc='a086d60f' name='ep1692b.14'/>
+    <part crc='b72084ec' name='ep1693b.21'/>
+    <part crc='94194a89' name='ep1694b.20'/>
+    <part crc='af7b12c4' name='ep5118b.32'/>
+    <part crc='933950fe' name='ep5119c.31'/>
+    <part crc='d7eec6cd' name='ep1640.92'/>
+    <part crc='5bfd26e9' name='ep1695.105'/>
+    <part crc='766b139b' name='pr1634.88'/>
+    <part crc='c29dea27' name='pr1635.51'/>
+    <part crc='77245b66' name='pr1636.70'/>
+    <part crc='3a5844ec' name='pr1633.78'/>
   </rom>
   
   

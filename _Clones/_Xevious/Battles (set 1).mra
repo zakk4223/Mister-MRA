@@ -1,60 +1,24 @@
 <misterromdescription>
   <rbf>Xevious</rbf>
-  <rom index='0' md5='29c70d6dd03aadae8ddf5909f5268a07' type='merged' zip='xevious.zip'>
-    <part name='battles/bg1.d9'/>
-    <part name='battles/bg2.d10'/>
-    <part name='battles/bg3.d12'/>
-    <part name='xvi_7.2c'/>
-    <part name='battles/bg9.c10'/>
-    <part name='battles/bg10.c8'/>
-    <part name='battles/bg11.c7'/>
-    <part name='xvi_15.4m'/>
-    <part name='xvi_17.4p'/>
-    <part name='xvi_16.4n'/>
-    <part name='xvi_18.4r'/>
-    <part name='xvi_9.2a'/>
-    <part name='xvi_10.2b'/>
-    <part name='xvi_11.2c'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
-  </rom>
-  <rom index='0' md5='29c70d6dd03aadae8ddf5909f5268a07' type='split' zip='battles.zip'>
-    <part name='bg1.d9'/>
-    <part name='bg2.d10'/>
-    <part name='bg3.d12'/>
-    <part name='xvi_7.2c' zip='xevious.zip'/>
-    <part name='bg9.c10'/>
-    <part name='bg10.c8'/>
-    <part name='bg11.c7'/>
-    <part name='xvi_15.4m' zip='xevious.zip'/>
-    <part name='xvi_17.4p' zip='xevious.zip'/>
-    <part name='xvi_16.4n' zip='xevious.zip'/>
-    <part name='xvi_18.4r' zip='xevious.zip'/>
-    <part name='xvi_9.2a' zip='xevious.zip'/>
-    <part name='xvi_10.2b' zip='xevious.zip'/>
-    <part name='xvi_11.2c' zip='xevious.zip'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
-  </rom>
-  <rom index='0' md5='29c70d6dd03aadae8ddf5909f5268a07' type='nonmerged' zip='battles.zip'>
-    <part name='bg1.d9'/>
-    <part name='bg2.d10'/>
-    <part name='bg3.d12'/>
-    <part name='bg4.d13'/>
-    <part name='bg9.c10'/>
-    <part name='bg10.c8'/>
-    <part name='bg11.c7'/>
-    <part name='bg13.c6'/>
-    <part name='bg14.c4'/>
-    <part name='bg12.c8'/>
-    <part name='bg15.c2'/>
-    <part name='bg6.b14'/>
-    <part name='bg7.b12'/>
-    <part name='bg8.b11'/>
-    <part name='50xx.bin' zip='namco50.zip'/>
-    <part name='51xx.bin' zip='namco51.zip'/>
-    <part name='54xx.bin' zip='namco54.zip'/>
+  
+  
+  <rom index='0' md5='29c70d6dd03aadae8ddf5909f5268a07' type='merged|nonmerged|split' zip='battles.zip|xevious.zip'>
+    <part crc='b6e4f4f3' name='bg1.d9'/>
+    <part crc='47017bc8' name='bg2.d10'/>
+    <part crc='0ede5706' name='bg3.d12'/>
+    <part crc='dd35cf1c' name='bg4.d13'/>
+    <part crc='5bd6e9ae' name='bg9.c10'/>
+    <part crc='b43ea55d' name='bg10.c8'/>
+    <part crc='73603931' name='bg11.c7'/>
+    <part crc='dc2c0ecb' name='bg13.c6'/>
+    <part crc='dfb587ce' name='bg14.c4'/>
+    <part crc='605ca889' name='bg12.c8'/>
+    <part crc='02417d19' name='bg15.c2'/>
+    <part crc='57ed9879' name='bg6.b14'/>
+    <part crc='ae3ba9e5' name='bg7.b12'/>
+    <part crc='31e244dd' name='bg8.b11'/>
+    <part crc='FIXME' name='50xx.bin' zip='namco50.zip'/>
+    <part crc='c2f57ef8' name='51xx.bin' zip='namco51.zip'/>
+    <part crc='FIXME' name='54xx.bin' zip='namco54.zip'/>
   </rom>
 </misterromdescription>

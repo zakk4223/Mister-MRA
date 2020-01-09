@@ -7,18 +7,18 @@
   <category>Maze</category>
   <category>Maze / Qix</category>
   <rbf>amidar</rbf>
-  <rom index='0' md5='21142e8d631299f0a0121ce398a48c2b' type='merged' zip='mandinga.zip'>
-    <part name='1.bin'/>
-    <part name='2.bin'/>
-    <part name='3.bin'/>
-    <part name='4.bin'/>
-    <part name='5.bin'/>
-    <part name='6.bin'/>
-    <part name='7.bin'/>
-    <part name='8.bin'/>
-    <part name='9.bin'/>
-    <part name='10.bin'/>
-    <part name='s1.5c' zip='amidar.zip'/>
-    <part name='s2.5d' zip='amidar.zip'/>
+  <rom index='0' md5='21142e8d631299f0a0121ce398a48c2b' type='merged|nonmerged|split' zip='mandinga.zip|amidar.zip'>
+    <part crc='ac6b2f96' name='1.bin'/>
+    <part crc='4c64161e' name='2.bin'/>
+    <part crc='2aaccf1a' name='3.bin'/>
+    <part crc='29873461' name='4.bin'/>
+    <part crc='a684578c' name='5.bin'/>
+    <part crc='5382f7ed' name='6.bin'/>
+    <part crc='1d7109e9' name='7.bin'/>
+    <part crc='049855ad' name='8.bin'/>
+    <part crc='09ed5818' name='9.bin'/>
+    <part crc='3029f94f' name='10.bin'/>
+    <part crc='8ca7b750' name='s1.5c' zip='amidar.zip'/>
+    <part crc='9b5bdc0a' name='s2.5d' zip='amidar.zip'/>
   </rom>
 </misterromdescription>

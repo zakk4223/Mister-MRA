@@ -7,24 +7,24 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='d8a8ceffa55731dbe609d614bacb8aea' type='merged' zip='puckman.zip'>
-    <part name='bucaner/buc1.6e'/>
-    <part name='bucaner/buc5.6k'/>
-    <part name='bucaner/buc2.6f'/>
-    <part name='bucaner/buc6.6m'/>
-    <part name='bucaner/buc3.6h'/>
-    <part name='bucaner/buc7.6n'/>
-    <part name='bucaner/buc4.6j'/>
-    <part name='bucaner/buc8.6p'/>
+  <rom index='0' md5='d8a8ceffa55731dbe609d614bacb8aea' type='merged|nonmerged|split' zip='puckman.zip'>
+    <part crc='FIXME' name='buc1.6e'/>
+    <part crc='FIXME' name='buc5.6k'/>
+    <part crc='FIXME' name='buc2.6f'/>
+    <part crc='FIXME' name='buc6.6m'/>
+    <part crc='FIXME' name='buc3.6h'/>
+    <part crc='FIXME' name='buc7.6n'/>
+    <part crc='FIXME' name='buc4.6j'/>
+    <part crc='FIXME' name='buc8.6p'/>
     <part repeat='16384'>00</part>
-    <part name='bucaner/buc9.5e'/>
-    <part name='bucaner/buc11.5h'/>
-    <part name='bucaner/buc10.5f'/>
-    <part name='bucaner/buc12.5j'/>
+    <part crc='FIXME' name='buc9.5e'/>
+    <part crc='FIXME' name='buc11.5h'/>
+    <part crc='FIXME' name='buc10.5f'/>
+    <part crc='FIXME' name='buc12.5j'/>
     <part repeat='8192'>00</part>
-    <part name='pm1-3.1m'/>
-    <part name='pm1-4.4a'/>
-    <part name='pm1-2.3m'/>
-    <part name='pm1-1.7f'/>
+    <part crc='a9cc86bf' name='pm1-3.1m'/>
+    <part crc='3eb3a8e4' name='pm1-4.4a'/>
+    <part crc='77245b66' name='pm1-2.3m'/>
+    <part crc='2fc650bd' name='pm1-1.7f'/>
   </rom>
 </misterromdescription>

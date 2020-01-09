@@ -7,18 +7,18 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='112d22d9a9803b9a58421bb1eec35c4a' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='caterpil/caterpil.6e'/>
-    <part name='caterpil/caterpil.6f'/>
-    <part name='caterpil/caterpil.6h'/>
-    <part name='caterpil/caterpil.6j'/>
+  <rom index='0' md5='112d22d9a9803b9a58421bb1eec35c4a' type='merged|nonmerged|split' zip='/hbmame/caterpil.zip|/hbmame/puckman.zip'>
+    <part crc='b53c5650' name='caterpil.6e'/>
+    <part crc='53845efb' name='caterpil.6f'/>
+    <part crc='a474357e' name='caterpil.6h'/>
+    <part crc='5df0ea3b' name='caterpil.6j'/>
     <part repeat='16384'>00</part>
-    <part name='caterpil/caterpil.5e'/>
-    <part name='caterpil/caterpil.5f'/>
+    <part crc='0387907d' name='caterpil.5e'/>
+    <part crc='aa450714' name='caterpil.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

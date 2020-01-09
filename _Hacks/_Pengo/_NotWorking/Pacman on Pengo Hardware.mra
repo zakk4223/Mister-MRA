@@ -8,17 +8,17 @@
   <category>Maze / Blocks</category>
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
-  <rom index='0' md5='3d26f66d5974d38e87b1f08e840445d8' type='merged' zip='/hbmame/pengo.zip'>
-    <part name='pacpen/pacpen.u8'/>
-    <part name='pacpen/pacpen.u7'/>
-    <part name='pacpen/pacpen.u15'/>
-    <part name='pacpen/pacpen.u14'/>
-    <part name='pacpen/pacpen.u92'/>
-    <part name='pacpen/pacpen.105'/>
-    <part name='pr1634.88'/>
-    <part name='pr1635.51'/>
-    <part name='pr1636.70'/>
-    <part name='pr1633.78'/>
+  <rom index='0' md5='3d26f66d5974d38e87b1f08e840445d8' type='merged|nonmerged|split' zip='/hbmame/pacpen.zip|/hbmame/pengo.zip'>
+    <part crc='59959af1' name='pacpen.u8'/>
+    <part crc='3ed59df1' name='pacpen.u7'/>
+    <part crc='d0c8dcc8' name='pacpen.u15'/>
+    <part crc='39066ad9' name='pacpen.u14'/>
+    <part crc='2f0b5176' name='pacpen.u92'/>
+    <part crc='6ba0078e' name='pacpen.105'/>
+    <part crc='766b139b' name='pr1634.88'/>
+    <part crc='c29dea27' name='pr1635.51'/>
+    <part crc='77245b66' name='pr1636.70'/>
+    <part crc='3a5844ec' name='pr1633.78'/>
   </rom>
   
   

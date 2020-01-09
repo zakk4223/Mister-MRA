@@ -7,49 +7,21 @@
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>uniwars</rbf>
-  <rom index='0' md5='167f93fd840ec514b6d20cd1cc0aac7e' type='merged|nonmerged' zip='uniwars.zip'>
-    <part name='f07_1a.bin'/>
-    <part name='h07_2a.bin'/>
-    <part name='k07_3a.bin'/>
-    <part name='galemp/4'/>
-    <part name='galemp/5'/>
-    <part name='galemp/6'/>
-    <part name='m08p_7a.bin'/>
-    <part name='n08p_8a.bin'/>
-    <part name='galemp/10'/>
-    <part name='h01_2.bin'/>
-    <part name='galemp/9'/>
-    <part name='k01_2.bin'/>
-    <part name='galemp/l06_prom.bin'/>
-  </rom>
-  <rom index='0' md5='167f93fd840ec514b6d20cd1cc0aac7e' type='split' zip='galemp.zip'>
-    <part name='f07_1a.bin' zip='uniwars.zip'/>
-    <part name='h07_2a.bin' zip='uniwars.zip'/>
-    <part name='k07_3a.bin' zip='uniwars.zip'/>
-    <part name='4'/>
-    <part name='5'/>
-    <part name='6'/>
-    <part name='m08p_7a.bin' zip='uniwars.zip'/>
-    <part name='n08p_8a.bin' zip='uniwars.zip'/>
-    <part name='10'/>
-    <part name='h01_2.bin' zip='uniwars.zip'/>
-    <part name='9'/>
-    <part name='k01_2.bin' zip='uniwars.zip'/>
-    <part name='l06_prom.bin'/>
-  </rom>
-  <rom index='0' md5='167f93fd840ec514b6d20cd1cc0aac7e' type='nonmerged' zip='galemp.zip'>
-    <part name='1'/>
-    <part name='2'/>
-    <part name='3'/>
-    <part name='4'/>
-    <part name='5'/>
-    <part name='6'/>
-    <part name='7'/>
-    <part name='8'/>
-    <part name='10'/>
-    <part name='12'/>
-    <part name='9'/>
-    <part name='11'/>
-    <part name='l06_prom.bin'/>
+  
+  
+  <rom index='0' md5='167f93fd840ec514b6d20cd1cc0aac7e' type='merged|nonmerged|split' zip='galemp.zip|uniwars.zip'>
+    <part crc='d975af10' name='1'/>
+    <part crc='b2ed14c3' name='2'/>
+    <part crc='945f4160' name='3'/>
+    <part crc='df7a13ea' name='4'/>
+    <part crc='ff6128a2' name='5'/>
+    <part crc='d915a389' name='6'/>
+    <part crc='c9245346' name='7'/>
+    <part crc='797d45c7' name='8'/>
+    <part crc='30177b93' name='10'/>
+    <part crc='c26132af' name='12'/>
+    <part crc='7e8dcc13' name='9'/>
+    <part crc='dcc2b33b' name='11'/>
+    <part crc='6a0c7d87' name='l06_prom.bin'/>
   </rom>
 </misterromdescription>

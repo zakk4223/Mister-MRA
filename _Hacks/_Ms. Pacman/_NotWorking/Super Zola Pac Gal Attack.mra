@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='1afb81ec68c4ee381951bc1fd3c7a809' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='zolaatk/zolaatk.1'/>
-    <part name='zolaatk/zolaatk.2'/>
-    <part name='zolaatk/zolaatk.3'/>
-    <part name='zolaatk/zolaatk.4'/>
-    <part name='zolaatk/zolaatk.5'/>
-    <part name='zolaatk/zolaatk.6'/>
+  <rom index='0' md5='1afb81ec68c4ee381951bc1fd3c7a809' type='merged|nonmerged|split' zip='/hbmame/zolaatk.zip|/hbmame/mspacman.zip'>
+    <part crc='2b9e9433' name='zolaatk.1'/>
+    <part crc='0c8631d1' name='zolaatk.2'/>
+    <part crc='694450a3' name='zolaatk.3'/>
+    <part crc='b5b30242' name='zolaatk.4'/>
+    <part crc='24cb5d9b' name='zolaatk.5'/>
+    <part crc='e0c03b4e' name='zolaatk.6'/>
     <part repeat='8192'>00</part>
-    <part name='5e'/>
-    <part name='5f'/>
+    <part crc='5c281d01' name='5e'/>
+    <part crc='615af909' name='5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

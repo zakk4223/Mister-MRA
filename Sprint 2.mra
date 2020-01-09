@@ -7,40 +7,18 @@
   <manufacturer>Atari (Kee Games)</manufacturer>
   <category>Racing / Cars</category>
   <rbf>sprint2</rbf>
-  <rom index='0' md5='39b513cba4455052bb88ca21707c15c3' type='nonmerged' zip='sprint2.zip'>
-    <part name='6290-01.b1'/>
-    <part name='6291-01.c1'/>
-    <part name='6404.d1'/>
-    <part name='6405.e1'/>
-    <part name='6396-01.p4'/>
-    <part name='6397-01.r4'/>
-    <part name='6398-01.k6'/>
-    <part name='6399-01.j6'/>
-    <part name='6400-01.m2'/>
-    <part name='6401-01.e2'/>
+  <rom index='0' md5='39b513cba4455052bb88ca21707c15c3' type='merged|nonmerged|split' zip='sprint2.zip|sprint1.zip'>
+    <part crc='41fc985e' name='6290-01.b1'/>
+    <part crc='07f7a920' name='6291-01.c1'/>
+    <part crc='d2878ff6' name='6404.d1'/>
+    <part crc='6c991c80' name='6405.e1'/>
+    <part crc='801b42dd' name='6396-01.p4'/>
+    <part crc='135ba1aa' name='6397-01.r4'/>
+    <part crc='c9e1017e' name='6398-01.k6'/>
+    <part crc='63d685b2' name='6399-01.j6'/>
+    <part crc='b8094b4c' name='6400-01.m2'/>
+    <part crc='857df8db' name='6401-01.e2'/>
   </rom>
-  <rom index='0' md5='39b513cba4455052bb88ca21707c15c3' type='merged' zip='sprint1.zip'>
-    <part name='6290-01.b1'/>
-    <part name='6291-01.c1'/>
-    <part name='sprint2/6404.d1'/>
-    <part name='sprint2/6405.e1'/>
-    <part name='6396-01.p4'/>
-    <part name='6397-01.r4'/>
-    <part name='6398-01.k6'/>
-    <part name='6399-01.j6'/>
-    <part name='6400-01.m2'/>
-    <part name='6401-01.e2'/>
-  </rom>
-  <rom index='0' md5='39b513cba4455052bb88ca21707c15c3' type='split' zip='sprint2.zip'>
-    <part name='6290-01.b1' zip='sprint1.zip'/>
-    <part name='6291-01.c1' zip='sprint1.zip'/>
-    <part name='6404.d1'/>
-    <part name='6405.e1'/>
-    <part name='6396-01.p4' zip='sprint1.zip'/>
-    <part name='6397-01.r4' zip='sprint1.zip'/>
-    <part name='6398-01.k6' zip='sprint1.zip'/>
-    <part name='6399-01.j6' zip='sprint1.zip'/>
-    <part name='6400-01.m2' zip='sprint1.zip'/>
-    <part name='6401-01.e2' zip='sprint1.zip'/>
-  </rom>
+  
+  
 </misterromdescription>

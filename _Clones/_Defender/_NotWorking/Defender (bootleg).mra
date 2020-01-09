@@ -6,25 +6,16 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='merged|nonmerged' zip='defender.zip'>
-    <part name='defndjeu/15'/>
-    <part name='defndjeu/16'/>
-    <part name='defndjeu/17'/>
-    <part name='defndjeu/21'/>
-    <part name='defndjeu/20'/>
-    <part name='defndjeu/19'/>
-    <part name='defndjeu/18'/>
-    <part name='defndjeu/s'/>
-  </rom>
-  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='split|nonmerged' zip='defndjeu.zip'>
-    <part name='15'/>
-    <part name='16'/>
-    <part name='17'/>
-    <part name='21'/>
-    <part name='20'/>
-    <part name='19'/>
-    <part name='18'/>
-    <part name='s'/>
+  
+  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='merged|nonmerged|split' zip='defndjeu.zip|defender.zip'>
+    <part crc='706a24bd' name='15'/>
+    <part crc='03201532' name='16'/>
+    <part crc='25287eca' name='17'/>
+    <part crc='bddb71a3' name='21'/>
+    <part crc='12fa0788' name='20'/>
+    <part crc='769f5984' name='19'/>
+    <part crc='e99d5679' name='18'/>
+    <part crc='cb79ae42' name='s'/>
   </rom>
   
   

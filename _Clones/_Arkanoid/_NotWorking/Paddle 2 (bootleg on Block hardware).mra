@@ -3,15 +3,15 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>arkanoid</rbf>
-  <rom index='0' md5='a7ad2de3f852a43e92a78d02f3fa18e6' type='merged' zip='arkanoid.zip'>
-    <part name='paddle2/paddle2.16'/>
-    <part name='paddle2/paddle2.17'/>
-    <part name='a75-03.ic64'/>
-    <part name='a75-04.ic63'/>
-    <part name='a75-05.ic62'/>
-    <part name='a75-07.ic24'/>
-    <part name='a75-08.ic23'/>
-    <part name='a75-09.ic22'/>
+  <rom index='0' md5='a7ad2de3f852a43e92a78d02f3fa18e6' type='merged|nonmerged|split' zip='arkanoid.zip'>
+    <part crc='FIXME' name='paddle2.16'/>
+    <part crc='FIXME' name='paddle2.17'/>
+    <part crc='038b74ba' name='a75-03.ic64'/>
+    <part crc='71fae199' name='a75-04.ic63'/>
+    <part crc='c76374e2' name='a75-05.ic62'/>
+    <part crc='0af8b289' name='a75-07.ic24'/>
+    <part crc='abb002fb' name='a75-08.ic23'/>
+    <part crc='a7c6c277' name='a75-09.ic22'/>
     <patch offset='0x33C2'>49</patch>
     <patch offset='0x33F4'>49</patch>
     <patch offset='0x3437'>49</patch>

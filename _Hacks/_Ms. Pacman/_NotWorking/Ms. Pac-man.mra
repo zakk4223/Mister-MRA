@@ -7,12 +7,12 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='4ad807a4108b3864582028e24548b45b' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='mspaceur/mspaceur.cpu'/>
-    <part name='mspaceur/mspacj.gfx'/>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+  <rom index='0' md5='4ad807a4108b3864582028e24548b45b' type='merged|nonmerged|split' zip='/hbmame/mspaceur.zip|/hbmame/mspacman.zip'>
+    <part crc='03905a76' name='mspaceur.cpu'/>
+    <part crc='8ee4a3b0' name='mspacj.gfx'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

@@ -1,31 +1,31 @@
 <misterromdescription>
   <rbf>DonkeyKong</rbf>
-  <rom index='0' md5='775078202df724ad17dc15b255cc99df' type='merged' zip='/hbmame/dkong.zip'>
-    <part name='c_5et_g.bin'/>
-    <part name='c_5ct_g.bin'/>
-    <part name='c_5bt_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='kong2600/k2600.3p'/>
-    <part name='kong2600/k2600.3p'/>
-    <part name='kong2600/k2600.3n'/>
-    <part name='kong2600/k2600.3n'/>
-    <part name='c_5at_g.bin'/>
-    <part name='c_5at_g.bin'/>
-    <part name='kong2600/k2600.7c'/>
-    <part name='kong2600/k2600.7c'/>
-    <part name='kong2600/k2600.7d'/>
-    <part name='kong2600/k2600.7d'/>
-    <part name='kong2600/k2600.7e'/>
-    <part name='kong2600/k2600.7e'/>
-    <part name='kong2600/k2600.7f'/>
-    <part name='kong2600/k2600.7f'/>
-    <part name='s_3i_b.bin'/>
-    <part name='s_3j_b.bin'/>
-    <part name='dkongpac/k2600.2k'/>
-    <part name='dkongpac/k2600.2j'/>
-    <part name='dkongpac/k2600.5f'/>
+  <rom index='0' md5='775078202df724ad17dc15b255cc99df' type='merged|nonmerged|split' zip='/hbmame/kong2600.zip|/hbmame/dkong.zip'>
+    <part crc='ba70b88b' name='c_5et_g.bin'/>
+    <part crc='5ec461ec' name='c_5ct_g.bin'/>
+    <part crc='1c97d324' name='c_5bt_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='ca57e0f4' name='k2600.3p'/>
+    <part crc='ca57e0f4' name='k2600.3p'/>
+    <part crc='0e6a2a6d' name='k2600.3n'/>
+    <part crc='0e6a2a6d' name='k2600.3n'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='b9005ac0' name='c_5at_g.bin'/>
+    <part crc='cf450a43' name='k2600.7c'/>
+    <part crc='cf450a43' name='k2600.7c'/>
+    <part crc='d5046907' name='k2600.7d'/>
+    <part crc='d5046907' name='k2600.7d'/>
+    <part crc='1539fe2a' name='k2600.7e'/>
+    <part crc='1539fe2a' name='k2600.7e'/>
+    <part crc='77cc00ab' name='k2600.7f'/>
+    <part crc='77cc00ab' name='k2600.7f'/>
+    <part crc='45a4ed06' name='s_3i_b.bin'/>
+    <part crc='4743fe92' name='s_3j_b.bin'/>
+    <part crc='1e82d375' name='k2600.2k'/>
+    <part crc='2ab01dc8' name='k2600.2j'/>
+    <part crc='44988665' name='k2600.5f'/>
     <part repeat='3328'>00</part>
     <part>
 80 80 80 80 80 80 7f 7f 7f 7f 7f 7f 7f 80 80 80 

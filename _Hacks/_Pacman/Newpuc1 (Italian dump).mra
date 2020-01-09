@@ -7,24 +7,24 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='1f5c4bd751c18b5d5004de6539ef5bb6' type='merged' zip='/hbmame/puckman.zip'>
-    <part name='jpmmunch/newpuck1.6e'/>
-    <part name='newpuc1/pacheart.6k'/>
-    <part name='puckman.6f'/>
-    <part name='newpuc1/pacheart.6m'/>
-    <part name='jpmmunch/pacheart.6h'/>
-    <part name='newpuc1/pacheart.6n'/>
-    <part name='newpuc1/newpuck1.6j'/>
-    <part name='newpuc1/pacheart.6p'/>
+  <rom index='0' md5='1f5c4bd751c18b5d5004de6539ef5bb6' type='merged|nonmerged|split' zip='/hbmame/newpuc1.zip|/hbmame/puckman.zip'>
+    <part crc='2c0fa0ab' name='newpuck1.6e'/>
+    <part crc='b9152a38' name='pacheart.6k'/>
+    <part crc='7d177853' name='puckman.6f'/>
+    <part crc='842d6574' name='pacheart.6m'/>
+    <part crc='9045a44c' name='pacheart.6h'/>
+    <part crc='888f3c3e' name='pacheart.6n'/>
+    <part crc='565687c6' name='newpuck1.6j'/>
+    <part crc='1a21a381' name='pacheart.6p'/>
     <part repeat='16384'>00</part>
-    <part name='newpuc1/newpuck1.5e'/>
-    <part name='puckman.5h'/>
-    <part name='puckman.5f'/>
-    <part name='puckman.5j'/>
+    <part crc='3ed40275' name='newpuck1.5e'/>
+    <part crc='3591b89d' name='puckman.5h'/>
+    <part crc='9e39323a' name='puckman.5f'/>
+    <part crc='1b1d9096' name='puckman.5j'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

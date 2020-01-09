@@ -7,18 +7,18 @@
   <category>Space / Shooter</category>
   <rbf>blackhole</rbf>
   <rom index='0' md5='d976f7cbbed53dd8f6d8c3b014c8a404' type='merged|nonmerged|split' zip='blkhole.zip'>
-    <part name='bh1'/>
-    <part name='bh2'/>
-    <part name='bh3'/>
-    <part name='bh4'/>
-    <part name='bh5'/>
-    <part name='bh6'/>
-    <part name='bh6'/>
-    <part name='bh6'/>
-    <part name='bh7'/>
-    <part name='bh7'/>
-    <part name='bh8'/>
-    <part name='bh8'/>
+    <part crc='64998819' name='bh1'/>
+    <part crc='26f26ce4' name='bh2'/>
+    <part crc='3418bc45' name='bh3'/>
+    <part crc='735ff481' name='bh4'/>
+    <part crc='3f657be9' name='bh5'/>
+    <part crc='a057ab35' name='bh6'/>
+    <part crc='a057ab35' name='bh6'/>
+    <part crc='a057ab35' name='bh6'/>
+    <part crc='975ba821' name='bh7'/>
+    <part crc='975ba821' name='bh7'/>
+    <part crc='03d11020' name='bh8'/>
+    <part crc='03d11020' name='bh8'/>
   </rom>
   
   

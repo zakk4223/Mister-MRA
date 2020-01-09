@@ -8,52 +8,22 @@
   <category>Maze / Blocks</category>
   <category>Maze / Penguin</category>
   <rbf>pengo</rbf>
-  <rom index='0' md5='7b1114bf173a8a027311bef6e0694e87' type='merged|nonmerged' zip='pengo.zip'>
-    <part name='pengo5/0_oct6-82.bin'/>
-    <part name='pengo5/1_oct11-82.bin'/>
-    <part name='pengo5/2_oct11-82.bin'/>
-    <part name='pengo5/3_oct6-82.bin'/>
-    <part name='ep1693b.21'/>
-    <part name='pengo2/ic20.2'/>
-    <part name='ep5118b.32'/>
-    <part name='pengo5/7_oct11-82.bin'/>
-    <part name='ep1640.92'/>
-    <part name='ep1695.105'/>
-    <part name='pr1634.88'/>
-    <part name='pr1635.51'/>
-    <part name='pr1636.70'/>
-    <part name='pr1633.78'/>
-  </rom>
-  <rom index='0' md5='7b1114bf173a8a027311bef6e0694e87' type='split' zip='pengo5.zip'>
-    <part name='0_oct6-82.bin'/>
-    <part name='1_oct11-82.bin'/>
-    <part name='2_oct11-82.bin'/>
-    <part name='3_oct6-82.bin'/>
-    <part name='ep1693b.21' zip='pengo.zip'/>
-    <part name='5_oct11-82.bin'/>
-    <part name='ep5118b.32' zip='pengo.zip'/>
-    <part name='7_oct11-82.bin'/>
-    <part name='ep1640.92' zip='pengo.zip'/>
-    <part name='ep1695.105' zip='pengo.zip'/>
-    <part name='pr1634.88' zip='pengo.zip'/>
-    <part name='pr1635.51' zip='pengo.zip'/>
-    <part name='pr1636.70' zip='pengo.zip'/>
-    <part name='pr1633.78' zip='pengo.zip'/>
-  </rom>
-  <rom index='0' md5='7b1114bf173a8a027311bef6e0694e87' type='nonmerged' zip='pengo5.zip'>
-    <part name='0_oct6-82.bin'/>
-    <part name='1_oct11-82.bin'/>
-    <part name='2_oct11-82.bin'/>
-    <part name='3_oct6-82.bin'/>
-    <part name='4_oct6-82.bin'/>
-    <part name='5_oct11-82.bin'/>
-    <part name='6_oct11-82.bin'/>
-    <part name='7_oct11-82.bin'/>
-    <part name='ep1640.92'/>
-    <part name='ep1695.105'/>
-    <part name='pr1634.88'/>
-    <part name='pr1635.51'/>
-    <part name='pr1636.70'/>
-    <part name='pr1633.78'/>
+  
+  
+  <rom index='0' md5='7b1114bf173a8a027311bef6e0694e87' type='merged|nonmerged|split' zip='pengo5.zip|pengo.zip'>
+    <part crc='43e45441' name='0_oct6-82.bin'/>
+    <part crc='30a52a90' name='1_oct11-82.bin'/>
+    <part crc='09783cc2' name='2_oct11-82.bin'/>
+    <part crc='452c80c9' name='3_oct6-82.bin'/>
+    <part crc='b72084ec' name='4_oct6-82.bin'/>
+    <part crc='770570cf' name='5_oct11-82.bin'/>
+    <part crc='af7b12c4' name='6_oct11-82.bin'/>
+    <part crc='1350ca0e' name='7_oct11-82.bin'/>
+    <part crc='d7eec6cd' name='ep1640.92'/>
+    <part crc='5bfd26e9' name='ep1695.105'/>
+    <part crc='766b139b' name='pr1634.88'/>
+    <part crc='c29dea27' name='pr1635.51'/>
+    <part crc='77245b66' name='pr1636.70'/>
+    <part crc='3a5844ec' name='pr1633.78'/>
   </rom>
 </misterromdescription>

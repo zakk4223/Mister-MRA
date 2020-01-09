@@ -6,17 +6,17 @@
   <manufacturer>Williams</manufacturer>
   <category>Space / Defender</category>
   <rbf>defender</rbf>
-  <rom index='0' md5='a70b0d097da75cb7f11306bb8ab866e1' type='merged' zip='/hbmame/defender.zip'>
-    <part name='defender2/10'/>
-    <part name='defender2/11'/>
-    <part name='defender2/12'/>
-    <part name='defender2/01'/>
-    <part name='defender2/02'/>
-    <part name='defender2/03'/>
-    <part name='defender2/07'/>
-    <part name='defender2/sg.snd'/>
-    <part name='defender2/decoder.4'/>
-    <part name='defender2/decoder.5'/>
+  <rom index='0' md5='a70b0d097da75cb7f11306bb8ab866e1' type='merged|nonmerged|split' zip='/hbmame/defender2.zip|/hbmame/defender.zip'>
+    <part crc='4d82fc2f' name='10'/>
+    <part crc='561fad3f' name='11'/>
+    <part crc='836eacca' name='12'/>
+    <part crc='88824d18' name='01'/>
+    <part crc='afc614c5' name='02'/>
+    <part crc='6dd57970' name='03'/>
+    <part crc='55b5b0d2' name='07'/>
+    <part crc='2fcf6c4d' name='sg.snd'/>
+    <part crc='e6631c23' name='decoder.4'/>
+    <part crc='f921c5fe' name='decoder.5'/>
   </rom>
   
   

@@ -7,16 +7,16 @@
   <category>Space / Defender</category>
   <rbf>cosmicavenger</rbf>
   <rom index='0' md5='f1233ff57be1767247bdd18c7b0bdf69' type='merged|nonmerged|split' zip='cavenger.zip'>
-    <part name='1.c4'/>
-    <part name='2.d4'/>
-    <part name='3.e4'/>
-    <part name='4.h4'/>
-    <part name='5.j4'/>
-    <part name='6.k4'/>
-    <part name='8.l7'/>
-    <part name='8.l7'/>
-    <part name='9.f7'/>
-    <part name='0.h7'/>
+    <part crc='9e0cc781' name='1.c4'/>
+    <part crc='5ce5b950' name='2.d4'/>
+    <part crc='bc28218d' name='3.e4'/>
+    <part crc='2b32e9f5' name='4.h4'/>
+    <part crc='d117153e' name='5.j4'/>
+    <part crc='c7d366cb' name='6.k4'/>
+    <part crc='b022bf2d' name='8.l7'/>
+    <part crc='b022bf2d' name='8.l7'/>
+    <part crc='63357785' name='9.f7'/>
+    <part crc='52ad1133' name='0.h7'/>
   </rom>
   
   

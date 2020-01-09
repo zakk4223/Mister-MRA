@@ -7,20 +7,20 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='11a1897856c2a412acfd45106a437731' type='merged' zip='/hbmame/mspacman.zip'>
-    <part name='cookiem/cookiem.1'/>
-    <part name='cookiem/cookiem.2'/>
-    <part name='chtmsatk/boot3'/>
-    <part name='cookiem/cookiem.4'/>
-    <part name='chtmspa/boot5'/>
-    <part name='cookiem/cookiem.6'/>
+  <rom index='0' md5='11a1897856c2a412acfd45106a437731' type='merged|nonmerged|split' zip='/hbmame/cookiem.zip|/hbmame/mspacman.zip'>
+    <part crc='3c95b06b' name='cookiem.1'/>
+    <part crc='527859fb' name='cookiem.2'/>
+    <part crc='1821ee0b' name='boot3'/>
+    <part crc='66e397fd' name='cookiem.4'/>
+    <part crc='8c3e6de6' name='boot5'/>
+    <part crc='a96761a6' name='cookiem.6'/>
     <part repeat='8192'>00</part>
-    <part name='cookiem/cookiem.5e'/>
-    <part name='cookiem/cookiem.5f'/>
+    <part crc='ffb4de27' name='cookiem.5e'/>
+    <part crc='1b5875ac' name='cookiem.5f'/>
     <part repeat='8192'>00</part>
-    <part name='82s126.1m'/>
-    <part name='82s126.4a'/>
-    <part name='82s126.3m'/>
-    <part name='82s123.7f'/>
+    <part crc='a9cc86bf' name='82s126.1m'/>
+    <part crc='3eb3a8e4' name='82s126.4a'/>
+    <part crc='77245b66' name='82s126.3m'/>
+    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
 </misterromdescription>

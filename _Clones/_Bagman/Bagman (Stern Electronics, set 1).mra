@@ -6,52 +6,29 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index='0' md5='419a237154324721c7586c208fef6007' type='merged|nonmerged' zip='bagman.zip'>
-    <part name='bagmanj/bf8_06.e9'/>
-    <part name='bagmans/a5-9f'/>
-    <part name='bagmans/a4_9j.bin'/>
-    <part name='bagmans/a5-9k'/>
-    <part name='bagmanj/bf8_10.m9'/>
-    <part name='bagmans/a5-9n'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='t9_b12.bin'/>
-    <part name='bagmanj/bf8_03.e1'/>
-    <part name='bagmans/a2_1c.bin'/>
-    <part name='j1_b04.bin'/>
-    <part name='bagmans/a2_1f.bin'/>
-    <part name='r9_b11.bin'/>
-    <part name='t9_b12.bin'/>
+  <rom index='0' md5='419a237154324721c7586c208fef6007' type='merged|nonmerged|split' zip='bagman.zip'>
+    <part crc='FIXME' name='bf8_06.e9'/>
+    <part crc='FIXME' name='a5-9f'/>
+    <part crc='FIXME' name='a4_9j.bin'/>
+    <part crc='FIXME' name='a5-9k'/>
+    <part crc='FIXME' name='bf8_10.m9'/>
+    <part crc='FIXME' name='a5-9n'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
+    <part crc='FIXME' name='bf8_03.e1'/>
+    <part crc='FIXME' name='a2_1c.bin'/>
+    <part crc='c680ef04' name='j1_b04.bin'/>
+    <part crc='FIXME' name='a2_1f.bin'/>
+    <part crc='2e0057ff' name='r9_b11.bin'/>
+    <part crc='b2120edd' name='t9_b12.bin'/>
   </rom>
-  <rom index='0' md5='419a237154324721c7586c208fef6007' type='split' zip='bagmans.zip'>
-    <part name='a4_9e.bin'/>
-    <part name='a5-9f'/>
-    <part name='a4_9j.bin'/>
-    <part name='a5-9k'/>
-    <part name='a4_9m.bin'/>
-    <part name='a5-9n'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-    <part name='a2_1e.bin'/>
-    <part name='a2_1c.bin'/>
-    <part name='j1_b04.bin' zip='bagman.zip'/>
-    <part name='a2_1f.bin'/>
-    <part name='r9_b11.bin' zip='bagman.zip'/>
-    <part name='t9_b12.bin' zip='bagman.zip'/>
-  </rom>
+  
 </misterromdescription>

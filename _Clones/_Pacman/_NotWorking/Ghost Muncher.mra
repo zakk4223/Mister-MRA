@@ -7,17 +7,17 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='88e61f6d42612741982280d6202b5273' type='merged' zip='puckman.zip'>
-    <part name='ghostmun/pac1.bin'/>
-    <part name='ghostmun/pac2.bin'/>
-    <part name='ghostmun/pac3.bin'/>
-    <part name='ghostmun/pac4.bin'/>
+  <rom index='0' md5='88e61f6d42612741982280d6202b5273' type='merged|nonmerged|split' zip='puckman.zip'>
+    <part crc='FIXME' name='pac1.bin'/>
+    <part crc='FIXME' name='pac2.bin'/>
+    <part crc='FIXME' name='pac3.bin'/>
+    <part crc='FIXME' name='pac4.bin'/>
     <part repeat='16384'>00</part>
-    <part name='ghostmun/blpac12b'/>
-    <part name='ghostmun/blpac11b'/>
-    <part name='ghostmun/blpac10b'/>
-    <part name='ghostmun/blpac9b'/>
+    <part crc='FIXME' name='blpac12b'/>
+    <part crc='FIXME' name='blpac11b'/>
+    <part crc='FIXME' name='blpac10b'/>
+    <part crc='FIXME' name='blpac9b'/>
     <part repeat='8192'>00</part>
-    <part name='ghostmun/ghostmun.clr'/>
+    <part crc='FIXME' name='ghostmun.clr'/>
   </rom>
 </misterromdescription>

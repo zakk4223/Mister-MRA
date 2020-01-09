@@ -6,46 +6,20 @@
   <manufacturer>Amstar</manufacturer>
   <category>Space / Shooter</category>
   <rbf>phoenix</rbf>
-  <rom index='0' md5='6316257b6d6cbd12f013c681bc99a2c4' type='merged|nonmerged' zip='phoenix.zip'>
-    <part name='phoenixa/1-ic45.1a'/>
-    <part name='phoenixa/2-ic46.2a'/>
-    <part name='phoenixa/3-ic47.3a'/>
-    <part name='phoenixa/4-ic48.4a'/>
-    <part name='h5-ic49.5a'/>
-    <part name='h6-ic50.6a'/>
-    <part name='h7-ic51.7a'/>
-    <part name='h8-ic52.8a'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='b1-ic39.3b'/>
-    <part name='b2-ic40.4b'/>
-  </rom>
-  <rom index='0' md5='6316257b6d6cbd12f013c681bc99a2c4' type='split' zip='phoenixa.zip'>
-    <part name='1-ic45.1a'/>
-    <part name='2-ic46.2a'/>
-    <part name='3-ic47.3a'/>
-    <part name='4-ic48.4a'/>
-    <part name='h5-ic49.5a' zip='phoenix.zip'/>
-    <part name='h6-ic50.6a' zip='phoenix.zip'/>
-    <part name='h7-ic51.7a' zip='phoenix.zip'/>
-    <part name='h8-ic52.8a' zip='phoenix.zip'/>
-    <part name='ic23.3d' zip='phoenix.zip'/>
-    <part name='ic24.4d' zip='phoenix.zip'/>
-    <part name='b1-ic39.3b' zip='phoenix.zip'/>
-    <part name='b2-ic40.4b' zip='phoenix.zip'/>
-  </rom>
-  <rom index='0' md5='6316257b6d6cbd12f013c681bc99a2c4' type='nonmerged' zip='phoenixa.zip'>
-    <part name='1-ic45.1a'/>
-    <part name='2-ic46.2a'/>
-    <part name='3-ic47.3a'/>
-    <part name='4-ic48.4a'/>
-    <part name='h5-ic49.5a'/>
-    <part name='h6-ic50.6a'/>
-    <part name='h7-ic51.7a'/>
-    <part name='h8-ic52.8a'/>
-    <part name='ic23.3d'/>
-    <part name='ic24.4d'/>
-    <part name='b1-ic39.3b'/>
-    <part name='b2-ic40.4b'/>
+  
+  
+  <rom index='0' md5='6316257b6d6cbd12f013c681bc99a2c4' type='merged|nonmerged|split' zip='phoenixa.zip|phoenix.zip'>
+    <part crc='c7a9b499' name='1-ic45.1a'/>
+    <part crc='d0e6ae1b' name='2-ic46.2a'/>
+    <part crc='64bf463a' name='3-ic47.3a'/>
+    <part crc='1b20fe62' name='4-ic48.4a'/>
+    <part crc='a105e4e7' name='h5-ic49.5a'/>
+    <part crc='ac5e9ec1' name='h6-ic50.6a'/>
+    <part crc='2eab35b4' name='h7-ic51.7a'/>
+    <part crc='aff8e9c5' name='h8-ic52.8a'/>
+    <part crc='3c7e623f' name='ic23.3d'/>
+    <part crc='59916d3b' name='ic24.4d'/>
+    <part crc='53413e8f' name='b1-ic39.3b'/>
+    <part crc='0be2ba91' name='b2-ic40.4b'/>
   </rom>
 </misterromdescription>

@@ -3,73 +3,29 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>jtgng</rbf>
-  <rom index="0" md5="205229cb8941ae2ab651777018f91826" type="merged" zip="gng.zip">
-    <part name="gngt/mmt03d.8n"/>
-    <part name="gngt/mmt04d.10n"/>
-    <part name="gngt/mmt05d.13n"/>
-    <part name="gg1.bin"/>
-    <part name="gg2.bin"/>
-    <part name="gg9.bin"/>
-    <part name="gg8.bin"/>
-    <part name="gg7.bin"/>
-    <part name="gg6.bin"/>
-    <part name="gg11.bin"/>
-    <part name="gg10.bin"/>
-    <part name="gg11.bin"/>
-    <part name="gg10.bin"/>
-    <part name="gg17.bin"/>
-    <part name="gg16.bin"/>
-    <part name="gg15.bin"/>
-    <part name="gg15.bin"/>
-    <part name="gg14.bin"/>
-    <part name="gg13.bin"/>
-    <part name="gg12.bin"/>
-    <part name="gg12.bin"/>
-  </rom>
-  <rom index="0" md5="205229cb8941ae2ab651777018f91826" type="split" zip="gngt.zip">
-    <part name="mmt03d.8n"/>
-    <part name="mmt04d.10n"/>
-    <part name="mmt05d.13n"/>
-    <part name="gg1.bin" zip="gng.zip"/>
-    <part name="gg2.bin" zip="gng.zip"/>
-    <part name="gg9.bin" zip="gng.zip"/>
-    <part name="gg8.bin" zip="gng.zip"/>
-    <part name="gg7.bin" zip="gng.zip"/>
-    <part name="gg6.bin" zip="gng.zip"/>
-    <part name="gg11.bin" zip="gng.zip"/>
-    <part name="gg10.bin" zip="gng.zip"/>
-    <part name="gg11.bin" zip="gng.zip"/>
-    <part name="gg10.bin" zip="gng.zip"/>
-    <part name="gg17.bin" zip="gng.zip"/>
-    <part name="gg16.bin" zip="gng.zip"/>
-    <part name="gg15.bin" zip="gng.zip"/>
-    <part name="gg15.bin" zip="gng.zip"/>
-    <part name="gg14.bin" zip="gng.zip"/>
-    <part name="gg13.bin" zip="gng.zip"/>
-    <part name="gg12.bin" zip="gng.zip"/>
-    <part name="gg12.bin" zip="gng.zip"/>
-  </rom>
-  <rom index="0" md5="205229cb8941ae2ab651777018f91826" type="nonmerged" zip="gngt.zip">
-    <part name="mmt03d.8n"/>
-    <part name="mmt04d.10n"/>
-    <part name="mmt05d.13n"/>
-    <part name="mm01.11e"/>
-    <part name="mm02.14h"/>
-    <part name="mm09.3c"/>
-    <part name="mm08.1c"/>
-    <part name="mm07.3b"/>
-    <part name="mm06.1b"/>
-    <part name="mm11.3e"/>
-    <part name="mm10.1e"/>
-    <part name="mm11.3e"/>
-    <part name="mm10.1e"/>
-    <part name="mm17.4n"/>
-    <part name="mm16.3n"/>
-    <part name="mm15.1n"/>
-    <part name="mm15.1n"/>
-    <part name="mm14.4l"/>
-    <part name="mm13.3l"/>
-    <part name="mm12.1l"/>
-    <part name="mm12.1l"/>
+  
+  
+  <rom index='0' md5='205229cb8941ae2ab651777018f91826' type='merged|nonmerged|split' zip='gngt.zip|gng.zip'>
+    <part crc='fb040b42' name='mmt03d.8n'/>
+    <part crc='652406f6' name='mmt04d.10n'/>
+    <part crc='8f7cff61' name='mmt05d.13n'/>
+    <part crc='ecfccf07' name='mm01.11e'/>
+    <part crc='615f5b6f' name='mm02.14h'/>
+    <part crc='20035bda' name='mm09.3c'/>
+    <part crc='f12ba271' name='mm08.1c'/>
+    <part crc='e525207d' name='mm07.3b'/>
+    <part crc='2d77e9b2' name='mm06.1b'/>
+    <part crc='ddd56fa9' name='mm11.3e'/>
+    <part crc='7302529d' name='mm10.1e'/>
+    <part crc='ddd56fa9' name='mm11.3e'/>
+    <part crc='7302529d' name='mm10.1e'/>
+    <part crc='93e50a8f' name='mm17.4n'/>
+    <part crc='06d7e5ca' name='mm16.3n'/>
+    <part crc='bc1fe02d' name='mm15.1n'/>
+    <part crc='bc1fe02d' name='mm15.1n'/>
+    <part crc='6aaf12f9' name='mm14.4l'/>
+    <part crc='e80c3fca' name='mm13.3l'/>
+    <part crc='7780a925' name='mm12.1l'/>
+    <part crc='7780a925' name='mm12.1l'/>
   </rom>
 </misterromdescription>

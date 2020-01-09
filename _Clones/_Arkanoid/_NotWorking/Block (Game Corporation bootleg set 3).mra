@@ -3,15 +3,15 @@
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <rbf>arkanoid</rbf>
-  <rom index='0' md5='451c065d30a744c00bb1f27a655fdf2b' type='merged' zip='arkanoid.zip'>
-    <part name='arkbloc3/blockbl.001'/>
-    <part name='arkangc2/2.82'/>
-    <part name='arkbloc3/blockbl.003'/>
-    <part name='arkbloc3/blockbl.004'/>
-    <part name='arkbloc3/blockbl.005'/>
-    <part name='a75-07.ic24'/>
-    <part name='a75-08.ic23'/>
-    <part name='a75-09.ic22'/>
+  <rom index='0' md5='451c065d30a744c00bb1f27a655fdf2b' type='merged|nonmerged|split' zip='arkanoid.zip'>
+    <part crc='FIXME' name='blockbl.001'/>
+    <part crc='FIXME' name='2.82'/>
+    <part crc='FIXME' name='blockbl.003'/>
+    <part crc='FIXME' name='blockbl.004'/>
+    <part crc='FIXME' name='blockbl.005'/>
+    <part crc='0af8b289' name='a75-07.ic24'/>
+    <part crc='abb002fb' name='a75-08.ic23'/>
+    <part crc='a7c6c277' name='a75-09.ic22'/>
     <patch offset='0x33C2'>49</patch>
     <patch offset='0x33F4'>49</patch>
     <patch offset='0x3437'>49</patch>
