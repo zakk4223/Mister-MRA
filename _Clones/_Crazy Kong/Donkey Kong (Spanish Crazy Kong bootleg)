@@ -1,0 +1,91 @@
+<misterromdescription>
+	<name>Donkey Kong (Spanish Crazy Kong bootleg)</name>
+	<mameversion>0217</mameversion>
+	<setname>ckongdks</setname>
+	<year>1981</year>
+	<manufacturer>bootleg</manufacturer>
+	<rbf>CrazyKong</rbf>
+	<rom index="0" md5="75831f5fa7c8237b07d75ad7e7260d49" zip="ckong.zip" type="merged">
+		<part crc="2171cac3" name="falcon7" offset="0" length="396"/>
+		<part>
+C3 F4 37 E5 C5 FE 03 28 08 CD 1C 01 3E 03 32 83 
+60 C1 E1 36 00 CB 48 CA B6 07 3A 22 60 32 25 60 
+21 25 60 11 01 60 1A FE 90 D0 86 C3 AD 07
+		</part>
+		<part crc="2171cac3" name="falcon7" offset="442" length="111"/>
+		<part>
+CB 67 28 0B 36 03 23 36 FF 23 23 23 C3 4F 02 36 
+02 23 36 00 18 F3 3E 01 32 25 60 C3 AC 01 3A 23 
+60 C3 22 4C
+		</part>
+		<part crc="2171cac3" name="falcon7" offset="589" length="1196"/>
+		<part>AF</part>
+		<part crc="2171cac3" name="falcon7" offset="1786" length="176"/>
+		<part>
+C9 AD 07 27 12 11 00 04 CD 9F 30 C9 21 02 60 7E 
+A7 C2 47 02 2F 77 C3 3F 02
+		</part>
+		<part crc="2171cac3" name="falcon7" offset="1987" length="407"/>
+		<part>CD E4 37 C9 0B</part>
+		<part crc="2171cac3" name="falcon7" offset="2399" length="1697"/>
+		<part crc="88b83ff7" name="falcon8"/>
+		<part crc="cff2af47" name="falcon9" offset="0" length="1105"/>
+		<part>C3</part>
+		<part crc="cff2af47" name="falcon9" offset="1106" length="2990"/>
+		<part crc="520fa4de" name="falcon10" offset="0" length="1690"/>
+		<part>
+1A 25 17 11 14 1F 22 FD FD 32 3F 94 92 1A 25 17 
+11 14 1F 22 FD FD 33 3F 80 92 FD FD 22 15 13 1F 
+22 14 FD FD 3F 9F 91 1A 25 15 17 1F 23 FD FD FD 
+FD 3F 5E 93 FD FD FD 13 25 11 1E 24 1F FD 11 1C 
+13 11 1E 2A 11 22 11 23 FD FD FD 3F 29 93 FD FD 
+23 1F 1C 1F FD 25 1E FD 1A 25 17 11 14 1F 22 FD 
+FD FD 3F 29 93 01 FD 1F FD 02 FD 1A 25 17 11 14 
+1F 22 15 23 FD FD FD FD FD FD 3F 27 92 FD FD FD 
+FD 3F 06 93 15 23 13 22 19 12 15 FD 24 25 FD 1E 
+1F 1D 12 22 15 3F 88 92 FD FD FD FD FD
+		</part>
+		<part crc="520fa4de" name="falcon10" offset="1847" length="86"/>
+		<part>
+24 19 15 1D 20 1F FD FD FD FD FD 30 06 00 31 FD 
+3F 92 93 24 11 12 1C 11 FD 14 15 FD 22 15 13 1F 
+22 14 23 FD FD FD FD FD 3F 72 93 1F 1B 15 29 FD 
+FD FD FD FD FD FD FD FD FD FD FD FD FD FD FD FD 
+FD FD FD FD 3F A7 92 20 1F 1E FD 1D 1F 1E 15 14 
+11 23 FD 3F 0A 93 3F 32 05 60 AF 32 02 60 C9 FD 
+FD FD 13 1F 19 1E 3F FE FF CA FC 37 36 FF C9 3A 
+05 60 C3 8F 01
+		</part>
+		<part crc="520fa4de" name="falcon10" offset="2050" length="833"/>
+		<part>00</part>
+		<part crc="520fa4de" name="falcon10" offset="2884" length="1212"/>
+		<part crc="0a571a0f" name="falcon11" offset="0" length="3106"/>
+		<part>A7 CA BE 07 AF 77 3C 3C 32 25 60 C3 AC 01</part>
+		<part crc="0a571a0f" name="falcon11" offset="3120" length="721"/>
+		<part>
+A5 93 01 85 93 01 8A 93 01 65 93 01 6A 93 04 46 
+93 06 05 93 01 E5 92 01 EA 92 01 C5 92 01 CA 92 
+06 A5 92 06 65 92 02 46 92 02 28 92 06 05 92 06 
+C5 91 02 A7 91 04 86 91 02 65 91 02 69 91 06 25 
+91 01 05 91 02 07 91 01 0A 91 01 E5 90 02 E7 90 
+01 EA 90 01 C5 90 01 CA 90 04 85 90 03 68 90 04 
+45 90 06 0D 93 02 EF 92 04 CE 92 02 AD 92 02 B1 
+92 06 6D 92 01 4D 92 01 52 92 01 2D 92 01 32 92 
+06 0D 92 06 CD 91 02 AE 91 02 90 91 06 6D 91 06 
+2D 91 01 0D 91 01 12 91 01 ED 90 01 F0 90 01 F2 
+90 01 CD 90 03 D0 90 00
+		</part>
+		<part crc="0a571a0f" name="falcon11" offset="4009" length="87"/>
+		<part repeat="45056">00</part>
+		<part crc="a8916dc8" name="falcon6"/>
+		<part crc="cd3b5dde" name="falcon5"/>
+		<part crc="b62a0367" name="falcon4"/>
+		<part crc="61122c5e" name="falcon3"/>
+		<part crc="085b5f90" name="ckongdks/ck02.bin"/>
+		<part crc="16fd47e2" name="ckongdks/ck01.bin"/>
+		<part crc="085b5f90" name="ckongdks/ck02.bin"/>
+		<part crc="16fd47e2" name="ckongdks/ck01.bin"/>
+		<part crc="31c0a7de" name="ckongdks/ck08.bin"/>
+		<part crc="9003ffbd" name="falcon12"/>
+	</rom>
+</misterromdescription>
