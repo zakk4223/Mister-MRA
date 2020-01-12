@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<misterromdescription>
+  <name>Wonder Boy (system 2, set 2, 315-5176)</name>
+  <mameversion>0217</mameversion>
+  <setname>wboy</setname>
+  <mratimestamp>20200107000000</mratimestamp>
+  <year>1986</year>
+  <manufacturer>Escape (Sega license)</manufacturer>
+  <category>Platform / Extra</category>
+  <rbf>segasys1</rbf>
+  <rom index='1'>
+    <part>00</part>
+  </rom>
+  <rom index='0' md5='29b7f855fe47afe56195de7933b8eb3f' type='merged|nonmerged|split' zip='wboysys2a.zip|wboy.zip'>
+    <part crc='43b3d155' name='epr-7625.90'/>
+    <part crc='99334b3c' name='epr-7583.126'/>
+    <part crc='99334b3c' name='epr-7583.126'/>
+    <part crc='6ff1637f' name='epr-7578.87'/>
+    <part crc='58b3705e' name='epr-7577.86'/>
+    <part crc='d95565fd' name='epr-7581.4'/>
+    <part crc='560cbac0' name='epr-7582.5'/>
+    <part crc='648350b8' name='pr-5317.28'/>
+    <part>
+04 54 51 15 40 44 01 51 55 10 44 41 05 55 50 14
+41 45 00 50 54 11 45 40 04 54 51 15 40 44 01 51
+55 10 44 41 05 55 50 14 41 45 00 50 54 11 45 40
+04 54 51 15 40 44 01 51 55 10 44 41 05 55 50 14
+04 54 51 15 40 44 01 51 55 10 44 41 05 55 50 14
+41 45 00 50 54 11 45 40 04 54 51 15 40 44 01 51
+55 10 44 41 05 55 50 14 41 45 00 50 54 11 45 40
+04 54 51 15 40 44 01 51 55 10 44 41 05 55 50 14
+00 00 00 00 01 01 01 01 01 02 02 02 02 02 03 03
+03 03 04 04 04 04 04 05 05 05 05 05 06 06 06 06
+06 07 07 07 07 07 08 08 08 08 09 09 09 09 09 0a
+0a 0a 0a 0a 0b 0b 0b 0b 0b 0c 0c 0c 0c 0c 0d 0d
+08 08 08 08 09 09 09 09 09 0a 0a 0a 0a 0a 0b 0b
+0b 0b 0c 0c 0c 0c 0c 0d 0d 0d 0d 0d 0e 0e 0e 0e
+0e 0f 0f 0f 0f 0f 10 10 10 10 11 11 11 11 11 12
+12 12 12 12 13 13 13 13 13 14 14 14 14 14 15 15
+		</part>
+  </rom>
+  <switches default='FF,EC'>
+    <dip bits='0,3' ids='1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit' name='Coin A' values='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15'/>
+    <dip bits='4,7' ids='1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit' name='Coin B' values='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15'/>
+    <dip bits='8' ids='Upright,Cocktail' name='Cabinet' values='0,1'/>
+    <dip bits='9' ids='On,Off' name='Demo Sounds' values='0,1'/>
+    <dip bits='10,11' ids='Free Play,5,4,3' name='Lives' values='0,1,2,3'/>
+    <dip bits='12' ids='30k 120k 210k 300k,30k 100k 170k 240k' name='Bonus Life' values='0,1'/>
+    <dip bits='13' ids='No,Yes' name='Allow Continue' values='0,1'/>
+    <dip bits='14' ids='Hard,Easy' name='Difficulty' values='0,1'/>
+    <dip bits='15' ids='On,Off' name='Unused' values='0,1'/>
+  </switches>
+</misterromdescription>

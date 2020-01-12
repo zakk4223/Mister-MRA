@@ -1,0 +1,33 @@
+<misterromdescription>
+	<name>Black Dragon (Traduction Korean)</name>
+	<mameversion>0216</mameversion>
+	<setname>blktiger</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1987</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighter / Warriors</category>
+	<rbf>jtbtiger</rbf>
+	<rom index='0' md5='874a7a316d2c92476322634f9f9141d7' type='merged|nonmerged|split' zip='/hbmame/blkdrgonk.zip|/hbmame/blktiger.zip'>
+		<part crc='7d39c26f' name='blkdrgon.6e'/>
+		<part crc='d1bf3757' name='blkdrgon.8e'/>
+		<part crc='4d1d6680' name='blkdrgon.9e'/>
+		<part crc='c8d0c45e' name='blkdrgon.10e'/>
+		<part crc='e713b486' name='blkdrgnk.5e'/>
+		<part crc='2cf54274' name='bd-06.1l'/>
+		<part crc='3b432217' name='blkdrgnk.2n'/>
+		<part crc='3b432217' name='blkdrgnk.2n'/>
+		<part crc='9498c378' name='blkdrgon.9b'/>
+		<part crc='5b0df8ce' name='blkdrgon.8b'/>
+		<part crc='22d0a4b0' name='blkdrgon.5b'/>
+		<part crc='c8b5fc52' name='blkdrgon.4b'/>
+		<part crc='e2f17438' name='bd-08.5a'/>
+		<part crc='5fccbd27' name='bd-07.4a'/>
+		<part crc='fc33ccc6' name='bd-10.9a'/>
+		<part crc='f449de01' name='bd-09.8a'/>
+		<part crc='ac7d14f1' name='bd.6k'/>
+		<part crc='29b459e5' name='bd01.8j'/>
+		<part crc='8b741e66' name='bd02.9j'/>
+		<part crc='27201c75' name='bd03.11k'/>
+		<part crc='e5490b68' name='bd04.11l'/>
+	</rom>
+</misterromdescription>

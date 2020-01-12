@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+<misterromdescription>
+  <name>Flicky (128k Version, 315-5051, larger roms)</name>
+  <mameversion>0217</mameversion>
+  <setname>flicky</setname>
+  <mratimestamp>202001070000</mratimestamp>
+  <year>1984</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze / Cat &amp; Mouse</category>
+  <category>Platform</category>
+  <rbf>segasys1</rbf>
+  <rom index='1'>
+    <part>00</part>
+  </rom>
+  <rom index='0' md5='d3bc386851caf14de2d83a687c4495e1' type='merged|nonmerged|split' zip='flickya.zip|flicky.zip'>
+    <part crc='296f1492' name='epr-5978a.116'/>
+    <part crc='64b03ef9' name='epr-5979a.109'/>
+    <part crc='64b03ef9' name='epr-5979a.109'/>
+    <part crc='6d220d4e' name='epr-5869.120'/>
+    <part crc='6d220d4e' name='epr-5869.120'/>
+    <part crc='b5f894a1' name='epr-5855.117'/>
+    <part crc='266af78f' name='epr-5856.110'/>
+    <part crc='b5f894a1' name='epr-5855.117'/>
+    <part crc='266af78f' name='epr-5856.110'/>
+    <part crc='f1a75200' name='epr-6001.62'/>
+    <part crc='299aefb7' name='epr-6000.64'/>
+    <part crc='1ca53157' name='epr-5999.66'/>
+    <part crc='648350b8' name='pr-5317.76'/>
+    <part>
+08 88 00 80 a0 80 a8 88 80 00 a0 20 88 80 08 00 
+a0 80 a8 88 28 08 20 00 28 08 20 00 a0 80 a8 88 
+08 88 00 80 80 00 a0 20 80 00 a0 20 88 80 08 00 
+28 08 20 00 28 08 20 00 28 08 20 00 88 80 08 00 
+08 88 00 80 a8 88 28 08 a8 88 28 08 80 00 a0 20 
+28 08 20 00 88 80 08 00 a8 88 28 08 88 80 08 00 
+08 88 00 80 80 00 a0 20 a8 88 28 08 80 00 a0 20 
+28 08 20 00 28 08 20 00 08 88 00 80 88 80 08 00 
+		</part>
+  </rom>
+  <switches default='FF,FE'>
+    <dip bits='0,3' ids='1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit' name='Coin A' values='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15'/>
+    <dip bits='4,7' ids='1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit' name='Coin B' values='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15'/>
+    <dip bits='8' ids='Upright,Cocktail' name='Cabinet' values='0,1'/>
+    <dip bits='9' ids='On,Off' name='Unused' values='0,1'/>
+    <dip bits='10,11' ids='Infinite,5,4,3' name='Lives' values='0,1,2,3'/>
+    <dip bits='12,13' ids='40000 140000 280000,40000 120000 240000,30000 100000 200000,30000 80000 160000' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='14' ids='Hard,Easy' name='Difficulty' values='0,1'/>
+    <dip bits='15' ids='Port $10,Port $0D' name='SW 0 Read From' values='0,1'/>
+  </switches>
+</misterromdescription>

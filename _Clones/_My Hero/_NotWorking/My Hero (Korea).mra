@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<misterromdescription>
+  <name>My Hero (Korea)</name>
+  <mameversion>0217</mameversion>
+  <setname>myhero</setname>
+  <mratimestamp>202001060000</mratimestamp>
+  <year>1985</year>
+  <manufacturer>Coreland / Sega</manufacturer>
+  <category>Fighter / Hero</category>
+  <rbf>segasys1</rbf>
+  <rom index='1'>
+    <part>00</part>
+  </rom>
+  <rom index='0' md5='a9d582d97f778abed9b35eaa1da739b1' type='merged|nonmerged|split' zip='myherok.zip|myhero.zip'>
+    <part crc='6f4c8ee5' name='ry-11.rom'/>
+    <part crc='369302a1' name='ry-09.rom'/>
+    <part crc='b8e9922e' name='ry-07.rom'/>
+    <part crc='af467223' name='epr-6934.120'/>
+    <part crc='af467223' name='epr-6934.120'/>
+    <part crc='f19e05a1' name='epr-6921.117'/>
+    <part crc='7988adc3' name='epr-6923.04'/>
+    <part crc='37f77a78' name='epr-6922.110'/>
+    <part crc='42bdc8f6' name='epr-6924.05'/>
+    <part crc='dfb75143' name='ry-04.rom'/>
+    <part crc='cf68b4a2' name='ry-03.rom'/>
+    <part crc='d100eaef' name='ry-02.rom'/>
+    <part crc='648350b8' name='pr-5317.76'/>
+    <part>
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+  </rom>
+  <switches default='FF,FC'>
+    <dip bits='0,3' ids='1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit' name='Coin A' values='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15'/>
+    <dip bits='4,7' ids='1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit' name='Coin B' values='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15'/>
+    <dip bits='8' ids='Upright,Cocktail' name='Cabinet' values='0,1'/>
+    <dip bits='9' ids='On,Off' name='Demo Sounds' values='0,1'/>
+    <dip bits='10,11' ids='Infinite,5,4,3' name='Lives' values='0,1,2,3'/>
+    <dip bits='12,13' ids='90000,70000,50000,30000' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='14' ids='Hard,Easy' name='Difficulty' values='0,1'/>
+    <dip bits='15' ids='Port $10,Port $0D' name='SW 0 Read From' values='0,1'/>
+  </switches>
+</misterromdescription>

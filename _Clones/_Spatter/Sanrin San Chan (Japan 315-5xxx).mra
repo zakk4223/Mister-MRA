@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Sanrin San Chan (Japan, 315-5xxx)</name>
+  <mameversion>0217</mameversion>
+  <setname>spatter</setname>
+  <mratimestamp>202001070000</mratimestamp>
+  <year>1984</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze / Extra</category>
+  <category>Racing / Bicycle</category>
+  <rbf>segasys1</rbf>
+  <rom index="1">
+    <part>04</part>
+  </rom>
+  <rom index="0" md5="b013b89a7342bb500df196f010967232" type="merged|nonmerged|split" zip="ssanchan.zip|spatter.zip">
+    <part crc="26b43701" name="epr-6310.116"/>
+    <part crc="cb2bc620" name="epr-6311.109"/>
+    <part crc="71b15b47" name="epr-6312.96"/>
+    <part crc="1df95511" name="epr-6316.120"/>
+    <part crc="1df95511" name="epr-6316.120"/>
+    <part crc="e871e132" name="epr-6306.04"/>
+    <part crc="99c2d90e" name="epr-6308.117"/>
+    <part crc="0a5ad543" name="epr-6307.05"/>
+    <part crc="7423ad98" name="epr-6309.110"/>
+    <part crc="a2bf2832" name="epr-6328.62"/>
+    <part crc="269fbb4c" name="epr-6326.64"/>
+    <part crc="8ab3b563" name="epr-6324.66"/>
+    <part crc="53298109" name="epr-6327.61"/>
+    <part crc="bf038745" name="epr-6325.63"/>
+    <part crc="0394673c" name="epr-6323.65"/>
+    <part crc="648350b8" name="pr-5317.106"/>
+    <part>
+88 08 80 00 00 08 20 28 28 a8 08 88 28 a8 08 88
+28 20 a8 a0 28 20 a8 a0 88 08 80 00 88 08 80 00
+00 08 20 28 88 08 80 00 a0 80 20 00 80 88 00 08
+88 08 80 00 a0 80 20 00 88 08 80 00 28 20 a8 a0
+28 a8 08 88 80 88 00 08 80 88 00 08 00 08 20 28
+28 20 a8 a0 28 a8 08 88 00 08 20 28 80 a0 88 a8
+80 88 00 08 a0 80 20 00 80 a0 88 a8 a0 80 20 00
+a0 80 20 00 80 a0 88 a8 28 20 a8 a0 00 08 20 28
+		</part>
+  </rom>
+  <switches default="FF,FC">
+    <dip bits="0,3" ids="1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit" name="Coin A" values="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+    <dip bits="4,7" ids="1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit" name="Coin B" values="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+    <dip bits="8" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="9" ids="On,Off" name="Demo Sounds" values="0,1"/>
+    <dip bits="10,11" ids="Infinite,4,2,3" name="Lives" values="0,1,2,3"/>
+    <dip bits="12,13" ids="None,100k only,50k and 200k,40k, 120k and 480k" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="14" ids="Yes,No" name="Reset Timer/Objects On Life Loss" values="0,1"/>
+    <dip bits="15" ids="Port $10,Port $0D" name="SW 0 Read From" values="0,1"/>
+  </switches>
+</misterromdescription>

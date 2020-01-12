@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Ninja Princess (315-5098, 128k Ver.)</name>
+  <mameversion>0217</mameversion>
+  <setname>seganinj</setname>
+  <mratimestamp>20200107000000</mratimestamp>
+  <year>1985</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Fighter / Asian</category>
+  <rbf>segasys1</rbf>
+  <rom index="1">
+    <part>00</part>
+  </rom>
+  <rom index="0" md5="37c5edb4e8d85cfb494b7f618bcd12b8" type="merged|nonmerged|split" zip="nprinceso.zip|seganinj.zip">
+    <part crc="5f6d59f1" name="epr-6550.116"/>
+    <part crc="1af133b2" name="epr-6551.109"/>
+    <part crc="f2eeb0d8" name="epr-6552.96"/>
+    <part crc="5a1570ee" name="epr-6559.120"/>
+    <part crc="5a1570ee" name="epr-6559.120"/>
+    <part crc="a4785692" name="epr-6546.117"/>
+    <part crc="bdf278c1" name="epr-6548.04"/>
+    <part crc="34451b08" name="epr-6547.110"/>
+    <part crc="d2057668" name="epr-6549.05"/>
+    <part crc="2af9eaeb" name="epr-6558.62"/>
+    <part crc="79fd26f7" name="epr-6556.64"/>
+    <part crc="5ac9d205" name="epr-6554.66"/>
+    <part crc="6eb131d0" name="epr-6557.61"/>
+    <part crc="7f669aac" name="epr-6555.63"/>
+    <part crc="eb82a8fe" name="epr-6553.65"/>
+    <part crc="648350b8" name="pr-5317.76"/>
+    <part>
+08 88 00 80 a0 20 80 00 a8 a0 28 20 88 a8 80 a0 
+88 80 08 00 28 08 a8 88 88 a8 80 a0 28 08 a8 88 
+88 a8 80 a0 a0 20 80 00 a8 a0 28 20 a8 a0 28 20 
+88 80 08 00 88 a8 80 a0 88 a8 80 a0 88 a8 80 a0 
+a0 20 80 00 a0 20 80 00 08 88 00 80 28 08 a8 88 
+88 a8 80 a0 88 80 08 00 88 a8 80 a0 28 08 a8 88 
+88 a8 80 a0 88 a8 80 a0 88 a8 80 a0 88 a8 80 a0 
+88 80 08 00 88 80 08 00 08 88 00 80 28 08 a8 88 
+		</part>
+  </rom>
+  <switches default="FF,DC">
+    <dip bits="0,3" ids="1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit" name="Coin A" values="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+    <dip bits="4,7" ids="1 Coin/1 Credit 2/3,1 Coin/1 Credit 4/5,1 Coin/1 Credit 5/6,2 Coins/1 Credit 4/3,2 Coins/1 Credit 5/3 6/4,2 Coins/3 Credits,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit" name="Coin B" values="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+    <dip bits="8" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="9" ids="On,Off" name="Demo Sounds" values="0,1"/>
+    <dip bits="10,11" ids="240,4,2,3" name="Lives" values="0,1,2,3"/>
+    <dip bits="12" ids="50k 100k 150k 200k,20k 70k 120k 170k" name="Bonus Life" values="0,1"/>
+    <dip bits="13" ids="Yes,No" name="Allow Continue" values="0,1"/>
+    <dip bits="14" ids="Hard,Easy" name="Difficulty" values="0,1"/>
+    <dip bits="15" ids="Port $10,Port $0D" name="SW 0 Read From" values="0,1"/>
+  </switches>
+</misterromdescription>
