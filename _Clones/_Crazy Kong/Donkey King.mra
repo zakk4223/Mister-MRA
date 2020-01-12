@@ -1,0 +1,46 @@
+<misterromdescription>
+	<name>Donkey King</name>
+	<mameversion>0217</mameversion>
+	<setname>dking</setname>
+	<year>1981</year>
+	<manufacturer>bootleg</manufacturer>
+	<rbf>CrazyKong</rbf>
+	<rom index="0" md5="efe92ebe7787a014641bcaf6fb0cec48" zip="ckong.zip" type="merged|nonmerged|split">
+		<part crc="2171cac3" name="falcon7" offset="0" length="2040"/>
+		<part>F8 4E</part>
+		<part crc="2171cac3" name="falcon7" offset="2042" length="2054"/>
+		<part crc="88b83ff7" name="falcon8"/>
+		<part crc="cff2af47" name="falcon9"/>
+		<part crc="520fa4de" name="falcon10" offset="0" length="2883"/>
+		<part>00</part>
+		<part crc="520fa4de" name="falcon10" offset="2884" length="1212"/>
+		<part crc="0a571a0f" name="falcon11" offset="0" length="3832"/>
+		<part>
+06 A5 93 01 85 93 01 8A 93 01 65 93 01 6A 93 04 
+46 93 04 07 93 01 E6 92 01 EB 92 01 C6 92 01 CB 
+92 04 A7 92 06 65 92 02 46 92 02 28 92 06 05 92 
+06 C6 91 02 A8 91 01 87 91 01 8A 91 01 66 91 01 
+6B 91 06 45 91 01 25 91 01 27 91 01 2A 91 01 05 
+91 01 07 91 01 0A 91 01 E5 90 01 EA 90 03 C6 90 
+01 A9 90 03 89 90 01 69 90 03 46 90 06 2E 93 06 
+0E 93 02 F0 92 02 CE 92 02 D2 92 02 AE 92 02 B2 
+92 01 6E 92 01 73 92 06 4E 92 06 2E 92 01 0E 92 
+01 13 92 06 CE 91 06 AE 91 02 8F 91 02 71 91 06 
+4E 91 06 0E 91 06 EE 90 01 CE 90 01 D1 90 01 D3 
+90 02 AE 90 03 B1 90 02 8E 90 02 91 90 00 00 00 
+00 00
+		</part>
+		<part crc="0a571a0f" name="falcon11" offset="4026" length="70"/>
+		<part repeat="45056">00</part>
+		<part crc="a8916dc8" name="falcon6"/>
+		<part crc="cd3b5dde" name="falcon5"/>
+		<part crc="b62a0367" name="falcon4"/>
+		<part crc="61122c5e" name="falcon3"/>
+		<part crc="f67c80f1" name="falcon2"/>
+		<part crc="80eb517" name="falcon1"/>
+		<part crc="f67c80f1" name="falcon2"/>
+		<part crc="80eb517" name="falcon1"/>
+		<part crc="5f0bcdfb" name="falcon13"/>
+		<part crc="9003ffbd" name="falcon12"/>
+	</rom>
+</misterromdescription>
