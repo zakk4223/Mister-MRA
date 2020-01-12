@@ -1,27 +1,35 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <rbf>pacman</rbf>
-  <rom index='1'>
+  <rom index="1">
     <part>05</part>
   </rom>
-  
-  
-  <rom index='0' md5='ead49ba1a32c055432b5df90e05cc489' type='merged|nonmerged|split' zip='mspacmancr.zip|mspacman.zip'>
-    <part crc='c1e6ab10' name='pacman.6e'/>
-    <part crc='1a6fb2d4' name='pacman.6f'/>
-    <part crc='bcdd1beb' name='pacman.6h'/>
-    <part crc='817d94e3' name='pacman.6j'/>
-    <part crc='f45fbbcd' name='u5'/>
-    <part crc='f45fbbcd' name='u5'/>
-    <part crc='a90e7000' name='u6'/>
-    <part crc='bd972c0c' name='3.u7'/>
-    <part crc='bd972c0c' name='3.u7'/>
-    <part crc='c45d4857' name='5.5e'/>
-    <part crc='615af909' name='5f'/>
-    <part crc='615af909' name='5f'/>
-    <part crc='615af909' name='5f'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='3eb3a8e4' name='82s126.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='ff344446' name='mb7051.7f'/>
+  <rom index="0" md5="ead49ba1a32c055432b5df90e05cc489" type="merged|nonmerged|split" zip="mspacmancr.zip|mspacman.zip">
+    <part crc="c1e6ab10" name="pacman.6e"/>
+    <part crc="1a6fb2d4" name="pacman.6f"/>
+    <part crc="bcdd1beb" name="pacman.6h"/>
+    <part crc="817d94e3" name="pacman.6j"/>
+    <part crc="f45fbbcd" name="u5"/>
+    <part crc="f45fbbcd" name="u5"/>
+    <part crc="a90e7000" name="u6"/>
+    <part crc="bd972c0c" name="3.u7"/>
+    <part crc="bd972c0c" name="3.u7"/>
+    <part crc="c45d4857" name="5.5e"/>
+    <part crc="615af909" name="5f"/>
+    <part crc="615af909" name="5f"/>
+    <part crc="615af909" name="5f"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="3eb3a8e4" name="82s126.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="ff344446" name="mb7051.7f"/>
   </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

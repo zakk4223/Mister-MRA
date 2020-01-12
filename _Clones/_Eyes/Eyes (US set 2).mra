@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Eyes (US set 2)</name>
   <mameversion>0216</mameversion>
@@ -5,26 +6,34 @@
   <year>1982</year>
   <manufacturer>Techstar (Rock-Ola license)</manufacturer>
   <category>Maze</category>
-  <rbf>eyes</rbf>
-  
-  
-  
-  <rom index='0' md5='8c7f43d5de254b941613c7293118a329' type='merged|nonmerged|split' zip='eyes2.zip|eyes.zip'>
-    <part crc='2cda7185' name='g38201.7d'/>
-    <part crc='b9fe4f59' name='g38202.7e'/>
-    <part crc='d618ba66' name='g38203.7f'/>
-    <part crc='cf038276' name='g38204.7h'/>
-    <part crc='2cda7185' name='g38201.7d'/>
-    <part crc='b9fe4f59' name='g38202.7e'/>
-    <part crc='d618ba66' name='g38203.7f'/>
-    <part crc='cf038276' name='g38204.7h'/>
-    <part crc='03b1b4c7' name='g38205.5d'/>
-    <part crc='a42b5201' name='g38206.5e'/>
-    <part crc='a42b5201' name='g38206.5e'/>
-    <part crc='a42b5201' name='g38206.5e'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='d8d78829' name='82s129.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.7f'/>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>07</part>
   </rom>
+  <rom index="0" md5="8c7f43d5de254b941613c7293118a329" type="merged|nonmerged|split" zip="eyes2.zip|eyes.zip">
+    <part crc="2cda7185" name="g38201.7d"/>
+    <part crc="b9fe4f59" name="g38202.7e"/>
+    <part crc="d618ba66" name="g38203.7f"/>
+    <part crc="cf038276" name="g38204.7h"/>
+    <part crc="2cda7185" name="g38201.7d"/>
+    <part crc="b9fe4f59" name="g38202.7e"/>
+    <part crc="d618ba66" name="g38203.7f"/>
+    <part crc="cf038276" name="g38204.7h"/>
+    <part crc="03b1b4c7" name="g38205.5d"/>
+    <part crc="a42b5201" name="g38206.5e"/>
+    <part crc="a42b5201" name="g38206.5e"/>
+    <part crc="a42b5201" name="g38206.5e"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="d8d78829" name="82s129.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="FF,FF,FB">
+    <dip bits="16,17" ids="Free Play,2 Coins/1 Credit,1 Coin/2 Credits,1 Coin/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="5,4,3,2" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="125000,100000,75000,50000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Service Mode" values="0,1"/>
+  </switches>
 </misterromdescription>

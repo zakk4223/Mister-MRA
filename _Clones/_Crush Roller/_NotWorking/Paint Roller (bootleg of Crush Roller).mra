@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Paint Roller (bootleg of Crush Roller)</name>
   <mameversion>0216</mameversion>
@@ -5,38 +6,44 @@
   <year>1981</year>
   <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
   <category>Maze</category>
-  <rbf>crushroller</rbf>
-  <rom index='0' md5='afaa19f5b588dfb34706ce71a788e1cc' type='merged|nonmerged|split' zip='crush2.zip|crush.zip'>
-    <part crc='f276592e' name='tp1'/>
-    <part crc='3d302abe' name='tp5a'/>
-    <part crc='25f42e70' name='tp2'/>
-    <part crc='98279cbe' name='tp6'/>
-    <part crc='8377b4cb' name='tp3'/>
-    <part crc='d8e76c8c' name='tp7'/>
-    <part crc='90b28fa3' name='tp4'/>
-    <part crc='10854e1b' name='tp8'/>
-    <part crc='f276592e' name='tp1'/>
-    <part crc='3d302abe' name='tp5a'/>
-    <part crc='25f42e70' name='tp2'/>
-    <part crc='98279cbe' name='tp6'/>
-    <part crc='8377b4cb' name='tp3'/>
-    <part crc='d8e76c8c' name='tp7'/>
-    <part crc='90b28fa3' name='tp4'/>
-    <part crc='10854e1b' name='tp8'/>
-    <part crc='c7617198' name='tpa'/>
-    <part crc='e129d76a' name='tpc'/>
-    <part crc='d1899f05' name='tpb'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='63efb927' name='2s140.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.7f'/>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
   </rom>
-  
-  
-  
+  <rom index="0" md5="afaa19f5b588dfb34706ce71a788e1cc" type="merged|nonmerged|split" zip="paintrlr.zip|crush.zip">
+    <part crc="556d20b5" name="paintrlr.1"/>
+    <part crc="4598a965" name="paintrlr.5"/>
+    <part crc="2da29c81" name="paintrlr.2"/>
+    <part crc="1f561c54" name="paintrlr.6"/>
+    <part crc="e695b785" name="paintrlr.3"/>
+    <part crc="00e6eec0" name="paintrlr.7"/>
+    <part crc="0fd5884b" name="paintrlr.4"/>
+    <part crc="4900114a" name="paintrlr.8"/>
+    <part crc="556d20b5" name="paintrlr.1"/>
+    <part crc="4598a965" name="paintrlr.5"/>
+    <part crc="2da29c81" name="paintrlr.2"/>
+    <part crc="1f561c54" name="paintrlr.6"/>
+    <part crc="e695b785" name="paintrlr.3"/>
+    <part crc="00e6eec0" name="paintrlr.7"/>
+    <part crc="0fd5884b" name="paintrlr.4"/>
+    <part crc="4900114a" name="paintrlr.8"/>
+    <part crc="c7617198" name="tpa"/>
+    <part crc="c15b6967" name="mbrush.5h"/>
+    <part crc="d5bc5cb8" name="mbrush.5f"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="63efb927" name="2s140.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="EF,FF,F1">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="3,4,5,6" name="Lives" values="0,1,2,3"/>
+    <dip bits="21" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="4" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

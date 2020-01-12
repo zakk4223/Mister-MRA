@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Gorkans</name>
   <mameversion>0216</mameversion>
@@ -6,45 +7,45 @@
   <manufacturer>Techstar</manufacturer>
   <category>Maze</category>
   <rbf>pacman</rbf>
-  <switches default="FF,FF,FB">
-    <dip bits="22"    name="Cabinet" ids="Cocktail,Upright"/>
-    <dip bits="16,17" name="Coinage" ids="2c/1cr,1c/1cr,1c/2cr,Free Play" values="1,3,2,0"/>
-    <dip bits="18,19" name="Lives" ids="5,4,3,2"/>
-    <dip bits="20,21" name="Bonus Life after" ids="150K,125K,100K,75K"/>
-  </switches>
-  <rom index='1'>
+  <rom index="1">
     <part>06</part>
   </rom>
-  <rom index='0' md5='1843d4f76413b0e00a0aaf129483af5a' type='merged|nonmerged|split' zip='gorkans.zip|mrtnt.zip'>
-    <part crc='55100b18' name='gorkans8.rom'/>
-    <part crc='b5c604bf' name='gorkans4.rom'/>
-    <part crc='b8c6def4' name='gorkans7.rom'/>
-    <part crc='4602c840' name='gorkans3.rom'/>
-    <part crc='21412a62' name='gorkans6.rom'/>
-    <part crc='a013310b' name='gorkans2.rom'/>
-    <part crc='122969b2' name='gorkans5.rom'/>
-    <part crc='f2524b11' name='gorkans1.rom'/>
-    <part crc='55100b18' name='gorkans8.rom'/>
-    <part crc='b5c604bf' name='gorkans4.rom'/>
-    <part crc='b8c6def4' name='gorkans7.rom'/>
-    <part crc='4602c840' name='gorkans3.rom'/>
-    <part crc='21412a62' name='gorkans6.rom'/>
-    <part crc='a013310b' name='gorkans2.rom'/>
-    <part crc='122969b2' name='gorkans5.rom'/>
-    <part crc='f2524b11' name='gorkans1.rom'/>
-    <part crc='39cd0dbc' name='gorkgfx4.rom'/>
-    <part crc='33d52535' name='gorkgfx2.rom'/>
-    <part crc='4b6b7970' name='gorkgfx3.rom'/>
-    <part crc='ed70bb3c' name='gorkgfx1.rom'/>
-    <part crc='39cd0dbc' name='gorkgfx4.rom'/>
-    <part crc='33d52535' name='gorkgfx2.rom'/>
-    <part crc='4b6b7970' name='gorkgfx3.rom'/>
-    <part crc='ed70bb3c' name='gorkgfx1.rom'/>
-    <part crc='a9cc86bf' name='gorkprom.3'/>
-    <part crc='3eb3a8e4' name='gorkprom.1'/>
-    <part crc='77245b66' name='gorkprom.2'/>
-    <part crc='2fc650bd' name='gorkprom.4'/>
+  <rom index="0" md5="1843d4f76413b0e00a0aaf129483af5a" type="merged|nonmerged|split" zip="gorkans.zip|mrtnt.zip">
+    <part crc="55100b18" name="gorkans8.rom"/>
+    <part crc="b5c604bf" name="gorkans4.rom"/>
+    <part crc="b8c6def4" name="gorkans7.rom"/>
+    <part crc="4602c840" name="gorkans3.rom"/>
+    <part crc="21412a62" name="gorkans6.rom"/>
+    <part crc="a013310b" name="gorkans2.rom"/>
+    <part crc="122969b2" name="gorkans5.rom"/>
+    <part crc="f2524b11" name="gorkans1.rom"/>
+    <part crc="55100b18" name="gorkans8.rom"/>
+    <part crc="b5c604bf" name="gorkans4.rom"/>
+    <part crc="b8c6def4" name="gorkans7.rom"/>
+    <part crc="4602c840" name="gorkans3.rom"/>
+    <part crc="21412a62" name="gorkans6.rom"/>
+    <part crc="a013310b" name="gorkans2.rom"/>
+    <part crc="122969b2" name="gorkans5.rom"/>
+    <part crc="f2524b11" name="gorkans1.rom"/>
+    <part crc="39cd0dbc" name="gorkgfx4.rom"/>
+    <part crc="33d52535" name="gorkgfx2.rom"/>
+    <part crc="4b6b7970" name="gorkgfx3.rom"/>
+    <part crc="ed70bb3c" name="gorkgfx1.rom"/>
+    <part crc="39cd0dbc" name="gorkgfx4.rom"/>
+    <part crc="33d52535" name="gorkgfx2.rom"/>
+    <part crc="4b6b7970" name="gorkgfx3.rom"/>
+    <part crc="ed70bb3c" name="gorkgfx1.rom"/>
+    <part crc="a9cc86bf" name="gorkprom.3"/>
+    <part crc="3eb3a8e4" name="gorkprom.1"/>
+    <part crc="77245b66" name="gorkprom.2"/>
+    <part crc="2fc650bd" name="gorkprom.4"/>
   </rom>
-  
-  
+  <switches default="FF,FF,FB">
+    <dip bits="16,17" ids="Free Play,2 Coins/1 Credit,1 Coin/2 Credits,1 Coin/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="5,4,3,2" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="150000,125000,100000,75000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Service Mode" values="0,1"/>
+  </switches>
 </misterromdescription>

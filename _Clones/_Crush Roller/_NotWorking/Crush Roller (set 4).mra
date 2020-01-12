@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Crush Roller (set 4)</name>
   <mameversion>0216</mameversion>
@@ -5,38 +6,45 @@
   <year>1981</year>
   <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
   <category>Maze</category>
-  <rbf>crushroller</rbf>
-  <rom index='0' md5='559a0e16f4e7e7dafb00319cd8bb1bf6' type='merged|nonmerged|split' zip='crush2.zip|crush.zip'>
-    <part crc='f276592e' name='tp1'/>
-    <part crc='3d302abe' name='tp5a'/>
-    <part crc='25f42e70' name='tp2'/>
-    <part crc='98279cbe' name='tp6'/>
-    <part crc='8377b4cb' name='tp3'/>
-    <part crc='d8e76c8c' name='tp7'/>
-    <part crc='90b28fa3' name='tp4'/>
-    <part crc='10854e1b' name='tp8'/>
-    <part crc='f276592e' name='tp1'/>
-    <part crc='3d302abe' name='tp5a'/>
-    <part crc='25f42e70' name='tp2'/>
-    <part crc='98279cbe' name='tp6'/>
-    <part crc='8377b4cb' name='tp3'/>
-    <part crc='d8e76c8c' name='tp7'/>
-    <part crc='90b28fa3' name='tp4'/>
-    <part crc='10854e1b' name='tp8'/>
-    <part crc='c7617198' name='tpa'/>
-    <part crc='e129d76a' name='tpc'/>
-    <part crc='d1899f05' name='tpb'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='63efb927' name='2s140.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.7f'/>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
   </rom>
-  
-  
-  
+  <rom index="0" md5="559a0e16f4e7e7dafb00319cd8bb1bf6" type="merged|nonmerged|split" zip="crush4.zip|crush.zip">
+    <part crc="49150ddf" name="unkmol.4e"/>
+    <part crc="21f47e17" name="unkmol.6e"/>
+    <part crc="9b6dd592" name="unkmol.4f"/>
+    <part crc="755c1452" name="unkmol.6f"/>
+    <part crc="ed30a312" name="unkmol.4h"/>
+    <part crc="fe4bb0eb" name="unkmol.6h"/>
+    <part crc="072b91c9" name="unkmol.4j"/>
+    <part crc="66fba07d" name="unkmol.6j"/>
+    <part crc="49150ddf" name="unkmol.4e"/>
+    <part crc="21f47e17" name="unkmol.6e"/>
+    <part crc="9b6dd592" name="unkmol.4f"/>
+    <part crc="755c1452" name="unkmol.6f"/>
+    <part crc="ed30a312" name="unkmol.4h"/>
+    <part crc="fe4bb0eb" name="unkmol.6h"/>
+    <part crc="072b91c9" name="unkmol.4j"/>
+    <part crc="66fba07d" name="unkmol.6j"/>
+    <part crc="338880a0" name="unkmol.5e"/>
+    <part crc="4ce9c81f" name="unkmol.5h"/>
+    <part crc="752e3780" name="unkmol.5f"/>
+    <part crc="6e00d2ac" name="unkmol.5j"/>
+    <part crc="6e00d2ac" name="unkmol.5j"/>
+    <part crc="6e00d2ac" name="unkmol.5j"/>
+    <part crc="6e00d2ac" name="unkmol.5j"/>
+    <part crc="6e00d2ac" name="unkmol.5j"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="63efb927" name="2s140.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="EF,FF,F1">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="3,4,5,6" name="Lives" values="0,1,2,3"/>
+    <dip bits="20" ids="Hard,Easy" name="First Pattern" values="0,1"/>
+    <dip bits="21" ids="On,Off" name="Teleport Holes" values="0,1"/>
+    <dip bits="4" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

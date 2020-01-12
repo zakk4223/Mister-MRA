@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Lizard Wizard</name>
   <mameversion>0216</mameversion>
@@ -7,33 +8,33 @@
   <category>Adventure / Fantasy</category>
   <category>Space / Jetman</category>
   <rbf>pacman</rbf>
-  <switches default="FF,FF,BB">
-    <dip bits="16,17" name="Coinage" ids="2c/1cr,1c/1cr,1c/2cr,Free Play" values="1,3,2,0"/>
-    <dip bits="18,19" name="Lives" ids="5,4,3,2"/>
-    <dip bits="20,21" name="Bonus Life after" ids="150K,125K,100K,75K"/>
-    <dip bits="22"    name="Difficulty" ids="Hard,Normal"/>
-  </switches>
   <rom index="1">
     <part>06</part>
   </rom>
-  <rom index='0' md5='17ba9e5b1df00c1652a9c054f1996d3f' type='merged|nonmerged|split' zip='lizwiz.zip'>
-    <part crc='32bc1990' name='6e.cpu'/>
-    <part crc='ef24b414' name='6f.cpu'/>
-    <part crc='30bed83d' name='6h.cpu'/>
-    <part crc='dd09baeb' name='6j.cpu'/>
-    <part crc='f6dea3a6' name='wiza'/>
-    <part crc='f27fb5a8' name='wizb'/>
-    <part crc='f6dea3a6' name='wiza'/>
-    <part crc='f27fb5a8' name='wizb'/>
-    <part crc='45059e73' name='5e.cpu'/>
-    <part crc='d2469717' name='5f.cpu'/>
-    <part crc='45059e73' name='5e.cpu'/>
-    <part crc='d2469717' name='5f.cpu'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='5fdca536' name='4a.cpu'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='7549a947' name='7f.cpu'/>
+  <rom index="0" md5="17ba9e5b1df00c1652a9c054f1996d3f" type="merged|nonmerged|split" zip="lizwiz.zip">
+    <part crc="32bc1990" name="6e.cpu"/>
+    <part crc="ef24b414" name="6f.cpu"/>
+    <part crc="30bed83d" name="6h.cpu"/>
+    <part crc="dd09baeb" name="6j.cpu"/>
+    <part crc="f6dea3a6" name="wiza"/>
+    <part crc="f27fb5a8" name="wizb"/>
+    <part crc="f6dea3a6" name="wiza"/>
+    <part crc="f27fb5a8" name="wizb"/>
+    <part crc="45059e73" name="5e.cpu"/>
+    <part crc="d2469717" name="5f.cpu"/>
+    <part crc="45059e73" name="5e.cpu"/>
+    <part crc="d2469717" name="5f.cpu"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="5fdca536" name="4a.cpu"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="7549a947" name="7f.cpu"/>
   </rom>
-  
-  
+  <switches default="FF,FF,FB">
+    <dip bits="16,17" ids="Free Play,2 Coins/1 Credit,1 Coin/2 Credits,1 Coin/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="5,4,3,2" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="150000,125000,100000,75000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Service Mode" values="0,1"/>
+  </switches>
 </misterromdescription>

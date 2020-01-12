@@ -1,36 +1,47 @@
+<?xml version="1.0"?>
 <misterromdescription>
-  <name>Ali Baba and 40 Thieves</name>
+  <name>Mustafa and 40 Thieves (bootleg)</name>
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
   <year>1982</year>
   <manufacturer>Sega</manufacturer>
   <category>Adventure / Arabian</category>
   <category>Maze</category>
-  <rbf>alibaba</rbf>
-  <rom index='0' md5='b0b327e8595f23c43607d9c4bde6a442' type='merged|nonmerged|split' zip='alibaba.zip'>
-    <part crc='38d701aa' name='6e'/>
-    <part crc='3d0e35f3' name='6f'/>
-    <part crc='823bee89' name='6h'/>
-    <part crc='474d032f' name='6k'/>
-    <part crc='5ab315c1' name='6l'/>
-    <part crc='FIXME' name='ab5.bin'/>
-    <part crc='438d0357' name='6m'/>
-    <part crc='438d0357' name='6m'/>
-    <part crc='438d0357' name='6m'/>
-    <part crc='438d0357' name='6m'/>
-    <part crc='85bcb8f8' name='5e'/>
-    <part crc='38e50862' name='5h'/>
-    <part crc='b5715c86' name='5f'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='3eb3a8e4' name='82s129.a4'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.e7'/>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>0A</part>
   </rom>
+  <rom index="0" md5="54bff6794315b5493ce85c09b86aa234" type="merged|nonmerged|split" zip="alibabab.zip|alibaba.zip">
+    <part crc="38d701aa" name="6e"/>
+    <part crc="3d0e35f3" name="6f"/>
+    <part crc="823bee89" name="6h"/>
+    <part crc="474d032f" name="6k"/>
+    <part crc="ae2f4aac" name="ab5.bin"/>
+    <part crc="ae2f4aac" name="ab5.bin"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="85bcb8f8" name="5e"/>
+    <part crc="38e50862" name="5h"/>
+    <part crc="b5715c86" name="5f"/>
+    <part crc="713086b3" name="5k"/>
+    <part crc="85bcb8f8" name="5e"/>
+    <part crc="38e50862" name="5h"/>
+    <part crc="b5715c86" name="5f"/>
+    <part crc="713086b3" name="5k"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="3eb3a8e4" name="82s129.a4"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.e7"/>
+  </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

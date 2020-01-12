@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Crush Roller (bootleg set 4)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
+  <category>Maze</category>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
+  </rom>
+  <rom index="0" md5="29e599ad85b3c13539afe04ab047d95e" type="merged|nonmerged|split" zip="crushs.zip|crush.zip">
+    <part crc="dd425429" name="11105-0.0j"/>
+    <part crc="f9d89eef" name="11105-1.1j"/>
+    <part crc="40c23a27" name="11105-2.2j"/>
+    <part crc="5802644f" name="11105-3.3j"/>
+    <part crc="dd425429" name="11105-0.0j"/>
+    <part crc="f9d89eef" name="11105-1.1j"/>
+    <part crc="40c23a27" name="11105-2.2j"/>
+    <part crc="5802644f" name="11105-3.3j"/>
+    <part crc="91bad2da" name="11105-4.4j"/>
+    <part crc="b5c14376" name="11105-5.5j"/>
+    <part crc="b5c14376" name="11105-5.5j"/>
+    <part crc="b5c14376" name="11105-5.5j"/>
+    <part repeat="256">00</part>
+    <part crc="63efb927" name="24s10.6b"/>
+    <part repeat="256">00</part>
+    <part crc="ff344446" name="74s288.8a"/>
+  </rom>
+  <switches default="FF,FF,FF,0">
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="24,27" ids="1 Coin/1 Credit,1 Coin/2 Credits,1 Coin/3 Credits,1 Coin/4 Credits,1 Coin/5 Credits,1 Coin/6 Credits,1 Coin/7 Credits,1 Coin/8 Credits,2 Coins/1 Credit,2 Coins/2 Credits,2 Coins/3 Credits,2 Coins/4 Credits,2 Coins/5 Credits,2 Coins/6 Credits,2 Coins/7 Credits,2 Coins/8 Credits" name="Coin A" values="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+    <dip bits="28,31" ids="1 Coin/1 Credit,1 Coin/2 Credits,1 Coin/3 Credits,1 Coin/4 Credits,1 Coin/5 Credits,1 Coin/6 Credits,1 Coin/7 Credits,1 Coin/8 Credits,2 Coins/1 Credit,2 Coins/2 Credits,2 Coins/3 Credits,2 Coins/4 Credits,2 Coins/5 Credits,2 Coins/6 Credits,2 Coins/7 Credits,2 Coins/8 Credits" name="Coin B" values="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+    <dip bits="12" ids="On,Off" name="Teleport Holes" values="0,1"/>
+    <dip bits="15" ids="On,Off" name="Service Mode" values="0,1"/>
+  </switches>
+</misterromdescription>

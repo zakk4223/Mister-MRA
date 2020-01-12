@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Woodpecker (set 2)</name>
   <mameversion>0216</mameversion>
@@ -7,25 +8,34 @@
   <manufacturer>Amenip (Palcom Queen River)</manufacturer>
   <category>Maze / Cat &amp; Mouse</category>
   <category>Platform</category>
-  <rbf>woodpecker</rbf>
-  
-  
-  <rom index='0' md5='79460d79c8d374351130a437507ff59a' type='merged|nonmerged|split' zip='woodpeca.zip|woodpeck.zip'>
-    <part crc='b5ee8bca' name='0'/>
-    <part crc='b5ee8bca' name='0'/>
-    <part crc='b5ee8bca' name='0'/>
-    <part crc='b5ee8bca' name='0'/>
-    <part crc='c5ec2de6' name='1'/>
-    <part crc='07ea534e' name='2'/>
-    <part crc='a3a3253a' name='3'/>
-    <part crc='6c50546b' name='4'/>
-    <part crc='0bf52102' name='10.5f'/>
-    <part crc='0ed8def8' name='11.5h'/>
-    <part crc='0bf52102' name='10.5f'/>
-    <part crc='0ed8def8' name='11.5h'/>
-    <part crc='a9cc86bf' name='pr.1k'/>
-    <part crc='d8772167' name='pr.4a'/>
-    <part crc='77245b66' name='pr.3k'/>
-    <part crc='2fc650bd' name='pr.8h'/>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>08</part>
   </rom>
+  <rom index="0" md5="79460d79c8d374351130a437507ff59a" type="merged|nonmerged|split" zip="woodpeca.zip|woodpeck.zip">
+    <part crc="b5ee8bca" name="0"/>
+    <part crc="b5ee8bca" name="0"/>
+    <part crc="b5ee8bca" name="0"/>
+    <part crc="b5ee8bca" name="0"/>
+    <part crc="c5ec2de6" name="1"/>
+    <part crc="07ea534e" name="2"/>
+    <part crc="a3a3253a" name="3"/>
+    <part crc="6c50546b" name="4"/>
+    <part crc="0bf52102" name="10.5f"/>
+    <part crc="0ed8def8" name="11.5h"/>
+    <part crc="0bf52102" name="10.5f"/>
+    <part crc="0ed8def8" name="11.5h"/>
+    <part crc="a9cc86bf" name="pr.1k"/>
+    <part crc="d8772167" name="pr.4a"/>
+    <part crc="77245b66" name="pr.3k"/>
+    <part crc="2fc650bd" name="pr.8h"/>
+  </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="5000,10000,15000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+  </switches>
 </misterromdescription>

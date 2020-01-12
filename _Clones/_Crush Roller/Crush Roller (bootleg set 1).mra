@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Crush Roller (bootleg set 1)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
+  <category>Maze</category>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
+  </rom>
+  <rom index="0" md5="db77366f899757b39400ea5043d38efe" type="merged|nonmerged|split" zip="crushbl.zip|crush.zip">
+    <part crc="e2e84cd1" name="cr1.bin"/>
+    <part crc="ec020e6f" name="cr2.bin"/>
+    <part crc="d4455f27" name="cr3.bin"/>
+    <part crc="9936ae06" name="cr4.bin"/>
+    <part crc="e2e84cd1" name="cr1.bin"/>
+    <part crc="ec020e6f" name="cr2.bin"/>
+    <part crc="d4455f27" name="cr3.bin"/>
+    <part crc="9936ae06" name="cr4.bin"/>
+    <part crc="91bad2da" name="maketrax.5e"/>
+    <part crc="aea79f55" name="maketrax.5f"/>
+    <part crc="aea79f55" name="maketrax.5f"/>
+    <part crc="aea79f55" name="maketrax.5f"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="63efb927" name="2s140.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="EF,FF,F1">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="3,4,5,6" name="Lives" values="0,1,2,3"/>
+    <dip bits="20" ids="Hard,Easy" name="First Pattern" values="0,1"/>
+    <dip bits="21" ids="On,Off" name="Teleport Holes" values="0,1"/>
+    <dip bits="4" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

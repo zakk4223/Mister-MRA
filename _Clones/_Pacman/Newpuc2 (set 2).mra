@@ -1,50 +1,41 @@
-
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch master
-# Your branch is up to date with 'origin/master'.
-#
-# Changes to be committed:
-#	modified:   Pacman.mra
-#	new file:   _Clones/_Pacman/.Piranha (hack).mra.swp
-#	new file:   _Clones/_Pacman/Buccaneer.mra
-#	new file:   _Clones/_Pacman/Caterpillar Pacman Hack.mra
-#	new file:   _Clones/_Pacman/Come Come (Petaco SA bootleg of Puck Man).mra
-#	new file:   _Clones/_Pacman/Crock-Man (Marti Colls bootleg of Rene Pierre Crock-Man).mra
-#	new file:   _Clones/_Pacman/Crock-Man.mra
-#	new file:   _Clones/_Pacman/Hangly-Man (set 1).mra
-#	new file:   _Clones/_Pacman/Hangly-Man (set 2).mra
-#	new file:   _Clones/_Pacman/Hangly-Man (set 3).mra
-#	new file:   _Clones/_Pacman/Joyman.mra
-#	new file:   _Clones/_Pacman/New Puck-X.mra
-#	new file:   _Clones/_Pacman/Newpuc2 (set 1).mra
-#	new file:   _Clones/_Pacman/Newpuc2 (set 2).mra
-#	new file:   _Clones/_Pacman/Pac Man (FAMARE S.A. bootleg of Puck Man).mra
-#	new file:   _Clones/_Pacman/Pac Man (U.G. bootleg of Puck Man).mra
-#	new file:   _Clones/_Pacman/Pac-Man (Hearts).mra
-#	new file:   _Clones/_Pacman/Pac-Man (JPM bootleg).mra
-#	new file:   _Clones/_Pacman/Pac-Man (Midway harder).mra
-#	new file:   _Clones/_Pacman/Pac-Man (Midway speedup hack).mra
-#	new file:   _Clones/_Pacman/Pac-Man (Midway).mra
-#	new file:   _Clones/_Pacman/Pac-Man (SegaSA - Sonic).mra
-#	new file:   _Clones/_Pacman/Pac-Man (bootleg Video Game SA).mra
-#	new file:   _Clones/_Pacman/Pacu-Man (Spanish bootleg of Puck Man).mra
-#	new file:   _Clones/_Pacman/Piranha (hack).mra
-#	new file:   _Clones/_Pacman/Popeye-Man.mra
-#	new file:   _Clones/_Pacman/Puck Man (Japan set 2).mra
-#	new file:   _Clones/_Pacman/Puck Man (bootleg set 1).mra
-#	new file:   _Clones/_Pacman/Puck Man (bootleg set 2).mra
-#	new file:   _Clones/_Pacman/Puck Man (speedup hack).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Abscam.mra
-#	new file:   _Clones/_Pacman/_NotWorking/Ghost Muncher.mra
-#	new file:   _Clones/_Pacman/_NotWorking/Pac-Man (Galaxian hardware set 1).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Pac-Man (Galaxian hardware set 2).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Pac-Man (Moon Alien 'AL-10A1' hardware).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Pac-Man (Video Dens Spanish bootleg on Galaxian hardware).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Pac-Man (bootleg on World Cup '90 hardware).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Piranha (older).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Piranha.mra
-#	new file:   _Clones/_Pacman/_NotWorking/Puck Man (Spanish 'Made in Greece' bootleg).mra
-#	new file:   _Clones/_Pacman/_NotWorking/Titan (Pac-Man hack).mra
-#
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Newpuc2 (set 2)</name>
+  <mameversion>0216</mameversion>
+  <setname>packmanb</setname>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Maze / Pac-Man</category>
+  <rbf>pacman</rbf>
+  <rom index="0" md5="cc584500e997bce3e05e0801c7309a26" type="merged|nonmerged|split" zip="newpuc2b.zip|puckman.zip">
+    <part crc="9d027c4a" name="np2b1.bin"/>
+    <part crc="158fc01c" name="6k.cpu"/>
+    <part crc="7d177853" name="6f.cpu"/>
+    <part crc="70810ccf" name="6m.cpu"/>
+    <part crc="f5e4b2b1" name="np2b3.bin"/>
+    <part crc="3f250c58" name="6n.cpu"/>
+    <part crc="f068e009" name="np2b4.bin"/>
+    <part crc="1fadcc2f" name="np2b8.bin"/>
+    <part repeat="16384">00</part>
+    <part crc="2066a0b7" name="5e.cpu"/>
+    <part crc="777c70d3" name="5h.cpu"/>
+    <part crc="ca8c184c" name="5f.cpu"/>
+    <part crc="7dc75a81" name="5j.cpu"/>
+    <part repeat="8192">00</part>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="3eb3a8e4" name="82s126.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="23" ids="Alternate,Normal" name="Ghost Names" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

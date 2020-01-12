@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Crush Roller (set 3)</name>
   <mameversion>0216</mameversion>
@@ -5,38 +6,33 @@
   <year>1981</year>
   <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
   <category>Maze</category>
-  <rbf>crushroller</rbf>
-  <rom index='0' md5='721e3ab2df18abaa81538bf747343a59' type='merged|nonmerged|split' zip='crush2.zip|crush.zip'>
-    <part crc='f276592e' name='tp1'/>
-    <part crc='3d302abe' name='tp5a'/>
-    <part crc='25f42e70' name='tp2'/>
-    <part crc='98279cbe' name='tp6'/>
-    <part crc='8377b4cb' name='tp3'/>
-    <part crc='d8e76c8c' name='tp7'/>
-    <part crc='90b28fa3' name='tp4'/>
-    <part crc='10854e1b' name='tp8'/>
-    <part crc='f276592e' name='tp1'/>
-    <part crc='3d302abe' name='tp5a'/>
-    <part crc='25f42e70' name='tp2'/>
-    <part crc='98279cbe' name='tp6'/>
-    <part crc='8377b4cb' name='tp3'/>
-    <part crc='d8e76c8c' name='tp7'/>
-    <part crc='90b28fa3' name='tp4'/>
-    <part crc='10854e1b' name='tp8'/>
-    <part crc='c7617198' name='tpa'/>
-    <part crc='e129d76a' name='tpc'/>
-    <part crc='d1899f05' name='tpb'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='d35d1caf' name='tpd'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='63efb927' name='2s140.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.7f'/>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
   </rom>
-  
-  
-  
+  <rom index="0" md5="721e3ab2df18abaa81538bf747343a59" type="merged|nonmerged|split" zip="crush3.zip|crush.zip">
+    <part crc="50a1a776" name="1.6e"/>
+    <part crc="5b03c1f8" name="2.6f"/>
+    <part crc="ae5b39fb" name="3.6h"/>
+    <part crc="ddf63743" name="4.6j"/>
+    <part crc="50a1a776" name="1.6e"/>
+    <part crc="5b03c1f8" name="2.6f"/>
+    <part crc="ae5b39fb" name="3.6h"/>
+    <part crc="ddf63743" name="4.6j"/>
+    <part crc="b1c86cd7" name="5.5e"/>
+    <part crc="b5c14376" name="6.5f"/>
+    <part crc="b5c14376" name="6.5f"/>
+    <part crc="b5c14376" name="6.5f"/>
+    <part crc="a9cc86bf" name="82s129.1m"/>
+    <part crc="63efb927" name="82s129.4a"/>
+    <part crc="77245b66" name="82s129.3m"/>
+    <part crc="ff344446" name="82s123.7f"/>
+  </rom>
+  <switches default="EF,FF,F1">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="3,4,5,6" name="Lives" values="0,1,2,3"/>
+    <dip bits="20" ids="Hard,Easy" name="First Pattern" values="0,1"/>
+    <dip bits="21" ids="On,Off" name="Teleport Holes" values="0,1"/>
+    <dip bits="4" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

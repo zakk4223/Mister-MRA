@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Magic Brush (bootleg of Crush Roller)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
+  <category>Maze</category>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
+  </rom>
+  <rom index="0" md5="f77e6f9d0c9cde7460c3a605fe9578ae" type="merged|nonmerged|split" zip="mbrush.zip|crush.zip">
+    <part crc="750fbff7" name="mbrush.6e"/>
+    <part crc="27eb4299" name="mbrush.6f"/>
+    <part crc="d297108e" name="mbrush.6h"/>
+    <part crc="6fd719d0" name="mbrush.6j"/>
+    <part crc="750fbff7" name="mbrush.6e"/>
+    <part crc="27eb4299" name="mbrush.6f"/>
+    <part crc="d297108e" name="mbrush.6h"/>
+    <part crc="6fd719d0" name="mbrush.6j"/>
+    <part crc="c7617198" name="tpa"/>
+    <part crc="c15b6967" name="mbrush.5h"/>
+    <part crc="d5bc5cb8" name="mbrush.5f"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="d35d1caf" name="tpd"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="63efb927" name="2s140.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="EF,FF,F9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,4" name="Lives" values="0,1,2,3"/>
+    <dip bits="21" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="4" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

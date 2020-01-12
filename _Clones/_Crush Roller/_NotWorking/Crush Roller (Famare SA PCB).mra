@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Crush Roller (Famare SA PCB)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
+  <category>Maze</category>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
+  </rom>
+  <rom index="0" md5="3eb9e9e0d485031f84cc32ae6b11106b" type="merged|nonmerged|split" zip="crushrlf.zip|crush.zip">
+    <part crc="65e469cf" name="pin1cc_6e.bin"/>
+    <part crc="15f0415b" name="pin5cc_6k.bin"/>
+    <part crc="653f726d" name="pin2cc_6f.bin"/>
+    <part crc="4536ea5b" name="pin6cc_6m.bin"/>
+    <part crc="55e15863" name="pin3cc_6h.bin"/>
+    <part crc="409111ec" name="pin7cc_6n.bin"/>
+    <part crc="4fc4b582" name="pin4cc_6j.bin"/>
+    <part crc="0d97a047" name="pin8cc_6p.bin"/>
+    <part crc="65e469cf" name="pin1cc_6e.bin"/>
+    <part crc="15f0415b" name="pin5cc_6k.bin"/>
+    <part crc="653f726d" name="pin2cc_6f.bin"/>
+    <part crc="4536ea5b" name="pin6cc_6m.bin"/>
+    <part crc="55e15863" name="pin3cc_6h.bin"/>
+    <part crc="409111ec" name="pin7cc_6n.bin"/>
+    <part crc="4fc4b582" name="pin4cc_6j.bin"/>
+    <part crc="0d97a047" name="pin8cc_6p.bin"/>
+    <part crc="b6551507" name="pin9cc_5e.bin"/>
+    <part crc="e129d76a" name="pin11cc_5h.bin"/>
+    <part crc="d106da36" name="pin10cc_5f.bin"/>
+    <part crc="d35d1caf" name="pin12cc_5j.bin"/>
+    <part crc="d35d1caf" name="pin12cc_5j.bin"/>
+    <part crc="d35d1caf" name="pin12cc_5j.bin"/>
+    <part crc="d35d1caf" name="pin12cc_5j.bin"/>
+    <part crc="d35d1caf" name="pin12cc_5j.bin"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="63efb927" name="2s140.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="EF,FF,F1">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="3,4,5,6" name="Lives" values="0,1,2,3"/>
+    <dip bits="20" ids="Hard,Easy" name="First Pattern" values="0,1"/>
+    <dip bits="21" ids="On,Off" name="Teleport Holes" values="0,1"/>
+    <dip bits="4" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

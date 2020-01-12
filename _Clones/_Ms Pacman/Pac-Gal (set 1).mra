@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>05</part>
+  </rom>
+  <rom index="0" md5="eff3da04678a8b665b8a7f3f10cb5f7d" type="merged|nonmerged|split" zip="pacgal.zip|mspacman.zip">
+    <part crc="d16b31b7" name="boot1"/>
+    <part crc="0d32de5e" name="boot2"/>
+    <part crc="513f4d5c" name="pacman.7fh"/>
+    <part crc="70694c8e" name="pacman.7hj"/>
+    <part crc="8c3e6de6" name="boot5"/>
+    <part crc="368cb165" name="boot6"/>
+    <part repeat="8192">00</part>
+    <part crc="5c281d01" name="5e"/>
+    <part crc="65a3ee71" name="pacman.5ef"/>
+    <part crc="50c7477d" name="pacman.5hj"/>
+    <part crc="50c7477d" name="pacman.5hj"/>
+    <part crc="50c7477d" name="pacman.5hj"/>
+    <part crc="50c7477d" name="pacman.5hj"/>
+    <part crc="50c7477d" name="pacman.5hj"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="63efb927" name="82s129.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

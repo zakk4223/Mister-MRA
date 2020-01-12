@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Crush Roller (set 5)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1981</year>
+  <manufacturer>Alpha Denshi Co. / Kural Esco Electric, Ltd.</manufacturer>
+  <category>Maze</category>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>03</part>
+  </rom>
+  <rom index="0" md5="490f3bccc48c1fa61f182aac3515633c" type="merged|nonmerged|split" zip="crush5.zip|crush.zip">
+    <part crc="adbd21f7" length="32768" name="crtwt.2"/>
+    <part crc="4250a9ea" name="crtwt.1"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="2bc5d339" name="82s129.bin"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="EF,FF,F1">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="3,4,5,6" name="Lives" values="0,1,2,3"/>
+    <dip bits="20" ids="Hard,Easy" name="First Pattern" values="0,1"/>
+    <dip bits="21" ids="On,Off" name="Teleport Holes" values="0,1"/>
+    <dip bits="4" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

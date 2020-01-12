@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Pacu-Man (Spanish bootleg of Puck Man)</name>
   <mameversion>0216</mameversion>
@@ -7,24 +8,34 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='fcf0105fecd23896e11b3439d966d307' type='merged|nonmerged|split' zip='puckman.zip'>
-    <part crc='FIXME' name='pacuman01.bin'/>
-    <part crc='FIXME' name='pacuman02.bin'/>
-    <part crc='FIXME' name='pacuman03.bin'/>
-    <part crc='FIXME' name='pacuman04.bin'/>
-    <part crc='FIXME' name='pacuman05.bin'/>
-    <part crc='FIXME' name='pacuman06.bin'/>
-    <part crc='FIXME' name='pacuman07.bin'/>
-    <part crc='FIXME' name='pacuman08.bin'/>
-    <part repeat='16384'>00</part>
-    <part crc='2066a0b7' name='pm1_chg1.5e'/>
-    <part crc='3591b89d' name='pm1_chg2.5h'/>
-    <part crc='9e39323a' name='pm1_chg3.5f'/>
-    <part crc='1b1d9096' name='pm1_chg4.5j'/>
-    <part repeat='8192'>00</part>
-    <part crc='a9cc86bf' name='pm1-3.1m'/>
-    <part crc='3eb3a8e4' name='pm1-4.4a'/>
-    <part crc='77245b66' name='pm1-2.3m'/>
-    <part crc='2fc650bd' name='pm1-1.7f'/>
+  <rom index="0" md5="fcf0105fecd23896e11b3439d966d307" type="merged|nonmerged|split" zip="pacuman.zip|puckman.zip">
+    <part crc="ec8c1ed8" name="pacuman01.bin"/>
+    <part crc="40edaf56" name="pacuman02.bin"/>
+    <part crc="db4f702b" name="pacuman03.bin"/>
+    <part crc="28f7257d" name="pacuman04.bin"/>
+    <part crc="212acb41" name="pacuman05.bin"/>
+    <part crc="e73dd1b9" name="pacuman06.bin"/>
+    <part crc="908a2cb2" name="pacuman07.bin"/>
+    <part crc="cf4ba26c" name="pacuman08.bin"/>
+    <part repeat="16384">00</part>
+    <part crc="2066a0b7" name="pm1chg1.bin"/>
+    <part crc="3591b89d" name="pm1chg2.bin"/>
+    <part crc="9e39323a" name="pm1chg3.bin"/>
+    <part crc="1b1d9096" name="pm1chg4.bin"/>
+    <part repeat="8192">00</part>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="3eb3a8e4" name="82s126.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
   </rom>
+  <switches default="FF,FF,C8">
+    <dip bits="16,17" ids="1C/1C, 1C/2C,1C/2C, 1C/4C,1C/2C, 1C/4C,1C/2C, 1C/5C" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="23" ids="Alternate,Normal" name="Ghost Names" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

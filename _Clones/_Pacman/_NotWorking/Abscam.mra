@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Abscam</name>
   <mameversion>0216</mameversion>
@@ -7,24 +8,33 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='928599c869c28c0f8a4cab9d22cb29c2' type='merged|nonmerged|split' zip='puckman.zip'>
-    <part crc='FIXME' name='as0.bin'/>
-    <part crc='FIXME' name='as4.bin'/>
-    <part crc='FIXME' name='as1.bin'/>
-    <part crc='FIXME' name='as5.bin'/>
-    <part crc='FIXME' name='as2.bin'/>
-    <part crc='FIXME' name='as6.bin'/>
-    <part crc='FIXME' name='as3.bin'/>
-    <part crc='FIXME' name='as7.bin'/>
-    <part repeat='16384'>00</part>
-    <part crc='FIXME' name='as8.bin'/>
-    <part crc='FIXME' name='as10.bin'/>
-    <part crc='FIXME' name='as9.bin'/>
-    <part crc='FIXME' name='as11.bin'/>
-    <part repeat='8192'>00</part>
-    <part crc='a9cc86bf' name='pm1-3.1m'/>
-    <part crc='FIXME' name='as4a.bin'/>
-    <part crc='77245b66' name='pm1-2.3m'/>
-    <part crc='2fc650bd' name='pm1-1.7f'/>
+  <rom index="0" md5="928599c869c28c0f8a4cab9d22cb29c2" type="merged|nonmerged|split" zip="abscam.zip|puckman.zip">
+    <part crc="0b102302" name="as0.bin"/>
+    <part crc="3116a8ec" name="as4.bin"/>
+    <part crc="bc0281e0" name="as1.bin"/>
+    <part crc="428ee2e8" name="as5.bin"/>
+    <part crc="e05d46ad" name="as2.bin"/>
+    <part crc="3ae9a8cb" name="as6.bin"/>
+    <part crc="b39eb940" name="as3.bin"/>
+    <part crc="16cf1c67" name="as7.bin"/>
+    <part repeat="16384">00</part>
+    <part crc="61daabe5" name="as8.bin"/>
+    <part crc="81d50c98" name="as10.bin"/>
+    <part crc="a3bd1613" name="as9.bin"/>
+    <part crc="9d802b68" name="as11.bin"/>
+    <part repeat="8192">00</part>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="1605b324" name="as4a.bin"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
   </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

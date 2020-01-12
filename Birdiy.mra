@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Birdiy</name>
   <mameversion>0216</mameversion>
@@ -8,33 +9,35 @@
   <category>Platform</category>
   <category>Platform / Climbing</category>
   <rbf>pacman</rbf>
-  <switches default="FF,FF,E9">
-    <dip bits="16,17" name="Coinage" ids="2c/1cr,1c/1cr,1c/2cr,Free Play" values="3,1,2,0"/>
-    <dip bits="18,19" name="Lives" ids="1,2,3,4"/>
-  </switches>
-  <rom index='1'>
+  <rom index="1">
     <part>04</part>
   </rom>
-  <rom index='0' md5='8c4a16c4a9aca0e10a83fd3fbcbf89c3' type='merged|nonmerged|split' zip='birdiy.zip'>
-	<part crc='3a58f8ad' name='a6.6a'/>
-	<part crc='fec61ea2' name='c6.6c'/>
-	<part crc='3392783b' name='a4.4a'/>
-	<part crc='2391d83d' name='c4.4c'/>
-	<part crc='3a58f8ad' name='a6.6a'/>
-	<part crc='fec61ea2' name='c6.6c'/>
-	<part crc='3392783b' name='a4.4a'/>
-	<part crc='2391d83d' name='c4.4c'/>
-	<part crc='8f6bf54f' name='c1.1c'/>
-	<part crc='10b55440' name='c3.3c'/>
-	<part crc='8f6bf54f' name='c1.1c'/>
-	<part crc='10b55440' name='c3.3c'/>
-	<part crc='a9cc86bf' name='n82s129n.4k'/>
-	<part crc='63efb927' name='n82s129n.9m'/>
-	<part crc='77245b66' name='n82s129n.6l'/>
-	<part crc='ff344446' name='n82s123n.10n'/>
+  <rom index="0" md5="8c4a16c4a9aca0e10a83fd3fbcbf89c3" type="merged|nonmerged|split" zip="birdiy.zip">
+    <part crc="3a58f8ad" name="a6.6a"/>
+    <part crc="fec61ea2" name="c6.6c"/>
+    <part crc="3392783b" name="a4.4a"/>
+    <part crc="2391d83d" name="c4.4c"/>
+    <part crc="3a58f8ad" name="a6.6a"/>
+    <part crc="fec61ea2" name="c6.6c"/>
+    <part crc="3392783b" name="a4.4a"/>
+    <part crc="2391d83d" name="c4.4c"/>
+    <part crc="8f6bf54f" name="c1.1c"/>
+    <part crc="10b55440" name="c3.3c"/>
+    <part crc="8f6bf54f" name="c1.1c"/>
+    <part crc="10b55440" name="c3.3c"/>
+    <part crc="a9cc86bf" name="n82s129n.4k"/>
+    <part crc="63efb927" name="n82s129n.9m"/>
+    <part crc="77245b66" name="n82s129n.6l"/>
+    <part crc="ff344446" name="n82s123n.10n"/>
   </rom>
-  
-  
-  
-  
+  <switches default="FF,FF,E9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,4" name="Lives" values="0,1,2,3"/>
+    <dip bits="20" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="21" ids="On,Off" name="Skip Screen" values="0,1"/>
+    <dip bits="22" ids="On,Off" name="Unused" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Stop Screen" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+  </switches>
 </misterromdescription>

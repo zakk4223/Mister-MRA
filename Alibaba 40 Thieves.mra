@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Ali Baba and 40 Thieves</name>
   <mameversion>0216</mameversion>
@@ -7,40 +8,40 @@
   <category>Adventure / Arabian</category>
   <category>Maze</category>
   <rbf>pacman</rbf>
-  <switches default="FF,FF,C9">
-    <dip bits="15"    name="Cabinet" ids="Cocktail,Upright"/>
-    <dip bits="16,17" name="Coinage" ids="2c/1cr,1c/1cr,1c/2cr,Free Play" values="3,1,2,0"/>
-    <dip bits="18,19" name="Lives" ids="1,2,3,5"/>
-    <dip bits="20,21" name="Bonus Life After" ids="10000,15000,20000,None"/>
-    <dip bits="22"    name="Difficulty" ids="Hard,Normal"/>
-  </switches>
   <rom index="1">
     <part>0A</part>
   </rom>
-  <rom index='0' md5='cee5eddb1e1bf4a764408b305629bb4e' type='merged|nonmerged|split' zip='alibaba.zip'>
-    <part crc='38d701aa' name='6e'/>
-    <part crc='3d0e35f3' name='6f'/>
-    <part crc='823bee89' name='6h'/>
-    <part crc='474d032f' name='6k'/>
-    <part crc='5ab315c1' name='6l'/>
-    <part crc='5ab315c1' name='6l'/>
-    <part crc='438d0357' name='6m'/>
-    <part crc='438d0357' name='6m'/>
-    <part crc='438d0357' name='6m'/>
-    <part crc='438d0357' name='6m'/>
-    <part name='5e'/>
-    <part crc='38e50862' name='5h'/>
-    <part crc='b5715c86' name='5f'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='713086b3' name='5e'/>
-    <part crc='713086b3' name='5h'/>
-    <part crc='713086b3' name='5f'/>
-    <part crc='713086b3' name='5k'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='3eb3a8e4' name='82s129.a4'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.e7'/>
+  <rom index="0" md5="ac9f54abb0b408a9481235d239888099" type="merged|nonmerged|split" zip="alibaba.zip">
+    <part crc="38d701aa" name="6e"/>
+    <part crc="3d0e35f3" name="6f"/>
+    <part crc="823bee89" name="6h"/>
+    <part crc="474d032f" name="6k"/>
+    <part crc="5ab315c1" name="6l"/>
+    <part crc="5ab315c1" name="6l"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="438d0357" name="6m"/>
+    <part crc="85bcb8f8" name="5e"/>
+    <part crc="38e50862" name="5h"/>
+    <part crc="b5715c86" name="5f"/>
+    <part crc="713086b3" name="5k"/>
+    <part crc="85bcb8f8" name="5e"/>
+    <part crc="38e50862" name="5h"/>
+    <part crc="b5715c86" name="5f"/>
+    <part crc="713086b3" name="5k"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="3eb3a8e4" name="82s129.a4"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.e7"/>
   </rom>
-  
-  
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

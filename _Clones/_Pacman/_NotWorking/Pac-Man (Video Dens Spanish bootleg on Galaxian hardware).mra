@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Pac-Man (Video Dens, Spanish bootleg on Galaxian hardware)</name>
   <mameversion>0216</mameversion>
@@ -7,24 +8,34 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='c127f92a82da58c40e666d65f0c84f0d' type='merged|nonmerged|split' zip='puckman.zip'>
-    <part crc='FIXME' name='pacvideodens-1-2516.bin'/>
-    <part crc='FIXME' name='pacvideodens-2-2516.bin'/>
-    <part crc='FIXME' name='3'/>
-    <part crc='FIXME' name='4'/>
-    <part crc='FIXME' name='pacvideodens-9-2516.bin'/>
-    <part crc='FIXME' name='pacvideodens-10-2516.bin'/>
-    <part crc='FIXME' name='pacvideodens-11-2716.bin'/>
-    <part crc='17a88c13' fixme='maincpu:3800' name='pm1_prg8.6p'/>
-    <part repeat='16384'>00</part>
-    <part crc='FIXME' name='blpac12b'/>
-    <part crc='FIXME' name='blpac11b'/>
-    <part crc='9e39323a' fixme='gfx1:1000' name='pm1_chg3.5f'/>
-    <part crc='1b1d9096' fixme='gfx1:1800' name='pm1_chg4.5j'/>
-    <part repeat='8192'>00</part>
-    <part crc='a9cc86bf' fixme='namco:0' name='pm1-3.1m'/>
-    <part crc='3eb3a8e4' fixme='proms:20' name='pm1-4.4a'/>
-    <part crc='77245b66' fixme='namco:100' name='pm1-2.3m'/>
-    <part crc='FIXME' name='pacvideodens-im5610cpe.6l'/>
+  <rom index="0" md5="8141db7a46a009622b0ba3fed874d6ab" type="merged|nonmerged|split" zip="pacmanblv.zip|puckman.zip">
+    <part crc="590de3f3" name="pacvideodens-1-2516.bin"/>
+    <part crc="3954e41c" name="pacvideodens-2-2516.bin"/>
+    <part crc="f98c0ceb" name="pacvideodens-3-2516.bin"/>
+    <part crc="a9cd0082" name="pacvideodens-4-2516.bin"/>
+    <part crc="42f08538" name="pacvideodens-9-2516.bin"/>
+    <part crc="7aa90d69" name="pacvideodens-10-2516.bin"/>
+    <part crc="2bbed46e" name="pacvideodens-11-2716.bin"/>
+    <part crc="17a88c13" fixme="maincpu:3800" name="pm1_prg8.6p"/>
+    <part repeat="16384">00</part>
+    <part crc="b2ed320b" name="pacvideodens-15-2716.bin"/>
+    <part crc="ab88b2c4" name="pacvideodens-14-2716.bin"/>
+    <part crc="9e39323a" fixme="gfx1:1000" name="pm1_chg3.5f"/>
+    <part crc="1b1d9096" fixme="gfx1:1800" name="pm1_chg4.5j"/>
+    <part repeat="8192">00</part>
+    <part crc="a9cc86bf" fixme="namco:0" name="pm1-3.1m"/>
+    <part crc="3eb3a8e4" fixme="proms:20" name="pm1-4.4a"/>
+    <part crc="77245b66" fixme="namco:100" name="pm1-2.3m"/>
+    <part crc="c3ac9467" name="pacvideodens-im5610cpe.6l"/>
   </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="23" ids="Alternate,Normal" name="Ghost Names" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

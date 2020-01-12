@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Piranha (older)</name>
   <mameversion>0216</mameversion>
@@ -7,24 +8,33 @@
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='e7d830dbc35b4d3c257f90b0a5986b5a' type='merged|nonmerged|split' zip='puckman.zip'>
-    <part crc='FIXME' name='p1.7e'/>
-    <part crc='FIXME' name='p5.6e'/>
-    <part crc='FIXME' name='pir2.7f'/>
-    <part crc='FIXME' name='pir6.6f'/>
-    <part crc='FIXME' name='pir3.7h'/>
-    <part crc='FIXME' name='pir7.6h'/>
-    <part crc='FIXME' name='p4.7j'/>
-    <part crc='FIXME' name='p8.6j'/>
-    <part repeat='16384'>00</part>
-    <part crc='FIXME' name='p9.5e'/>
-    <part crc='FIXME' name='p11.5h'/>
-    <part crc='FIXME' name='p10.5f'/>
-    <part crc='FIXME' name='p12.5j'/>
-    <part repeat='8192'>00</part>
-    <part crc='a9cc86bf' name='pm1-3.1m'/>
-    <part crc='FIXME' name='piranha.4a'/>
-    <part crc='77245b66' name='pm1-2.3m'/>
-    <part crc='2fc650bd' name='pm1-1.7f'/>
+  <rom index="0" md5="e7d830dbc35b4d3c257f90b0a5986b5a" type="merged|nonmerged|split" zip="piranhao.zip|puckman.zip">
+    <part crc="c6ce1bfc" name="p1.7e"/>
+    <part crc="a2655a33" name="p5.6e"/>
+    <part crc="62cb6954" name="pir2.7f"/>
+    <part crc="cb0700bc" name="pir6.6f"/>
+    <part crc="843fbfe5" name="pir3.7h"/>
+    <part crc="73084d5e" name="pir7.6h"/>
+    <part crc="9363a4d1" name="p4.7j"/>
+    <part crc="2769979c" name="p8.6j"/>
+    <part repeat="16384">00</part>
+    <part crc="94eb7563" name="p9.5e"/>
+    <part crc="a3606973" name="p11.5h"/>
+    <part crc="84165a2c" name="p10.5f"/>
+    <part crc="2699ba9e" name="p12.5j"/>
+    <part repeat="8192">00</part>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="08c9447b" name="piranha.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
   </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

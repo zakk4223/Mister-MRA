@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Ghost Muncher</name>
   <mameversion>0216</mameversion>
@@ -6,18 +7,26 @@
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
-  <rbf>pacman</rbf>
-  <rom index='0' md5='88e61f6d42612741982280d6202b5273' type='merged|nonmerged|split' zip='puckman.zip'>
-    <part crc='FIXME' name='pac1.bin'/>
-    <part crc='FIXME' name='pac2.bin'/>
-    <part crc='FIXME' name='pac3.bin'/>
-    <part crc='FIXME' name='pac4.bin'/>
-    <part repeat='16384'>00</part>
-    <part crc='FIXME' name='blpac12b'/>
-    <part crc='FIXME' name='blpac11b'/>
-    <part crc='FIXME' name='blpac10b'/>
-    <part crc='FIXME' name='blpac9b'/>
-    <part repeat='8192'>00</part>
-    <part crc='FIXME' name='ghostmun.clr'/>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="7e9a54f72e41bc832d6c025eb53f12cd" type="merged|nonmerged|split" zip="ghostmun.zip|puckman.zip">
+    <part crc="19338c70" name="pac1.bin"/>
+    <part crc="18db074d" name="pac2.bin"/>
+    <part crc="abb98b1d" name="pac3.bin"/>
+    <part crc="2403c78e" name="pac4.bin"/>
+    <part repeat="16384">00</part>
+    <part crc="b2ed320b" name="blpac12b"/>
+    <part crc="b2ed320b" name="blpac12b"/>
+    <part crc="ab88b2c4" name="blpac11b"/>
+    <part crc="ab88b2c4" name="blpac11b"/>
   </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="23" ids="Alternate,Normal" name="Ghost Names" values="0,1"/>
+    <dip bits="4" ids="On,Off" name="Rack Test (Cheat)" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>
