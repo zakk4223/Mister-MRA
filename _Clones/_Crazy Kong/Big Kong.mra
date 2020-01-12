@@ -1,3 +1,4 @@
+  
 <misterromdescription>
   <name>Big Kong</name>
   <mameversion>0217</mameversion>
@@ -5,32 +6,32 @@
   <year>1981</year>
   <manufacturer>bootleg</manufacturer>
   <rbf>CrazyKong</rbf>
-  <rom index='0' md5='07c84c67183bb6f1feaeefe7f699d8fb' type='merged|nonmerged|split' zip='ckong.zip'>
-    <part crc='FIXME' name='dk01f7_2532.d5'/>
-    <part crc='FIXME' name='dk02f8_2532.f5'/>
-    <part crc='FIXME' name='dk03f9_2532.h5'/>
-    <part crc='FIXME' name='dk04f10_2532.k5'/>
-    <part crc='FIXME' name='dk05f11_2532.l5'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n05-12.bin'/>
-    <part crc='FIXME' name='n11-06.bin'/>
-    <part crc='FIXME' name='l11-05.bin'/>
-    <part crc='FIXME' name='k11-04.bin'/>
-    <part crc='FIXME' name='h11-03.bin'/>
-    <part crc='FIXME' name='c11-02.bin'/>
-    <part crc='FIXME' name='a11-01.bin'/>
-    <part crc='FIXME' name='c11-02.bin'/>
-    <part crc='FIXME' name='a11-01.bin'/>
-    <part crc='5f0bcdfb' name='falcon13'/>
-    <part crc='9003ffbd' name='falcon12'/>
+  <rom index="0" zip="ckong.zip" md5="07c84c67183bb6f1feaeefe7f699d8fb" type="merged">
+    <part crc="4c9102f1" name="bigkong/dk01f7_2532.d5"/>
+    <part crc="1683e9ae" name="bigkong/dk02f8_2532.f5"/>
+    <part crc="073eea32" name="bigkong/dk03f9_2532.h5"/>
+    <part crc="0aab0334" name="bigkong/dk04f10_2532.k5"/>
+    <part crc="45be1c6a" name="bigkong/dk05f11_2532.l5"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="966bc9ab" name="bigkong/n05-12.bin"/>
+    <part crc="2dcedd12" name="bigkong/n11-06.bin"/>
+    <part crc="fa7cbd91" name="bigkong/l11-05.bin"/>
+    <part crc="3375b3bd" name="bigkong/k11-04.bin"/>
+    <part crc="5655cc11" name="bigkong/h11-03.bin"/>
+    <part crc="d1352c31" name="bigkong/c11-02.bin"/>
+    <part crc="a7a2fdbd" name="bigkong/a11-01.bin"/>
+    <part crc="d1352c31" name="bigkong/c11-02.bin"/>
+    <part crc="a7a2fdbd" name="bigkong/a11-01.bin"/>
+    <part crc="5f0bcdfb" name="falcon13"/>
+    <part crc="9003ffbd" name="falcon12"/>
   </rom>
 </misterromdescription>
