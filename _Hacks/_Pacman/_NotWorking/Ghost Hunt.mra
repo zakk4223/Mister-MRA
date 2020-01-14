@@ -1,21 +1,19 @@
 <?xml version='1.0'?>
 <misterromdescription>
-  <name>Vector Pacman (Baby Maze 1)</name>
+  <name>Ghost Hunt</name>
   <mameversion>0216</mameversion>
-  <setname>vecbaby</setname>
+  <setname>ghohunt</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='821323999a03320f28e2ea952f07ef26' type='merged|nonmerged|split' zip='/hbmame/vecbaby.zip|/hbmame/puckman.zip'>
-    <part crc='c1e6ab10' name='pacman.6e'/>
-    <part crc='1a6fb2d4' name='pacman.6f'/>
-    <part crc='bcdd1beb' name='pacman.6h'/>
-    <part crc='4e4ac798' name='pacbaby.6j'/>
+  <rom index='0' md5='5d053fbefcc1dcb95971adf1ce31aa89' type='merged|nonmerged|split' zip='/hbmame/ghohunt.zip|/hbmame/puckman.zip'>
+    <part crc='b9e9965c' name='ghohunt.6e'/>
+    <part crc='9da32395' name='ghohunt.6f'/>
     <part repeat='16384'>00</part>
-    <part crc='936d0475' name='vecpac.5e'/>
-    <part crc='022d0686' name='vecpac.5f'/>
+    <part crc='c69b5669' name='ghohunt.5e'/>
+    <part crc='3ad83b13' name='ghohunt.5f'/>
     <part repeat='8192'>00</part>
     <part crc='a9cc86bf' name='82s126.1m'/>
     <part crc='3eb3a8e4' name='82s126.4a'/>

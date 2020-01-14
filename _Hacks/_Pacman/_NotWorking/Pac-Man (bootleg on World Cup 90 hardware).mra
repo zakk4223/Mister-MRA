@@ -1,33 +1,25 @@
 <?xml version='1.0'?>
 <misterromdescription>
-  <name>Snakes</name>
+  <name>Pac-Man (bootleg on World Cup '90 hardware)</name>
   <mameversion>0216</mameversion>
-  <setname>snakes</setname>
+  <setname>pac90</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='0cdf79ade20425db6a8f4efbea08271b' type='merged|nonmerged|split' zip='/hbmame/snakes.zip|/hbmame/puckman.zip'>
-    <part crc='5cba3718' name='snakes.6e'/>
+  <rom index='0' md5='9b5bf5fcece3e72acb6e62bc0041ff79' type='merged|nonmerged|split' zip='/hbmame/pac90.zip|/hbmame/puckman.zip'>
+    <part crc='8af34306' name='rom1.ic87'/>
     <part repeat='16384'>00</part>
-    <part crc='2066a0b7' name='puckman.5e'/>
-    <part crc='3591b89d' name='puckman.5h'/>
-    <part crc='9e39323a' name='puckman.5f'/>
-    <part crc='1b1d9096' name='puckman.5j'/>
+    <part crc='70941a50' name='char.ic85'/>
     <part repeat='8192'>00</part>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='3eb3a8e4' name='82s126.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
-  <switches default='FF,FF,C9'>
+  <switches default='FF,FF,C9,FF'>
     <dip bits='16,17' ids='Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit' name='Coinage' values='0,1,2,3'/>
     <dip bits='18,19' ids='1,2,3,5' name='Lives' values='0,1,2,3'/>
     <dip bits='20,21' ids='10000,15000,20000,None' name='Bonus Life' values='0,1,2,3'/>
     <dip bits='22' ids='Hard,Normal' name='Difficulty' values='0,1'/>
     <dip bits='23' ids='Alternate,Normal' name='Ghost Names' values='0,1'/>
-    <dip bits='12' ids='On,Off' name='Service Mode' values='0,1'/>
-    <dip bits='15' ids='Cocktail,Upright' name='Cabinet' values='0,1'/>
+    <dip bits='31' ids='Off,On' name='Unused' values='0,1'/>
   </switches>
 </misterromdescription>

@@ -1,24 +1,34 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Vector Pacman Plus</name>
   <mameversion>0216</mameversion>
-  <setname>packmanb</setname>
+  <setname>vectplus</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' mmd5='f63c8b121e75c10036014279103f8421' type='merged|nonmerged|split' zip='/hbmame/pm4000p.zip|/hbmame/puckman.zip'>
+  <rom index='0' md5='f63c8b121e75c10036014279103f8421' type='merged|nonmerged|split' zip='/hbmame/vectplus.zip|/hbmame/puckman.zip'>
     <part crc='d611ef68' name='pacplus.6e'/>
     <part crc='c7207556' name='pacplus.6f'/>
     <part crc='ae379430' name='pacplus.6h'/>
     <part crc='5a6dff7b' name='pacplus.6j'/>
     <part repeat='16384'>00</part>
-    <part crc='FIXME' name='vectplus.5e'/>
-    <part crc='FIXME' name='vectplus.5f'/>
+    <part crc='330abcc6' name='vectplus.5e'/>
+    <part crc='61da12cf' name='vectplus.5f'/>
     <part repeat='8192'>00</part>
     <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='FIXME' name='pacplus.4a'/>
+    <part crc='e271a166' name='pacplus.4a'/>
     <part crc='77245b66' name='82s126.3m'/>
-    <part crc='FIXME' name='pacplus.7f'/>
+    <part crc='063dd53a' name='pacplus.7f'/>
   </rom>
+  <switches default='FF,FF,C9'>
+    <dip bits='16,17' ids='Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit' name='Coinage' values='0,1,2,3'/>
+    <dip bits='18,19' ids='1,2,3,5' name='Lives' values='0,1,2,3'/>
+    <dip bits='20,21' ids='10000,15000,20000,None' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='22' ids='Hard,Normal' name='Difficulty' values='0,1'/>
+    <dip bits='23' ids='Alternate,Normal' name='Ghost Names' values='0,1'/>
+    <dip bits='12' ids='On,Off' name='Service Mode' values='0,1'/>
+    <dip bits='15' ids='Cocktail,Upright' name='Cabinet' values='0,1'/>
+  </switches>
 </misterromdescription>

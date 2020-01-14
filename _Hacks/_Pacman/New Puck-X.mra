@@ -1,17 +1,18 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>New Puck-X [f]</name>
   <mameversion>0216</mameversion>
-  <setname>packmanb</setname>
+  <setname>fastpuck</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='a7cac4ff968209c0e7d7f90d77a863bc' type='merged|nonmerged|split' zip='/hbmame/chtpac.zip|/hbmame/puckman.zip'>
-    <part crc='FIXME' name='newpuck2.6e'/>
-    <part crc='FIXME' name='pacmanf.6f'/>
-    <part crc='FIXME' name='newpuck2.6h'/>
-    <part crc='FIXME' name='fastpuck.6j'/>
+  <rom index='0' md5='a7cac4ff968209c0e7d7f90d77a863bc' type='merged|nonmerged|split' zip='/hbmame/fastpuck.zip|/hbmame/puckman.zip'>
+    <part crc='a8ae23c5' name='newpuck2.6e'/>
+    <part crc='720dc3ee' name='pacmanf.6f'/>
+    <part crc='197443f8' name='newpuck2.6h'/>
+    <part crc='2e64a3ba' name='fastpuck.6j'/>
     <part repeat='16384'>00</part>
     <part crc='0c944964' name='pacman.5e'/>
     <part crc='958fedf9' name='pacman.5f'/>
@@ -21,4 +22,13 @@
     <part crc='77245b66' name='82s126.3m'/>
     <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
+  <switches default='FF,FF,C9'>
+    <dip bits='16,17' ids='Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit' name='Coinage' values='0,1,2,3'/>
+    <dip bits='18,19' ids='1,2,3,5' name='Lives' values='0,1,2,3'/>
+    <dip bits='20,21' ids='10000,15000,20000,None' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='22' ids='Hard,Normal' name='Difficulty' values='0,1'/>
+    <dip bits='23' ids='Alternate,Normal' name='Ghost Names' values='0,1'/>
+    <dip bits='12' ids='On,Off' name='Service Mode' values='0,1'/>
+    <dip bits='15' ids='Cocktail,Upright' name='Cabinet' values='0,1'/>
+  </switches>
 </misterromdescription>

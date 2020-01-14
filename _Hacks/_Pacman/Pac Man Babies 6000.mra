@@ -1,17 +1,18 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Pac Man Babies 6000</name>
   <mameversion>0216</mameversion>
-  <setname>packmanb</setname>
+  <setname>pmba6000</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
   <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='e1d805803c511ca6e8c06982648a455d' type='merged|nonmerged|split' zip='/hbmame/hmba7000.zip|/hbmame/puckman.zip'>
-    <part crc='FIXME' name='pacman.6e'/>
-    <part crc='FIXME' name='pacman.6f'/>
-    <part crc='FIXME' name='pacman.6h'/>
-    <part crc='FIXME' name='pmba6000.6j'/>
+  <rom index='0' md5='e1d805803c511ca6e8c06982648a455d' type='merged|nonmerged|split' zip='/hbmame/pmba6000.zip|/hbmame/puckman.zip'>
+    <part crc='c1e6ab10' name='pacman.6e'/>
+    <part crc='1a6fb2d4' name='pacman.6f'/>
+    <part crc='bcdd1beb' name='pacman.6h'/>
+    <part crc='bdb3d11a' name='pmba6000.6j'/>
     <part repeat='16384'>00</part>
     <part crc='7961ed4e' name='pmba6000.5e'/>
     <part crc='417080fd' name='pmba6000.5f'/>
@@ -21,4 +22,13 @@
     <part crc='77245b66' name='82s126.3m'/>
     <part crc='063dd53a' name='pacplus.7f'/>
   </rom>
+  <switches default='FF,FF,C9'>
+    <dip bits='16,17' ids='Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit' name='Coinage' values='0,1,2,3'/>
+    <dip bits='18,19' ids='1,2,3,5' name='Lives' values='0,1,2,3'/>
+    <dip bits='20,21' ids='10000,15000,20000,None' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='22' ids='Hard,Normal' name='Difficulty' values='0,1'/>
+    <dip bits='23' ids='Alternate,Normal' name='Ghost Names' values='0,1'/>
+    <dip bits='12' ids='On,Off' name='Service Mode' values='0,1'/>
+    <dip bits='15' ids='Cocktail,Upright' name='Cabinet' values='0,1'/>
+  </switches>
 </misterromdescription>

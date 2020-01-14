@@ -1,7 +1,8 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Maze Man</name>
   <mameversion>0216</mameversion>
-  <setname>packmanb</setname>
+  <setname>mazeman</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
@@ -21,4 +22,13 @@
     <part crc='77245b66' name='82s126.3m'/>
     <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
+  <switches default='FF,FF,C9'>
+    <dip bits='16,17' ids='Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit' name='Coinage' values='0,1,2,3'/>
+    <dip bits='18,19' ids='1,2,3,5' name='Lives' values='0,1,2,3'/>
+    <dip bits='20,21' ids='10000,15000,20000,None' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='22' ids='Hard,Normal' name='Difficulty' values='0,1'/>
+    <dip bits='23' ids='Alternate,Normal' name='Ghost Names' values='0,1'/>
+    <dip bits='12' ids='On,Off' name='Service Mode' values='0,1'/>
+    <dip bits='15' ids='Cocktail,Upright' name='Cabinet' values='0,1'/>
+  </switches>
 </misterromdescription>
