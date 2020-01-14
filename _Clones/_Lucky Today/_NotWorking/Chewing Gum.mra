@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Chewing Gum</name>
+  <setname>chewing</setname>
+  <rbf>galaxian</rbf>
+  <rom index="1">
+    <part>11</part>
+  </rom>
+  <rom index="0" md5="f7e5976f5658bccbce549a244a3c9d89" type="merged|nonmerged|split" zip="chewing.zip|luctoday.zip">
+    <part crc="7470b347" name="1.bin"/>
+    <part crc="78ebed36" name="7l.bin"/>
+    <part crc="78ebed36" name="7l.bin"/>
+    <part crc="78ebed36" name="7l.bin"/>
+    <part crc="78ebed36" name="7l.bin"/>
+    <part crc="78ebed36" name="7l.bin"/>
+    <part crc="78ebed36" name="7l.bin"/>
+    <part crc="78ebed36" name="7l.bin"/>
+    <part crc="88c605f3" name="2.bin"/>
+    <part crc="88c605f3" name="2.bin"/>
+    <part crc="77ac016a" name="3.bin"/>
+    <part crc="77ac016a" name="3.bin"/>
+    <part crc="24652bc4" name="74s288.ch"/>
+  </rom>
+  <switches default="FF"/>
+</misterromdescription>

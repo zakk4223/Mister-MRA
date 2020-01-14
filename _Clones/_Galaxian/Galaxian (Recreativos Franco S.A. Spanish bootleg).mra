@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Galaxian (Recreativos Franco S.A. Spanish bootleg)</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  
-  <rom index='0' md5='7e7245fef7b4cd529cc9ccca0f9ceb6d' type='merged|nonmerged|split' zip='galaxrf.zip|galaxian.zip'>
-    <part crc='3d5d9bae' name='princip1.u'/>
-    <part crc='a433067e' name='princip2.v'/>
-    <part crc='aaf038d4' name='princip3.w'/>
-    <part crc='d74bdd2a' name='princip4.y'/>
-    <part crc='7eeb9e63' name='princip5.z'/>
-    <part crc='7eeb9e63' name='princip5.z'/>
-    <part crc='7eeb9e63' name='princip5.z'/>
-    <part crc='7eeb9e63' name='princip5.z'/>
-    <part crc='39fb43a4' name='graphhj.j1'/>
-    <part crc='39fb43a4' name='graphhj.j1'/>
-    <part crc='7e3f56a2' name='graphkl.l1'/>
-    <part crc='7e3f56a2' name='graphkl.l1'/>
+  <rom index="0" md5="88645ba127aad3bf4910303d260b3fe7" type="merged|nonmerged|split" zip="galaxrf.zip|galaxian.zip">
+    <part crc="3d5d9bae" name="princip1.u"/>
+    <part crc="a433067e" name="princip2.v"/>
+    <part crc="aaf038d4" name="princip3.w"/>
+    <part crc="d74bdd2a" name="princip4.y"/>
+    <part crc="7eeb9e63" name="princip5.z"/>
+    <part crc="7eeb9e63" name="princip5.z"/>
+    <part crc="7eeb9e63" name="princip5.z"/>
+    <part crc="7eeb9e63" name="princip5.z"/>
+    <part crc="39fb43a4" name="graphhj.j1"/>
+    <part crc="39fb43a4" name="graphhj.j1"/>
+    <part crc="7e3f56a2" name="graphkl.l1"/>
+    <part crc="7e3f56a2" name="graphkl.l1"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
+  <switches default="9F,3F,F1">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None, Slow,12000, Medium,20000, Fast,30000, Fastest" name="Bonus Life / Enemy Bullet Speed" values="0,1,2,3"/>
+    <dip bits="18" ids="2,3" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Slow,Fast" name="Player Bullet Speed" values="0,1"/>
+  </switches>
 </misterromdescription>

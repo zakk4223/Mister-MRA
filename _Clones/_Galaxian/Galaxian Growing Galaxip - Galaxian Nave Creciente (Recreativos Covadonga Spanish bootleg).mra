@@ -1,3 +1,4 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Galaxian Growing Galaxip / Galaxian Nave Creciente (Recreativos Covadonga Spanish bootleg)</name>
   <mameversion>0216</mameversion>
@@ -6,18 +7,23 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  <rom index='0' md5='b9a109933574a4472dc727f7603cd8aa' type='merged|nonmerged|split' zip='galaxrcgg.zip|galaxian.zip'>
+  <rom index='0' md5='11253246aa055d6b09f93e0c6f25ed1a' type='merged|nonmerged|split' zip='galaxrcgg.zip|galaxian.zip'>
     <part crc='c06eeb10' name='7f.bin'/>
     <part crc='182ff334' name='7j.bin'/>
     <part crc='420dbbf6' name='7l.bin'/>
     <part crc='420dbbf6' name='7l.bin'/>
-    <part crc='420dbbf6' name='7l.bin'/>
-    <part crc='420dbbf6' name='7l.bin'/>
     <part crc='23e627ff' name='1hj.bin'/>
     <part crc='23e627ff' name='1hj.bin'/>
     <part crc='0dbcee5b' name='1kl.bin'/>
     <part crc='0dbcee5b' name='1kl.bin'/>
+    <part crc='992350e5' name='gxrf.6l'/>
   </rom>
-  
+  <switches default='9F,3F,F1'>
+    <dip bits='5' ids='Upright,Cocktail' name='Cabinet' values='0,1'/>
+    <dip bits='6' ids='Off,On' name='Service Mode' values='0,1'/>
+    <dip bits='14,15' ids='1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play' name='Coinage' values='0,1,2,3'/>
+    <dip bits='16,17' ids='None, Slow,12000, Medium,20000, Fast,30000, Fastest' name='Bonus Life / Enemy Bullet Speed' values='0,1,2,3'/>
+    <dip bits='18' ids='2,3' name='Lives' values='0,1'/>
+    <dip bits='19' ids='Slow,Fast' name='Player Bullet Speed' values='0,1'/>
+  </switches>
 </misterromdescription>

@@ -1,3 +1,4 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Moon Cresta (Galaxian hardware)</name>
   <mameversion>0216</mameversion>
@@ -6,8 +7,11 @@
   <year>1980</year>
   <manufacturer>bootleg</manufacturer>
   <category>Space / Shooter</category>
-  <rbf>mooncresta</rbf>
-  <rom index='0' md5='e5c031ea5ceed5764d54aeb43890a796' type='merged|nonmerged|split' zip='mooncrgx.zip|mooncrst.zip'>
+  <rbf>galaxian</rbf>
+  <rom index='1'>
+    <part>01</part>
+  </rom>
+  <rom index='0' md5='abd1d6477749713797d44d6425642e58' type='merged|nonmerged|split' zip='mooncrgx.zip|mooncrst.zip'>
     <part crc='84cf420b' name='1'/>
     <part crc='4c2a61a1' name='2'/>
     <part crc='1962523a' name='3'/>
@@ -20,7 +24,13 @@
     <part crc='5a4b17ea' name='12.chr'/>
     <part crc='70df525c' name='9.chr'/>
     <part crc='e0edccbd' name='11.chr'/>
+    <part crc='6a0c7d87' name='l06_prom.bin'/>
   </rom>
-  
-  
+  <switches default='FF,FF,F3'>
+    <dip bits='14' ids='2 Coins/1 Credit,1 Coin/1 Credit' name='Coin A' values='0,1'/>
+    <dip bits='15' ids='1 Coin/5 Credits,1 Coin/3 Credits' name='Coin B' values='0,1'/>
+    <dip bits='16' ids='50000,30000' name='Bonus Life' values='0,1'/>
+    <dip bits='18' ids='Off,On' name='Unused' values='0,1'/>
+    <dip bits='19' ids='Upright,Cocktail' name='Cabinet' values='0,1'/>
+  </switches>
 </misterromdescription>

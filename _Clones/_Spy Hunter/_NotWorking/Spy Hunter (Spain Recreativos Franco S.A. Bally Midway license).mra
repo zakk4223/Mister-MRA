@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Spy Hunter (Spain, Recreativos Franco S.A., Bally Midway license)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201901010000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<category>Action</category>
+	<rbf>Spyhunter</rbf>
+	<rom index='0' md5='83494589c7ec76729e0d776d999e3a70' type='merged|nonmerged|split' zip='spyhuntsp.zip|spyhunt.zip'>
+		<part crc='ae05b8a2' name='1.bin'/>
+		<part crc='909d044f' fixme='maincpu:2000' name='spy-hunter_cpu_pg1_2-9-84.7d'/>
+		<part crc='c96f5d69' name='2.bin'/>
+		<part crc='5e744381' fixme='maincpu:6000' name='spy-hunter_cpu_pg3_2-9-84.9d'/>
+		<part crc='bd6c1a5c' name='3.bin'/>
+		<part crc='3ea6a65c' name='4.bin'/>
+		<part crc='c95cf31e' fixme='ssio:cpu:0' name='spy-hunter_snd_0_sd_11-18-83.a7'/>
+		<part crc='12aaa48e' fixme='ssio:cpu:1000' name='spy-hunter_snd_1_sd_11-18-83.a8'/>
+		<part crc='0d9ddce6' fixme='csd:cpu:1' name='spy-hunter_cs_deluxe_u17_b_11-18-83.u17'/>
+		<part crc='63d3f5b1' fixme='csd:cpu:4001' name='spy-hunter_cs_deluxe_u18_d_11-18-83.u18'/>
+		<part crc='6e689fe7' fixme='csd:cpu:0' name='spy-hunter_cs_deluxe_u7_a_11-18-83.u7'/>
+		<part crc='35563cd0' fixme='csd:cpu:4000' name='spy-hunter_cs_deluxe_u8_c_11-18-83.u8'/>
+		<part crc='6f9fd416' name='10.bin'/>
+		<part crc='75526ffe' name='11.bin'/>
+		<part crc='82ee7a4d' name='12.bin'/>
+		<part crc='0cc592a3' name='13.bin'/>		
+		<part crc='2d9fbcec' fixme='gfx2:10000' name='spy-hunter_video_5fg_11-18-83.a3'/>
+		<part crc='7ca4941b' fixme='gfx2:14000' name='spy-hunter_video_4fg_11-18-83.a4'/>
+		<part crc='940fe17e' fixme='gfx2:18000' name='spy-hunter_video_7fg_11-18-83.a1'/>
+		<part crc='8cb8a066' fixme='gfx2:1c000' name='spy-hunter_video_6fg_11-18-83.a2'/>		
+		<part crc='6b76f46a' name='6.bin'/>
+		<part crc='8f64525f' fixme='gfx1:2000' name='spy-hunter_cpu_bg1_11-18-83.4a'/>
+		<part crc='e699b329' name='8.bin'/>
+		<part crc='7b482d61' fixme='gfx1:6000' name='spy-hunter_cpu_bg3_11-18-83.6a'/>
+		<part crc='87a4c130' name='14.bin'/>
+	</rom>
+</misterromdescription>

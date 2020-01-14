@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Zero Time (Petaco S.A.)</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  <rom index='0' md5='59c2710750f2a55613725a19314295b8' type='merged|nonmerged|split' zip='zerotime.zip|galaxian.zip'>
-    <part crc='90a2bc61' name='zt-p01c.016'/>
-    <part crc='a433067e' name='zt-2.016'/>
-    <part crc='aaf038d4' name='zt-3.016'/>
-    <part crc='786d690a' name='zt-4.016'/>
-    <part crc='af9260d7' name='zt-5.016'/>
-    <part crc='af9260d7' name='zt-5.016'/>
-    <part crc='af9260d7' name='zt-5.016'/>
-    <part crc='af9260d7' name='zt-5.016'/>
-    <part crc='1b13ca05' name='ztc-2.016'/>
-    <part crc='1b13ca05' name='ztc-2.016'/>
-    <part crc='5cd7df03' name='ztc-1.016'/>
-    <part crc='5cd7df03' name='ztc-1.016'/>
+  <rom index="0" md5="96d55a444bfaec609173d5ddc1138c48" type="merged|nonmerged|split" zip="zerotime.zip|galaxian.zip">
+    <part crc="90a2bc61" name="zt-p01c.016"/>
+    <part crc="a433067e" name="zt-2.016"/>
+    <part crc="aaf038d4" name="zt-3.016"/>
+    <part crc="786d690a" name="zt-4.016"/>
+    <part crc="af9260d7" name="zt-5.016"/>
+    <part crc="af9260d7" name="zt-5.016"/>
+    <part crc="af9260d7" name="zt-5.016"/>
+    <part crc="af9260d7" name="zt-5.016"/>
+    <part crc="1b13ca05" name="ztc-2.016"/>
+    <part crc="1b13ca05" name="ztc-2.016"/>
+    <part crc="5cd7df03" name="ztc-1.016"/>
+    <part crc="5cd7df03" name="ztc-1.016"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
-  
+  <switches default="9F,7F,F3">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="A 1C/2C 2C/4C  B 1C/4C,A 1C/1C 2C/2C  B 1C/2C,A 1C/2C 2C/5C  B 1C/5C,A 1C/1C 2C/3C  B 1C/3C" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None,9000,7000,6000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="3,5" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Easy,Hard" name="Difficulty" values="0,1"/>
+  </switches>
 </misterromdescription>

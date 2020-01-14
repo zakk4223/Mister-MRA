@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Galaxian Part 4 (hack)</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  <rom index='0' md5='11518a4b45eb39724521141e61cbc0b4' type='merged|nonmerged|split' zip='galap4.zip|galaxian.zip'>
-    <part crc='acfde501' name='galnamco.u'/>
-    <part crc='65cf3c77' name='galnamco.v'/>
-    <part crc='9eef9ae6' name='galnamco.w'/>
-    <part crc='56a5ddd1' name='galnamco.y'/>
-    <part crc='f4bc7262' name='galnamco.z'/>
-    <part crc='f4bc7262' name='galnamco.z'/>
-    <part crc='f4bc7262' name='galnamco.z'/>
-    <part crc='f4bc7262' name='galnamco.z'/>
-    <part crc='d5e88ab4' name='galx_4c1.rom'/>
-    <part crc='d5e88ab4' name='galx_4c1.rom'/>
-    <part crc='a57b83e4' name='galx_4c2.rom'/>
-    <part crc='a57b83e4' name='galx_4c2.rom'/>
+  <rom index="0" md5="0a9433d824fbc13f803a0da71d9931dc" type="merged|nonmerged|split" zip="galap4.zip|galaxian.zip">
+    <part crc="acfde501" name="galnamco.u"/>
+    <part crc="65cf3c77" name="galnamco.v"/>
+    <part crc="9eef9ae6" name="galnamco.w"/>
+    <part crc="56a5ddd1" name="galnamco.y"/>
+    <part crc="f4bc7262" name="galnamco.z"/>
+    <part crc="f4bc7262" name="galnamco.z"/>
+    <part crc="f4bc7262" name="galnamco.z"/>
+    <part crc="f4bc7262" name="galnamco.z"/>
+    <part crc="d5e88ab4" name="galx_4c1.rom"/>
+    <part crc="d5e88ab4" name="galx_4c1.rom"/>
+    <part crc="a57b83e4" name="galx_4c2.rom"/>
+    <part crc="a57b83e4" name="galx_4c2.rom"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
-  
+  <switches default="9F,3F,F1">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None,4000,5000,7000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="3,5" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>

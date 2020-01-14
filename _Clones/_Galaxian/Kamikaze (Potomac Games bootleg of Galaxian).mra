@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Kamikaze (Potomac Games, bootleg of Galaxian)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="b91a713884d9a2d9574f2caf77be8739" type="merged|nonmerged|split" zip="kamikazp.zip|galaxian.zip">
+    <part crc="4a29bbe4" name="kk1pmc.bin"/>
+    <part crc="65c57131" name="kk2pmc.bin"/>
+    <part crc="24cf6da0" name="kk3pmc.bin"/>
+    <part crc="5e5ebca8" name="kk4pmc.bin"/>
+    <part crc="6d325b14" name="kk5pmc.bin"/>
+    <part crc="6d325b14" name="kk5pmc.bin"/>
+    <part crc="6d325b14" name="kk5pmc.bin"/>
+    <part crc="6d325b14" name="kk5pmc.bin"/>
+    <part crc="96b268b1" name="kk8pmc.bin"/>
+    <part crc="96b268b1" name="kk8pmc.bin"/>
+    <part crc="58673a07" name="kk7pmc.bin"/>
+    <part crc="58673a07" name="kk7pmc.bin"/>
+    <part crc="6a0c7d87" name="prom.6l"/>
+  </rom>
+  <switches default="9F,BF,F8">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="None,4000,5000,7000 (buggy FREE PLAY message)" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="16,19" ids="1 Coin/2 Credits,2 Coins/3 Credits,4 Coins/1 Credit,6C / 3C,2 Coins/1 Credit,4 Coins/3 Credits,1C / 1C (duplicate 1),6C / 2C,1 Coin/1 Credit,3 Coins/2 Credits,1C / 1C (duplicate 2),7C / 3C,3 Coins/1 Credit,4 Coins/2 Credits,1C / 1C (duplicate 3),Free Play" name="Coinage" values="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+  </switches>
+</misterromdescription>

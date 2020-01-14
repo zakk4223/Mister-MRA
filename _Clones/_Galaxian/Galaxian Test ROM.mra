@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Galaxian Test ROM</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  
-  <rom index='0' md5='64cc73569d09f5f79ad91d2ed6c4ee82' type='merged|nonmerged|split' zip='tst_galx.zip|galaxian.zip'>
-    <part crc='0614cd7f' name='test.u'/>
-    <part crc='9c999a40' name='galmidw.v'/>
-    <part crc='b5894925' name='galmidw.w'/>
-    <part crc='6b3ca10b' name='galmidw.y'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='39fb43a4' name='1h.bin'/>
-    <part crc='39fb43a4' name='1h.bin'/>
-    <part crc='7e3f56a2' name='1k.bin'/>
-    <part crc='7e3f56a2' name='1k.bin'/>
+  <rom index="0" md5="79c9ff47ef56b96113821907819d82f1" type="merged|nonmerged|split" zip="tst_galx.zip|galaxian.zip">
+    <part crc="0614cd7f" name="test.u"/>
+    <part crc="9c999a40" name="galmidw.v"/>
+    <part crc="b5894925" name="galmidw.w"/>
+    <part crc="6b3ca10b" name="galmidw.y"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="39fb43a4" name="1h.bin"/>
+    <part crc="39fb43a4" name="1h.bin"/>
+    <part crc="7e3f56a2" name="1k.bin"/>
+    <part crc="7e3f56a2" name="1k.bin"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
+  <switches default="9F,3F,F4">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="7000,10000,12000,20000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="2,3" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>

@@ -1,15 +1,27 @@
+<?xml version="1.0"?>
 <misterromdescription>
-  <rbf>Pisces</rbf>
-  
-  
-  <rom index='0' md5='ad3a9b0d5bd280217be0ae96d25463e6' type='merged|nonmerged|split' zip='omni.zip|pisces.zip'>
-    <part crc='a9b7acc6' name='omni1.7f'/>
-    <part crc='6ade29b7' name='omni2.7j'/>
-    <part crc='9e37bb24' name='omni3.7f'/>
-    <part crc='9e37bb24' name='omni3.7f'/>
-    <part crc='9503a23a' name='omni5b.l1'/>
-    <part crc='0adfc3fe' name='omni6c.j22'/>
-    <part crc='3e61f849' name='omni4a.j1'/>
-    <part crc='7130e9eb' name='omni7d.l2'/>
+  <rbf>galaxian</rbf>
+  <setname>omni</setname>
+  <rom index="1">
+    <part>0B</part>
   </rom>
+  <rom index="0" md5="3a91dc233425c9c4c640d60b36e4be01" type="merged|nonmerged|split" zip="omni.zip|pisces.zip">
+    <part crc="a9b7acc6" name="omni1.7f"/>
+    <part crc="6ade29b7" name="omni2.7j"/>
+    <part crc="9e37bb24" name="omni3.7f"/>
+    <part crc="9e37bb24" name="omni3.7f"/>
+    <part crc="9503a23a" name="omni5b.l1"/>
+    <part crc="0adfc3fe" name="omni6c.j22"/>
+    <part crc="3e61f849" name="omni4a.j1"/>
+    <part crc="7130e9eb" name="omni7d.l2"/>
+    <part crc="57a45057" name="colour.bin"/>
+  </rom>
+  <switches default="FF,3F,F0">
+    <dip bits="14" ids="3,4" name="Lives" values="0,1"/>
+    <dip bits="15" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="16" ids="10000,20000" name="Bonus Life" values="0,1"/>
+    <dip bits="17" ids="A 1C/1C  B 1C/5C,A 2C/1C  B 1C/2C 2C/5C" name="Coinage" values="0,1"/>
+    <dip bits="18" ids="Easy,Hard" name="Difficulty" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>

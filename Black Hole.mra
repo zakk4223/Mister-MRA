@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Black Hole</name>
   <mameversion>0216</mameversion>
@@ -5,21 +6,29 @@
   <year>1981</year>
   <manufacturer>TDS &amp; MINTS</manufacturer>
   <category>Space / Shooter</category>
-  <rbf>blackhole</rbf>
-  <rom index='0' md5='d976f7cbbed53dd8f6d8c3b014c8a404' type='merged|nonmerged|split' zip='blkhole.zip'>
-    <part crc='64998819' name='bh1'/>
-    <part crc='26f26ce4' name='bh2'/>
-    <part crc='3418bc45' name='bh3'/>
-    <part crc='735ff481' name='bh4'/>
-    <part crc='3f657be9' name='bh5'/>
-    <part crc='a057ab35' name='bh6'/>
-    <part crc='a057ab35' name='bh6'/>
-    <part crc='a057ab35' name='bh6'/>
-    <part crc='975ba821' name='bh7'/>
-    <part crc='975ba821' name='bh7'/>
-    <part crc='03d11020' name='bh8'/>
-    <part crc='03d11020' name='bh8'/>
+  <rbf>galaxian</rbf>
+  <rom index="1">
+    <part>03</part>
   </rom>
-  
-  
+  <rom index="0" md5="c4a5705706f6ff4fbf6e921b26ce78e4" type="merged|nonmerged|split" zip="blkhole.zip">
+    <part crc="64998819" name="bh1"/>
+    <part crc="26f26ce4" name="bh2"/>
+    <part crc="3418bc45" name="bh3"/>
+    <part crc="735ff481" name="bh4"/>
+    <part crc="3f657be9" name="bh5"/>
+    <part crc="a057ab35" name="bh6"/>
+    <part crc="a057ab35" name="bh6"/>
+    <part crc="a057ab35" name="bh6"/>
+    <part crc="975ba821" name="bh7"/>
+    <part crc="975ba821" name="bh7"/>
+    <part crc="03d11020" name="bh8"/>
+    <part crc="03d11020" name="bh8"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
+  </rom>
+  <switches default="FF,3F,F6">
+    <dip bits="14,15" ids="1 Coin/1 Credit,1 Coin/2 Credits,1 Coin/3 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16" ids="5000,10000" name="Bonus Life" values="0,1"/>
+    <dip bits="17" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>

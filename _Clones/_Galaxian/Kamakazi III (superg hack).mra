@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Kamakazi III (superg hack)</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  <rom index='0' md5='04a457f3f0617760f7f622ae1efc890a' type='merged|nonmerged|split' zip='kamakazi3.zip|galaxian.zip'>
-    <part crc='e8f3aa67' name='f_r_a.bin'/>
-    <part crc='f58283e3' name='f_a.bin'/>
-    <part crc='ddeabdae' name='f_b.bin'/>
-    <part crc='c8530a88' name='f_r_c.bin'/>
-    <part crc='da2d77e0' name='f_r_d.bin'/>
-    <part crc='da2d77e0' name='f_r_d.bin'/>
-    <part crc='da2d77e0' name='f_r_d.bin'/>
-    <part crc='da2d77e0' name='f_r_d.bin'/>
-    <part crc='977e37cf' name='r_b.bin'/>
-    <part crc='977e37cf' name='r_b.bin'/>
-    <part crc='d0ba22c9' name='r_a.bin'/>
-    <part crc='d0ba22c9' name='r_a.bin'/>
+  <rom index="0" md5="81834f35751e8e1f8daab61f0b969409" type="merged|nonmerged|split" zip="kamakazi3.zip|galaxian.zip">
+    <part crc="e8f3aa67" name="f_r_a.bin"/>
+    <part crc="f58283e3" name="f_a.bin"/>
+    <part crc="ddeabdae" name="f_b.bin"/>
+    <part crc="c8530a88" name="f_r_c.bin"/>
+    <part crc="da2d77e0" name="f_r_d.bin"/>
+    <part crc="da2d77e0" name="f_r_d.bin"/>
+    <part crc="da2d77e0" name="f_r_d.bin"/>
+    <part crc="da2d77e0" name="f_r_d.bin"/>
+    <part crc="977e37cf" name="r_b.bin"/>
+    <part crc="977e37cf" name="r_b.bin"/>
+    <part crc="d0ba22c9" name="r_a.bin"/>
+    <part crc="d0ba22c9" name="r_a.bin"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
-  
+  <switches default="9F,3F,F1">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None,4000,5000,7000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="3,5" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>

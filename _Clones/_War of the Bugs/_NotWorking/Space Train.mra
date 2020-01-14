@@ -1,25 +1,33 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Space Train</name>
   <mameversion>0216</mameversion>
-  <setname>warofbug</setname>
+  <setname>spactrai</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1981</year>
   <manufacturer>Armenia / Food and Fun Corp</manufacturer>
   <category>Maze / Bugs</category>
   <category>Maze / Centipede</category>
-  <rbf>warofthebugs</rbf>
-  
-  <rom index='0' md5='31c8739737b7801f08fcdcec1bd85b8c' type='merged|nonmerged|split' zip='spactrai.zip|warofbug.zip'>
-    <part crc='fabc7fd8' name='1cen.bin'/>
-    <part crc='44ddacfa' name='2cen.bin'/>
-    <part crc='822749cb' name='3cen.bin'/>
-    <part crc='822749cb' name='3cen.bin'/>
-    <part crc='822749cb' name='3cen.bin'/>
-    <part crc='822749cb' name='3cen.bin'/>
-    <part crc='a59a9f3f' name='6cen.bin'/>
-    <part crc='a59a9f3f' name='6cen.bin'/>
-    <part crc='9b75b40a' name='7cen.bin'/>
-    <part crc='9b75b40a' name='7cen.bin'/>
+  <rbf>galaxian</rbf>
+  <rom index="1">
+    <part>0E</part>
   </rom>
-  
+  <rom index="0" md5="53559be776cb405a6f0854edbf69d3af" type="merged|nonmerged|split" zip="spactrai.zip|warofbug.zip">
+    <part crc="fabc7fd8" name="1cen.bin"/>
+    <part crc="44ddacfa" name="2cen.bin"/>
+    <part crc="822749cb" name="3cen.bin"/>
+    <part crc="822749cb" name="3cen.bin"/>
+    <part crc="822749cb" name="3cen.bin"/>
+    <part crc="822749cb" name="3cen.bin"/>
+    <part crc="a59a9f3f" name="6cen.bin"/>
+    <part crc="a59a9f3f" name="6cen.bin"/>
+    <part crc="9b75b40a" name="7cen.bin"/>
+    <part crc="9b75b40a" name="7cen.bin"/>
+    <part crc="6a0c7d87" name="stk.bin"/>
+  </rom>
+  <switches default="FF,3F,FE">
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,2C / 1C (duplicate,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="1,2,3,4" name="Lives" values="0,1,2,3"/>
+    <dip bits="19" ids="On,Off" name="Unknown" values="0,1"/>
+  </switches>
 </misterromdescription>

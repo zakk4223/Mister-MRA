@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Orbitron</name>
   <mameversion>0216</mameversion>
@@ -5,21 +6,29 @@
   <year>1982</year>
   <manufacturer>Comsoft (Signatron USA license)</manufacturer>
   <category>Space / Shooter</category>
-  <rbf>orbitron</rbf>
-  <rom index='0' md5='a7fe12b562282dd7fda795107c39decc' type='merged|nonmerged|split' zip='orbitron.zip'>
-    <part crc='419f9c9b' name='orbitron.3'/>
-    <part crc='44ad56ac' name='orbitron.4'/>
-    <part crc='da3f5168' name='orbitron.1'/>
-    <part crc='a3b813fc' name='orbitron.2'/>
-    <part crc='20cd8bb8' name='orbitron.5'/>
-    <part crc='20cd8bb8' name='orbitron.5'/>
-    <part crc='20cd8bb8' name='orbitron.5'/>
-    <part crc='20cd8bb8' name='orbitron.5'/>
-    <part crc='2c91b83f' name='orbitron.6'/>
-    <part crc='2c91b83f' name='orbitron.6'/>
-    <part crc='46f4cca4' name='orbitron.7'/>
-    <part crc='46f4cca4' name='orbitron.7'/>
+  <rbf>galaxian</rbf>
+  <rom index="1">
+    <part>0A</part>
   </rom>
-  
-  
+  <rom index="0" md5="e2d3472c93bde5948f2ec6609e5d4ce4" type="merged|nonmerged|split" zip="orbitron.zip">
+    <part crc="419f9c9b" name="orbitron.3"/>
+    <part crc="44ad56ac" name="orbitron.4"/>
+    <part crc="da3f5168" name="orbitron.1"/>
+    <part crc="a3b813fc" name="orbitron.2"/>
+    <part crc="20cd8bb8" name="orbitron.5"/>
+    <part crc="20cd8bb8" name="orbitron.5"/>
+    <part crc="20cd8bb8" name="orbitron.5"/>
+    <part crc="20cd8bb8" name="orbitron.5"/>
+    <part crc="2c91b83f" name="orbitron.6"/>
+    <part crc="2c91b83f" name="orbitron.6"/>
+    <part crc="46f4cca4" name="orbitron.7"/>
+    <part crc="46f4cca4" name="orbitron.7"/>
+    <part crc="6a0c7d87" name="l06_prom.bin"/>
+  </rom>
+  <switches default="FF,DF,F1">
+    <dip bits="13,14" ids="A 2C/1C  B 1C/3C,A 2C/1C  B 1C/3C (duplicate),A 1C/1C  B 1C/6C,A 1C/1C  B 1C/6C (duplicate)" name="Coinage" values="0,1,2,3"/>
+    <dip bits="17" ids="Off,On" name="Unused" values="0,1"/>
+    <dip bits="18" ids="3,2" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Galaxian (Namco set 2)</name>
   <mameversion>0216</mameversion>
@@ -6,18 +7,25 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  
-  <rom index='0' md5='22226c3a7d3cddc25521f0be754efc66' type='merged|nonmerged|split' zip='galaxiana.zip|galaxian.zip'>
-    <part crc='4335b1de' name='7f.bin'/>
-    <part crc='4e6f66a1' name='7j.bin'/>
-    <part crc='5341d75a' name='7l.bin'/>
-    <part crc='5341d75a' name='7l.bin'/>
-    <part crc='5341d75a' name='7l.bin'/>
-    <part crc='5341d75a' name='7l.bin'/>
-    <part crc='39fb43a4' name='1h.bin'/>
-    <part crc='39fb43a4' name='1h.bin'/>
-    <part crc='7e3f56a2' name='1k.bin'/>
-    <part crc='7e3f56a2' name='1k.bin'/>
+  <rom index="0" md5="bd20fdaf9a66c4de1145dd83301477e3" type="merged|nonmerged|split" zip="galaxiana.zip|galaxian.zip">
+    <part crc="4335b1de" name="7f.bin"/>
+    <part crc="4e6f66a1" name="7j.bin"/>
+    <part crc="5341d75a" name="7l.bin"/>
+    <part crc="5341d75a" name="7l.bin"/>
+    <part crc="5341d75a" name="7l.bin"/>
+    <part crc="5341d75a" name="7l.bin"/>
+    <part crc="39fb43a4" name="1h.bin"/>
+    <part crc="39fb43a4" name="1h.bin"/>
+    <part crc="7e3f56a2" name="1k.bin"/>
+    <part crc="7e3f56a2" name="1k.bin"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
+  <switches default="9F,3F,F1">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None,4000,5000,7000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="3,5" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>

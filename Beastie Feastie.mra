@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Beastie Feastie (Pac-Man conversion)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <category>Platform</category>
+  <setname>beastfp</setname>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>0F</part>
+  </rom>
+  <rom index="0" md5="3169e442c32c3d743e0e30f4288e91e5" type="merged|nonmerged|split" zip="beastfp.zip|suprglob.zip">
+    <part crc="3afc517b" name="bf-u2.bin"/>
+    <part crc="8dbd76d0" name="bf-u3.bin"/>
+    <part crc="3afc517b" name="bf-u2.bin"/>
+    <part crc="8dbd76d0" name="bf-u3.bin"/>
+    <part crc="5654dc34" name="beastf.5e"/>
+    <part crc="1b30ca61" name="beastf.5f"/>
+    <part crc="5654dc34" name="beastf.5e"/>
+    <part crc="1b30ca61" name="beastf.5f"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="28faa769" name="4_a_the_glob.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="1f617527" name="7_f_the_glob.7f"/>
+  </rom>
+  <switches default="FF,FF,DF">
+    <dip bits="16,17" ids="6,5,4,3" name="Lives" values="0,1,2,3"/>
+    <dip bits="18,20" ids="Hardest,Very Hard,Very Difficult,Difficult,Normal,Easy,Very Easy,Easiest" name="Difficulty" values="0,1,2,3,4,5,6,7"/>
+    <dip bits="21" ids="On,Off" name="Demo Sounds" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

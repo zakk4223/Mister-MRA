@@ -1,27 +1,37 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>War of the Bugs or Monsterous Manouvers in a Mushroom Maze (US)</name>
   <mameversion>0216</mameversion>
-  <setname>warofbug</setname>
+  <setname>warofbugu</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1981</year>
   <manufacturer>Armenia / Food and Fun Corp</manufacturer>
   <category>Maze / Bugs</category>
   <category>Maze / Centipede</category>
-  <rbf>warofthebugs</rbf>
-  
-  
-  <rom index='0' md5='f42c673a1ca66b3acabaf7014e8c6123' type='merged|nonmerged|split' zip='warofbugu.zip|warofbug.zip'>
-    <part crc='b8dfb7e3' name='wb-prog-1.7d'/>
-    <part crc='fd8854e0' name='wb-prog-2.7e'/>
-    <part crc='4495aa14' name='wb-prog-3.7j'/>
-    <part crc='e4bd257c' name='wb-prog-4.7n'/>
-    <part crc='71257bb4' name='wb-prog-5.7p'/>
-    <part crc='71257bb4' name='wb-prog-5.7p'/>
-    <part crc='71257bb4' name='wb-prog-5.7p'/>
-    <part crc='71257bb4' name='wb-prog-5.7p'/>
-    <part crc='8100fa85' name='warofbug.1k'/>
-    <part crc='8100fa85' name='warofbug.1k'/>
-    <part crc='d1220ae9' name='warofbug.1j'/>
-    <part crc='d1220ae9' name='warofbug.1j'/>
+  <rbf>galaxian</rbf>
+  <rom index="1">
+    <part>0E</part>
   </rom>
+  <rom index="0" md5="031dd84ebd0ac35c65f52a17d245eb1c" type="merged|nonmerged|split" zip="warofbugu.zip|warofbug.zip">
+    <part crc="b8dfb7e3" name="wb-prog-1.7d"/>
+    <part crc="fd8854e0" name="wb-prog-2.7e"/>
+    <part crc="4495aa14" name="wb-prog-3.7j"/>
+    <part crc="e4bd257c" name="wb-prog-4.7n"/>
+    <part crc="71257bb4" name="wb-prog-5.7p"/>
+    <part crc="71257bb4" name="wb-prog-5.7p"/>
+    <part crc="71257bb4" name="wb-prog-5.7p"/>
+    <part crc="71257bb4" name="wb-prog-5.7p"/>
+    <part crc="8100fa85" name="warofbug.1k"/>
+    <part crc="8100fa85" name="warofbug.1k"/>
+    <part crc="d1220ae9" name="warofbug.1j"/>
+    <part crc="d1220ae9" name="warofbug.1j"/>
+    <part crc="8688e64b" name="warofbug.clr"/>
+  </rom>
+  <switches default="DF,3F,FA">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,Free Play" name="Coinage" values="0,1,3"/>
+    <dip bits="16,17" ids="1,2,3,4" name="Lives" values="0,1,2,3"/>
+    <dip bits="18" ids="Off,On" name="Unused" values="0,1"/>
+    <dip bits="19" ids="750000,500000" name="Bonus Life" values="0,1"/>
+  </switches>
 </misterromdescription>

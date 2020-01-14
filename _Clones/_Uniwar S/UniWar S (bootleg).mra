@@ -1,14 +1,16 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>UniWar S (bootleg)</name>
   <mameversion>0216</mameversion>
-  <setname>uniwars</setname>
+  <setname>uniwarsa</setname>
   <mratimestamp>201911270000</mratimestamp>
   <year>1980</year>
   <manufacturer>Irem</manufacturer>
   <category>Space / Galaxian</category>
-  <rbf>uniwars</rbf>
-  
-  
+  <rbf>galaxian</rbf>
+  <rom index='1'>
+    <part>0C</part>
+  </rom>
   <rom index='0' md5='18b184643b9a5e74b28d089ad5c1da65' type='merged|nonmerged|split' zip='uniwarsa.zip|uniwars.zip'>
     <part crc='d975af10' name='u1'/>
     <part crc='b2ed14c3' name='u2'/>
@@ -24,4 +26,12 @@
     <part crc='dcc2b33b' name='u11'/>
     <part crc='6a0c7d87' name='kareteco.clr'/>
   </rom>
+  <switches default='9F,3F,F1'>
+    <dip bits='5' ids='Upright,Cocktail' name='Cabinet' values='0,1'/>
+    <dip bits='6' ids='Off,On' name='Service Mode' values='0,1'/>
+    <dip bits='14,15' ids='1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play' name='Coinage' values='0,1,2,3'/>
+    <dip bits='16,17' ids='None,4000,5000,7000' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='18' ids='3,5' name='Lives' values='0,1'/>
+    <dip bits='19' ids='Off,On' name='Unused' values='0,1'/>
+  </switches>
 </misterromdescription>

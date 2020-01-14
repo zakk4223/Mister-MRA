@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Galaxian Growing Galaxip / Galaxian Nave Creciente (Recreativos Franco S.A. Spanish bootleg)</name>
   <mameversion>0216</mameversion>
@@ -6,18 +7,25 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  <rom index='0' md5='3ed705135b1045d7c4db4c119ccb0207' type='merged|nonmerged|split' zip='galaxrfgg.zip|galaxian.zip'>
-    <part crc='c06eeb10' name='gxrf.7f'/>
-    <part crc='182ff334' name='gxrf.7j'/>
-    <part crc='ee827e75' name='gxrf.7l'/>
-    <part crc='ee827e75' name='gxrf.7l'/>
-    <part crc='ee827e75' name='gxrf.7l'/>
-    <part crc='ee827e75' name='gxrf.7l'/>
-    <part crc='23e627ff' name='gxrf.1jh'/>
-    <part crc='23e627ff' name='gxrf.1jh'/>
-    <part crc='0dbcee5b' name='gxrf.1lk'/>
-    <part crc='0dbcee5b' name='gxrf.1lk'/>
+  <rom index="0" md5="6d7f53264fe3a1e088b37df24d115101" type="merged|nonmerged|split" zip="galaxrfgg.zip|galaxian.zip">
+    <part crc="c06eeb10" name="gxrf.7f"/>
+    <part crc="182ff334" name="gxrf.7j"/>
+    <part crc="ee827e75" name="gxrf.7l"/>
+    <part crc="ee827e75" name="gxrf.7l"/>
+    <part crc="ee827e75" name="gxrf.7l"/>
+    <part crc="ee827e75" name="gxrf.7l"/>
+    <part crc="23e627ff" name="gxrf.1jh"/>
+    <part crc="23e627ff" name="gxrf.1jh"/>
+    <part crc="0dbcee5b" name="gxrf.1lk"/>
+    <part crc="0dbcee5b" name="gxrf.1lk"/>
+    <part crc="992350e5" name="gxrf.6l"/>
   </rom>
-  
+  <switches default="9F,3F,F1">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None, Slow,12000, Medium,20000, Fast,30000, Fastest" name="Bonus Life / Enemy Bullet Speed" values="0,1,2,3"/>
+    <dip bits="18" ids="2,3" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Slow,Fast" name="Player Bullet Speed" values="0,1"/>
+  </switches>
 </misterromdescription>

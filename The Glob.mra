@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>The Glob (Pac-Man hardware)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <category>Platform</category>
+  <setname>theglobp</setname>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>0F</part>
+  </rom>
+  <rom index="0" md5="d41d8cd98f00b204e9800998ecf8427e" type="merged|nonmerged|split" zip="theglobp.zip|suprglob.zip">
+    <part crc="829d0bea" name="u_2_the_glob_pg02284_eagle.u2"/>
+    <part crc="31de6628" name="u_3_the_glob_pg02284_eagle.u3"/>
+    <part crc="829d0bea" name="u_2_the_glob_pg02284_eagle.u2"/>
+    <part crc="31de6628" name="u_3_the_glob_pg02284_eagle.u3"/>
+    <part crc="53688260" name="5_e_the_glob_pg02284_eagle.5e"/>
+    <part crc="051f59c7" name="5_f_the_glob_pg02284_eagle.5f"/>
+    <part crc="53688260" name="5_e_the_glob_pg02284_eagle.5e"/>
+    <part crc="051f59c7" name="5_f_the_glob_pg02284_eagle.5f"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="28faa769" name="4_a_the_glob.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="1f617527" name="7_f_the_glob.7f"/>
+  </rom>
+  <switches default="FF,FF,DF">
+    <dip bits="16,17" ids="6,5,4,3" name="Lives" values="0,1,2,3"/>
+    <dip bits="18,20" ids="Hardest,Very Hard,Very Difficult,Difficult,Normal,Easy,Very Easy,Easiest" name="Difficulty" values="0,1,2,3,4,5,6,7"/>
+    <dip bits="21" ids="On,Off" name="Demo Sounds" values="0,1"/>
+    <dip bits="23" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
+</misterromdescription>

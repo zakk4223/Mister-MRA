@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Swarm (bootleg?)</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  <rom index='0' md5='bfba3850b13f247e4733fc1b139e7c44' type='merged|nonmerged|split' zip='swarm.zip|galaxian.zip'>
-    <part crc='21eba3d0' name='swarm1.bin'/>
-    <part crc='f3a436cd' name='swarm2.bin'/>
-    <part crc='2915e38b' name='swarm3.bin'/>
-    <part crc='8bbbf486' name='swarm4.bin'/>
-    <part crc='f1b1987e' name='swarm5.bin'/>
-    <part crc='f1b1987e' name='swarm5.bin'/>
-    <part crc='f1b1987e' name='swarm5.bin'/>
-    <part crc='f1b1987e' name='swarm5.bin'/>
-    <part crc='ef8657bb' name='swarma.bin'/>
-    <part crc='ef8657bb' name='swarma.bin'/>
-    <part crc='60c4bd31' name='swarmb.bin'/>
-    <part crc='60c4bd31' name='swarmb.bin'/>
+  <rom index="0" md5="ced9aaae89d05145389c75009b3ce075" type="merged|nonmerged|split" zip="swarm.zip|galaxian.zip">
+    <part crc="21eba3d0" name="swarm1.bin"/>
+    <part crc="f3a436cd" name="swarm2.bin"/>
+    <part crc="2915e38b" name="swarm3.bin"/>
+    <part crc="8bbbf486" name="swarm4.bin"/>
+    <part crc="f1b1987e" name="swarm5.bin"/>
+    <part crc="f1b1987e" name="swarm5.bin"/>
+    <part crc="f1b1987e" name="swarm5.bin"/>
+    <part crc="f1b1987e" name="swarm5.bin"/>
+    <part crc="ef8657bb" name="swarma.bin"/>
+    <part crc="ef8657bb" name="swarma.bin"/>
+    <part crc="60c4bd31" name="swarmb.bin"/>
+    <part crc="60c4bd31" name="swarmb.bin"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
-  
+  <switches default="9F,3F,F0">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None,10000,20000,40000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="3,4" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Easy,Hard" name="Difficulty" values="0,1"/>
+  </switches>
 </misterromdescription>

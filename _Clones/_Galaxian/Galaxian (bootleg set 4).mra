@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Galaxian (bootleg, set 4)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1979</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Space / Galaxian</category>
+  <rbf>galaxian</rbf>
+  <rom index="0" md5="f11bd5f92e2bb5274ec09ac287bc50d4" type="merged|nonmerged|split" zip="galaxianbl2.zip|galaxian.zip">
+    <part crc="d09b9f1a" name="h7.7h"/>
+    <part crc="f58283e3" name="j7.7j"/>
+    <part crc="4c7031c0" name="k7.7k"/>
+    <part crc="9471cdd3" name="l7.7l"/>
+    <part crc="5766c95b" name="m7.7m"/>
+    <part crc="5766c95b" name="m7.7m"/>
+    <part crc="5766c95b" name="m7.7m"/>
+    <part crc="5766c95b" name="m7.7m"/>
+    <part crc="977e37cf" name="kl1.1kl"/>
+    <part crc="977e37cf" name="kl1.1kl"/>
+    <part crc="d0ba22c9" name="hj1.1hj"/>
+    <part crc="d0ba22c9" name="hj1.1hj"/>
+    <part crc="c3ac9467" name="6331-1j.6l"/>
+  </rom>
+  <switches default="9F,3F,F4">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None,10000,20000,30000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="2,3" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
+</misterromdescription>

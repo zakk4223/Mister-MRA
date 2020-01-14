@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Moon Alien</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  
-  <rom index='0' md5='bca9c4acce8260d39eaa1a54c8ca0b54' type='merged|nonmerged|split' zip='moonaln.zip|galaxian.zip'>
-    <part crc='79e4007d' name='galx.u'/>
-    <part crc='59580b30' name='prg2.bin'/>
-    <part crc='b64e9d12' name='prg3.bin'/>
-    <part crc='9463f753' name='superg.y'/>
-    <part crc='8bb78987' name='prg5.bin'/>
-    <part crc='8bb78987' name='prg5.bin'/>
-    <part crc='8bb78987' name='prg5.bin'/>
-    <part crc='8bb78987' name='prg5.bin'/>
-    <part crc='074271dd' name='ca1.bin'/>
-    <part crc='074271dd' name='ca1.bin'/>
-    <part crc='84d90397' name='ca2.bin'/>
-    <part crc='84d90397' name='ca2.bin'/>
+  <rom index="0" md5="14991e47a4c3202e1570bded8d4957be" type="merged|nonmerged|split" zip="moonaln.zip|galaxian.zip">
+    <part crc="79e4007d" name="galx.u"/>
+    <part crc="59580b30" name="prg2.bin"/>
+    <part crc="b64e9d12" name="prg3.bin"/>
+    <part crc="9463f753" name="superg.y"/>
+    <part crc="8bb78987" name="prg5.bin"/>
+    <part crc="8bb78987" name="prg5.bin"/>
+    <part crc="8bb78987" name="prg5.bin"/>
+    <part crc="8bb78987" name="prg5.bin"/>
+    <part crc="074271dd" name="ca1.bin"/>
+    <part crc="074271dd" name="ca1.bin"/>
+    <part crc="84d90397" name="ca2.bin"/>
+    <part crc="84d90397" name="ca2.bin"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
-  
+  <switches default="9F,3F,F1">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="None,4000,5000,7000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="3,5" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>

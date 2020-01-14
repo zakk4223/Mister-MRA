@@ -1,17 +1,26 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Devil Fish</name>
   <mameversion>0216</mameversion>
   <mratimestamp>201911270000</mratimestamp>
-  <rbf>devilfish</rbf>
-  
-  <rom index='0' md5='3af9bea33dc72c07afb13e17e588289d' type='merged|nonmerged|split' zip='devilfsh.zip'>
-    <part crc='FIXME' name='dfish1.7f' zip='devilfsg.zip'/>
-    <part crc='FIXME' name='dfish2.7h' zip='devilfsg.zip'/>
-    <part crc='FIXME' name='dfish3.7k' zip='devilfsg.zip'/>
-    <part crc='FIXME' name='dfish4.7m' zip='devilfsg.zip'/>
-    <part crc='FIXME' name='dfish5.1h' zip='devilfsg.zip'/>
-    <part crc='FIXME' name='dfish6.1k' zip='devilfsg.zip'/>
-    <part crc='4e3caeab' name='c01s.6e'/>
+  <rbf>galaxian</rbf>
+  <rom index="1">
+    <part>06</part>
   </rom>
-  
+  <rom index="0" md5="3af9bea33dc72c07afb13e17e588289d" type="merged|nonmerged|split" zip="devilfsg.zip|devilfsh.zip">
+    <part crc="2ab19698" name="dfish1.7f"/>
+    <part crc="4e77f097" name="dfish2.7h"/>
+    <part crc="3f16a4c6" name="dfish3.7k"/>
+    <part crc="11fc7e59" name="dfish4.7m"/>
+    <part crc="ace6e31f" name="dfish5.1h"/>
+    <part crc="d7a6c4c4" name="dfish6.1k"/>
+    <part crc="4e3caeab" name="c01s.6e"/>
+  </rom>
+  <switches default="FF,FF,F2">
+    <dip bits="14" ids="2 Coins/1 Credit,1 Coin/1 Credit" name="Coin A" values="0,1"/>
+    <dip bits="15" ids="1 Coin/5 Credits,1 Coin/3 Credits" name="Coin B" values="0,1"/>
+    <dip bits="16" ids="10000,15000" name="Bonus Life" values="0,1"/>
+    <dip bits="18" ids="4,5" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Galaxian (Namco set 1)</name>
   <mameversion>0216</mameversion>
@@ -6,20 +7,27 @@
   <manufacturer>Namco</manufacturer>
   <category>Space / Galaxian</category>
   <rbf>galaxian</rbf>
-  <rom index='0' md5='d871350748c1cde3f45b8f33a3da7759' type='merged|nonmerged|split' zip='galaxian.zip'>
-    <part crc='745e2d61' name='galmidw.u'/>
-    <part crc='9c999a40' name='galmidw.v'/>
-    <part crc='b5894925' name='galmidw.w'/>
-    <part crc='6b3ca10b' name='galmidw.y'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='1b933207' name='7l'/>
-    <part crc='39fb43a4' name='1h.bin'/>
-    <part crc='39fb43a4' name='1h.bin'/>
-    <part crc='7e3f56a2' name='1k.bin'/>
-    <part crc='7e3f56a2' name='1k.bin'/>
+  <rom index="0" md5="434c546b09dbb7559e7fde9354c27d19" type="merged|nonmerged|split" zip="galaxian.zip">
+    <part crc="745e2d61" name="galmidw.u"/>
+    <part crc="9c999a40" name="galmidw.v"/>
+    <part crc="b5894925" name="galmidw.w"/>
+    <part crc="6b3ca10b" name="galmidw.y"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="1b933207" name="7l"/>
+    <part crc="39fb43a4" name="1h.bin"/>
+    <part crc="39fb43a4" name="1h.bin"/>
+    <part crc="7e3f56a2" name="1k.bin"/>
+    <part crc="7e3f56a2" name="1k.bin"/>
+    <part crc="c3ac9467" name="6l.bpr"/>
   </rom>
-  
-  
+  <switches default="9F,3F,F4">
+    <dip bits="5" ids="Upright,Cocktail" name="Cabinet" values="0,1"/>
+    <dip bits="6" ids="Off,On" name="Service Mode" values="0,1"/>
+    <dip bits="14,15" ids="1 Coin/1 Credit,2 Coins/1 Credit,1 Coin/2 Credits,Free Play" name="Coinage" values="0,1,2,3"/>
+    <dip bits="16,17" ids="7000,10000,12000,20000" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="18" ids="2,3" name="Lives" values="0,1"/>
+    <dip bits="19" ids="Off,On" name="Unused" values="0,1"/>
+  </switches>
 </misterromdescription>
