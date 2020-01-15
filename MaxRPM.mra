@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<misterromdescription>
+  <name>Sarge</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201912310000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Bally Midway</manufacturer>
+  <category>Action</category>
+  <rbf>MCR3Mono</rbf>
+  <rom index='1'>
+    <part>3</part>
+  </rom>
+  <rom amd5='7300967c61a0f1b887c12f3989e500bb' index='0' type='merged|nonmerged|split' zip='maxrpm.zip'>
+    <part crc='3f9ec35f' name='pro.0'/>
+    <part crc='f628bb30' name='pro.1'/>
+    <part crc='1d1435c1' name='fg-0'/>
+    <part crc='e54b7f2a' name='fg-1'/>
+    <part crc='38be8505' name='fg-2'/>
+    <part crc='9ae3eb52' name='fg-3'/>
+    <part crc='e3fb693a' name='bg-0'/>
+    <part crc='50d1db6c' name='bg-1'/>
+    <part crc='55c3b759' name='turbskwk.u5'/>
+    <part crc='31a2da2e' name='turbskwk.u4'/>
+  </rom>
+  <switches default='FF'>
+    <dip bits='3' ids='On,Off' name='Free Play' values='0,1'/>
+    <dip bits='4,5' ids='1 Coin/2 Credits,2 Coins/1 Credit,1 Coin/1 Credit' name='Coinage' values='1,2,3'/>
+  </switches>
+</misterromdescription>

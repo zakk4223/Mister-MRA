@@ -1,12 +1,9 @@
+<?xml version='1.0'?>
 <misterromdescription>
-  <name>Pac-Gal (Hearts)</name>
-  <mameversion>0216</mameversion>
-  <setname>puckmanb</setname>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>bootleg</manufacturer>
-  <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
+  <rom index='1'>
+    <part>05</part>
+  </rom>
   <rom index='0' md5='81f9fe8df4860893bd0e5378e86b94ac' type='merged|nonmerged|split' zip='/hbmame/pacgalu.zip|/hbmame/mspacman.zip'>
     <part crc='23a0bd03' name='pacgalu.bin'/>
     <part crc='d6e3a240' name='pacgalu.gfx'/>
@@ -16,4 +13,12 @@
     <part crc='77245b66' name='82s126.3m'/>
     <part crc='2fc650bd' name='82s123.7f'/>
   </rom>
+  <switches default='FF,FF,C9'>
+    <dip bits='16,17' ids='Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit' name='Coinage' values='0,1,2,3'/>
+    <dip bits='18,19' ids='1,2,3,5' name='Lives' values='0,1,2,3'/>
+    <dip bits='20,21' ids='10000,15000,20000,None' name='Bonus Life' values='0,1,2,3'/>
+    <dip bits='22' ids='Hard,Normal' name='Difficulty' values='0,1'/>
+    <dip bits='12' ids='On,Off' name='Service Mode' values='0,1'/>
+    <dip bits='15' ids='Cocktail,Upright' name='Cabinet' values='0,1'/>
+  </switches>
 </misterromdescription>

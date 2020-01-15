@@ -1,22 +1,31 @@
+<?xml version="1.0"?>
 <misterromdescription>
-  <rbf>MsPacman</rbf>
-  <rom index='0' md5='ef04ddc4294eda8b104dd7e38b2d41da' type='merged|nonmerged|split' zip='/hbmame/sueworlb.zip|/hbmame/mspacman.zip'>
-    <part crc='d16b31b7' name='boot1'/>
-    <part crc='0d32de5e' name='boot2'/>
-    <part crc='1821ee0b' name='boot3'/>
-    <part crc='edc5ad28' name='sueworlb.4'/>
-    <part crc='8c3e6de6' name='boot5'/>
-    <part crc='8c3e6de6' name='boot5'/>
-    <part crc='368cb165' name='boot6'/>
-    <part crc='6c975345' name='sueworld.5e'/>
-    <part crc='2c809842' name='sueworld.5f'/>
-    <part crc='2c809842' name='sueworld.5f'/>
-    <part crc='2c809842' name='sueworld.5f'/>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='3eb3a8e4' name='82s126.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='2fc650bd' name='82s123.7f'/>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>05</part>
   </rom>
-  
-  
+  <rom index="0" md5="e8d8434cd0c25a545b5ba75a3e7bbab0" type="merged|nonmerged|split" zip="/hbmame/sueworlb.zip|/hbmame/mspacman.zip">
+    <part crc="d16b31b7" name="boot1"/>
+    <part crc="0d32de5e" name="boot2"/>
+    <part crc="1821ee0b" name="boot3"/>
+    <part crc="edc5ad28" name="sueworlb.4"/>
+    <part crc="8c3e6de6" name="boot5"/>
+    <part crc="368cb165" name="boot6"/>
+    <part repeat="8192">00</part>
+    <part crc="6c975345" name="sueworld.5e"/>
+    <part crc="2c809842" name="sueworld.5f"/>
+    <part repeat="8192">00</part>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="3eb3a8e4" name="82s126.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="2fc650bd" name="82s123.7f"/>
+  </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

@@ -1,26 +1,31 @@
+<?xml version="1.0"?>
 <misterromdescription>
-  <name>Ms. Pacman Strange Mazes (MS PAC STRANGE MAZES)</name>
-  <mameversion>0216</mameversion>
-  <setname>puckmanb</setname>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>bootleg</manufacturer>
-  <category>Maze / Pac-Man</category>
   <rbf>pacman</rbf>
-  <rom index='0' md5='1936cccedd17cf8801a552ad27328a79' type='merged|nonmerged|split' zip='/hbmame/msstrmaz.zip|/hbmame/mspacman.zip'>
-    <part crc='d16b31b7' name='boot1'/>
-    <part crc='0d32de5e' name='boot2'/>
-    <part crc='513f4d5c' name='mscrzyma.3'/>
-    <part crc='ef9cce5a' name='msstrmaz.4'/>
-    <part crc='b8f8edda' name='msstrmaz.5'/>
-    <part crc='5d7888bc' name='msstrmaz.6'/>
-    <part repeat='8192'>00</part>
-    <part crc='14fd0ad7' name='msstrmaz.5e'/>
-    <part crc='67fb6254' name='msstrmaz.5f'/>
-    <part repeat='8192'>00</part>
-    <part crc='a9cc86bf' name='82s126.1m'/>
-    <part crc='e271a166' name='pacplus.4a'/>
-    <part crc='77245b66' name='82s126.3m'/>
-    <part crc='063dd53a' name='pacplus.7f'/>
+  <rom index="1">
+    <part>05</part>
   </rom>
+  <rom index="0" md5="1936cccedd17cf8801a552ad27328a79" type="merged|nonmerged|split" zip="/hbmame/msstrmaz.zip|/hbmame/mspacman.zip">
+    <part crc="d16b31b7" name="boot1"/>
+    <part crc="0d32de5e" name="boot2"/>
+    <part crc="513f4d5c" name="mscrzyma.3"/>
+    <part crc="ef9cce5a" name="msstrmaz.4"/>
+    <part crc="b8f8edda" name="msstrmaz.5"/>
+    <part crc="5d7888bc" name="msstrmaz.6"/>
+    <part repeat="8192">00</part>
+    <part crc="14fd0ad7" name="msstrmaz.5e"/>
+    <part crc="67fb6254" name="msstrmaz.5f"/>
+    <part repeat="8192">00</part>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="e271a166" name="pacplus.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="063dd53a" name="pacplus.7f"/>
+  </rom>
+  <switches default="FF,FF,C9">
+    <dip bits="16,17" ids="Free Play,1 Coin/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="18,19" ids="1,2,3,5" name="Lives" values="0,1,2,3"/>
+    <dip bits="20,21" ids="10000,15000,20000,None" name="Bonus Life" values="0,1,2,3"/>
+    <dip bits="22" ids="Hard,Normal" name="Difficulty" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="15" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>
