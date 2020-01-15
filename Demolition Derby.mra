@@ -36,5 +36,6 @@
     <dip bits="2" ids="On,Off" name="Free Play" values="0,1"/>
     <dip bits="3" ids="Limited,Expanded" name="Reward Screen" values="0,1"/>
     <dip bits="4,5" ids="2 Coins/2 Credits,1 Coin/2 Credits,2 Coins/1 Credit,1 Coin/1 Credit" name="Coinage" values="0,1,2,3"/>
+    <dip bits="8" ids="Off,On" name="Service"/>
   </switches>
 </misterromdescription>
