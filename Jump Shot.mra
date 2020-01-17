@@ -1,0 +1,39 @@
+<misterromdescription>
+  <name>Jump Shot</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Namco (Midway license)</manufacturer>
+  <category>Sport / Basket</category>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>10</part>
+  </rom>
+  <rom index="0" md5="" type="merged|nonmerged|split" zip="jumpshot.zip">
+    <part crc="f00def9a" name="6e"/>
+    <part crc="f70deae2" name="6f"/>
+    <part crc="894d6f68" name="6h"/>
+    <part crc="f15a108a" name="6j"/>
+    <part crc="f00def9a" name="6e"/>
+    <part crc="f70deae2" name="6f"/>
+    <part crc="894d6f68" name="6h"/>
+    <part crc="f15a108a" name="6j"/>
+    <part crc="d9fa90f5" name="5e"/>
+    <part crc="2ec711c1" name="5f"/>
+    <part crc="d9fa90f5" name="5e"/>
+    <part crc="2ec711c1" name="5f"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="0399f39f" name="prom.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="872b42f3" name="prom.7f"/>
+  </rom>
+  <switches default="FF,FF,DD">
+    <dip bits="16,17" ids="4 Minutes,2 Minutes,3 Minutes" name="Time" values="1,2,3"/>
+    <dip bits="18" ids="Darker,Lighter" name="Player 1 Skin Tone" values="0,1"/>
+    <dip bits="19" ids="Darker,Lighter" name="Player 2 Skin Tone" values="0,1"/>
+    <dip bits="20" ids="On,Off" name="Free Play" values="0,1"/>
+    <dip bits="21" ids="2 Credits,1 Credit" name="2 Players Game" values="0,1"/>
+    <dip bits="15" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+  </switches>
+</misterromdescription>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Jump Shot Engineering Sample</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1982</year>
+  <manufacturer>Namco (Midway license)</manufacturer>
+  <category>Sport / Basket</category>
+  <rbf>pacman</rbf>
+  <rom index="1">
+    <part>10</part>
+  </rom>
+  <rom index="0" md5="" type="merged|nonmerged|split" zip="jumpshotp.zip|jumpshot.zip">
+    <part crc="acc5e15e" name="js6e.bin"/>
+    <part crc="62b48ba4" name="js6f.bin"/>
+    <part crc="7c9b5e30" name="js6h.bin"/>
+    <part crc="9f0c39f6" name="js6j.bin"/>
+    <part crc="acc5e15e" name="js6e.bin"/>
+    <part crc="62b48ba4" name="js6f.bin"/>
+    <part crc="7c9b5e30" name="js6h.bin"/>
+    <part crc="9f0c39f6" name="js6j.bin"/>
+    <part crc="d9fa90f5" name="5e"/>
+    <part crc="2ec711c1" name="5f"/>
+    <part crc="d9fa90f5" name="5e"/>
+    <part crc="2ec711c1" name="5f"/>
+    <part crc="a9cc86bf" name="82s126.1m"/>
+    <part crc="0399f39f" name="prom.4a"/>
+    <part crc="77245b66" name="82s126.3m"/>
+    <part crc="872b42f3" name="prom.7f"/>
+  </rom>
+  <switches default="FF,FF,DD">
+    <dip bits="16,17" ids="Above Average,Short,Average" name="Time Limit" values="1,2,3"/>
+    <dip bits="15" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="19" ids="Darker,Lighter" name="Players Skin Tone" values="0,1"/>
+    <dip bits="20" ids="On,Off" name="Free Play" values="0,1"/>
+    <dip bits="21" ids="2 Credits,1 Credit" name="2 Players Game" values="0,1"/>
+    <dip bits="12" ids="On,Off" name="Service Mode" values="0,1"/>
+  </switches>
+</misterromdescription>
