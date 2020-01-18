@@ -1,0 +1,39 @@
+<misterromdescription>
+	<name>Super Bagman (Itisa, Spain)</name>
+	<mratimestamp>20200118</mratimestamp>
+	<mameversion>0217</mameversion>
+	<setname>sbagmani</setname>
+	<year>1984</year>
+	<manufacturer>Valadon Automation</manufacturer>
+	<category>Platform / Extra</category>
+	<rbf>SuperBagman</rbf>
+	<rom index='0' md5='e3f963751d5f54ddc25816fa96e8e5c8' type='merged|nonmerged|split' zip='sbagmani.zip|sbagman.zip'>
+		<part crc='5e24f90f' name='sb1.5d'/>
+		<part crc='746ed840' name='sb2.5f'/>
+		<part crc='fdfc22ce' name='sb3.5h'/>
+		<part crc='b94fbb73' name='sb4.5k'/>
+		<part crc='98067a20' name='sb5.5l'/>
+		<part crc='4726e997' name='sb6.5n'/>
+		<part crc='4726e997' name='sb6.5n'/>
+		<part crc='4726e997' name='sb6.5n'/>
+		<part crc='189d9bd6' name='sb8.11k'/>
+		<part crc='a046ff44' name='sb7.11h'/>
+		<part crc='2c6a510d' name='sb10.11n'/>
+		<part crc='a4422da4' name='sb9.11l'/>
+                <part crc='0d29a52d' length='3584' name='sb-a.bin'/>
+                <part crc='ba82bf0c' length='512' name='sb-d.bin' offset='3584'/>
+                <part crc='f48091c4' length='1024' name='sb-b.bin'/>
+                <part crc='7648a042' length='512' name='sb-c.bin' offset='1024'/>
+                <part crc='f48091c4' length='2560' name='sb-b.bin' offset='1536'/>
+                <part crc='7648a042' length='1024' name='sb-c.bin'/>
+                <part crc='f48091c4' length='512' name='sb-b.bin' offset='1024'/>
+                <part crc='7648a042' length='2560' name='sb-c.bin' offset='1536'/>
+                <part crc='ba82bf0c' length='3584' name='sb-d.bin'/>
+                <part crc='0d29a52d' length='512' name='sb-a.bin' offset='3584'/>
+		<part crc='4d222e6f' name='6331-1n.1'/>
+                <part crc='ecd06ffb' name='6331-1n.2'/>
+                <part length='8128'>00</part>
+		<part crc='b3fc1505' name='am27s19dc.6v'/>
+		<part crc='b4e827a5' name='6331-1n.6u'/>
+	</rom>
+</misterromdescription>
