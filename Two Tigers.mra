@@ -1,0 +1,35 @@
+<misterromdescription>
+  <name>Two Tigers</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201912310000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Bally Midway</manufacturer>
+  <category>Action</category>
+  <rbf>MCR2</rbf>
+  <setname>twotiger</setname>
+  <rom index="1">
+    <part>2</part>
+  </rom>
+  <rom index="0" md5="2716354493437af0fb7205e6c04f35ae" type="merged|nonmerged" zip="twotiger.zip">
+    <part crc="a682ed24" name="cpu_d2"/>
+    <part crc="5b48fde9" name="cpu_d3"/>
+    <part crc="f1ab8c4d" name="cpu_d4"/>
+    <part crc="d7129900" name="cpu_d5"/>
+    <part repeat="16384">00</part>
+    <part crc="64ddc16c" name="ssio_a7"/>
+    <part crc="c3467612" name="ssio_a8"/>
+    <part crc="c50f7b2d" name="ssio_a9"/>
+    <part repeat="4096">00</part>
+    <part crc="52f69068" name="2tgrbg0.bin"/>
+    <part crc="758d4f7d" name="2tgrbg1.bin"/>
+    <part crc="da5f49da" name="vid_d1"/>
+    <part crc="62ed737b" name="vid_c1"/>
+    <part crc="0939921e" name="vid_b1"/>
+    <part crc="ef515824" name="vid_a1"/>
+  </rom>
+  <switches default="FC,FF">
+    <dip bits="8" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="0" ids="Slow,Fast" name="Shot Speed" values="0,1"/>
+    <dip bits="1" ids="1 Credit,2 Credits" name="Dogfight" values="0,1"/>
+  </switches>
+</misterromdescription>

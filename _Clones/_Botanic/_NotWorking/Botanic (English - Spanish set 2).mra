@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<misterromdescription>
+  <name>Botanic (English / Spanish, set 2)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Itisa</manufacturer>
+  <category>Maze / Bugs</category>
+  <category>Platform</category>
+  <rbf>bagman</rbf>
+  <rom index="1">
+    <part>02</part>
+  </rom>
+  <rom index="0" md5="b34c21f4dfa5e2d94f5cfb6fa7c77ea5" type="merged|nonmerged|split" zip="botanic2.zip|botanic.zip">
+    <part crc="c5170449" name="5.9e"/>
+    <part crc="33b2df44" name="6.9f"/>
+    <part crc="95bade4c" name="7.9j"/>
+    <part crc="1c1a184b" name="8.9k"/>
+    <part crc="728a59a4" name="9.9m"/>
+    <part crc="9e43d32b" name="10.9n"/>
+    <part repeat="40960">00</part>
+    <part crc="bea449a6" name="2.1e"/>
+    <part crc="a1148d89" name="1.1c"/>
+    <part crc="a5deb8ed" name="4.1j"/>
+    <part crc="70be5565" name="3.1f"/>
+    <part repeat="8192">00</part>
+    <part crc="2a855523" name="82s123.6r"/>
+    <part crc="edf88f34" name="b-tbp18s030.3r"/>
+  </rom>
+  <switches default="FF"/>
+</misterromdescription>

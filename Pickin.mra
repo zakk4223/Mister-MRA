@@ -1,3 +1,4 @@
+<?xml version='1.0'?>
 <misterromdescription>
   <name>Pickin'</name>
   <mameversion>0216</mameversion>
@@ -5,23 +6,32 @@
   <year>1983</year>
   <manufacturer>Valadon Automation</manufacturer>
   <category>Maze</category>
-  <rbf>pickin</rbf>
-  <rom index='0' md5='9ebfa4e80a54e58b08e112fd29f02ef7' type='merged|nonmerged|split' zip='pickin.zip'>
+  <rbf>bagman</rbf>
+  <rom index='1'>
+    <part>02</part>
+  </rom>
+  <rom index='0' md5='e7a595a7f13b0f9034c0308b8b44b796' type='merged|nonmerged|split' zip='pickin.zip'>
     <part crc='efd0bd43' name='9e'/>
     <part crc='b5785a23' name='9f'/>
     <part crc='65ee9fd4' name='9j'/>
     <part crc='7b23350e' name='9k'/>
     <part crc='935a7248' name='9m'/>
     <part crc='52485d1d' name='9n'/>
-    <part crc='935a7248' name='9m'/>
-    <part crc='52485d1d' name='9n'/>
+    <part repeat='40960'>00</part>
     <part crc='c5e96ac6' name='1f'/>
     <part crc='c5e96ac6' name='1f'/>
     <part crc='41c4ac1c' name='1j'/>
     <part crc='41c4ac1c' name='1j'/>
+    <part repeat='8192'>00</part>
     <part crc='fac81668' name='6331-1.3p'/>
     <part crc='14ee1603' name='6331-1.3r'/>
   </rom>
-  
-  
+  <switches default='FD'>
+    <dip bits='0' ids='2C/1C 1C/1C 1C/3C 1C/7C,1C/1C 1C/2C 1C/6C 1C/14C' name='Coinage' values='0,1'/>
+    <dip bits='1,2' ids='5,4,3,2' name='Lives' values='0,1,2,3'/>
+    <dip bits='3' ids='On,Off' name='Free Play' values='0,1'/>
+    <dip bits='4' ids='On,Off' name='Unknown' values='0,1'/>
+    <dip bits='5' ids='40000,30000' name='Bonus Life' values='0,1'/>
+    <dip bits='6' ids='French,English' name='Language' values='0,1'/>
+  </switches>
 </misterromdescription>

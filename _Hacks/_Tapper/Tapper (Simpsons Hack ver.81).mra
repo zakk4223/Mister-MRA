@@ -1,0 +1,38 @@
+<misterromdescription>
+  <name>Tapper (Simpsons Hack ver.81)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201912310000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Bally Midway</manufacturer>
+  <category>Action</category>
+  <rbf>mcr3</rbf>
+  <setname>stapper1</setname>
+  <rom index='1'>
+    <part>0</part>
+  </rom>
+  <rom index='0' md5='8c350ead5016ee83f08a178264b42afc' type='merged|nonmerged|split' zip='/hbmame/stapper1.zip|/hbmame/tapper.zip'>
+    <part crc='c915f608' name='stapper1.pg0'/>
+    <part crc='9d6a47f7' name='tappg1.bin'/>
+    <part crc='3a1f8778' name='tappg2.bin'/>
+    <part crc='dd4c785f' name='stapper1.pg3'/>
+    <part crc='0e8bb9d5' name='tapper_sound_snd_0_a7_12-7-83.a7'/>
+    <part crc='0cf0e29b' name='tapper_sound_snd_1_a8_12-7-83.a8'/>
+    <part crc='31eb6dc6' name='tapper_sound_snd_2_a9_12-7-83.a9'/>
+    <part crc='01a9be6a' name='tapper_sound_snd_3_a10_12-7-83.a10'/>
+    <part crc='29dd8e85' name='stapper.fg1'/>
+    <part crc='a8ba850f' name='stapper.fg0'/>
+    <part crc='3d9133e4' name='stapper.fg3'/>
+    <part crc='9254d87c' name='stapper.fg2'/>
+    <part crc='5ec2544f' name='stapper.fg5'/>
+    <part crc='9b970c4b' name='stapper.fg4'/>
+    <part crc='a2ef5c06' name='stapper.fg7'/>
+    <part crc='1baca746' name='stapper.fg6'/>
+    <part crc='1326da21' name='stapper.bg1'/>
+    <part crc='539b93c3' name='stapper.bg0'/>
+  </rom>
+  <switches default='FB,FF'>
+    <dip bits='2' ids='On,Off' name='Demo Sounds' values='0,1'/>
+    <dip bits='6' ids='Cocktail,Upright' name='Cabinet' values='0,1'/>
+    <dip bits='7' ids='2,1' name='Coin Meters' values='0,1'/>
+  </switches>
+</misterromdescription>

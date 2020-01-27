@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <misterromdescription>
   <name>Botanic (English - Spanish, set 1)</name>
   <mameversion>0216</mameversion>
@@ -6,23 +7,32 @@
   <manufacturer>Itisa</manufacturer>
   <category>Maze / Bugs</category>
   <category>Platform</category>
-  <rbf>botanic</rbf>
-  <rom index='0' md5='8898a379db965e3d83263b1b8c4730ed' type='merged|nonmerged|split' zip='botanic.zip'>
-    <part crc='907f01c7' name='5.9e'/>
-    <part crc='ff2533fb' name='06.9f'/>
-    <part crc='b7c544ef' name='07.9j'/>
-    <part crc='2df22793' name='08.9k'/>
-    <part crc='f7d908ec' name='09.9m'/>
-    <part crc='7ce9fbc8' name='10.9n'/>
-    <part crc='f7d908ec' name='09.9m'/>
-    <part crc='7ce9fbc8' name='10.9n'/>
-    <part crc='bea449a6' name='2.1e'/>
-    <part crc='a1148d89' name='1.1c'/>
-    <part crc='a5deb8ed' name='4.1j'/>
-    <part crc='70be5565' name='3.1f'/>
-    <part crc='a8a2ddd2' name='prom.3p'/>
-    <part crc='edf88f34' name='prom.3r'/>
+  <rbf>bagman</rbf>
+  <rom index="1">
+    <part>02</part>
   </rom>
-  
-  
+  <rom index="0" md5="3d834121fe171b5be594900bbf98194c" type="merged|nonmerged|split" zip="botanic.zip">
+    <part crc="907f01c7" name="5.9e"/>
+    <part crc="ff2533fb" name="06.9f"/>
+    <part crc="b7c544ef" name="07.9j"/>
+    <part crc="2df22793" name="08.9k"/>
+    <part crc="f7d908ec" name="09.9m"/>
+    <part crc="7ce9fbc8" name="10.9n"/>
+    <part repeat="40960">00</part>
+    <part crc="bea449a6" name="2.1e"/>
+    <part crc="a1148d89" name="1.1c"/>
+    <part crc="a5deb8ed" name="4.1j"/>
+    <part crc="70be5565" name="3.1f"/>
+    <part repeat="8192">00</part>
+    <part crc="a8a2ddd2" name="prom.3p"/>
+    <part crc="edf88f34" name="prom.3r"/>
+  </rom>
+  <switches default="FA">
+    <dip bits="0,1" ids="1,4,3,2" name="Lives" values="0,1,2,3"/>
+    <dip bits="2" ids="1C/1C 1C/2C,2C/1C 1C/2C" name="Coinage" values="0,1"/>
+    <dip bits="3,4" ids="2,3,3 (duplicate 1),3 (duplicate 2)" name="Invulnerability Fruits" values="0,1,2,3"/>
+    <dip bits="5" ids="Fruits Off, Spanish,Fruits On, English" name="Language / Disable Invulnerability Fruits" values="0,1"/>
+    <dip bits="6" ids="On,Off" name="Unknown" values="0,1"/>
+    <dip bits="7" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>

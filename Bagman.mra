@@ -6,30 +6,32 @@
   <manufacturer>Valadon Automation</manufacturer>
   <category>Platform / Extra</category>
   <rbf>bagman</rbf>
-  <rom index='0' md5='7f7855b1b6174c44e4d6a777c23fb368' type='merged|nonmerged|split' zip='bagman.zip'>
-    <part crc='e0156191' name='e9_b05.bin'/>
-    <part crc='7b758982' name='f9_b06.bin'/>
-    <part crc='302a077b' name='f9_b07.bin'/>
-    <part crc='f04293cb' name='k9_b08.bin'/>
-    <part crc='68e83e4f' name='m9_b09s.bin'/>
-    <part crc='1d6579f7' name='n9_b10.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
-    <part crc='4a0a6b55' name='e1_b02.bin'/>
-    <part crc='705193b2' name='c1_b01.bin'/>
-    <part crc='c680ef04' name='j1_b04.bin'/>
-    <part crc='dba1eda7' name='f1_b03s.bin'/>
-    <part crc='2e0057ff' name='r9_b11.bin'/>
-    <part crc='b2120edd' name='t9_b12.bin'/>
+  <rom index="1">
+    <part>00</part>
   </rom>
-  
-  
+  <rom index="0" md5="893dab67883c2dbbe4e58488c2cae865" type="merged|nonmerged|split" zip="bagman.zip">
+    <part crc="e0156191" name="e9_b05.bin"/>
+    <part crc="7b758982" name="f9_b06.bin"/>
+    <part crc="302a077b" name="f9_b07.bin"/>
+    <part crc="f04293cb" name="k9_b08.bin"/>
+    <part crc="68e83e4f" name="m9_b09s.bin"/>
+    <part crc="1d6579f7" name="n9_b10.bin"/>
+    <part repeat="40960">00</part>
+    <part crc="4a0a6b55" name="e1_b02.bin"/>
+    <part crc="705193b2" name="c1_b01.bin"/>
+    <part crc="c680ef04" name="j1_b04.bin"/>
+    <part crc="dba1eda7" name="f1_b03s.bin"/>
+    <part crc="2e0057ff" name="r9_b11.bin"/>
+    <part crc="b2120edd" name="t9_b12.bin"/>
+    <part crc="2a855523" name="p3.bin"/>
+    <part crc="ae6f1019" name="r3.bin"/>
+  </rom>
+  <switches default="FE">
+    <dip bits="0,1" ids="5,4,3,2" name="Lives" values="0,1,2,3"/>
+    <dip bits="2" ids="2C/1C 1C/1C 1C/3C 1C/7C,1C/1C 1C/2C 1C/6C 1C/14C" name="Coinage" values="0,1"/>
+    <dip bits="3,4" ids="Hardest,Hard,Medium,Easy" name="Difficulty" values="0,1,2,3"/>
+    <dip bits="5" ids="French,English" name="Language" values="0,1"/>
+    <dip bits="6" ids="40000,30000" name="Bonus Life" values="0,1"/>
+    <dip bits="7" ids="Cocktail,Upright" name="Cabinet" values="0,1"/>
+  </switches>
 </misterromdescription>
