@@ -1,0 +1,47 @@
+<misterromdescription>
+  <name>Discs Of Tron</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201912310000</mratimestamp>
+  <year>1983</year>
+  <manufacturer>Bally Midway</manufacturer>
+  <category>Action</category>
+  <rbf>mcr3</rbf>
+  <setname>dotron</setname>
+  <rom index="1">
+    <part>2</part>
+  </rom>
+  <rom index="0" md5="e05333f8e3385387b336252269e64e45" type="merged|nonmerged" zip="dotron.zip">
+    <part name="loc-pg0.1c"/>
+    <part name="loc-pg1.2c"/>
+    <part name="loc-pg2.3c"/>
+    <part name="loc-pg1.4c"/>
+    <part name="sound0.a7"/>
+    <part name="sound1.a8"/>
+    <part name="sound2.a9"/>
+    <part name="sound3.a10"/>
+    <part name="loc-g.cp4"/>
+    <part name="loc-h.cp3"/>
+    <part name="loc-g.cp4"/>
+    <part name="loc-h.cp3"/>
+    <part name="loc-e.cp6"/>
+    <part name="loc-f.cp5"/>
+    <part name="loc-e.cp6"/>
+    <part name="loc-f.cp5"/>
+    <part name="loc-c.cp8"/>
+    <part name="loc-d.cp7"/>
+    <part name="loc-c.cp8"/>
+    <part name="loc-d.cp7"/>
+    <part name="loc-a.cp0"/>
+    <part name="loc-b.cp9"/>
+    <part name="loc-a.cp0"/>
+    <part name="loc-b.cp9"/>
+    <part name="loc-bg2.6f"/>
+    <part name="loc-bg2.6f"/>
+    <part name="loc-bg1.5f"/>
+    <part name="loc-bg1.5f"/>
+  </rom>
+  <switches default="FF,00">
+    <dip bits="8" ids="On,Off" name="Service Mode" values="0,1"/>
+    <dip bits="0" ids="2,1" name="Coin Meters" values="0,1"/>
+  </switches>
+</misterromdescription>

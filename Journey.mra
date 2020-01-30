@@ -1,0 +1,50 @@
+<misterromdescription>
+	<name>Journey</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201912310000</mratimestamp>
+	<year>1984</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<category>Action</category>
+	<rbf>MCR3</rbf>
+	<setname>journey</setname>
+	<switches default="FF 00">
+		<dip bits="0"  name="Coin Meters" ids="1,2"/>
+		<dip bits="1"  name="Cabinet" ids="Upright,Cocktail"/>
+		<dip bits="8"  name="Service" ids="Off,On"/>
+	</switches>
+	<rom index="1">
+		<part>3</part>
+	</rom>
+	<rom index="0" zip="journey.zip" md5="95d0859c7922308b094486d0d624c727" type="merged|nonmerged">
+		<part crc="f2618913" name="d2"/>
+		<part crc="2f290d2e" name="d3"/>
+		<part crc="cc6c0150" name="d4"/>
+		<part crc="c3023931" name="d5"/>
+		<part crc="5d445c99" name="d6"/>
+		<part repeat="16384">00</part>
+		<part crc="2524a2aa" name="a"/>
+		<part crc="b8e35814" name="b"/>
+		<part crc="09c488cf" name="c"/>
+		<part crc="3d627bee" name="d"/>
+		<part crc="4ca2bb2d" name="a7"/>
+		<part crc="4fb7925d" name="a8"/>
+		<part crc="4ca2bb2d" name="a7"/>
+		<part crc="4fb7925d" name="a8"/>
+		<part crc="560c474f" name="a5"/>
+		<part crc="b1f31583" name="a6"/>
+		<part crc="560c474f" name="a5"/>
+		<part crc="b1f31583" name="a6"/>
+		<part crc="f295afda" name="a3"/>
+		<part crc="765876a7" name="a4"/>
+		<part crc="f295afda" name="a3"/>
+		<part crc="765876a7" name="a4"/>
+		<part crc="4af986f8" name="a1"/>
+		<part crc="b30cd2a7" name="a2"/>
+		<part crc="4af986f8" name="a1"/>
+		<part crc="b30cd2a7" name="a2"/>
+		<part crc="c14558de" name="g3"/>
+		<part crc="c14558de" name="g3"/>
+		<part crc="9104c1d0" name="g4"/>
+		<part crc="9104c1d0" name="g4"/>
+	</rom>
+</misterromdescription>
