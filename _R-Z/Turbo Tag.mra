@@ -1,0 +1,46 @@
+<misterromdescription>
+	<name>Turbo Tag</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201912310000</mratimestamp>
+	<manufacturer>Bally Midway</manufacturer>
+	<rbf>mcr3scroll</rbf>
+	<setname>turbotag</setname>
+	<switches default='FF 00'>
+		<dip bits='1' ids='Off,On' name='Demo Sounds'/>
+		<dip bits='8' ids='Off,On' name='Service'/>
+	</switches>
+	<buttons default='Y,L,B,A,R,X,Select' names='L-Button/Start1,L-Trigger,M-Button,R-Button/Start2,R-Trigger,Reverse,Coin'/>
+	<rom index='1'>
+		<part>1</part>
+	</rom>
+	<rom index='0' md5='ea404788ed5956a50c3c1a5858f5548b' type='merged|nonmerged|split' zip='turbotag.zip'>
+		<part crc='6110fd80' name='ttprog0.bin'/>
+		<part crc='b0505e18' name='ttprog1.bin'/>
+		<part crc='c4141237' name='ttprog2.bin'/>
+		<part crc='af294c6e' name='ttprog3.bin'/>
+		<part crc='8c5bc1a4' name='ttprog4.bin'/>
+		<part crc='11e62fe4' name='ttprog5.bin'/>
+		<part crc='11e62fe4' name='ttprog5.bin'/>
+		<part repeat='8192'>00</part>
+		<part crc='605d6c74' name='ttu17.bin'/>
+		<part crc='bb25852c' name='ttu18.bin'/>
+		<part crc='8ebb3302' name='ttu7.bin'/>
+		<part crc='6bfcb22a' name='ttu8.bin'/>
+		<interleave output='32'>
+			<part crc='9d7e6ebc' map='0001' name='ttfg1.bin'/>
+			<part crc='ed69e1a8' map='0001' name='ttfg0.bin'/>
+			<part crc='74e21c1c' map='0010' name='ttfg3.bin'/>
+			<part crc='037ec6fc' map='0010' name='ttfg2.bin'/>
+			<part crc='8b718879' map='0100' name='ttfg5.bin'/>
+			<part crc='6fdb0c13' map='0100' name='ttfg4.bin'/>
+			<part crc='212019dc' map='1000' name='ttfg7.bin'/>
+			<part crc='4094e996' map='1000' name='ttfg6.bin'/>
+		</interleave>
+		<part crc='1cd2023f' name='ttbg0.bin'/>
+		<part crc='784e84cd' name='ttbg1.bin'/>
+		<part crc='da9d47d2' name='ttbg2.bin'/>
+		<part crc='367e06a5' name='ttbg3.bin'/>
+		<part crc='aa0b1471' name='ttan.bin'/>
+		<patch offset='0x0B2C'>18</patch> <!-- accorsing to mame /-->
+	</rom>
+</misterromdescription>
