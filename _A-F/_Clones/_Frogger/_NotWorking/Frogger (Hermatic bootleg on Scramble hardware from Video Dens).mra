@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Frogger (Hermatic, bootleg on Scramble hardware from Video Dens)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Frogs</category>
+	<setname>froggervd</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Jump,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>02</part>
+	</rom>
+	<rom index='0' md5='06630234569e0e8bb5feee083c62d8fd' type='merged|nonmerged' zip='froggervd.zip|frogger.zip'>
+		<part crc='81c2020e' name='frogvd_r1-libro-s1.ac9'/>
+		<part crc='637a2ff8' name='frogvd_r3-libro-s3.af9'/>
+		<part crc='35e11cd2' name='frogvd_r5-libro-s5.aj9'/>
+                <part repeat='4096'>00</part>
+		<part crc='81c2020e' name='frogvd_r1-libro-s1.ac9'/>
+		<part crc='637a2ff8' name='frogvd_r3-libro-s3.af9'/>
+		<part crc='35e11cd2' name='frogvd_r5-libro-s5.aj9'/>
+                <part repeat='4096'>00</part>
+		<part crc='79326efe' name='frogvd_r11-ot1.bc5'/>
+		<part crc='7380a48f' name='frogvd_r12-ot2.bd5'/>
+		<part crc='31d7eb27' name='frogvd_r13-ot3.be5'/>
+		<part crc='31d7eb27' name='frogvd_r13-ot3.be5'/>
+		<part crc='658745f8' name='frogvd_r10-libro-c2.ah9' repeat='4'/>
+		<part crc='05f7d883' name='frogvd_r9-libro-c1.af9' repeat='4'/>
+		<part crc='c5f12bc3' name='frogvd.5e'/>
+	</rom>
+</misterromdescription>

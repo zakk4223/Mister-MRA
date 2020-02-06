@@ -1,26 +1,51 @@
 <misterromdescription>
-  <name>New Century (Spanish bootleg of Scramble)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1981</year>
-  <manufacturer>Konami (Stern Electronics license)</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>scramble</rbf>
-  
-  
-  <rom index='0' md5='dc45f671f3074727f937308b5255956c' type='merged|nonmerged|split' zip='ncentury.zip|scramble.zip'>
-    <part crc='6af06290' name='08.bin'/>
-    <part crc='b82ac737' name='04.bin'/>
-    <part crc='1efa0f6f' name='09.bin'/>
-    <part crc='dd380a22' name='05.bin'/>
-    <part crc='92980e72' name='10.bin'/>
-    <part crc='53ca2a3b' name='06.bin'/>
-    <part crc='88ac07a0' name='11.bin'/>
-    <part crc='70a731f1' name='07.bin'/>
-    <part crc='11fd2887' name='13.bin'/>
-    <part crc='4708845b' name='12.bin'/>
-    <part crc='be037cf6' name='03.bin'/>
-    <part crc='de7912da' name='02.bin'/>
-    <part crc='ba2fa933' name='01.bin'/>
-  </rom>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>New Century (Spanish bootleg of Scramble)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>ncentury</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='59c25baf5d8d58c253ef7d6d897fd89e' type='merged|nonmerged' zip='ncentury.zip|scramble.zip'>
+		<part crc='6af06290' name='08.bin'/>
+		<part crc='b82ac737' name='04.bin'/>
+		<part crc='1efa0f6f' name='09.bin'/>
+		<part crc='dd380a22' name='05.bin'/>
+		<part crc='92980e72' name='10.bin'/>
+		<part crc='53ca2a3b' name='06.bin'/>
+		<part crc='88ac07a0' name='11.bin'/>
+		<part crc='70a731f1' name='07.bin'/>
+		<part crc='6af06290' name='08.bin'/>
+		<part crc='b82ac737' name='04.bin'/>
+		<part crc='1efa0f6f' name='09.bin'/>
+		<part crc='dd380a22' name='05.bin'/>
+		<part crc='92980e72' name='10.bin'/>
+		<part crc='53ca2a3b' name='06.bin'/>
+		<part crc='88ac07a0' name='11.bin'/>
+		<part crc='70a731f1' name='07.bin'/>
+		<part crc='be037cf6' name='03.bin'/>
+		<part crc='de7912da' name='02.bin'/>
+		<part crc='ba2fa933' name='01.bin'/>
+		<part crc='ba2fa933' name='01.bin'/>
+		<part crc='11fd2887' name='13.bin' repeat='4'/>
+		<part crc='4708845b' name='12.bin' repeat='4'/>
+		<part crc='4e3caeab' name='prom'/>
+	</rom>
 </misterromdescription>

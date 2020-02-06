@@ -1,0 +1,38 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Tazz-Mania (bootleg on Galaxian hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>tazzmang</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,FB'>
+		<dip bits='8' ids='5,3' name='Lives'/>
+		<dip bits='9' ids='On,Off' name='Demo Sounds'/>
+		<dip bits='17,18' ids='1c/2cr,1c/1cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<!-- doesn't work well  dip bits="19"    name="Cabinet" ids="Cocktail,Upright"/-->
+	</switches>
+	<rom index='1'>
+		<part>04</part>
+	</rom>  
+	<rom index='0' md5='ac578a95c1416dbd81afdb20a6c4e7fe' type='merged|nonmerged' zip='tazzmang.zip|tazmania.zip'>
+		<part crc='a14480a1' name='tazzm1.4k'/>
+		<part crc='5609f5db' name='tazzm2.5j'/>
+		<part crc='fe7f7002' name='tazzm3.6f'/>
+		<part crc='c9ca1d0a' name='tazzm4.7e'/>
+		<part crc='f50cd8a6' name='tazzm5.7l'/>
+		<part crc='5cf2e7d2' name='tazzm6.7l'/>
+		<part crc='a14480a1' name='tazzm1.4k'/>
+		<part crc='5609f5db' name='tazzm2.5j'/>
+		<part crc='b8d741f1' fixme='audiocpu:0' name='rom0.snd' repeat='4'/>
+		<part crc='3f5ff3ac' name='tazzm7.1jh' repeat='4'/>
+		<part crc='2c5b612b' name='tazm8.1lk' repeat='4'/>
+		<part crc='6a0c7d87' name='prom.6l'/>
+	</rom>
+</misterromdescription>

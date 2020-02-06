@@ -10,6 +10,7 @@
   <rom index="1">
     <part>2</part>
   </rom>
+  <buttons names="Toss,Deflect,Aim Up,Aim Down,Rotate Right,Rotate Left,Start1+Coin,Start2+Coin" default="A,B,X,Y,R,L,Start,Select"/>
   <rom index="0" md5="e05333f8e3385387b336252269e64e45" type="merged|nonmerged" zip="dotron.zip">
     <part name="loc-pg0.1c"/>
     <part name="loc-pg1.2c"/>

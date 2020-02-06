@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Super Cobra (encrypted)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>scobrae2</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,F3'>
+		<dip bits='8' ids='No,4 times' name='Allow Continue'/>
+		<dip bits='9' ids='3,4' name='Lives'/>
+		<dip bits='17,18' ids='99cr,1c/1cr,2c/1cr,4c/3cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>03</part>
+	</rom>
+	<rom index='0' md5='326c9e2721c1039058d3f6fccaaab542' type='merged|nonmerged' zip='scobrae2.zip|scobra.zip'>
+		<part crc='5f38340b' name='2c'/>
+		<part crc='a3edcdb4' name='2e'/>
+		<part crc='c6291ea6' name='2f'/>
+		<part crc='c2197fac' name='2h'/>
+		<part crc='80b8270f' name='2j'/>
+		<part crc='f03475f6' name='2l'/>
+		<part crc='5f38340b' name='2c'/>
+		<part crc='a3edcdb4' name='2e'/>
+
+		<part crc='d4346959' name='5c'/>
+		<part crc='cc025d95' name='5d'/>
+		<part crc='1628c53f' name='5e'/>
+		<part crc='1628c53f' name='5e'/>
+		
+		<part crc='a96316d3' name='5h' repeat='4'/>
+		<part crc='64d113b4' name='5f' repeat='4'/>
+		<part crc='9b87f90d' name='82s123.6e'/>
+	</rom>
+</misterromdescription>

@@ -7,6 +7,7 @@
   <category>Action</category>
   <rbf>MCR3Mono</rbf>
   <setname>demoderm</setname>
+  <buttons names="Forward,Reverse,-,-,Start,Coin" default="X,B,Start,R"/>
   <rom index="1">
     <part>4</part>
   </rom>

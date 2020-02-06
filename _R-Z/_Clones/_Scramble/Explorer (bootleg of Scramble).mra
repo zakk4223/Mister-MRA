@@ -1,21 +1,42 @@
 <misterromdescription>
-  <name>Explorer (bootleg of Scramble)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1981</year>
-  <manufacturer>Konami (Stern Electronics license)</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>scramble</rbf>
-  
-  
-  <rom index='0' md5='e6738036cf8d37b26dfd85ff377ea97b' type='merged|nonmerged|split' zip='explorer.zip|scramble.zip'>
-    <part crc='d5adf626' name='10l.bin'/>
-    <part crc='48e32788' name='9l.bin'/>
-    <part crc='c0dbdbde' name='8l.bin'/>
-    <part crc='9b30d227' name='7l.bin'/>
-    <part crc='11fd2887' name='c1.5h'/>
-    <part crc='4708845b' name='c2.5f'/>
-    <part crc='9faf18cf' name='3f.bin'/>
-    <part crc='e910b5c3' name='4b.bin'/>
-  </rom>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Explorer (bootleg of Scramble)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>explorer</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='128d6b69851273291c8f2b675224623f' type='merged|nonmerged' zip='explorer.zip|scramble.zip'>
+		<part crc='d5adf626' name='10l.bin'/>
+		<part crc='48e32788' name='9l.bin'/>
+		<part crc='c0dbdbde' name='8l.bin'/>
+		<part crc='9b30d227' name='7l.bin'/>
+		<part crc='d5adf626' name='10l.bin'/>
+		<part crc='48e32788' name='9l.bin'/>
+		<part crc='c0dbdbde' name='8l.bin'/>
+		<part crc='9b30d227' name='7l.bin'/>
+		<part crc='9faf18cf' name='3f.bin'/>
+		<part crc='e910b5c3' name='4b.bin'/>
+		<part crc='e910b5c3' name='4b.bin'/>
+		<part crc='11fd2887' name='c1.5h' repeat='4'/>
+		<part crc='4708845b' name='c2.5f' repeat='4'/>
+		<part crc='4e3caeab' name='c01s.6e'/>
+	</rom>
 </misterromdescription>

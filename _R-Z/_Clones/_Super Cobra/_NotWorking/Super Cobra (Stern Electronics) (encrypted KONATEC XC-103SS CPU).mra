@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Super Cobra (Stern Electronics) (encrypted, KONATEC XC-103SS CPU)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>scobrae</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,F3'>
+		<dip bits='8' ids='No,4 times' name='Allow Continue'/>
+		<dip bits='9' ids='3,4' name='Lives'/>
+		<dip bits='17,18' ids='99cr,1c/1cr,2c/1cr,4c/3cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>03</part>
+	</rom>
+	<rom index='0' md5='d1d720e0683ad532d0fccb126ddc4944' type='merged|nonmerged' zip='scobrae.zip|scobra.zip'>
+		<part crc='ba9d4152' name='super cobra ra1 2c 1981.2c'/>
+		<part crc='f9b77b27' name='super cobra ra1 2e 1981.2e'/>
+		<part crc='e6109c2c' name='super cobra ra1 2f 1981.2f'/>
+		<part crc='8762735b' name='super cobra ra1 2h 1981.2h'/>
+		<part crc='5648f404' name='super cobra ra1 2j 1981.2j'/>
+		<part crc='34476cc3' name='super cobra ra1 2l 1981.2l'/>
+		<part crc='ba9d4152' name='super cobra ra1 2c 1981.2c'/>
+		<part crc='f9b77b27' name='super cobra ra1 2e 1981.2e'/>
+
+		<part crc='deeb0dd3' name='5c'/>
+		<part crc='872c1a74' name='5d'/>
+		<part crc='ccd7a110' name='5e'/>
+		<part crc='ccd7a110' name='5e'/>
+		
+		<part crc='a96316d3' name='super cobra ra1 5h 1981.5h' repeat='4'/>
+		<part crc='64d113b4' name='super cobra ra1 5f 1981.5f' repeat='4'/>
+		<part crc='9b87f90d' name='82s123.6e'/>
+	</rom>
+</misterromdescription>

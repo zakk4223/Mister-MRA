@@ -12,6 +12,7 @@
 		<dip bits="1"  name="Cabinet" ids="Upright,Cocktail"/>
 		<dip bits="8"  name="Service" ids="Off,On"/>
 	</switches>
+        <buttons names="Blast,-,-,-,-,-,Start 1P,Start 2P,Coin" default="A,Start,Select,R"/>
 	<rom index="1">
 		<part>3</part>
 	</rom>

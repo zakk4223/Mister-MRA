@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Frogger (Videotron bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Frogs</category>
+	<setname>froggerv</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Jump,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>02</part>
+	</rom>
+	<rom index='0' md5='87fc07ab23175ad0f265d89f09a09003' type='merged|nonmerged' zip='froggerv.zip|frogger.zip'>
+		<part crc='ed39f6d8' name='rana_ic4.ic4'/>
+		<part crc='aeca9c13' fixme='maincpu:1000' name='epr-1013a.ic6'/>
+		<part crc='f8313d5d' name='rana_ic3.ic3'/>
+		<part crc='bf293a02' fixme='maincpu:3000' name='epr-1015.ic8'/>
+		<part crc='ed39f6d8' name='rana_ic4.ic4'/>
+		<part crc='aeca9c13' fixme='maincpu:1000' name='epr-1013a.ic6'/>
+		<part crc='f8313d5d' name='rana_ic3.ic3'/>
+		<part crc='bf293a02' fixme='maincpu:3000' name='epr-1015.ic8'/>
+		<part crc='e8ab0256' fixme='audiocpu:0' name='epr-608.ic32'/>
+		<part crc='7380a48f' fixme='audiocpu:800' name='epr-609.ic33'/>
+		<part crc='31d7eb27' fixme='audiocpu:1000' name='epr-610.ic34'/>
+		<part crc='31d7eb27' fixme='audiocpu:1000' name='epr-610.ic34'/>
+		<part crc='c1690dfc' name='rana_ic12.ic12' repeat='4'/>
+		<part crc='a1199087' name='rana_ic11.ic11' repeat='4'/>
+		<part crc='4e3caeab' name='ic10'/>
+	</rom>
+</misterromdescription>

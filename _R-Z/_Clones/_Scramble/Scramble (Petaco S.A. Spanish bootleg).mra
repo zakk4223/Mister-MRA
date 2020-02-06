@@ -1,0 +1,51 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Scramble (Petaco S.A., Spanish bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>scrampt</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='e9d94f15a855547d7b122fdf0d03a1df' type='merged|nonmerged' zip='scrampt.zip|scramble.zip'>
+		<part crc='12b97cc6' name='cx8-2716.cpu'/>
+		<part crc='66ebc070' name='cx4-2716.cpu'/>
+		<part crc='317548fd' name='cx9-2716.cpu'/>
+		<part crc='dd380a22' name='cx5-2716.cpu'/>
+		<part crc='fa4f1a70' name='cx10-2716.cpu'/>
+		<part crc='9fd96374' name='cx6-2716.cpu'/>
+		<part crc='88ac07a0' name='cx11-2716.cpu'/>
+		<part crc='c9a6c489' name='cx7-2716.cpu'/>
+		<part crc='12b97cc6' name='cx8-2716.cpu'/>
+		<part crc='66ebc070' name='cx4-2716.cpu'/>
+		<part crc='317548fd' name='cx9-2716.cpu'/>
+		<part crc='dd380a22' name='cx5-2716.cpu'/>
+		<part crc='fa4f1a70' name='cx10-2716.cpu'/>
+		<part crc='9fd96374' name='cx6-2716.cpu'/>
+		<part crc='88ac07a0' name='cx11-2716.cpu'/>
+		<part crc='c9a6c489' name='cx7-2716.cpu'/>
+		<part crc='be037cf6' name='cx3-2716.cpu'/>
+		<part crc='de7912da' name='cx2-2716.cpu'/>
+		<part crc='ba2fa933' name='cx1-2716.cpu'/>
+		<part crc='ba2fa933' name='cx1-2716.cpu'/>
+		<part crc='11fd2887' name='cx13-2716.cpu' repeat='4'/>
+		<part crc='4708845b' name='cx12-2716.cpu' repeat='4'/>
+		<part crc='4e3caeab' name='c01s.6e'/>
+	</rom>
+</misterromdescription>

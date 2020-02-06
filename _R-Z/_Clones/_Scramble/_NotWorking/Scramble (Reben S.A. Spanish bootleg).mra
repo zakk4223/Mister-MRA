@@ -1,26 +1,48 @@
 <misterromdescription>
-  <name>Scramble (Reben S.A. Spanish bootleg)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1981</year>
-  <manufacturer>Konami (Stern Electronics license)</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>scramble</rbf>
-  
-  
-  <rom index='0' md5='e295c096921853d14b16338286611014' type='merged|nonmerged|split' zip='scrambler.zip|scramble.zip'>
-    <part crc='926958d2' name='principal 1.bin'/>
-    <part crc='655c6eca' name='principal 2.bin'/>
-    <part crc='cd31749a' name='principal 3.bin'/>
-    <part crc='f055e1e3' name='principal 4.bin'/>
-    <part crc='15f10df7' name='principal 5.bin'/>
-    <part crc='4bd1c703' name='principal 6.bin'/>
-    <part crc='0bb49470' name='principal 7.bin'/>
-    <part crc='6db9f380' name='principal 8.bin'/>
-    <part crc='28a66399' name='graph kl.bin'/>
-    <part crc='4c017c9c' name='graph hj.bin'/>
-    <part crc='FIXME' name='ot1.5c'/>
-    <part crc='FIXME' name='ot2.5d'/>
-    <part crc='FIXME' name='ot3.5e'/>
-  </rom>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Scramble (Reben S.A. Spanish bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>scrambler</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='63a24f426db2915e00ea511d3c1edd4a' type='merged|nonmerged' zip='scrambler.zip|scramble.zip'>
+		<part crc='926958d2' name='principal 1.bin'/>
+		<part crc='655c6eca' name='principal 2.bin'/>
+		<part crc='cd31749a' name='principal 3.bin'/>
+		<part crc='f055e1e3' name='principal 4.bin'/>
+		<part crc='15f10df7' name='principal 5.bin'/>
+		<part crc='4bd1c703' name='principal 6.bin'/>
+		<part crc='0bb49470' name='principal 7.bin'/>
+		<part crc='6db9f380' name='principal 8.bin'/>
+		<part crc='926958d2' name='principal 1.bin'/>
+		<part crc='655c6eca' name='principal 2.bin'/>
+		<part crc='cd31749a' name='principal 3.bin'/>
+		<part crc='f055e1e3' name='principal 4.bin'/>
+		<part crc='15f10df7' name='principal 5.bin'/>
+		<part crc='4bd1c703' name='principal 6.bin'/>
+		<part crc='0bb49470' name='principal 7.bin'/>
+		<part crc='6db9f380' name='principal 8.bin'/>
+                <part repeat='8192'>00</part>
+		<part crc='28a66399' name='graph kl.bin' repeat='4'/>
+		<part crc='4c017c9c' name='graph hj.bin' repeat='4'/>
+		<part crc='4e3caeab' name='c01s.6e'/>
+	</rom>
 </misterromdescription>

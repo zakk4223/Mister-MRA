@@ -1,25 +1,50 @@
 <misterromdescription>
-  <name>Bomber (bootleg of Scramble)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1981</year>
-  <manufacturer>Konami (Stern Electronics license)</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>scramble</rbf>
-  
-  
-  <rom index='0' md5='7e4cbc7944985af9d3d4cda9b0e4b014' type='merged|nonmerged|split' zip='bomber.zip|scramble.zip'>
-    <part crc='8c30c7c3' name='1.3l'/>
-    <part crc='1fca370c' name='2.3k'/>
-    <part crc='8a714167' name='3.3h'/>
-    <part crc='dd380a22' name='4.3f'/>
-    <part crc='92980e72' name='5.3e'/>
-    <part crc='9fd96374' name='6.3d'/>
-    <part crc='88ac07a0' name='7.3c'/>
-    <part crc='75232e09' name='8.3a'/>
-    <part crc='11fd2887' name='c1.5h'/>
-    <part crc='4708845b' name='c2.5f'/>
-    <part crc='97ba15e8' name='11.8k'/>
-    <part crc='6510761d' name='12.8l'/>
-  </rom>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Bomber (bootleg of Scramble)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>bomber</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='26b5a9ac63b62f2edfb18d2004b81608' type='merged|nonmerged' zip='bomber.zip|scramble.zip'>
+		<part crc='8c30c7c3' name='1.3l'/>
+		<part crc='1fca370c' name='2.3k'/>
+		<part crc='8a714167' name='3.3h'/>
+		<part crc='dd380a22' name='4.3f'/>
+		<part crc='92980e72' name='5.3e'/>
+		<part crc='9fd96374' name='6.3d'/>
+		<part crc='88ac07a0' name='7.3c'/>
+		<part crc='75232e09' name='8.3a'/>
+		<part crc='8c30c7c3' name='1.3l'/>
+		<part crc='1fca370c' name='2.3k'/>
+		<part crc='8a714167' name='3.3h'/>
+		<part crc='dd380a22' name='4.3f'/>
+		<part crc='92980e72' name='5.3e'/>
+		<part crc='9fd96374' name='6.3d'/>
+		<part crc='88ac07a0' name='7.3c'/>
+		<part crc='75232e09' name='8.3a'/>
+		<part crc='97ba15e8' name='11.8k'/>
+		<part crc='6510761d' name='12.8l'/>
+                <part repeat='4096'>00</part>
+		<part crc='11fd2887' name='c1.5h' repeat='4'/>
+		<part crc='4708845b' name='c2.5f' repeat='4'/>
+		<part crc='4e3caeab' name='c01s.6e'/>
+	</rom>
 </misterromdescription>

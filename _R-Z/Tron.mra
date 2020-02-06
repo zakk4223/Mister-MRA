@@ -7,6 +7,7 @@
   <category>Action</category>
   <rbf>MCR2</rbf>
   <setname>tron</setname>
+  <buttons names="Fire,-,-,-,Rotate Right,Rotate Left,Start 1P,Start 2P,Coin" default="A,R,L,Start,Select,Y"/>
   <rom index="1">
     <part>1</part>
   </rom>

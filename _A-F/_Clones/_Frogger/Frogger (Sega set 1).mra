@@ -1,24 +1,37 @@
-<?xml version='1.0'?>
 <misterromdescription>
-  <name>Frogger (Sega set 1)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1981</year>
-  <manufacturer>Konami (Sega license)</manufacturer>
-  <category>Maze</category>
-  <category>Maze / Frogs</category>
-  <rbf>frogger</rbf>
-  
-  
-  <rom index='0' md5='aab360a3c2265c4b19cc97029e498495' type='merged|nonmerged|split' zip='froggers1.zip|frogger.zip'>
-    <part crc='597696d6' name='epr-26.ic5'/>
-    <part crc='b6e6fcc3' name='epr-27.ic6'/>
-    <part crc='ed866bab' name='epr-34.ic7'/>
-    <part repeat='4096'>00</part>
-    <part crc='f524ee30' name='epr-606.ic102'/>
-    <part crc='05f7d883' name='epr-607.ic101'/>
-    <part crc='e8ab0256' name='epr-608.ic32'/>
-    <part crc='7380a48f' name='epr-609.ic33'/>
-    <part crc='31d7eb27' name='epr-610.ic34'/>
-  </rom>
+	<name>Frogger (Sega set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Frogs</category>
+	<setname>froggers1</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Jump,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>02</part>
+	</rom>
+	<rom index='0' md5='88eebdfc6f5e75550115bc54046acc3c' type='merged|nonmerged' zip='froggers1.zip|frogger.zip'>
+		<part crc='597696d6' name='epr-26.ic5'/>
+		<part crc='b6e6fcc3' name='epr-27.ic6'/>
+		<part crc='ed866bab' name='epr-34.ic7'/>
+                <part repeat='4096'>00</part>
+		<part crc='597696d6' name='epr-26.ic5'/>
+		<part crc='b6e6fcc3' name='epr-27.ic6'/>
+		<part crc='ed866bab' name='epr-34.ic7'/>
+                <part repeat='4096'>00</part>
+		<part crc='e8ab0256' name='epr-608.ic32'/>
+		<part crc='7380a48f' name='epr-609.ic33'/>
+		<part crc='31d7eb27' name='epr-610.ic34'/>
+		<part crc='31d7eb27' name='epr-610.ic34'/>
+		<part crc='f524ee30' name='epr-606.ic102' repeat='4'/>
+		<part crc='05f7d883' name='epr-607.ic101' repeat='4'/>
+		<part crc='413703bf' name='pr-91.6l'/>
+	</rom>
 </misterromdescription>

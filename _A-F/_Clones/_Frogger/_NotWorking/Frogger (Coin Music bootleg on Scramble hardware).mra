@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Frogger (Coin Music, bootleg on Scramble hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Frogs</category>
+	<setname>froggrs</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Jump,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>02</part>
+	</rom>
+	<rom index='0' md5='d69c5aaa54a3bb7b2506828cad3a7702' type='merged|nonmerged' zip='froggrs.zip|frogger.zip'>
+		<part crc='4d563992' name='frog4.bin'/>
+		<part crc='d8b8c06e' name='frog5.bin'/>
+		<part crc='b55a1cb5' name='frog6.bin'/>
+		<part repeat='4096'>00</part>
+		<part crc='4d563992' name='frog4.bin'/>
+		<part crc='d8b8c06e' name='frog5.bin'/>
+		<part crc='b55a1cb5' name='frog6.bin'/>
+                <part repeat='4096'>00</part>
+		<part crc='e8ab0256' name='frogger.608'/>
+		<part crc='7380a48f' name='frogger.609'/>
+		<part crc='837c16ab' name='frog3.bin'/>
+		<part crc='837c16ab' name='frog3.bin'/>
+		<part crc='f524ee30' name='frogger.606' repeat='4'/>
+		<part crc='05f7d883' name='frogger.607' repeat='4'/>
+		<part crc='413703bf' name='pr-91.6l'/>
+	</rom>
+</misterromdescription>

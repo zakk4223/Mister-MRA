@@ -1,0 +1,38 @@
+<misterromdescription>
+	<name>Kickman (upright)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201912310000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<category>Action</category>
+	<rbf>MCR1</rbf>
+	<setname>kickman</setname>
+	<switches default='FE 00'>
+		<dip bits='0' ids='On,Off' name='Music'/>
+		<dip bits='8' ids='Off,On' name='Service'/>
+	</switches>
+	<buttons default='A,B,Start,Select,R' names='Kick,Speed,-,-,-,-,Start 1P,Start 2P,Coin'/>
+	<rom index='0' md5='3759c22c8a392d0ce7f6f9783f71df1b' type='merged|nonmerged' zip='kickman.zip|kick.zip'>
+		<part crc='d8cd9f0f' name='1200-a-ur.b3'/>
+		<part crc='4dee27bb' name='1300-b-ur.b4'/>
+		<part crc='06f070c9' name='1400-c-ur.b5'/>
+		<part crc='8d95b740' name='1500-d-ur.d4'/>
+		<part crc='f24bc0d7' name='1600-e-ur.d5'/>
+		<part crc='672361fc' name='1700-f-ur.d6'/>
+		<part repeat='0x2000'>FF</part>
+
+		<part crc='9e35c02e' name='4200-a.a7'/>
+		<part crc='ca2b7c28' name='4300-b.a8'/>	
+		<part crc='d1901551' name='4400-c.a9'/>
+		<part crc='d36ddcdc' name='4500-d.a10'/>
+		<part repeat='0x4000'>FF</part>
+
+		<part crc='2c5d6b55' name='2600a-v2.1e'/>
+		<part crc='565ea97d' name='2700b-v2.1d'/>
+		<part crc='f3be56a1' name='2800c-v2.1b'/>
+		<part crc='77da795e' name='2900d-v2.1a'/>		
+
+		<part crc='b4d120f3' name='1800g-v2.g4'/>
+		<part crc='c3ba4893' name='1900h-v2.g5'/>		
+	</rom>
+</misterromdescription>

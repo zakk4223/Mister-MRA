@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Frog</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Frogs</category>
+	<setname>froggers</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Jump,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>02</part>
+	</rom>
+	<rom index='0' md5='35b282db45b840fc46fd61f438bd6e52' type='merged|nonmerged|split' zip='froggers.zip|frogger.zip'>
+		<part crc='c103066e' name='vid_d2.bin'/>
+                <part crc='f08bc094' name='vid_e2.bin'/>
+		<part crc='637a2ff8' name='vid_f2.bin'/>
+                <part crc='04c027a5' name='vid_h2.bin'/>
+		<part crc='fbdfbe74' name='vid_j2.bin'/>
+                <part crc='8a4389e1' name='vid_l2.bin'/>
+                <part repeat='20480'>00</part>
+		<part crc='e8ab0256' name='frogger.608'/>
+		<part crc='7380a48f' name='frogger.609'/>
+		<part crc='31d7eb27' name='frogger.610'/>
+		<part crc='31d7eb27' name='frogger.610'/>
+		<part crc='658745f8' name='epr-1036.1k' repeat='4'/>
+		<part crc='05f7d883' name='frogger.607' repeat='4'/>
+		<part crc='413703bf' name='pr-91.6l'/>
+	</rom>
+</misterromdescription>

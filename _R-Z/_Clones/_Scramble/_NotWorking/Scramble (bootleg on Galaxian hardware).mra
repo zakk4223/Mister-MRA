@@ -1,23 +1,51 @@
 <misterromdescription>
-  <name>Scramble (bootleg on Galaxian hardware)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1981</year>
-  <manufacturer>Konami (Stern Electronics license)</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>galaxian</rbf>
-  
-  
-  <rom index='0' md5='1afd16da4e01425f8f0a65eabe2c61b6' type='merged|nonmerged|split' zip='scramblb.zip|scramble.zip'>
-    <part crc='9e025c4a' name='scramble.1k'/>
-    <part crc='306f783e' name='scramble.2k'/>
-    <part crc='0500b701' name='scramble.3k'/>
-    <part crc='dd380a22' name='scramble.4k'/>
-    <part crc='df0b9648' name='scramble.5k'/>
-    <part crc='b8c07b3c' name='scramble.1j'/>
-    <part crc='88ac07a0' name='scramble.2j'/>
-    <part crc='c67d57ca' name='scramble.3j'/>
-    <part crc='11fd2887' name='5h.k'/>
-    <part crc='4708845b' name='5f.k'/>
-  </rom>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Scramble (bootleg on Galaxian hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>scramblb</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='ba4801512eb168da00a4ff934f5164b1' type='merged|nonmerged' zip='scramblb.zip|scramble.zip'>
+		<part crc='9e025c4a' name='scramble.1k'/>
+		<part crc='306f783e' name='scramble.2k'/>
+		<part crc='0500b701' name='scramble.3k'/>
+		<part crc='dd380a22' name='scramble.4k'/>
+		<part crc='df0b9648' name='scramble.5k'/>
+		<part crc='b8c07b3c' name='scramble.1j'/>
+		<part crc='88ac07a0' name='scramble.2j'/>
+		<part crc='c67d57ca' name='scramble.3j'/>
+		<part crc='9e025c4a' name='scramble.1k'/>
+		<part crc='306f783e' name='scramble.2k'/>
+		<part crc='0500b701' name='scramble.3k'/>
+		<part crc='dd380a22' name='scramble.4k'/>
+		<part crc='df0b9648' name='scramble.5k'/>
+		<part crc='b8c07b3c' name='scramble.1j'/>
+		<part crc='88ac07a0' name='scramble.2j'/>
+		<part crc='c67d57ca' name='scramble.3j'/>
+		<part crc='bcd297f0' fixme='audiocpu:0' name='ot1.5c'/>
+		<part crc='de7912da' fixme='audiocpu:800' name='ot2.5d'/>
+		<part crc='ba2fa933' fixme='audiocpu:1000' name='ot3.5e'/>
+		<part crc='ba2fa933' fixme='audiocpu:1000' name='ot3.5e'/>
+		<part crc='11fd2887' name='5h.k' repeat='4'/>
+		<part crc='4708845b' name='5f.k' repeat='4'/>
+		<part crc='4e3caeab' name='82s123.6e'/>
+	</rom>
 </misterromdescription>

@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Super Cobra (bootleg, set 3)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>scobraggi</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,F3'>
+		<dip bits='8' ids='No,4 times' name='Allow Continue'/>
+		<dip bits='9' ids='3,4' name='Lives'/>
+		<dip bits='17,18' ids='99cr,1c/1cr,2c/1cr,4c/3cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>03</part>
+	</rom>
+	<rom index='0' md5='e67ee361448a220717461c305db90b54' type='merged|nonmerged' zip='scobraggi.zip|scobra.zip'>
+		<part crc='04ffab61' name='2c_b.bin'/>
+		<part crc='4e29d35f' name='2e_b.bin'/>
+		<part crc='9dee81cc' name='2f_b.bin'/>
+		<part crc='99dee0c6' name='2h_b.bin'/>
+		<part crc='db7fb865' name='2j_b.bin'/>
+		<part crc='5825d73b' name='2l_b.bin'/>
+		<part crc='04ffab61' name='2c_b.bin'/>
+		<part crc='4e29d35f' name='2e_b.bin'/>
+
+		<part crc='d4346959' name='1_13_a.bin'/>
+		<part crc='cc025d95' name='2_13_a.bin'/>
+		<part crc='1628c53f' name='3_13_a.bin'/>
+		<part crc='1628c53f' name='3_13_a.bin'/>
+		
+		<part crc='a96316d3' name='5f_b.bin' repeat='4'/>
+		<part crc='64d113b4' name='5h_b.bin' repeat='4'/>
+		<part crc='4e3caeab' name='6e_b.bin'/>
+	</rom>
+</misterromdescription>

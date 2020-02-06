@@ -1,0 +1,40 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Ameisenbaer (German, Galaxian hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>anteatergg</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Retract,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,FB'>
+		<dip bits='8' ids='5,3' name='Lives'/>
+		<dip bits='9' ids='On,Off' name='Demo Sounds'/>
+		<dip bits='17,18' ids='1c/2cr,1c/1cr,1c/3cr,1c/4cr' name='Coinage'/>
+	</switches>
+	<rom index='1'>
+		<part>0A</part>
+	</rom>  
+	<rom index='0' md5='10d339ae2bd687dc209cbc171df4201e' type='merged|nonmerged' zip='anteatergg.zip|anteater.zip'>
+		<part crc='e28cd0be' name='for1.bin'/>
+		<part crc='5d79f4d0' name='for3.bin'/>
+		<part crc='cdc89fda' name='for5.bin'/>
+		<part crc='41966df4' name='for7.bin'/>
+		<part crc='e28cd0be' name='for1.bin'/>
+		<part crc='5d79f4d0' name='for3.bin'/>
+		<part crc='cdc89fda' name='for5.bin'/>
+		<part crc='41966df4' name='for7.bin'/>
+		<part crc='87300b4f' fixme='audiocpu:0' name='ra4-5c'/>
+		<part crc='af4e5ffe' fixme='audiocpu:800' name='ra4-5d'/>
+		<part crc='87300b4f' fixme='audiocpu:0' name='ra4-5c'/>
+		<part crc='af4e5ffe' fixme='audiocpu:800' name='ra4-5d'/>
+		<part crc='784319b3' name='fora.bin' repeat='4'/>
+		<part crc='1e2824b1' name='forb.bin' repeat='4'/>
+		<part crc='fce333c7' name='colr6f.cpu'/>
+	</rom>
+</misterromdescription>

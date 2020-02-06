@@ -7,6 +7,7 @@
   <category>Action</category>
   <rbf>MCR2</rbf>
   <setname>kroozr</setname>
+  <buttons names="Fire,Shield,-,-,Rotate Right,Rotate Left,Start 1P,Start 2P,Coin" default="A,B,R,L,Start,Select,Y"/>
   <rom index="1">
     <part>4</part>
   </rom>

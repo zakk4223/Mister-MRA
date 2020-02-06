@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Frogger (bootleg on Amigo? hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Frogs</category>
+	<setname>froggeram</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Jump,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>02</part>
+	</rom>
+	<rom index='0' md5='87fc07ab23175ad0f265d89f09a09003' type='merged|nonmerged' zip='froggeram.zip|frogger.zip'>
+		<part crc='b680e622' name='1.d2'/>
+		<part crc='4223a053' name='3.f2'/>
+		<part crc='b11b36f7' name='5.j2'/>
+		<part crc='bf293a02' fixme='maincpu:3000' name='epr-1015.ic8'/>
+		<part crc='b680e622' name='1.d2'/>
+		<part crc='4223a053' name='3.f2'/>
+		<part crc='b11b36f7' name='5.j2'/>
+		<part crc='bf293a02' fixme='maincpu:3000' name='epr-1015.ic8'/>
+		<part crc='b4c2180e' name='top7.c5'/>
+		<part crc='a1aae0bc' name='b.bin'/>
+		<part crc='9d88fd0a' name='c.bin'/>
+		<part crc='9d88fd0a' name='c.bin'/>
+		<part crc='658745f8' name='bl8h' repeat='4'/>
+		<part crc='05f7d883' name='bl7h' repeat='4'/>
+		<part crc='a35ec965' name='n82s123.bin'/>
+	</rom>
+</misterromdescription>

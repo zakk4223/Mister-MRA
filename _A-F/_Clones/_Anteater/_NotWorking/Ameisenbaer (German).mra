@@ -1,0 +1,36 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Ameisenbaer (German)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>anteaterg</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Retract,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,FB'>
+		<dip bits='8' ids='5,3' name='Lives'/>
+		<dip bits='9' ids='On,Off' name='Demo Sounds'/>
+		<dip bits='17,18' ids='1c/2cr,1c/1cr,1c/3cr,1c/4cr' name='Coinage'/>
+	</switches>
+	<rom index='1'>
+		<part>0A</part>
+	</rom>  
+	<rom index='0' md5='cb939820b00d93a8cf4d40221571163b' type='merged|nonmerged|split' zip='anteaterg.zip|anteater.zip'>
+		<part crc='2ba793a8' name='prg_2.bin'/>
+                <part crc='7a798af5' name='prg_1.bin'/>
+		<part crc='2ba793a8' name='prg_2.bin'/>
+                <part crc='7a798af5' name='prg_1.bin'/>
+		<part crc='87300b4f' name='ra4-5c'/>
+		<part crc='af4e5ffe' name='ra4-5d'/>
+		<part crc='87300b4f' name='ra4-5c'/>
+		<part crc='af4e5ffe' name='ra4-5d'/>
+		<part crc='784319b3' name='gfx_2.bin' repeat='4'/>
+		<part crc='1e2824b1' name='gfx_1.bin' repeat='4'/>
+		<part crc='fce333c7' name='colr6f.cpu'/>
+	</rom>
+</misterromdescription>

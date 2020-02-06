@@ -1,0 +1,35 @@
+<misterromdescription>
+	<name>Take Off (bootleg of The End)</name>
+	<mameversion>0216</mameversion>
+	<setname>takeoff</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Space / Shooter</category>
+	<setname>takeoff</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Fire,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr,3c/1cr,1c/2cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>0C</part>
+	</rom>
+	<rom index='0' md5='ff208c16d727b200c9df68fa625ae8fc' type='merged|nonmerged' zip='takeoff.zip|theend.zip'>
+		<part crc='46712d43' name='0p.t.o.10l'/>
+		<part crc='10256742' name='1p.t.o.9l'/>
+		<part crc='5ee6660a' name='2p.t.o.8l'/>
+                <part crc='46712d43' name='0p.t.o.10l'/>
+		<part crc='46712d43' name='0p.t.o.10l'/>
+		<part crc='10256742' name='1p.t.o.9l'/>
+		<part crc='5ee6660a' name='2p.t.o.8l'/>
+                <part crc='46712d43' name='0p.t.o.10l'/>
+		<part crc='cdc9da78' name='0s.t.o.3b'/>
+		<part crc='cdc9da78' name='0s.t.o.3b'/>
+		<part crc='af6d09b6' name='ic31' repeat='4'/>
+		<part crc='527fd384' name='ic30' repeat='4'/>
+		<part crc='24652bc4' name='6331-1j.86'/>
+	</rom>
+</misterromdescription>

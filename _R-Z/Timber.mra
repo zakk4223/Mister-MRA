@@ -7,6 +7,8 @@
   <category>Action</category>
   <rbf>mcr3</rbf>
   <setname>timber</setname>
+  <buttons names="Axe Right,Axe Left,-,-,-,-,Start 1P,Start 2P,Coin" default="A,Y,Start,Select,R"/>
+
   <rom index='1'>
     <part>1</part>
   </rom>

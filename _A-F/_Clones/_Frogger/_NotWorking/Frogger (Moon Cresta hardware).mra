@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Frogger (Moon Cresta hardware)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Frogs</category>
+	<setname>froggermc</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Jump,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>02</part>
+	</rom>
+	<rom index='0' md5='71be5a32828b68125c673c5f0e528cf2' type='merged|nonmerged' zip='froggermc.zip|frogger.zip'>
+		<part crc='4b7c8d11' name='epr-1031.15'/>
+		<part crc='ac00b9d9' name='epr-1032.16'/>
+		<part crc='bc1d6fbc' name='epr-1033.33'/>
+		<part crc='9efe7399' name='epr-1034.34'/>
+		<part crc='4b7c8d11' name='epr-1031.15'/>
+		<part crc='ac00b9d9' name='epr-1032.16'/>
+		<part crc='bc1d6fbc' name='epr-1033.33'/>
+		<part crc='9efe7399' name='epr-1034.34'/>
+		<part crc='802843c2' name='epr-1082.42'/>
+		<part crc='14e74148' name='epr-1035.43'/>
+		<part crc='14e74148' name='epr-1035.43'/>
+		<part crc='658745f8' name='epr-1036.1k' repeat='4'/>
+		<part crc='05f7d883' name='epr-1037.1h' repeat='4'/>
+		<part crc='413703bf' name='pr-91.6l'/>
+	</rom>
+</misterromdescription>

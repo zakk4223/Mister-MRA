@@ -1,0 +1,42 @@
+<misterromdescription>
+	<name>Omega (bootleg?)</name>
+	<mameversion>0216</mameversion>
+	<setname>omegab</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Space / Shooter</category>
+	<setname>omegab</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Fire,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,256(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,2c/1cr,3c/1cr,1c/2cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>0C</part>
+	</rom>
+	<rom index='0' md5='ac0ac0991f3335ab6704d0c990abddec' type='merged|nonmerged' zip='omegab.zip|theend.zip'>
+		<part crc='fc2a096b' name='omega1.bin'/>
+		<part crc='ad100357' name='omega2.bin'/>
+		<part crc='d7e3be79' name='omega3.bin'/>
+		<part crc='42068171' name='omega4.bin'/>
+		<part crc='d8a93383' name='omega5.bin'/>
+		<part crc='32a42f44' name='omega6.bin'/>
+		<part crc='32a42f44' name='omega6.bin'/>
+		<part crc='32a42f44' name='omega6.bin'/>
+		<part crc='fc2a096b' name='omega1.bin'/>
+		<part crc='ad100357' name='omega2.bin'/>
+		<part crc='d7e3be79' name='omega3.bin'/>
+		<part crc='42068171' name='omega4.bin'/>
+		<part crc='d8a93383' name='omega5.bin'/>
+		<part crc='32a42f44' name='omega6.bin'/>
+		<part crc='32a42f44' name='omega6.bin'/>
+		<part crc='32a42f44' name='omega6.bin'/>
+                <part repeat='8192'>00</part>
+		<part crc='36de42c6' name='omega1k.bin' repeat='4'/>
+		<part crc='527fd384' name='omega1h.bin' repeat='4'/>
+		<part crc='6a0c7d87' name='mmi6331-1j.86'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,51 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Scramble (Stern Electronics set 2)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>scrambles2</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='c8bd2fc872ebeb5662d485826d18b938' type='merged|nonmerged' zip='scrambles2.zip|scramble.zip'>
+		<part crc='defae436' name='2d'/>
+		<part crc='136bf894' name='2e'/>
+		<part crc='539ff711' name='2f'/>
+		<part crc='b59360eb' name='2h'/>
+		<part crc='d5aefbd5' name='2j'/>
+		<part crc='d6f0dfc9' name='2l'/>
+		<part crc='d69e0980' name='2m'/>
+		<part crc='4fc94e8c' name='2p'/>
+		<part crc='defae436' name='2d'/>
+		<part crc='136bf894' name='2e'/>
+		<part crc='539ff711' name='2f'/>
+		<part crc='b59360eb' name='2h'/>
+		<part crc='d5aefbd5' name='2j'/>
+		<part crc='d6f0dfc9' name='2l'/>
+		<part crc='d69e0980' name='2m'/>
+		<part crc='4fc94e8c' name='2p'/>
+		<part crc='bcd297f0' name='ot1.5c'/>
+		<part crc='de7912da' name='ot2.5d'/>
+		<part crc='ba2fa933' name='ot3.5e'/>
+		<part crc='ba2fa933' name='ot3.5e'/>
+		<part crc='516e029e' name='5h' repeat='4'/>
+		<part crc='5f30311a' name='5f' repeat='4'/>
+		<part crc='4e3caeab' name='c01s.6e'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,48 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Scramble (bootleg, set 1)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>scramb2</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='46fc70052622aa105cb9918066b35d24' type='merged|nonmerged' zip='scramb2.zip|scramble.zip'>
+		<part crc='4a43148c' name='r1.7f1'/>
+		<part crc='215a3b86' name='r1.7f2'/>
+		<part crc='28779444' name='r2.7h1'/>
+		<part crc='5b4b300b' name='r2.7h2'/>
+		<part crc='b478aa53' name='r3.7k1'/>
+		<part crc='c33f072e' name='r3.7k2'/>
+		<part crc='88ac07a0' name='r4.7l1'/>
+		<part crc='321fd003' name='r4.7l2'/>
+		<part crc='4a43148c' name='r1.7f1'/>
+		<part crc='215a3b86' name='r1.7f2'/>
+		<part crc='28779444' name='r2.7h1'/>
+		<part crc='5b4b300b' name='r2.7h2'/>
+		<part crc='b478aa53' name='r3.7k1'/>
+		<part crc='c33f072e' name='r3.7k2'/>
+		<part crc='88ac07a0' name='r4.7l1'/>
+		<part crc='321fd003' name='r4.7l2'/>
+                <part repeat='8192'>00</part>
+		<part crc='11fd2887' name='r5.1l' repeat='4'/>
+		<part crc='4708845b' name='r6.1j' repeat='4'/>
+		<part crc='4e3caeab' name='82s123.6e'/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Super Cobra (Sega)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>scobrase</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,F3'>
+		<dip bits='8' ids='No,4 times' name='Allow Continue'/>
+		<dip bits='9' ids='3,4' name='Lives'/>
+		<dip bits='17,18' ids='99cr,1c/1cr,2c/1cr,4c/3cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>03</part>
+	</rom>
+	<rom index='0' md5='299db823aad660d63157a07684b51fa9' type='merged|nonmerged' zip='scobrase.zip|scobra.zip'>
+		<part crc='a0744b3f' name='epr1265.2c'/>
+		<part crc='65306279' name='epr1266.2e'/>
+		<part crc='47a4e6fb' name='epr1267.2f'/>
+		<part crc='53eecaf2' name='epr1268.2h'/>
+		<part crc='e1f8a801' name='epr1269.2j'/>
+		<part crc='f7709710' name='epr1270.2l'/>
+		<part crc='a0744b3f' name='epr1265.2c'/>
+		<part crc='65306279' name='epr1266.2e'/>
+
+		<part crc='deeb0dd3' name='epr1275.5c'/>
+		<part crc='872c1a74' name='epr1276.5d'/>
+		<part crc='ccd7a110' name='epr1277.5e'/>
+		<part crc='ccd7a110' name='epr1277.5e'/>
+		
+		<part crc='a96316d3' name='epr1273.5f' repeat='4'/>
+		<part crc='64d113b4' name='epr1274.5h' repeat='4'/>
+		<part crc='fd35c561' name='pr1278.6e'/>
+	</rom>
+</misterromdescription>

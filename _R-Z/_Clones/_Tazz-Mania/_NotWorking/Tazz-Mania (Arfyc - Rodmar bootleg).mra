@@ -1,0 +1,38 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Tazz-Mania (Arfyc / Rodmar bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>tazmani3</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,FB'>
+		<dip bits='8' ids='5,3' name='Lives'/>
+		<dip bits='9' ids='On,Off' name='Demo Sounds'/>
+		<dip bits='17,18' ids='1c/2cr,1c/1cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<!-- doesn't work well  dip bits="19"    name="Cabinet" ids="Cocktail,Upright"/-->
+	</switches>
+	<rom index='1'>
+		<part>04</part>
+	</rom>  
+	<rom index='0' md5='e69443c2144e524f932e5c89089418d8' type='merged|nonmerged' zip='tazmani3.zip|tazmania.zip'>
+		<part crc='e8b6f9c3' name='2ck.cpu'/>
+		<part crc='c2f92fc0' name='2ek.cpu'/>
+		<part crc='4362182f' name='2fk.cpu'/>
+		<part crc='3d9925ab' name='2hk.cpu'/>
+		<part crc='207c0a63' name='2jk.cpu'/>
+		<part crc='c6253504' name='2kk.cpu'/>
+		<part crc='e8b6f9c3' name='2ck.cpu'/>
+		<part crc='c2f92fc0' name='2ek.cpu'/>
+		<part crc='b8d741f1' name='rom0.snd' repeat='4'/>
+		<part crc='e726b559' name='5h.cpu' repeat='4'/>
+		<part crc='2c5b612b' name='5f.cpu' repeat='4'/>
+		<part crc='6a0c7d87' name='colr6f.cpu'/>
+	</rom>
+</misterromdescription>

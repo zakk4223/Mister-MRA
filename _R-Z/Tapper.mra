@@ -7,6 +7,7 @@
   <category>Action</category>
   <rbf>mcr3</rbf>
   <setname>tapper</setname>
+  <buttons names="Fill,-,-,-,-,-,Start 1P,Start 2P,Coin" default="A,Start,Select,R"/>
   <rom index='1'>
     <part>0</part>
   </rom>

@@ -1,0 +1,38 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Tazz-Mania - El Trompa (U.R.V. BBCPE bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<setname>tazmaniet</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FD,FB'>
+		<dip bits='8' ids='5,3' name='Lives'/>
+		<dip bits='9' ids='On,Off' name='Demo Sounds'/>
+		<dip bits='17,18' ids='1c/2cr,1c/1cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<!-- doesn't work well  dip bits="19"    name="Cabinet" ids="Cocktail,Upright"/-->
+	</switches>
+	<rom index='1'>
+		<part>04</part>
+	</rom>  
+	<rom index='0' md5='a27486a8f57385e4f2cdf0c1e5dfdca2' type='merged|nonmerged' zip='tazmaniet.zip|tazmania.zip'>
+		<part crc='cea9df87' name='13200.bin'/>
+		<part crc='21cfe0b3' name='13201.bin'/>
+		<part crc='d204732e' name='13202.bin'/>
+		<part crc='5d0651bd' name='13203.bin'/>
+		<part crc='9082ac06' name='13204.bin'/>
+		<part crc='9c2a08a2' name='13205.bin'/>
+		<part crc='cea9df87' name='13200.bin'/>
+		<part crc='21cfe0b3' name='13201.bin'/>
+		<part crc='b8d741f1' name='13208.bin' repeat='4'/>
+		<part crc='3f5ff3ac' name='13207.bin' repeat='4'/>
+		<part crc='2c5b612b' name='13206.bin' repeat='4'/>
+		<part crc='aa1f7f5e' name='prom.bin'/>
+	</rom>
+</misterromdescription>

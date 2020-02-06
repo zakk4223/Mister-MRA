@@ -10,7 +10,7 @@
   <rom index='1'>
     <part>0</part>
   </rom>
-  <rom amd5='7300967c61a0f1b887c12f3989e500bb' index='0' type='merged|nonmerged|split' zip='rampage2.zip|rampage.zip'>
+  <rom index='0' md5='75e2219cce6e42429ff773a08940eba2' type='merged|nonmerged|split' zip='rampage2.zip|rampage.zip'>
     <part crc='3f1d0293' name='pro-0_3b_rev_2_8-4-86.3b'/>
     <part crc='58523d75' name='pro-1_5b_rev_2_8-4-86.5b'/>
     <part crc='0974be5d' name='fg-0_8e_6-30-86.8e'/>
@@ -30,5 +30,7 @@
     <dip bits='3' ids='2 Coins/1 Credit,1 Coin/1 Credit' name='Coin A' values='0,1'/>
     <dip bits='4,6' ids='3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/5 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit' name='Coin B' values='0,1,2,3,4,5,6,7'/>
     <dip bits='7' ids='On,Off' name='Rack Advance (Cheat)' values='0,1'/>
+    <dip bits='8' ids='Off,On' name='Service'/>
   </switches>
+  <buttons default='A,B,Start' names='Punch,Jump,-,-,-,Coin'/>
 </misterromdescription>

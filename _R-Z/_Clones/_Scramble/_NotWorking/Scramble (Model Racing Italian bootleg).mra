@@ -1,0 +1,42 @@
+<misterromdescription>
+	<remark>
+		prg    0000-7FFF
+		aud    8000-9FFF
+		obj0   A000-BFFF
+		obj1   C000-DFFF
+		col    E000-E01F
+	</remark>
+	<name>Scramble (Model Racing, Italian bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Space / Defender</category>
+	<setname>scrammr</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,Start,Select,R' names='Shoot,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,255(Cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1c/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>00</part>
+	</rom>  
+	<rom index='0' md5='e7bd5f6da7e911ecc04a97e29386adb9' type='merged|nonmerged' zip='scrammr.zip|scramble.zip'>
+		<part crc='680c9355' name='301.cd2'/>
+		<part crc='5b500c90' name='302.e2'/>
+		<part crc='664437d7' name='303.fg2'/>
+		<part crc='b66c90d6' name='304.h2'/>
+		<part crc='680c9355' name='301.cd2'/>
+		<part crc='5b500c90' name='302.e2'/>
+		<part crc='664437d7' name='303.fg2'/>
+		<part crc='b66c90d6' name='304.h2'/>
+		<part crc='684a0866' name='305.c5'/>
+		<part crc='ba2fa933' name='313.d5'/>
+		<part crc='ba2fa933' name='313.d5'/>
+		<part crc='11fd2887' name='309.fg5' repeat='4'/>
+		<part crc='4708845b' name='310.h5' repeat='4'/>
+		<part crc='aec6cb4e' name='74188.k6'/>
+	</rom>
+</misterromdescription>
