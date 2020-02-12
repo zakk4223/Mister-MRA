@@ -1,0 +1,31 @@
+<misterromdescription>
+    <name>Minefield (The Logicshop, bootleg)</name>
+    <mameversion>0209</mameversion>
+	<setname>minefldfe</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Shoot Right,Shoot Down,Shoot Up,Shoot Left,Start 1P/Rocket,Start 2P,Coin'/>
+	<switches default='FF,FC,FB'>
+		<dip bits='1' ids='3,1' name='Starting Level'/>
+		<dip bits='8' ids='3,5' name='Lives'/>
+		<dip bits='9' ids='On,Off' name='Demo Sounds'/>
+		<dip bits='17' ids='1c/2cr,1c/1cr' name='Coinage'/>
+		<dip bits='18,19' ids='Hardest,Hard,Medium,Easy' name='Difficulty'/>
+	</switches>
+	<rom index='1'>
+		<part>10</part>
+	</rom>  
+    <rom index='0' md5='baf67055dac3e3ecc836c835a5a06a8b' type='merged|nonmerged|split' zip='minefldfe.zip|minefld.zip'>
+		<part crc='0511df9f' name='sub-1.bin'/>
+                <part crc='00205e04' name='sub-2.bin'/>
+                <part crc='98c05d8d' name='sub-3.bin' repeat='4'/>
+
+		<part crc='8bef736b' name='snd.2l'/>
+		<part crc='f67b3f97' name='snd.2m'/>
+		<part crc='8bef736b' name='snd.2l'/>
+		<part crc='f67b3f97' name='snd.2m'/>
+
+		<part crc='4b7e1fbc' name='gfx.5h' repeat='4'/>
+		<part crc='8b5e187a' name='gfx.5f' repeat='4'/>
+		<part crc='1877368e' name='82s123.6e'/>
+    </rom>
+</misterromdescription>

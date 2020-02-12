@@ -1,0 +1,24 @@
+<misterromdescription>
+	<name>Ultra Tank</name>
+	<mameversion>0217</mameversion>
+	<setname>ultratnk</setname>
+	<mratimestamp>20200128231529</mratimestamp>
+	<year>1978</year>
+	<manufacturer>Atari (Kee Games)</manufacturer>
+	<category>Army / Tank</category>
+	<rbf>ultratank</rbf>
+	<rom index="0" zip="ultratnk.zip" md5="df3431c1af207b6a7868f1027483972d">
+		<part crc="b6aa6056" name="030180.n1"/>
+		<part crc="17145c97" name="030181.k1"/>
+		<part crc="034366a2" name="030182.m1"/>
+		<part crc="be141602" name="030183.l1"/>
+		<part crc="d0e20e73" name="30174-01.n6"/>
+		<part crc="a47459c9" name="30175-01.m6"/>
+		<part crc="1cc7c2dd" name="30176-01.l6"/>
+		<part crc="3a91b09f" name="30177-01.k6"/>
+		<part crc="e71d2e22" name="30024-01.p8"/>
+		<part crc="1d364b23" name="30172-01.j6"/>
+		<part crc="5c32f331" name="30173-01.h6"/>
+		<part crc="d7a2c7b4" name="30218-01.j10"/>
+	</rom>
+</misterromdescription>

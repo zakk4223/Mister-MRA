@@ -1,0 +1,32 @@
+<misterromdescription>
+    <name>600</name>
+    <mameversion>0209</mameversion>
+	<setname>600</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Fire,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,126(cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>0F</part>
+	</rom>  
+    <rom index='0' md5='49219f7dc3106f98afcfd50a36775747' type='merged|nonmerged' zip='600.zip|turtles.zip'>
+		<part crc='8ee090ae' name='600_vid.2c'/>
+		<part crc='45bfaff2' name='600_vid.2e'/>
+		<part crc='9f4c8ed7' name='600_vid.2f'/>
+		<part crc='a92ef056' name='600_vid.2h'/>
+		<part crc='6dadd72d' name='600_vid.2j'/>
+		<part crc='6dadd72d' name='600_vid.2j'/>
+		<part crc='6dadd72d' name='600_vid.2j'/>
+		<part crc='6dadd72d' name='600_vid.2j'/>
+
+		<part crc='1773c68e' name='600_snd.5c'/>
+		<part crc='a311b998' name='600_snd.5d'/>
+
+		<part crc='7dbc0426' name='600_vid.5f' repeat='4'/>
+		<part crc='006c3d56' name='600_vid.5h' repeat='4'/>
+		<part crc='f3ef02dd' name='turtles.clr'/>
+    </rom>
+</misterromdescription>

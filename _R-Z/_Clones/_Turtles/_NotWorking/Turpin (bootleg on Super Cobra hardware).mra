@@ -1,0 +1,32 @@
+<misterromdescription>
+    <name>Turpin (bootleg on Super Cobra hardware)</name>
+    <mameversion>0209</mameversion>
+	<setname>turpins</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,Start,Select,R' names='Fire,-,-,-,Start 1P,Start 2P,Coin'/>
+	<switches default='FF,FC,F1'>
+		<dip bits='8,9' ids='3,4,5,126(cheat)' name='Lives'/>
+		<dip bits='17,18' ids='1c/1cr,1c/2cr,1c/3cr,1/4cr' name='Coinage'/>
+		<dip bits='19' ids='Upright,Cocktail' name='Cabinet'/>
+	</switches>
+	<rom index='1'>
+		<part>03</part>
+	</rom>  
+    <rom index='0' md5='92ebc41da5d59f1fff367501d6176286' type='merged|nonmerged' zip='turpins.zip|turtles.zip'>
+		<part crc='89dd50cc' name='t1.bin'/>
+		<part crc='9562dc29' name='t3.bin'/>
+		<part crc='62291652' name='t4.bin'/>
+		<part crc='804118e8' name='t5.bin'/>
+		<part crc='8024f678' name='t2.bin'/>
+		<part crc='8024f678' name='t2.bin'/>
+		<part crc='8024f678' name='t2.bin'/>
+		<part crc='8024f678' name='t2.bin'/>
+
+		<part crc='c97ed8ab' name='8tur.bin'/>
+		<part crc='af5fc43c' name='5tur.bin'/>
+
+		<part crc='c3ffd655' name='tur.5f' repeat='4'/>
+		<part crc='e5999d52' name='tur.4f' repeat='4'/>
+		<part crc='f3ef02dd' name='turtles.clr'/>
+    </rom>
+</misterromdescription>

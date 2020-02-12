@@ -1,0 +1,32 @@
+<misterromdescription>
+    <name>Rescue (Free Enterprise Games, bootleg)</name>
+    <mameversion>0209</mameversion>
+	<setname>rescuefe</setname>
+	<rbf>scramble</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Shoot Right,Shoot Down,Shoot Up,Shoot Left,Start 1P/Bomb,Start 2P,Coin'/>
+	<switches default='FF,FD,F3'>
+		<dip bits='1' ids='3,1' name='Starting Level'/>
+		<dip bits='8' ids='5,3' name='Lives'/>
+		<dip bits='9' ids='On,Off' name='Demo Sounds'/>
+		<dip bits='17,18' ids='1c/2cr,1c/1cr,1c/3cr,1/4cr' name='Coinage'/>
+		<dip bits='19' ids='Easy,Hard' name='Difficulty'/>
+	</switches>
+	<rom index='1'>
+		<part>11</part>
+	</rom>  
+    <rom index='0' md5='7f992a6b2414530ccf9e282983930362' type='merged|nonmerged|split' zip='rescuefe.zip|rescue.zip'>
+		<part crc='7a6e813e' name='sub-1.bin'/>
+                <part crc='28fcec83' name='sub-2.bin'/>
+                <part crc='6fbeb239' name='sub-3.bin'/>
+                <part repeat='6144'>00</part>
+		<part crc='8b24bf17' name='rb15csnd.2l'/>
+		<part crc='d96e4fb3' name='rb15dsnd.2m'/>
+		<part crc='8b24bf17' name='rb15csnd.2l'/>
+		<part crc='d96e4fb3' name='rb15dsnd.2m'/>
+
+		<part crc='9486e09e' name='gfx.5h' repeat='4'/>
+		<part crc='60f49e88' name='gfx.5f' repeat='4'/>
+		<part crc='40c6bcbd' name='82s123.6e'/>
+    </rom>
+</misterromdescription>
+
