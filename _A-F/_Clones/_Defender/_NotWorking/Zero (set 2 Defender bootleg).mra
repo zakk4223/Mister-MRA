@@ -1,31 +1,27 @@
 <misterromdescription>
-	<name>Defender (Green label)</name>
+	<name>Zero (set 2, Defender bootleg)</name>
 	<mameversion>0216</mameversion>
 	<mratimestamp>201911270000</mratimestamp>
 	<year>1980</year>
 	<manufacturer>Williams</manufacturer>
 	<category>Space / Defender</category>
-	<setname>defenderg</setname>
+	<setname>zero2</setname>
 	<rbf>defender</rbf>
 	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
 	<switches>
 		<dip bits='0' ids='Off,On' name='Auto up'/>
 		<dip bits='1' ids='Off,On' name='Advance'/>
 	</switches>
-	<rom index='0' md5='ddfd827c4a1418e3f1a17b4bde3b68ab' type='merged|nonmerged' zip='defenderg.zip|defender.zip'>
-		<part crc='6111d74d' name='defeng01.bin'/>
-		<part crc='3cfc04ce' name='defeng04.bin'/>
-		<part crc='d184ab6b' name='defeng02.bin'/>
-		<part crc='788b76d7' name='defeng03.bin'/>
-		<part crc='f57caa62' name='defeng09.bin'/>
-		<part crc='33db686f' name='defeng12.bin'/>
-		<part crc='9a9eb3d2' name='defeng08.bin'/>
-		<part crc='5ca4e860' name='defeng11.bin'/>
-		<part crc='545c3326' name='defeng07.bin'/>
-		<part crc='941cf34e' name='defeng10.bin'/>
-		<part crc='3af34c05' name='defeng06.bin'/>
-		<part crc='3af34c05' name='defeng06.bin'/>
-		<part crc='8dd98da5' name='decoder.1'/>
+	<rom index='0' md5='380958fcf686e884bb54a7af189ab0d6' type='merged|nonmerged' zip='zero2.zip|defender.zip'>
+		<part crc='9323eee5' name='15me.1a'/>
+		<part crc='a79213b2' name='to16.3a'/>
+		<part crc='16a3c0dd' name='17m5.4a'/>
+		<part crc='7ca35cfd' name='21.4c'/>
+		<part crc='7473955b' name='20m5.3b'/>
+		<part crc='f2bef850' name='to19.1b'/>
+		<part crc='7e4afe43' name='18m5.4b'/>
+		<part crc='7e4afe43' name='18m5.4b'/>
+                <part crc='8dd98da5' name='decoder.2'/>
                 <part crc='c3f45f70' name='decoder.3'/>
 		<part>
 			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -46,7 +42,7 @@
 			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 		</part>
 		<part repeat='2816'>00</part>
-		<part crc='fefd5b48' name='defend.snd'/>
-		<part crc='fefd5b48' name='defend.snd'/>
+		<part crc='cb79ae42' name='to4.6b'/>
+		<part crc='cb79ae42' name='to4.6b'/>
 	</rom>
 </misterromdescription>

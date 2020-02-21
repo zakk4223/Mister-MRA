@@ -1,28 +1,51 @@
 <misterromdescription>
-  <name>Defender (White label)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>Williams</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>defender</rbf>
-  
-  
-  
-  
-  <rom index='0' md5='bcbee47384869ac23a86d717c7ae6aa0' type='merged|nonmerged|split' zip='defenderw.zip|defender.zip'>
-    <part crc='5af871e3' name='rom1.bin'/>
-    <part crc='1126adc9' name='rom2.bin'/>
-    <part crc='4097b46b' name='rom3.bin'/>
-    <part crc='93012991' name='rom9.bin'/>
-    <part crc='4bdd8dc4' name='rom12.bin'/>
-    <part crc='5227fc0b' name='rom8.bin'/>
-    <part crc='d068f0c5' name='rom11.bin'/>
-    <part crc='fef4cb77' name='rom7.bin'/>
-    <part crc='49b50b40' name='rom10.bin'/>
-    <part crc='43d42a1b' name='rom6.bin'/>
-    <part crc='fefd5b48' name='defend.snd'/>
-    <part crc='8dd98da5' name='decoder.1'/>
-    <part crc='FIXME' name='decoder.3'/>
-  </rom>
+	<name>Defender (White label)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<setname>defenderw</setname>
+	<rbf>defender</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
+	<switches>
+		<dip bits='0' ids='Off,On' name='Auto up'/>
+		<dip bits='1' ids='Off,On' name='Advance'/>
+	</switches>
+	<rom index='0' md5='4520605a5dddb0d2c453a63be348d458' type='merged|nonmerged' zip='defenderw.zip|defender.zip'>
+		<part crc='5af871e3' name='rom1.bin'/>
+		<part crc='1126adc9' name='rom2.bin'/>
+		<part crc='4097b46b' name='rom3.bin'/>
+		<part crc='93012991' name='rom9.bin'/>
+		<part crc='4bdd8dc4' name='rom12.bin'/>
+		<part crc='5227fc0b' name='rom8.bin'/>
+		<part crc='d068f0c5' name='rom11.bin'/>
+		<part crc='fef4cb77' name='rom7.bin'/>
+		<part crc='49b50b40' name='rom10.bin'/>
+		<part crc='43d42a1b' name='rom6.bin'/>
+		<part crc='43d42a1b' name='rom6.bin'/>
+		<part crc='8dd98da5' name='decoder.1'/>
+                <part crc='c3f45f70' name='decoder.3'/>
+		<part>
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01
+			02 07 00 04 04 05 02 04 0A 00 01 08 03 01 05 05
+			03 04 01 04 0D 00 01 05 09 02 00 04 0C 04 05 04
+			04 00 01 04 02 08 05 05 00 04 07 04 04 00 01 02
+			05 02 00 04 03 05 02 04 02 00 01 01 00 03 05 04
+			0D 05 02 05 03 00 00 08 02 06 05 05 03 05 03 05
+			02 00 00 06 00 01 00 05 04 04 0D 04 08 00 00 05
+			0A 00 01 00 00 00 03 00 03 00 01 00 04 00 01 00
+			01 00 00 00 00 00 00 00 05 01 05 00 01 00 05 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+		<part repeat='2816'>00</part>
+		<part crc='fefd5b48' name='defend.snd'/>
+		<part crc='fefd5b48' name='defend.snd'/>
+	</rom>
 </misterromdescription>

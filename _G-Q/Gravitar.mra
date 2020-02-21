@@ -1,0 +1,41 @@
+<misterromdescription>
+	<name>Gravitar (version 3)</name>
+	<mameversion>0218</mameversion>
+	<mratimestamp>202002080000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Shooter</category>
+	<rbf>BlackWidow</rbf>
+	<setname>gravitar</setname>
+	<switches default="FF,FF,00">
+		<dip bits="3,4" name="Lives" ids="3,4,5,6"/>
+		<dip bits="5,6" name="Difficulty" ids="Easy,Medium,Hard,Demo"/>
+		<dip bits="7,8" name="Bonus_Life" ids="10000,20000,30000,None"/>
+		<dip bits="9,10" name="Coinage" ids="1C_1C,2C_1C,Free_Play,1C_2C"/>
+		<dip bits="11,12" name="Coin_B" ids="1,4,5,6"/>
+		<dip bits="13" name="Coin_A" ids="1,2"/>
+		<dip bits="14,15,16" name="Bonus Coins" ids="None,1 each 2,1 each 4,2 each 4,1 each 5,1 each 3"/>		
+		<dip bits="17"    name="Service" ids="Off,On"/>
+		<dip bits="18"    name="Service2" ids="Off,On"/>
+	</switches>
+	<buttons names="Fire,Thrust,-,Shield,Start 1P,Start 2P,Coin" default="A,B,Y,Start,Select,R"/>
+	<rom index="1">
+		<part>1</part>
+	</rom>	
+	<rom index="0" zip="gravitar.zip" md5="8bce967739e6f1b333ca884da206c52d" type="merged|nonmerged">
+		<part crc="a2a55013" name="136010-301.d1"/>
+		<part crc="d3700b3c" name="136010-302.ef1"/>
+		<part crc="8e12e3e0" name="136010-303.h1"/>
+		<part crc="467ad5da" name="136010-304.j1"/>
+		<part crc="840603af" name="136010-305.kl1"/>
+		<part crc="3f3805ad" name="136010-306.m1"/>
+		
+		<part crc="debcb243" name="136010-210.l7"/>
+		<part crc="debcb243" name="136010-210.l7"/>		
+		<part crc="4135629a" name="136010-207.mn7"/>
+		<part crc="358f25d9" name="136010-208.np7"/>
+		<part crc="4ac78df4" name="136010-309.r7"/>
+				
+		<part crc="5903af03" name="136002-125.n4"/>
+	</rom>
+</misterromdescription>

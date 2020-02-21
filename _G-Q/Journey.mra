@@ -48,4 +48,7 @@
 		<part crc="9104c1d0" name="g4"/>
 		<part crc="9104c1d0" name="g4"/>
 	</rom>
+        <rom index="2" zip="/sound/journey.zip" address="0x30000000" md5="none">
+          <part name="sepways.wav"/>
+        </rom>
 </misterromdescription>

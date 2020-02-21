@@ -1,28 +1,52 @@
 <misterromdescription>
-  <name>T.T Defender</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>Williams</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>defender</rbf>
-  
-  
-  
-  
-  <rom index='0' md5='a03bb414f0fd8f1a04988a4b766bf047' type='merged|nonmerged|split' zip='defenderj.zip|defender.zip'>
-    <part crc='8c04602b' name='df1-1.e3'/>
-    <part crc='89b75984' name='df2-1.e2'/>
-    <part crc='94f51e9b' name='df3-1.e1'/>
-    <part crc='12e2bd1c' name='df10-1.a1'/>
-    <part crc='f1f88938' name='df7-1.b1'/>
-    <part crc='b649e306' name='df9-1.a2'/>
-    <part crc='9deaf6d9' name='df6-1.b2'/>
-    <part crc='339e092e' name='df8-1.a3'/>
-    <part crc='a543b167' name='df5-1.b3'/>
-    <part crc='65f4efd1' name='df4-1.c1'/>
-    <part crc='f122d9c9' name='df12.i3'/>
-    <part crc='FIXME' name='decoder.2'/>
-    <part crc='FIXME' name='decoder.3'/>
-  </rom>
+	<name>T.T Defender</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<setname>defenderj</setname>
+	<rbf>defender</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
+	<switches>
+		<dip bits='0' ids='Off,On' name='Auto up'/>
+		<dip bits='1' ids='Off,On' name='Advance'/>
+	</switches>
+	<rom index='0' md5='132ca5fdc45928ee75b929f8e20a64cc' type='merged|nonmerged' zip='defenderj.zip|defender.zip'>
+		<part crc='8c04602b' name='df1-1.e3'/>
+		<part crc='89b75984' name='df2-1.e2'/>
+		<part crc='94f51e9b' name='df3-1.e1'/>
+		<part crc='12e2bd1c' name='df10-1.a1'/>
+		<part crc='f1f88938' name='df7-1.b1'/>
+		<part crc='b649e306' name='df9-1.a2'/>
+		<part crc='9deaf6d9' name='df6-1.b2'/>
+		<part crc='339e092e' name='df8-1.a3'/>
+		<part crc='a543b167' name='df5-1.b3'/>
+		<part crc='65f4efd1' name='df4-1.c1'/>
+		<part crc='65f4efd1' name='df4-1.c1'/>
+                <part crc='8dd98da5' name='decoder.2'/>
+                <part crc='c3f45f70' name='decoder.3'/>
+
+		<part>
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01
+			02 07 00 04 04 05 02 04 0A 00 01 08 03 01 05 05
+			03 04 01 04 0D 00 01 05 09 02 00 04 0C 04 05 04
+			04 00 01 04 02 08 05 05 00 04 07 04 04 00 01 02
+			05 02 00 04 03 05 02 04 02 00 01 01 00 03 05 04
+			0D 05 02 05 03 00 00 08 02 06 05 05 03 05 03 05
+			02 00 00 06 00 01 00 05 04 04 0D 04 08 00 00 05
+			0A 00 01 00 00 00 03 00 03 00 01 00 04 00 01 00
+			01 00 00 00 00 00 00 00 05 01 05 00 01 00 05 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+		<part repeat='2816'>00</part>
+		<part crc='f122d9c9' name='df12.i3'/>
+		<part crc='f122d9c9' name='df12.i3'/>
+	</rom>
 </misterromdescription>

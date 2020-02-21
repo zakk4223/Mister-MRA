@@ -1,36 +1,36 @@
 <misterromdescription>
-	<name>Robotron 2084 (Solid Blue label)</name>
+	<name>Alien Arena (Stargate upgrade)</name>
 	<mameversion>0218</mameversion>
-	<setname>robotron</setname>
-	<mratimestamp>20200219234831</mratimestamp>
-	<year>1982</year>
-	<manufacturer>Williams / Vid Kidz</manufacturer>
-	<category>Adventure / Apocalyptic</category>
+	<setname>alienaru</setname>
+	<mratimestamp>20200219231942</mratimestamp>
+	<year>1985</year>
+	<manufacturer>Duncan Brown</manufacturer>
 	<category>Maze</category>
-	<category>Space / Robots</category>
+	<category>Space / Aliens</category>
 	<rbf>robotron</rbf>
-	<switches default="00">
+<buttons names="Place,Flush,-,-,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
+		<switches default="00">
 		<dip bits="0"   name="Auto Up" ids="Off,On"/>
 		<dip bits="1"   name="Advance" ids="Off,On"/>
 	</switches>
-	<buttons names="Fire Right,Fire Down,Fire Up,Fire Left,Start 1P,Start 2P,Coin" default="A,B,X,Y,Start,Select,R"/>
 	<rom index="1">
-		<part>0</part>
+		<part>5</part>
 	</rom>
-	<rom index="0" zip="robotron.zip" md5="393b4004ab6f57f3b7c89425c5b1e862" type="split|merged">
-		<part crc="66c7d3ef" name="robotron.sb1"/>
-		<part crc="5bc6c614" name="robotron.sb2"/>
-		<part crc="e99a82be" name="robotron.sb3"/>
-		<part crc="afb1c561" name="robotron.sb4"/>
-		<part crc="62691e77" name="robotron.sb5"/>
-		<part crc="bd2c853d" name="robotron.sb6"/>
-		<part crc="49ac400c" name="robotron.sb7"/>
-		<part crc="3a96e88c" name="robotron.sb8"/>
-		<part crc="b124367b" name="robotron.sb9"/>
-		<part crc="13797024" name="robotron.sba"/>
-		<part crc="7e3c1b87" name="robotron.sbb"/>
-		<part crc="645d543e" name="robotron.sbc"/>
-		<part crc="c56c1d28" name="robotron.snd"/>
+	<rom index="0" zip="alienar.zip|alienaru.zip" md5="89c1ca8e01e1b027c88492f3f221a56c">
+		<part crc="bb0c21be" name="aarom01"/>
+		<part crc="165acd37" name="aarom02"/>
+		<part crc="e5d51d92" name="aarom03"/>
+		<part crc="24f6feb8" name="aarom04"/>
+		<part crc="5b1ac59b" name="aarom05"/>
+		<part crc="da7195a2" name="aarom06"/>
+		<part crc="f9812be4" name="aarom07"/>
+		<part crc="cd7f3a87" name="aarom08"/>
+		<part crc="e6ce77b4" name="aarom09"/>
+		<part crc="6feb0314" name="aarom10"/>
+		<part crc="ae3a270e" name="aarom11"/>
+		<part crc="6be9f09e" name="aarom12"/>
+		<part crc="2fcf6c4d" name="sg.snd"/>
+		<part crc="2fcf6c4d" name="sg.snd"/>
 		<part>
 02250003000300010004000100010000
 00000001000300030000000000000000

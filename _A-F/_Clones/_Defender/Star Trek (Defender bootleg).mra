@@ -1,28 +1,52 @@
 <misterromdescription>
-  <name>Star Trek (Defender bootleg)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>Williams</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>defender</rbf>
-  
-  
-  
-  
-  <rom index='0' md5='8b9b15202b8ec7b323612218786cfd4f' type='merged|nonmerged|split' zip='startrkd.zip|defender.zip'>
-    <part crc='5af871e3' name='st_rom8.bin'/>
-    <part crc='1126adc9' name='st_rom9.bin'/>
-    <part crc='4097b46b' name='st_rom10.bin'/>
-    <part crc='93012991' name='st_rom6.bin'/>
-    <part crc='c6f0c004' name='st_rom5.bin'/>
-    <part crc='b48430bf' name='st_rom4.bin'/>
-    <part crc='d068f0c5' name='st_rom3.bin'/>
-    <part crc='fef4cb77' name='st_rom2.bin'/>
-    <part crc='d23d6cdb' name='st_rom1.bin'/>
-    <part crc='43d42a1b' name='st_rom7.bin'/>
-    <part crc='fefd5b48' name='defend.snd'/>
-    <part crc='FIXME' name='decoder.2'/>
-    <part crc='FIXME' name='decoder.3'/>
-  </rom>
+	<name>Star Trek (Defender bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<setname>startrkd</setname>
+	<rbf>defender</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
+	<switches>
+		<dip bits='0' ids='Off,On' name='Auto up'/>
+		<dip bits='1' ids='Off,On' name='Advance'/>
+	</switches>
+	<rom index='0' md5='816c420f4821a4bddcfca98ef1b47c0e' type='merged|nonmerged' zip='startrkd.zip|defender.zip'>
+		<part crc='5af871e3' name='st_rom8.bin'/>
+		<part crc='1126adc9' name='st_rom9.bin'/>
+		<part crc='4097b46b' name='st_rom10.bin'/>
+		<part crc='93012991' name='st_rom6.bin'/>
+		<part crc='c6f0c004' name='st_rom5.bin'/>
+		<part crc='b48430bf' name='st_rom4.bin'/>
+		<part crc='d068f0c5' name='st_rom3.bin'/>
+		<part crc='fef4cb77' name='st_rom2.bin'/>
+		<part crc='d23d6cdb' name='st_rom1.bin'/>
+		<part crc='43d42a1b' name='st_rom7.bin'/>
+		<part crc='43d42a1b' name='st_rom7.bin'/>
+                <part crc='8dd98da5' name='decoder.2'/>
+                <part crc='c3f45f70' name='decoder.3'/>
+
+		<part>
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01
+			02 07 00 04 04 05 02 04 0A 00 01 08 03 01 05 05
+			03 04 01 04 0D 00 01 05 09 02 00 04 0C 04 05 04
+			04 00 01 04 02 08 05 05 00 04 07 04 04 00 01 02
+			05 02 00 04 03 05 02 04 02 00 01 01 00 03 05 04
+			0D 05 02 05 03 00 00 08 02 06 05 05 03 05 03 05
+			02 00 00 06 00 01 00 05 04 04 0D 04 08 00 00 05
+			0A 00 01 00 00 00 03 00 03 00 01 00 04 00 01 00
+			01 00 00 00 00 00 00 00 05 01 05 00 01 00 05 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+		<part repeat='2816'>00</part>
+		<part crc='fefd5b48' name='defend.snd'/>
+		<part crc='fefd5b48' name='defend.snd'/>
+	</rom>
 </misterromdescription>

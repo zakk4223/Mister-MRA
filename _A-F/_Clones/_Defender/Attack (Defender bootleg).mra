@@ -1,28 +1,51 @@
 <misterromdescription>
-  <name>Attack (Defender bootleg)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>Williams</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>defender</rbf>
-  
-  
-  
-  
-  <rom index='0' md5='5b296d7d7358e94c991d773c7e4fe1fd' type='merged|nonmerged|split' zip='attackf.zip|defender.zip'>
-    <part crc='0ee1019d' name='002-1.ic1'/>
-    <part crc='d184ab6b' name='002-2.ic2'/>
-    <part crc='a732d649' name='002-3.ic3'/>
-    <part crc='f57caa62' name='002-9.ic12'/>
-    <part crc='eb73d8a1' name='002-12.ic9'/>
-    <part crc='17f7abde' name='002-8.ic11'/>
-    <part crc='5ca4e860' name='002-11.ic8'/>
-    <part crc='545c3326' name='002-7.ic10'/>
-    <part crc='3940d731' name='002-10.ic7'/>
-    <part crc='3af34c05' name='002-6.ic6'/>
-    <part crc='fefd5b48' name='003-13.ic12'/>
-    <part crc='8dd98da5' name='001-14.g1'/>
-    <part crc='FIXME' name='decoder.3'/>
-  </rom>
+	<name>Attack (Defender bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<setname>attackf</setname>
+	<rbf>defender</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
+	<switches>
+		<dip bits='0' ids='Off,On' name='Auto up'/>
+		<dip bits='1' ids='Off,On' name='Advance'/>
+	</switches>
+	<rom index='0' md5='2de55e0308177720340578f759be78ba' type='merged|nonmerged|split' zip='attackf.zip|defender.zip'>
+		<part crc='0ee1019d' name='002-1.ic1'/>
+		<part crc='d184ab6b' name='002-2.ic2'/>
+		<part crc='a732d649' name='002-3.ic3'/>
+		<part crc='f57caa62' name='002-9.ic12'/>
+		<part crc='eb73d8a1' name='002-12.ic9'/>
+		<part crc='17f7abde' name='002-8.ic11'/>
+		<part crc='5ca4e860' name='002-11.ic8'/>
+		<part crc='545c3326' name='002-7.ic10'/>
+		<part crc='3940d731' name='002-10.ic7'/>
+		<part crc='3af34c05' name='002-6.ic6'/>
+		<part crc='3af34c05' name='002-6.ic6'/>
+		<part crc='8dd98da5' name='001-14.g1'/>
+		<part crc='c3f45f70' name='decoder.3'/>
+		<part>
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01
+			02 07 00 04 04 05 02 04 0A 00 01 08 03 01 05 05
+			03 04 01 04 0D 00 01 05 09 02 00 04 0C 04 05 04
+			04 00 01 04 02 08 05 05 00 04 07 04 04 00 01 02
+			05 02 00 04 03 05 02 04 02 00 01 01 00 03 05 04
+			0D 05 02 05 03 00 00 08 02 06 05 05 03 05 03 05
+			02 00 00 06 00 01 00 05 04 04 0D 04 08 00 00 05
+			0A 00 01 00 00 00 03 00 03 00 01 00 04 00 01 00
+			01 00 00 00 00 00 00 00 05 01 05 00 01 00 05 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+		<part repeat='2816'>00</part>
+		<part crc='fefd5b48' name='003-13.ic12'/>
+		<part crc='fefd5b48' name='003-13.ic12'/>
+	</rom>
 </misterromdescription>

@@ -1,28 +1,52 @@
 <misterromdescription>
-  <name>Galaxy Wars II (Defender bootleg)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>Williams</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>defender</rbf>
-  
-  
-  
-  
-  <rom index='0' md5='d4387eedea82b901b6a8f83e878a291c' type='merged|nonmerged|split' zip='galwars2.zip|defender.zip'>
-    <part crc='ebc93622' name='9d-1-2532.bin'/>
-    <part crc='2a4f4f44' name='9c-2-2532.bin'/>
-    <part crc='a4112f91' name='8d-3-2532.bin'/>
-    <part crc='7a1e5998' name='4c-10-2716.bin'/>
-    <part crc='a9bdacdc' name='5d-7-2716.bin'/>
-    <part crc='906dca8f' name='4d-9-2716.bin'/>
-    <part crc='6d748030' name='6c-6-2716.bin'/>
-    <part crc='52d5438b' name='5c-8-2716.bin'/>
-    <part crc='4a270340' name='6d-5-2716.bin'/>
-    <part crc='e13f457c' name='7c-4-2716.bin'/>
-    <part crc='f122d9c9' name='3f-11-2716.bin'/>
-    <part crc='FIXME' name='decoder.2'/>
-    <part crc='FIXME' name='decoder.3'/>
-  </rom>
+	<name>Galaxy Wars II (Defender bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<setname>galwars2</setname>
+	<rbf>defender</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
+	<switches>
+		<dip bits='0' ids='Off,On' name='Auto up'/>
+		<dip bits='1' ids='Off,On' name='Advance'/>
+	</switches>
+	<rom index='0' md5='91801cd4de141182707e87d9ec6b2433' type='merged|nonmerged' zip='galwars2.zip|defender.zip'>
+		<part crc='ebc93622' name='9d-1-2532.bin'/>
+		<part crc='2a4f4f44' name='9c-2-2532.bin'/>
+		<part crc='a4112f91' name='8d-3-2532.bin'/>
+		<part crc='7a1e5998' name='4c-10-2716.bin'/>
+		<part crc='a9bdacdc' name='5d-7-2716.bin'/>
+		<part crc='906dca8f' name='4d-9-2716.bin'/>
+		<part crc='6d748030' name='6c-6-2716.bin'/>
+		<part crc='52d5438b' name='5c-8-2716.bin'/>
+		<part crc='4a270340' name='6d-5-2716.bin'/>
+		<part crc='e13f457c' name='7c-4-2716.bin'/>
+		<part crc='e13f457c' name='7c-4-2716.bin'/>
+                <part crc='8dd98da5' name='decoder.2'/>
+                <part crc='c3f45f70' name='decoder.3'/>
+
+		<part>
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01
+			02 07 00 04 04 05 02 04 0A 00 01 08 03 01 05 05
+			03 04 01 04 0D 00 01 05 09 02 00 04 0C 04 05 04
+			04 00 01 04 02 08 05 05 00 04 07 04 04 00 01 02
+			05 02 00 04 03 05 02 04 02 00 01 01 00 03 05 04
+			0D 05 02 05 03 00 00 08 02 06 05 05 03 05 03 05
+			02 00 00 06 00 01 00 05 04 04 0D 04 08 00 00 05
+			0A 00 01 00 00 00 03 00 03 00 01 00 04 00 01 00
+			01 00 00 00 00 00 00 00 05 01 05 00 01 00 05 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+		<part repeat='2816'>00</part>
+		<part crc='f122d9c9' name='3f-11-2716.bin'/>
+		<part crc='f122d9c9' name='3f-11-2716.bin'/>
+	</rom>
 </misterromdescription>

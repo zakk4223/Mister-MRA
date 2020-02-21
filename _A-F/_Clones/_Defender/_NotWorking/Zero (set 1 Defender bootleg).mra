@@ -1,32 +1,29 @@
 <misterromdescription>
-	<name>Defender (Green label)</name>
+	<name>Zero (set 1, Defender bootleg)</name>
 	<mameversion>0216</mameversion>
 	<mratimestamp>201911270000</mratimestamp>
 	<year>1980</year>
 	<manufacturer>Williams</manufacturer>
 	<category>Space / Defender</category>
-	<setname>defenderg</setname>
+	<setname>zero</setname>
 	<rbf>defender</rbf>
 	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
 	<switches>
 		<dip bits='0' ids='Off,On' name='Auto up'/>
 		<dip bits='1' ids='Off,On' name='Advance'/>
 	</switches>
-	<rom index='0' md5='ddfd827c4a1418e3f1a17b4bde3b68ab' type='merged|nonmerged' zip='defenderg.zip|defender.zip'>
-		<part crc='6111d74d' name='defeng01.bin'/>
-		<part crc='3cfc04ce' name='defeng04.bin'/>
-		<part crc='d184ab6b' name='defeng02.bin'/>
-		<part crc='788b76d7' name='defeng03.bin'/>
-		<part crc='f57caa62' name='defeng09.bin'/>
-		<part crc='33db686f' name='defeng12.bin'/>
-		<part crc='9a9eb3d2' name='defeng08.bin'/>
-		<part crc='5ca4e860' name='defeng11.bin'/>
-		<part crc='545c3326' name='defeng07.bin'/>
-		<part crc='941cf34e' name='defeng10.bin'/>
-		<part crc='3af34c05' name='defeng06.bin'/>
-		<part crc='3af34c05' name='defeng06.bin'/>
-		<part crc='8dd98da5' name='decoder.1'/>
+	<rom index='0' md5='5f621369d46e7f0f844358ae04ac83ea' type='merged|nonmerged' zip='zero.zip|defender.zip'>
+		<part crc='706a24bd' name='zero-15'/>
+		<part crc='a79213b2' name='zero-16'/>
+		<part crc='25287eca' name='zero-17'/>
+		<part crc='7ca35cfd' name='zero-21'/>
+		<part crc='0757967f' name='zero-20'/>
+		<part crc='f2bef850' name='zero-19'/>
+		<part crc='e99d5679' name='zero-18'/>
+		<part crc='e99d5679' name='zero-18'/>
+                <part crc='8dd98da5' name='decoder.2'/>
                 <part crc='c3f45f70' name='decoder.3'/>
+
 		<part>
 			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01

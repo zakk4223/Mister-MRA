@@ -1,0 +1,41 @@
+<misterromdescription>
+	<name>Lunar Battle (prototype, earlier)</name>
+	<mameversion>0218</mameversion>
+	<mratimestamp>202002080000</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Shooter</category>
+	<rbf>BlackWidow</rbf>
+	<setname>lunarba1</setname>
+	<switches default='FF,FF,00'>
+		<dip bits='3,4' ids='3,4,5,6' name='Lives'/>
+		<dip bits='5,6' ids='Easy,Medium,Hard,Demo' name='Difficulty'/>
+		<dip bits='7,8' ids='10000,20000,30000,None' name='Bonus_Life'/>
+		<dip bits='9,10' ids='1C_1C,2C_1C,Free_Play,1C_2C' name='Coinage'/>
+		<dip bits='11,12' ids='1,4,5,6' name='Coin_B'/>
+		<dip bits='13' ids='1,2' name='Coin_A'/>
+		<dip bits='14,15,16' ids='None,1 each 2,1 each 4,2 each 4,1 each 5,1 each 3' name='Bonus Coins'/>		
+		<dip bits='17' ids='Off,On' name='Service'/>
+		<dip bits='18' ids='Off,On' name='Service2'/>
+	</switches>
+	<buttons default='A,B,Y,Start,Select,R' names='Fire,Thrust,-,Shield,Start 1P,Start 2P,Coin'/>
+	<rom index='1'>
+		<part>1</part>
+	</rom>	
+	<rom index='0' md5='387e73639d41b82809253eb195fc3fd2' type='merged|nonmerged' zip='lunarba1.zip|gravitar.zip'>
+		<part crc='16121e13' name='rom5.bin'/>
+		<part crc='d3700b3c' fixme='maincpu:a000' name='136010-302.ef1'/>
+		<part crc='8e12e3e0' fixme='maincpu:b000' name='136010-303.h1'/>
+		<part crc='467ad5da' fixme='maincpu:c000' name='136010-304.j1'/>
+		<part crc='840603af' fixme='maincpu:d000' name='136010-305.kl1'/>
+		<part crc='3f3805ad' fixme='maincpu:e000' name='136010-306.m1'/>
+		
+		<part crc='c60634d9' name='vrom1.bin'/>
+		<part crc='c60634d9' name='vrom1.bin'/>		
+		<part crc='53d9a8a2' name='vrom2.bin'/>
+		<part crc='cc4691c6' name='rom0.bin'/>
+		<part crc='4df71d07' name='rom1.bin'/>
+				
+		<part crc='5903af03' name='136002-125.n4'/>
+	</rom>
+</misterromdescription>

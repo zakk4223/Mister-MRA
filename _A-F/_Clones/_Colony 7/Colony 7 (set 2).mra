@@ -1,28 +1,31 @@
 <misterromdescription>
-  <name>Colony 7 (set 2)</name>
-  <mameversion>0216</mameversion>
-  <setname>colony7</setname>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1981</year>
-  <manufacturer>Taito</manufacturer>
-  <category>Space / Shooter</category>
-  <rbf>colony7</rbf>
-  
-  
-  
-  <rom index='0' md5='731705153750ab7cd73db96ee919b0de' type='merged|nonmerged|split' zip='colony7a.zip|colony7.zip'>
-    <part crc='e0b0d23b' name='cs03a.bin'/>
-    <part crc='370c6f41' name='cs02a.bin'/>
-    <part crc='ba299946' name='cs01a.bin'/>
-    <part crc='318b95af' name='cs06.bin'/>
-    <part crc='d740faee' name='cs04.bin'/>
-    <part crc='0b23638b' name='cs07.bin'/>
-    <part crc='59e406a8' name='cs05.bin'/>
-    <part crc='3bfde87a' name='cs08.bin'/>
-    <part crc='3bfde87a' name='cs08.bin'/>
-    <part crc='3bfde87a' name='cs08.bin'/>
-    <part crc='6032293c' name='cs11.bin'/>
-    <part crc='25de5d85' name='cs10.bin'/>
-    <part crc='c3f45f70' name='decoder.3'/>
-  </rom>
+    <name>Colony 7 (set 2)</name>
+    <mameversion>0216</mameversion>
+    <setname>colony7a</setname>
+    <mratimestamp>201911270000</mratimestamp>
+    <year>1981</year>
+    <manufacturer>Taito</manufacturer>
+    <category>Space / Shooter</category>
+    <rbf>defender</rbf>
+    <rom index='1'><part>1</part></rom>
+	<buttons default='A,B,Start,Select,R' names='Fire,Bomb,-,-,Start 1P,Start 2P,Coin'/>
+    <switches>
+		<dip bits='0' ids='2,3' name='Lives'/>
+		<dip bits='1' ids='20k/40k(30k/50k),30k/50k(40k/70k)' name='Bonus'/>
+    </switches>
+    <rom index='0' md5='d2fd27ce2bd2ed10cf3cbc8dac168009' type='merged|nonmerged' zip='colony7a.zip|colony7.zip'>
+		<part crc='e0b0d23b' name='cs03a.bin'/>
+		<part crc='370c6f41' name='cs02a.bin'/>
+		<part crc='ba299946' name='cs01a.bin'/>
+		<part crc='318b95af' name='cs06.bin'/>
+		<part crc='d740faee' name='cs04.bin'/>
+		<part crc='0b23638b' name='cs07.bin'/>
+		<part crc='59e406a8' name='cs05.bin'/>
+		<part crc='3bfde87a' name='cs08.bin' repeat='4'/>
+		<part crc='25de5d85' name='cs10.bin'/>
+		<part crc='c3f45f70' name='decoder.3'/>
+		<part repeat='3072'>00</part>
+		<part crc='6032293c' name='cs11.bin'/>
+		<part crc='6032293c' name='cs11.bin'/>
+    </rom>
 </misterromdescription>

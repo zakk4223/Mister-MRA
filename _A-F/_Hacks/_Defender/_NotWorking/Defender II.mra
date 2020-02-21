@@ -1,23 +1,48 @@
 <misterromdescription>
-  <name>Defender II</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>Williams</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>defender</rbf>
-  <rom index='0' md5='a70b0d097da75cb7f11306bb8ab866e1' type='merged|nonmerged|split' zip='/hbmame/defender2.zip|/hbmame/defender.zip'>
-    <part crc='4d82fc2f' name='10'/>
-    <part crc='561fad3f' name='11'/>
-    <part crc='836eacca' name='12'/>
-    <part crc='88824d18' name='01'/>
-    <part crc='afc614c5' name='02'/>
-    <part crc='6dd57970' name='03'/>
-    <part crc='55b5b0d2' name='07'/>
-    <part crc='2fcf6c4d' name='sg.snd'/>
-    <part crc='e6631c23' name='decoder.4'/>
-    <part crc='f921c5fe' name='decoder.5'/>
-  </rom>
-  
-  
+	<name>Defender II</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<setname>defender2</setname>
+	<rbf>defender</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
+	<switches>
+		<dip bits='0' ids='Off,On' name='Auto up'/>
+		<dip bits='1' ids='Off,On' name='Advance'/>
+	</switches>
+	<rom index='0' md5='8d9d37b2fab5192b7144dd5b1db1c501' type='merged|nonmerged|split' zip='/hbmame/defender2.zip|/hbmame/defender.zip'>
+		<part crc='4d82fc2f' name='10'/>
+		<part crc='561fad3f' name='11'/>
+		<part crc='836eacca' name='12'/>
+		<part crc='88824d18' name='01'/>
+		<part crc='afc614c5' name='02'/>
+		<part crc='6dd57970' name='03'/>
+		<part crc='55b5b0d2' name='07'/>
+		<part crc='55b5b0d2' name='07'/>
+		<part crc='e6631c23' name='decoder.4'/>
+		<part crc='f921c5fe' name='decoder.5'/>
+		<part>
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01
+			02 07 00 04 04 05 02 04 0A 00 01 08 03 01 05 05
+			03 04 01 04 0D 00 01 05 09 02 00 04 0C 04 05 04
+			04 00 01 04 02 08 05 05 00 04 07 04 04 00 01 02
+			05 02 00 04 03 05 02 04 02 00 01 01 00 03 05 04
+			0D 05 02 05 03 00 00 08 02 06 05 05 03 05 03 05
+			02 00 00 06 00 01 00 05 04 04 0D 04 08 00 00 05
+			0A 00 01 00 00 00 03 00 03 00 01 00 04 00 01 00
+			01 00 00 00 00 00 00 00 05 01 05 00 01 00 05 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+		<part repeat='2816'>00</part>
+		<part crc='2fcf6c4d' name='sg.snd'/>
+		<part crc='2fcf6c4d' name='sg.snd'/>
+	</rom>
 </misterromdescription>

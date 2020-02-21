@@ -1,22 +1,48 @@
 <misterromdescription>
-  <name>Defender (bootleg)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <year>1980</year>
-  <manufacturer>Williams</manufacturer>
-  <category>Space / Defender</category>
-  <rbf>defender</rbf>
-  
-  <rom index='0' md5='c2be24a391aac5be475011e457b1b6a6' type='merged|nonmerged|split' zip='defndjeu.zip|defender.zip'>
-    <part crc='706a24bd' name='15'/>
-    <part crc='03201532' name='16'/>
-    <part crc='25287eca' name='17'/>
-    <part crc='bddb71a3' name='21'/>
-    <part crc='12fa0788' name='20'/>
-    <part crc='769f5984' name='19'/>
-    <part crc='e99d5679' name='18'/>
-    <part crc='cb79ae42' name='s'/>
-  </rom>
-  
-  
+	<name>Defender (bootleg)</name>
+	<mameversion>0216</mameversion>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Space / Defender</category>
+	<setname>defndjeu</setname>
+	<rbf>defender</rbf>
+	<buttons default='A,B,X,Y,Start,Select,R' names='Fire,Thrust,Smart Bomb,Hyperspace,Start 1P,Start 2P,Coin'/>
+	<switches>
+		<dip bits='0' ids='Off,On' name='Auto up'/>
+		<dip bits='1' ids='Off,On' name='Advance'/>
+	</switches>
+	<rom index='0' md5='998c7ef30b3614e1535b2a1c9a1594a6' type='merged|nonmerged' zip='defndjeu.zip|defender.zip'>
+		<part crc='706a24bd' name='15'/>
+		<part crc='03201532' name='16'/>
+		<part crc='25287eca' name='17'/>
+		<part crc='bddb71a3' name='21'/>
+		<part crc='12fa0788' name='20'/>
+		<part crc='769f5984' name='19'/>
+		<part crc='e99d5679' name='18'/>
+		<part crc='e99d5679' name='18'/>
+                <part crc='8dd98da5' name='decoder.2'/>
+                <part crc='c3f45f70' name='decoder.3'/>
+		<part>
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 01
+			02 07 00 04 04 05 02 04 0A 00 01 08 03 01 05 05
+			03 04 01 04 0D 00 01 05 09 02 00 04 0C 04 05 04
+			04 00 01 04 02 08 05 05 00 04 07 04 04 00 01 02
+			05 02 00 04 03 05 02 04 02 00 01 01 00 03 05 04
+			0D 05 02 05 03 00 00 08 02 06 05 05 03 05 03 05
+			02 00 00 06 00 01 00 05 04 04 0D 04 08 00 00 05
+			0A 00 01 00 00 00 03 00 03 00 01 00 04 00 01 00
+			01 00 00 00 00 00 00 00 05 01 05 00 01 00 05 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+			00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+		</part>
+		<part repeat='2816'>00</part>
+		<part crc='cb79ae42' name='s'/>
+		<part crc='cb79ae42' name='s'/>
+	</rom>
 </misterromdescription>
