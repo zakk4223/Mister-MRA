@@ -1,24 +1,35 @@
 <misterromdescription>
-  <name>Popeye (bootleg set 3)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <rbf>jtpopeye</rbf>
-  
-  
-  <rom index='0' md5='e6ba0b8f7403d854e3f39155942683fc' type='merged|nonmerged|split' zip='popeyeb3.zip|popeye.zip'>
-    <part crc='c02b5e95' name='bdf-5'/>
-    <part crc='efdf02c3' name='bdf-6'/>
-    <part crc='8eee859e' name='bdf-7'/>
-    <part crc='bac64fdd' name='bdf-8'/>
-    <part crc='0f2cd853' name='bdf-4'/>
-    <part crc='888f3474' name='bdf-3'/>
-    <part crc='7e864668' name='bdf-2'/>
-    <part crc='49e1d170' name='bdf-1'/>
-    <part crc='cca61ddd' name='bdf-9'/>
-    <part crc='a4655e2e' name='tpp2-v.7j'/>
-    <part crc='c5826883' name='tpp2-c.5b'/>
-    <part crc='c576afba' name='tpp2-c.5a'/>
-    <part crc='375e1602' name='tpp2-c.4a'/>
-    <part crc='e950bea1' name='tpp2-c.3a'/>
-  </rom>
+	<name>Popeye (bootleg set 3)</name>
+	<mameversion>0219</mameversion>
+	<setname>popeyeb3</setname>
+	<mratimestamp>20200302224648</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Nintendo</manufacturer>
+	<category>Movie / TV / Comic</category>
+	<category>Platform</category>
+	<rbf>popeye</rbf>
+	<switches default='20,45,00'>
+		<dip bits='5,6' ids='Nintendo Am.Inc.,Nintendo,Nintendo Co Ltd,Nintendo Am.Inc.' name='Version'/>
+		<dip bits='8,9' ids='1,2,3,4' name='Live'/>
+		<dip bits='10,11' ids='Easy,Medium-,Medium+,Hard' name='Difficulty'/>
+		<dip bits='12,13' ids='40.000,60.000,80.000,None' name='Bonus'/>
+		<dip bits='14' ids='Silent,On' name='Music'/>
+		<dip bits='16' ids='No,Yes' name='Service'/>
+	</switches>
+	<buttons default='A,Start,Select,R' names='Kick,Start 1P,Start 2P,Coin'/>
+	<rom index='0' md5='76447e82a71ece034245879b856b4df8' type='merged|split' zip='popeyeb3.zip|popeye.zip'>
+		<part crc='c02b5e95' name='bdf-5'/>
+		<part crc='efdf02c3' name='bdf-6'/>
+		<part crc='8eee859e' name='bdf-7'/>
+		<part crc='bac64fdd' name='bdf-8'/>
+		<part crc='0f2cd853' name='bdf-4'/>
+		<part crc='888f3474' name='bdf-3'/>
+		<part crc='7e864668' name='bdf-2'/>
+		<part crc='49e1d170' name='bdf-1'/>
+		<part crc='cca61ddd' name='bdf-9'/>
+		<part crc='c576afba' name='tpp2-c.5a'/>
+		<part crc='c576afba' name='tpp2-c.5a'/>
+		<part crc='e950bea1' name='tpp2-c.3a'/>
+		<part crc='375e1602' name='tpp2-c.4a'/>
+	</rom>
 </misterromdescription>

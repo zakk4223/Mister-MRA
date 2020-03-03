@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Gyruss (bootleg?)</name>
+	<mameversion>0218</mameversion>
+	<setname>gyrussb</setname>
+	<mratimestamp>202002290000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Space</category>
+	<category>Shooter</category>
+	<rbf>Gyruss</rbf>
+    <switches default='00,40,00'>
+		<dip bits='8,9' ids='3,4,5,255' name='Lives'/>
+		<dip bits='10' ids='Cocktail,Upright' name='Cabinet'/>
+		<dip bits='11' ids='30k 90k 60k+,40k 110k 70k+' name='Bonus Life'/>
+		<dip bits='12,14' ids='1 (Easiest),2,3,4,5 (Average),6,7,8 (Hardest)' name='Difficulty'/>
+		<dip bits='15' ids='Off,On' name='Demo Sound'/>
+		<dip bits='16' ids='Off,On' name='Demo Music'/>
+	</switches>
+	<rom index='0' md5='fc849395113db0b518f692173e1ad70b' type='split|merged' zip='gyrussb.zip|gyruss.zip'>
+		<part crc='6bc21c10' name='1.bin'/>
+		<part crc='a4ec03e4' name='2.bin'/>
+		<part crc='27454a98' name='3.bin'/>
+		<part crc='822bf27e' name='9.bin'/>
+		<part crc='27d8329b' name='4.bin'/>
+		<part crc='4f22411a' name='5.bin'/>
+		<part crc='c949db10' name='6.bin'/>
+		<part crc='8e8d388c' name='7.bin'/>
+		<part crc='47cd1fbc' name='8.bin'/>
+		<part crc='f4ae1c17' name='11.bin'/>
+		<part crc='ba498115' name='12.bin'/>
+		<part crc='3f9b5dea' name='13.bin'/>
+		<part crc='7ed057de' name='gyrussk.pr1'/>
+		<part crc='de823a81' name='gyrussk.pr2'/>
+		<part crc='98782db3' name='gyrussk.pr3'/>
+	</rom>
+</misterromdescription>
+

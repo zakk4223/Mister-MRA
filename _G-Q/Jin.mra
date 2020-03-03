@@ -17,7 +17,7 @@
 		<part name="jin11.6c"/>
 		<part name="jin12.7c"/>
 		<part name="jin13.6d"/>
-		<part name="jin14.4c" repeat=4/>
+		<part name="jin14.4c" repeat="4"/>
 		<part name="jin.1a"/>
 		<part name="jin.1l"/>
 		<part repeat="3072">00</part>

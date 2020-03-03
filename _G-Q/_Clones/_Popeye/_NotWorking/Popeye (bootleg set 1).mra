@@ -1,24 +1,35 @@
 <misterromdescription>
-  <name>Popeye (bootleg set 1)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <rbf>jtpopeye</rbf>
-  
-  
-  <rom index='0' md5='aefa9c994c90c381261b13e5499e9456' type='merged|nonmerged|split' zip='popeyebl.zip|popeye.zip'>
-    <part crc='6e267c48' name='app_exe.3j.2764'/>
-    <part crc='995475ff' name='2.3l.2764'/>
-    <part crc='99d6a04a' name='3.3m.2764'/>
-    <part crc='548a6514' name='4.3p.2764'/>
-    <part crc='0f2cd853' name='6.6n.2764'/>
-    <part crc='888f3474' name='7.6r.2764'/>
-    <part crc='7e864668' name='8.6s.2764'/>
-    <part crc='49e1d170' name='9.6u.2764'/>
-    <part crc='ce6c9f8e' name='5.10gh.2732'/>
-    <part crc='1c5c8dea' name='7.11s.24s10'/>
-    <part crc='cab9bc53' name='4.2s.24s10'/>
-    <part crc='ca4d7b6a' name='3.2r.24s10'/>
-    <part crc='d138e8a4' name='6.2u.18s030'/>
-    <part crc='0f364007' name='5.2t.18s030'/>
-  </rom>
+	<name>Popeye (bootleg set 1)</name>
+	<mameversion>0219</mameversion>
+	<setname>popeyebl</setname>
+	<mratimestamp>20200302224648</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Nintendo</manufacturer>
+	<category>Movie / TV / Comic</category>
+	<category>Platform</category>
+	<rbf>popeye</rbf>
+	<switches default='20,45,00'>
+		<dip bits='5,6' ids='Nintendo Am.Inc.,Nintendo,Nintendo Co Ltd,Nintendo Am.Inc.' name='Version'/>
+		<dip bits='8,9' ids='1,2,3,4' name='Live'/>
+		<dip bits='10,11' ids='Easy,Medium-,Medium+,Hard' name='Difficulty'/>
+		<dip bits='12,13' ids='40.000,60.000,80.000,None' name='Bonus'/>
+		<dip bits='14' ids='Silent,On' name='Music'/>
+		<dip bits='16' ids='No,Yes' name='Service'/>
+	</switches>
+	<buttons default='A,Start,Select,R' names='Kick,Start 1P,Start 2P,Coin'/>
+	<rom index='0' md5='12c6d3701e307423aef9c5acbdcd7928' type='merged|split' zip='popeyebl.zip|popeye.zip'>
+		<part crc='6e267c48' name='app_exe.3j.2764'/>
+		<part crc='995475ff' name='2.3l.2764'/>
+		<part crc='99d6a04a' name='3.3m.2764'/>
+		<part crc='548a6514' name='4.3p.2764'/>
+		<part crc='0f2cd853' name='6.6n.2764'/>
+		<part crc='888f3474' name='7.6r.2764'/>
+		<part crc='7e864668' name='8.6s.2764'/>
+		<part crc='49e1d170' name='9.6u.2764'/>
+		<part crc='ce6c9f8e' name='5.10gh.2732'/>
+		<part crc='cab9bc53' name='4.2s.24s10'/>
+		<part crc='cab9bc53' name='4.2s.24s10'/>
+		<part crc='0f364007' name='5.2t.18s030'/>
+		<part crc='d138e8a4' name='6.2u.18s030'/>
+	</rom>
 </misterromdescription>

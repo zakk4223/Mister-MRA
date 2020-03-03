@@ -1,24 +1,35 @@
 <misterromdescription>
-  <name>Popeye (revision F)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <rbf>jtpopeye</rbf>
-  
-  
-  <rom index='0' md5='9b8ceff8a5c27b33d37a7cc8f6b79e6b' type='merged|nonmerged|split' zip='popeyef.zip|popeye.zip'>
-    <part crc='5fc5264d' name='tpp2-c_f.7a'/>
-    <part crc='51de48e8' name='tpp2-c_f.7b'/>
-    <part crc='62df9647' name='tpp2-c_f.7c'/>
-    <part crc='f31e7916' name='tpp2-c_f.7e'/>
-    <part crc='0f2cd853' name='tpp2-v.1e'/>
-    <part crc='888f3474' name='tpp2-v.1f'/>
-    <part crc='7e864668' name='tpp2-v.1j'/>
-    <part crc='49e1d170' name='tpp2-v.1k'/>
-    <part crc='cca61ddd' name='tpp2-v.5n'/>
-    <part crc='a4655e2e' name='tpp2-v.7j'/>
-    <part crc='c5826883' name='tpp2-c.5b'/>
-    <part crc='c576afba' name='tpp2-c.5a'/>
-    <part crc='375e1602' name='tpp2-c.4a'/>
-    <part crc='e950bea1' name='tpp2-c.3a'/>
-  </rom>
+	<name>Popeye (revision F)</name>
+	<mameversion>0219</mameversion>
+	<setname>popeyef</setname>
+	<mratimestamp>20200302224648</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Nintendo</manufacturer>
+	<category>Movie / TV / Comic</category>
+	<category>Platform</category>
+	<rbf>popeye</rbf>
+	<switches default='20,45,00'>
+		<dip bits='5,6' ids='Nintendo Am.Inc.,Nintendo,Nintendo Co Ltd,Nintendo Am.Inc.' name='Version'/>
+		<dip bits='8,9' ids='1,2,3,4' name='Live'/>
+		<dip bits='10,11' ids='Easy,Medium-,Medium+,Hard' name='Difficulty'/>
+		<dip bits='12,13' ids='40.000,60.000,80.000,None' name='Bonus'/>
+		<dip bits='14' ids='Silent,On' name='Music'/>
+		<dip bits='16' ids='No,Yes' name='Service'/>
+	</switches>
+	<buttons default='A,Start,Select,R' names='Kick,Start 1P,Start 2P,Coin'/>
+	<rom index='0' md5='683ce500dc028eec915d94d01a4590bc' type='merged|split' zip='popeyef.zip|popeye.zip'>
+		<part crc='5fc5264d' name='tpp2-c_f.7a'/>
+		<part crc='51de48e8' name='tpp2-c_f.7b'/>
+		<part crc='62df9647' name='tpp2-c_f.7c'/>
+		<part crc='f31e7916' name='tpp2-c_f.7e'/>
+		<part crc='0f2cd853' name='tpp2-v.1e'/>
+		<part crc='888f3474' name='tpp2-v.1f'/>
+		<part crc='7e864668' name='tpp2-v.1j'/>
+		<part crc='49e1d170' name='tpp2-v.1k'/>
+		<part crc='cca61ddd' name='tpp2-v.5n'/>
+		<part crc='c576afba' name='tpp2-c.5a'/>
+		<part crc='c576afba' name='tpp2-c.5a'/>
+		<part crc='e950bea1' name='tpp2-c.3a'/>
+		<part crc='375e1602' name='tpp2-c.4a'/>
+	</rom>
 </misterromdescription>

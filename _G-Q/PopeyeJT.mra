@@ -1,0 +1,24 @@
+<misterromdescription>
+  <name>Popeye (revision D not protected)</name>
+  <mameversion>0216</mameversion>
+  <mratimestamp>201911270000</mratimestamp>
+  <rbf>jtpopeye</rbf>
+  
+  
+  <rom index='0' md5='b288ce65ce74fedf56c236f113721386' type='merged|nonmerged|split' zip='popeyeu.zip|popeye.zip'>
+    <part crc='0bd04389' name='7a'/>
+    <part crc='efdf02c3' name='7b'/>
+    <part crc='8eee859e' name='7c'/>
+    <part crc='b64aa314' name='7e'/>
+    <part crc='0f2cd853' name='tpp2-v.1e'/>
+    <part crc='888f3474' name='tpp2-v.1f'/>
+    <part crc='7e864668' name='tpp2-v.1j'/>
+    <part crc='49e1d170' name='tpp2-v.1k'/>
+    <part crc='cca61ddd' name='tpp2-v.5n'/>
+    <part crc='a4655e2e' name='tpp2-v.7j'/>
+    <part crc='c5826883' name='tpp2-c.5b'/>
+    <part crc='c576afba' name='tpp2-c.5a'/>
+    <part crc='375e1602' name='tpp2-c.4a'/>
+    <part crc='e950bea1' name='tpp2-c.3a'/>
+  </rom>
+</misterromdescription>

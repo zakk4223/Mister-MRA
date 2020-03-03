@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Venus (bootleg of Gyruss)</name>
+	<mameversion>0218</mameversion>
+	<setname>venus</setname>
+	<mratimestamp>202002290000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Space</category>
+	<category>Shooter</category>
+	<rbf>Gyruss</rbf>
+    <switches default='00,40,00'>
+		<dip bits='8,9' ids='3,4,5,255' name='Lives'/>
+		<dip bits='10' ids='Cocktail,Upright' name='Cabinet'/>
+		<dip bits='11' ids='30k 90k 60k+,40k 110k 70k+' name='Bonus Life'/>
+		<dip bits='12,14' ids='1 (Easiest),2,3,4,5 (Average),6,7,8 (Hardest)' name='Difficulty'/>
+		<dip bits='15' ids='Off,On' name='Demo Sound'/>
+		<dip bits='16' ids='Off,On' name='Demo Music'/>
+	</switches>
+	<rom index='0' md5='294008b88093ae45abbcb22c2c36bdb1' type='split|merged' zip='venus.zip|gyruss.zip'>
+		<part crc='d030abb1' name='r1'/>
+		<part crc='dbf65d4d' name='r2'/>
+		<part crc='db246fcd' name='r3'/>
+		<part crc='822bf27e' name='gyrussk.9'/>
+		<part crc='27d8329b' name='gyrussk.4'/>
+		<part crc='4f22411a' name='gyrussk.5'/>
+		<part crc='c949db10' name='gyrussk.6'/>
+		<part crc='8e8d388c' name='gyrussk.7'/>
+		<part crc='47cd1fbc' name='gyrussk.8'/>
+		<part crc='f4ae1c17' name='gyrussk.1a'/>
+		<part crc='ba498115' name='gyrussk.2a'/>
+		<part crc='3f9b5dea' name='gyrussk.3a'/>
+		<part crc='7ed057de' name='gyrussk.pr1'/>
+		<part crc='de823a81' name='gyrussk.pr2'/>
+		<part crc='98782db3' name='gyrussk.pr3'/>
+	</rom>
+</misterromdescription>
+

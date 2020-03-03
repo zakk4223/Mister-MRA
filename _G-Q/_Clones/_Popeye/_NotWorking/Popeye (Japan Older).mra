@@ -1,7 +1,7 @@
 <misterromdescription>
-	<name>Popeye (Japan)</name>
+	<name>Popeye (Japan, Older)</name>
 	<mameversion>0219</mameversion>
-	<setname>popeyej</setname>
+	<setname>popeyejo</setname>
 	<mratimestamp>20200302224648</mratimestamp>
 	<year>1982</year>
 	<manufacturer>Nintendo</manufacturer>
@@ -17,19 +17,19 @@
 		<dip bits='16' ids='No,Yes' name='Service'/>
 	</switches>
 	<buttons default='A,Start,Select,R' names='Kick,Start 1P,Start 2P,Coin'/>
-	<rom index='0' md5='672d062aecdbdfd2cc7108082d67cd91' type='merged|split' zip='popeyej.zip|popeye.zip'>
-		<part crc='4176761e' name='tpp1-c.2a,2732'/>
+	<rom index='0' md5='d5b4c6b98e963696b93bc58d8e5fda37' type='merged|split' zip='popeyejo.zip|popeye.zip'>
+		<part crc='4176761e' name='tpp1-c.2a.bin'/>
 		<part crc='b1c18b7e' name='tpp1-c.2c,2732'/>
-		<part crc='74854ca1' name='tpp1-c.2e,2732'/>
-		<part crc='b74a1a97' name='tpp1-c.2g,2732'/>
-		<part crc='0f2cd853' name='tpp1-e.1e,2763'/>
-		<part crc='888f3474' name='tpp1-e.2e,2763'/>
-		<part crc='7e864668' name='tpp1-e.3e,2763'/>
-		<part crc='49e1d170' name='tpp1-e.5e,2763'/>
-		<part crc='fa52a752' name='tpp1-v.3h,2716'/>
-		<part crc='c576afba' name='tpp1-t.2a,82s129'/>
-		<part crc='c576afba' name='tpp1-t.2a,82s129'/>
-		<part crc='e950bea1' name='tpp1-t.1a,82s123'/>
-		<part crc='375e1602' name='tpp1-t.4a,82s123'/>
+		<part crc='74854ca1' name='tpp1-c.2e.bin'/>
+		<part crc='b74a1a97' name='tpp1-c.2g.bin'/>
+		<part crc='90889e1d' name='tpp1-e.1e.bin'/>
+		<part crc='ed06af50' name='tpp1-e.2e.bin'/>
+		<part crc='72b258f2' name='tpp1-e.3e.bin'/>
+		<part crc='7355ff16' name='tpp1-e.5e.bin'/>
+		<part crc='fa52a752' name='tpp1-v.3h.bin'/>
+		<part crc='c576afba' name='tpp1-t.2a.82s129'/>
+		<part crc='c576afba' name='tpp1-t.2a.82s129'/>
+		<part crc='e950bea1' name='tpp1-t.1a.82s123'/>
+		<part crc='375e1602' name='tpp1-t.4a.82s123'/>
 	</rom>
 </misterromdescription>

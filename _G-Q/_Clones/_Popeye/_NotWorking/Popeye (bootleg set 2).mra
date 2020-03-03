@@ -1,24 +1,35 @@
 <misterromdescription>
-  <name>Popeye (bootleg set 2)</name>
-  <mameversion>0216</mameversion>
-  <mratimestamp>201911270000</mratimestamp>
-  <rbf>jtpopeye</rbf>
-  
-  
-  <rom index='0' md5='9eaafed5ce88caaafe263019751cf910' type='merged|nonmerged|split' zip='popeyeb2.zip|popeye.zip'>
-    <part crc='b14a07ca' name='po1'/>
-    <part crc='995475ff' name='po2'/>
-    <part crc='99d6a04a' name='po3'/>
-    <part crc='548a6514' name='po4'/>
-    <part crc='0f2cd853' name='po6'/>
-    <part crc='888f3474' name='po7'/>
-    <part crc='7e864668' name='po8'/>
-    <part crc='49e1d170' name='po9'/>
-    <part crc='ce6c9f8e' name='po5'/>
-    <part crc='FIXME' name='tpp2-v.7j'/>
-    <part crc='cab9bc53' name='popeye.pr4'/>
-    <part crc='ca4d7b6a' name='popeye.pr3'/>
-    <part crc='d138e8a4' name='popeye.pr1'/>
-    <part crc='0f364007' name='popeye.pr2'/>
-  </rom>
+	<name>Popeye (bootleg set 2)</name>
+	<mameversion>0219</mameversion>
+	<setname>popeyeb2</setname>
+	<mratimestamp>20200302224648</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Nintendo</manufacturer>
+	<category>Movie / TV / Comic</category>
+	<category>Platform</category>
+	<rbf>popeye</rbf>
+	<switches default='20,45,00'>
+		<dip bits='5,6' ids='Nintendo Am.Inc.,Nintendo,Nintendo Co Ltd,Nintendo Am.Inc.' name='Version'/>
+		<dip bits='8,9' ids='1,2,3,4' name='Live'/>
+		<dip bits='10,11' ids='Easy,Medium-,Medium+,Hard' name='Difficulty'/>
+		<dip bits='12,13' ids='40.000,60.000,80.000,None' name='Bonus'/>
+		<dip bits='14' ids='Silent,On' name='Music'/>
+		<dip bits='16' ids='No,Yes' name='Service'/>
+	</switches>
+	<buttons default='A,Start,Select,R' names='Kick,Start 1P,Start 2P,Coin'/>
+	<rom index='0' md5='9076c3c3b8bd4413194508b18bd2bcd8' type='merged|split' zip='popeyeb2.zip|popeye.zip'>
+		<part crc='b14a07ca' name='po1'/>
+		<part crc='995475ff' name='po2'/>
+		<part crc='99d6a04a' name='po3'/>
+		<part crc='548a6514' name='po4'/>
+		<part crc='0f2cd853' name='po6'/>
+		<part crc='888f3474' name='po7'/>
+		<part crc='7e864668' name='po8'/>
+		<part crc='49e1d170' name='po9'/>
+		<part crc='ce6c9f8e' name='po5'/>
+		<part crc='cab9bc53' name='popeye.pr4'/>
+		<part crc='cab9bc53' name='popeye.pr4'/>
+		<part crc='0f364007' name='popeye.pr2'/>
+		<part crc='d138e8a4' name='popeye.pr1'/>
+	</rom>
 </misterromdescription>

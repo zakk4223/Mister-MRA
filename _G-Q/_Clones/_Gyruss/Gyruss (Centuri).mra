@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Gyruss (Centuri)</name>
+	<mameversion>0218</mameversion>
+	<setname>gyrussce</setname>
+	<mratimestamp>202002290000</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Space</category>
+	<category>Shooter</category>
+	<rbf>Gyruss</rbf>
+    <switches default='00,40,00'>
+		<dip bits='8,9' ids='3,4,5,255' name='Lives'/>
+		<dip bits='10' ids='Cocktail,Upright' name='Cabinet'/>
+		<dip bits='11' ids='30k 90k 60k+,40k 110k 70k+' name='Bonus Life'/>
+		<dip bits='12,14' ids='1 (Easiest),2,3,4,5 (Average),6,7,8 (Hardest)' name='Difficulty'/>
+		<dip bits='15' ids='Off,On' name='Demo Sound'/>
+		<dip bits='16' ids='Off,On' name='Demo Music'/>
+	</switches>
+	<rom index='0' md5='ff1b6a5aeb7533ba1c49d528bd770a9f' type='split|merged' zip='gyrussce.zip|gyruss.zip'>
+		<part crc='85f8b7c2' name='gya-1.11j'/>
+		<part crc='1e1a970f' name='gya-2.12j'/>
+		<part crc='f6dbb33b' name='gya-3.13j'/>
+		<part crc='822bf27e' name='gy-5.19e'/>
+		<part crc='27d8329b' name='gy-6.1g'/>
+		<part crc='4f22411a' name='gy-9.8d'/>
+		<part crc='c949db10' name='gy-10.9d'/>
+		<part crc='8e8d388c' name='gy-7.6d'/>
+		<part crc='47cd1fbc' name='gy-8.7d'/>
+		<part crc='f4ae1c17' name='gy-11.7a'/>
+		<part crc='ba498115' name='gy-12.8a'/>
+		<part crc='3f9b5dea' name='gy-13.11h'/>
+		<part crc='7ed057de' name='gyrussk.pr1'/>
+		<part crc='de823a81' name='gyrussk.pr2'/>
+		<part crc='98782db3' name='gyrussk.pr3'/>
+	</rom>
+</misterromdescription>
+
