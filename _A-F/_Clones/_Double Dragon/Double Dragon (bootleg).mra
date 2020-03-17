@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Double Dragon (bootleg)</name>
+	<mameversion>0216</mameversion>
+	<setname>ddragonb2</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1987</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Fighter / Hero</category>
+	<rbf>jtdd</rbf>
+	<rom index='0' md5='531bd67cb923aacebe32d3fb8e4186c8' type='merged|nonmerged|split' zip='ddragonb2.zip|ddragon.zip'>
+		<part crc='5779705e' name='b2_5.bin'/>
+		<part crc='3bdea613' name='b2_6.bin'/>
+		<part crc='728f87b9' name='b2_7.bin'/>
+		<part crc='728f87b9' name='b2_7.bin'/>
+		<part crc='668dfa19' name='b2_4.bin'/>
+		<part crc='9efa95bb' name='b2_3.bin'/>
+		<part crc='34755de3' name='b2_1.bin'/>
+		<part crc='904de6f8' name='2.bin'/>
+		<part crc='7a8b8db4' name='b2_8.bin'/>
+		<part crc='7a8b8db4' name='b2_8.bin'/>
+		<part crc='7c435887' name='9.bin'/>
+		<part crc='c6640aed' name='10.bin'/>
+		<part crc='22d65df2' name='19.bin'/>
+		<part crc='5fb42e7c' name='20.bin'/>
+		<part crc='574face3' name='11.bin'/>
+		<part crc='40507a76' name='12.bin'/>
+		<part crc='c8b91e17' name='13.bin'/>
+		<part crc='cb4f231b' name='14.bin'/>
+		<part crc='a0a0c261' name='15.bin'/>
+		<part crc='6ba152f6' name='16.bin'/>
+		<part crc='3220a0b6' name='17.bin'/>
+		<part crc='65c7517d' name='18.bin'/>
+		<part crc='f5232d03' name='63701.bin'/>
+		<part crc='fdb130a9' name='21j-k-0.101'/>
+		<part crc='46339529' name='21j-l-0.16'/>
+	</rom>
+</misterromdescription>

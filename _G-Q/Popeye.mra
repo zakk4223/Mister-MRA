@@ -8,7 +8,7 @@
 	<category>Movie / TV / Comic</category>
 	<category>Platform</category>
 	<rbf>popeye</rbf>
-	<switches default="20,45,00">
+	<switches default="20,C5,00">
 		<dip bits="5,6"   name="Version" ids="Nintendo Am.Inc.,Nintendo,Nintendo Co Ltd,Nintendo Am.Inc."/>
 		<dip bits="8,9"   name="Live" ids="1,2,3,4"/>
 		<dip bits="10,11" name="Difficulty" ids="Easy,Medium-,Medium+,Hard"/>
@@ -16,7 +16,7 @@
 		<dip bits="14"    name="Music" ids="Silent,On"/>
 		<dip bits="16"    name="Service" ids="No,Yes"/>
 	</switches>
-	<buttons names="Kick,Start 1P,Start 2P,Coin" default="A,Start,Select,R"/>
+	<buttons names="Kick,-,Start 1P,Start 2P,Coin" default="A,Start,Select,R"/>
 	<rom index="0" zip="popeye.zip" md5="d8ca94dbdb94bd3f06d01de96854acc9" type="merged|split">
 		<part crc="9af7c821" name="tpp2-c.7a"/>
 		<part crc="c3704958" name="tpp2-c.7b"/>

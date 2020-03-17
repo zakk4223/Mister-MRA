@@ -1,35 +1,35 @@
 <misterromdescription>
-	<name>Sinistar (prototype version)</name>
+	<name>playball</name>
 	<mameversion>0218</mameversion>
-	<setname>sinistar1</setname>
+	<setname>playball</setname>
 	<mratimestamp>20200220001702</mratimestamp>
-	<year>1982</year>
+	<year>1983</year>
 	<manufacturer>Williams</manufacturer>
 	<category>Space / Asteroids</category>
 	<category>Space / Fighter</category>
 	<rbf>robotron</rbf>
-	<switches default='00'>
-		<dip bits='0' ids='Off,On' name='Auto Up'/>
-		<dip bits='1' ids='Off,On' name='Advance'/>
+	<switches default="00">
+		<dip bits="0" name="Auto Up" ids="Off,On"/>
+		<dip bits="1" name="Advance" ids="Off,On"/>
 	</switches>
-	<buttons default='A,B,Start,Select,R' names='Fire,Bomb,-,-,Start 1P,Start 2P,Coin'/>
-	<rom index='1'>
-		<part>6</part>
+	<buttons names="-,-,-,-,Start 1P,Start 2P,Coin" default="Start,Select,R"/>
+	<rom index="1">
+		<part>7</part>
 	</rom>
-	<rom index='0' md5='b3bf4485053f651dcdc34526c92f0665' type='merged|nonmerged' zip='sinistar1.zip|sinistar.zip'>
-		<part crc='3810d7b8' name='sinrev1.01'/>
-		<part crc='cab3185c' name='sinistar.02'/>
-		<part crc='7c984ca9' name='sinrev1.03'/>
-		<part crc='cc6c4f24' name='sinrev1.04'/>
-		<part crc='12285bfe' name='sinrev1.05'/>
-		<part crc='7a675f35' name='sinrev1.06'/>
-		<part crc='b0463243' name='sinrev1.07'/>
-		<part crc='909040d4' name='sinrev1.08'/>
-		<part crc='cc949810' name='sinrev1.09'/>
-		<part crc='ea87a53f' name='sinrev1.10'/>
-		<part crc='ea87a53f' name='sinrev1.10'/>
-		<part crc='88d36e80' name='sinrev1.11'/>
-		<part crc='b82f4ddb' name='sinistar.snd'/>
+	<rom index="0" zip="playball.zip" md5="85f6cdf35c4b23f468dd4cdf50948b3d">
+		<part crc="7ba8fd71" name="playball.01"/>
+		<part crc="2387c3d4" name="playball.02"/>
+		<part crc="d34cc5fd" name="playball.03"/>
+		<part crc="f68c3a8e" name="playball.04"/>
+		<part crc="a3f20810" name="playball.05"/>
+		<part crc="f213e48e" name="playball.06"/>
+		<part crc="9b5574e9" name="playball.07"/>
+		<part crc="b2d2074a" name="playball.08"/>
+		<part crc="c4566d0f" name="playball.09"/>
+		<part crc="18787b52" name="playball.10"/>
+		<part crc="1dd5c8f2" name="playball.11"/>
+		<part crc="a700597b" name="playball.12"/>
+		<part crc="f3076f9f" name="playball.snd"/>
 		<part>
 03300330000300050001000100030001
 00040001000100000000000000000000
@@ -96,13 +96,13 @@
 00000000000000000000000000000000
 00000000000000000000000000000000
 		</part>
-		<part crc='e6631c23' name='decoder.4'/>
-		<part crc='83faf25e' name='decoder.6'/>
-		<part repeat='1024'>00</part>
-		<part repeat='1024'>00</part>
-		<part crc='e1019568' name='speech.ic7'/>
-		<part crc='cf3b5ffd' name='speech.ic5'/>
-		<part crc='ff8d2645' name='speech.ic6'/>
-		<part crc='4b56a626' name='speech.ic4'/>
+		<part zip="robotron.zip" crc="e6631c23" name="decoder.4"/>
+		<part zip="robotron.zip" crc="83faf25e" name="decoder.6"/>
+		<part repeat="1024">00</part>
+		<part repeat="1024">00</part>
+		<part crc="7e4fc798" name="speech.ic4"/>
+		<part crc="ddfe860c" name="speech.ic5"/>
+		<part crc="8bfebf87" name="speech.ic6"/>
+		<part crc="db351db6" name="speech.ic7"/>
 	</rom>
 </misterromdescription>

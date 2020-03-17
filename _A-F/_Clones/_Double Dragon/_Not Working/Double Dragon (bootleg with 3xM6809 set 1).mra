@@ -1,0 +1,32 @@
+<misterromdescription>
+	<name>Double Dragon (bootleg with 3xM6809, set 1)</name>
+	<mameversion>0216</mameversion>
+	<setname>ddragon6809</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1987</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Fighter / Hero</category>
+	<rbf>jtdd</rbf>
+	<rom index='0' md5='5b5981c781ee513ad12f2ab9095f9dbf' type='merged|nonmerged|split' zip='ddragon6809.zip|ddragon.zip'>
+		<part crc='6489d637' name='6809_17.bin'/>
+		<part crc='154d50c4' name='6809_18.bin'/>
+		<part crc='090e2baf' name='6809_19.bin'/>
+		<part crc='090e2baf' name='6809_19.bin'/>
+		<part crc='f4c72690' name='6809_16.bin'/>
+		<part crc='4437fc51' name='21.bin'/>
+		<part crc='678f8657' name='6809_14.bin'/>
+		<part crc='10f21dea' name='6809_15.bin'/>
+		<part crc='736eff0f' name='6809_9.bin'/>
+		<part crc='a670d088' name='6809_10.bin'/>
+		<part crc='4171b70d' name='6809_11.bin'/>
+		<part crc='5f6a6d6f' name='6809_12.bin'/>
+		<part crc='fe08ef61' name='22.bin'/>
+		<part crc='437501fc' name='24.bin'/>
+		<part crc='8ece953e' name='26.bin'/>
+		<part crc='51b8a217' name='28.bin'/>
+		<part crc='2485a71d' name='6809_1.bin'/>
+		<part crc='c67aac12' name='6809_3.bin'/>
+		<part crc='42d36bc3' name='6809_5.bin'/>
+		<part crc='d4e350cd' name='6809_7.bin'/>
+	</rom>
+</misterromdescription>

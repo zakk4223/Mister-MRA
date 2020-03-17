@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Double Dragon (bootleg with 3xM6809, set 2)</name>
+	<mameversion>0216</mameversion>
+	<setname>ddragon6809a</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1987</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Fighter / Hero</category>
+	<rbf>jtdd</rbf>
+	<rom index='0' md5='e4b06bf88f88c81863482edc9fba5d2e' type='merged|nonmerged|split' zip='ddragon6809a.zip|ddragon.zip'>
+		<part crc='de08db4d' name='19.7g'/>
+		<part crc='154d50c4' name='18.7h'/>
+		<part crc='4052f37a' name='17.7j'/>
+		<part crc='4052f37a' name='17.7j'/>
+		<part crc='c804819f' name='20.7f'/>
+		<part crc='f4c72690' name='16.7n'/>
+		<part crc='678f8657' name='14.7q'/>
+		<part crc='10f21dea' name='15.7o'/>
+		<part crc='FIXME' fixme='gfx1:0' name='21j-5'/>
+		<part crc='FIXME' fixme='gfx1:0' name='21j-5'/>
+		<part crc='736eff0f' name='9.2e'/>
+		<part crc='a670d088' name='10.2d'/>
+		<part crc='4171b70d' name='11.2b'/>
+		<part crc='5f6a6d6f' name='12.2a'/>
+		<part crc='5e810a6d' name='1.1t'/>
+		<part crc='7300b785' name='1.1r'/>
+		<part crc='19405de8' name='3.1q'/>
+		<part crc='4b10defd' name='4.1p'/>
+		<part crc='5b1bb493' name='5.1n'/>
+		<part crc='e8a2d2e7' name='6.1m'/>
+		<part crc='8010fcca' name='7.1l'/>
+		<part crc='bfa4da27' name='8.1j'/>
+		<part crc='FIXME' fixme='sub:c000' name='21jm-0.ic55'/>
+		<part crc='FIXME' fixme='proms:0' name='21j-k-0'/>
+		<part crc='FIXME' fixme='proms:100' name='21j-l-0'/>
+	</rom>
+</misterromdescription>

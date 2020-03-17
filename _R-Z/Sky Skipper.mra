@@ -1,0 +1,46 @@
+<misterromdescription>
+	<name>Sky Skipper</name>
+	<mameversion>0219</mameversion>
+	<setname>skyskipr</setname>
+	<mratimestamp>20200303000000</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Nintendo</manufacturer>
+	<category>Movie / TV / Comic</category>
+	<category>Platform</category>
+	<rbf>popeye</rbf>
+	<switches default="00,82 00">
+		<dip bits="0,3"     name="Coinage" ids="1c/1cr,1c/2cr,1c/3cr,Free Play" values="0,9,5,15"/>
+		<dip bits="8,9"     name="Live" ids="1,2,3,4"/>
+		<dip bits="13"      name="Bonus" ids="15.000,30.000"/>
+		<dip bits="14"      name="Service1" ids="No,Yes"/>
+		<dip bits="16"      name="Service2" ids="No,Yes"/>
+	</switches>
+	<buttons names="Fast,Bomb,Start 1P,Start 2P,Coin" default="L,A,Start,Select,R"/>
+	<rom index="1">
+		<part>01</part>
+	</rom>
+	<rom index="0" zip="skyskipr.zip" md5="0411560f16f98281badc810b6d8376f9">
+		<part crc="bdc7f218" name="tnx1-c.2a"/>
+		<part crc="cbe601a8" name="tnx1-c.2b"/>
+		<part crc="5ca79abf" name="tnx1-c.2c"/>
+		<part crc="6b7a7071" name="tnx1-c.2d"/>
+		<part crc="6b0c0525" name="tnx1-c.2e"/>
+		<part crc="d1712424" name="tnx1-c.2f"/>
+		<part crc="8b33c4cf" name="tnx1-c.2g"/> 
+		<part repeat="0x1000">FF</part>
+		<part crc="01c1120e" name="tnx1-t.1e"/>
+		<part crc="01c1120e" name="tnx1-t.1e"/>
+		<part crc="70292a71" name="tnx1-t.2e"/>
+		<part crc="70292a71" name="tnx1-t.2e"/>
+		<part crc="92b6a0e8" name="tnx1-t.3e"/>
+		<part crc="92b6a0e8" name="tnx1-t.3e"/>
+		<part crc="cc5f0ac3" name="tnx1-t.5e"/>
+		<part crc="cc5f0ac3" name="tnx1-t.5e"/>
+		<part crc="ecb6a046" name="tnx1-v.3h"/>
+		<part crc="ecb6a046" name="tnx1-v.3h"/>
+		<part crc="8abf9de4" name="tnx1-t.3a"/>
+		<part crc="aa7ff322" name="tnx1-t.2a"/>
+		<part crc="c2bca435" name="tnx1-t.1a"/>
+		<part crc="98846924" name="tnx1-t.4a"/>
+	</rom>
+</misterromdescription>

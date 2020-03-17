@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Double Dragon (bootleg with M6803)</name>
+	<mameversion>0216</mameversion>
+	<setname>ddragonba</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1987</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Fighter / Hero</category>
+	<rbf>jtdd</rbf>
+	<rom index='0' md5='40a5421c6f3afb2374661323d46b52b5' type='merged|nonmerged|split' zip='ddragonba.zip|ddragon.zip'>
+		<part crc='48045762' name='4.bin'/>
+		<part crc='dbf24897' name='3.bin'/>
+		<part crc='FIXME' fixme='maincpu:20000' name='21j-4-1.23'/>
+		<part crc='FIXME' fixme='maincpu:20000' name='21j-4-1.23'/>
+		<part crc='ae714964' name='5.bin'/>
+		<part crc='9efa95bb' name='6.bin'/>
+		<part crc='34755de3' name='8.bin'/>
+		<part crc='f9311f72' name='7.bin'/>
+		<part crc='7a8b8db4' name='1.bin'/>
+		<part crc='7a8b8db4' name='1.bin'/>
+		<part crc='7c435887' name='21j-8'/>
+		<part crc='c6640aed' name='21j-9'/>
+		<part crc='5effb0a0' name='21j-i'/>
+		<part crc='5fb42e7c' name='21j-j'/>
+		<part crc='574face3' name='21j-a'/>
+		<part crc='40507a76' name='21j-b'/>
+		<part crc='bb0bc76f' name='21j-c'/>
+		<part crc='cb4f231b' name='21j-d'/>
+		<part crc='a0a0c261' name='21j-e'/>
+		<part crc='6ba152f6' name='21j-f'/>
+		<part crc='3220a0b6' name='21j-g'/>
+		<part crc='65c7517d' name='21j-h'/>
+		<part crc='67875473' name='2_32.bin'/>
+		<part crc='fdb130a9' name='21j-k-0.101'/>
+		<part crc='46339529' name='21j-l-0.16'/>
+	</rom>
+</misterromdescription>
