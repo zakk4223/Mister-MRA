@@ -1,0 +1,31 @@
+<misterromdescription>
+	<name>Double Dragon II - The Revenge (US, bootleg)</name>
+	<mameversion>0217</mameversion>
+	<mratimestamp>20200110232148</mratimestamp>
+	<year>1988</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Fighter / Hero</category>
+	<rbf>jtdd2</rbf>
+	<rom index='0' md5='42a4245e0b67537c22a1644731d560d9' type='merged' zip='ddragon2b.zip|ddragon.zip|ddragon2.zip'>
+		<part crc='78750947' name='4'/>
+		<part crc='49ddddcd' name='5'/>
+		<part crc='097eaf26' name='6'/>
+		<part crc='097eaf26' name='6'/>
+		<part crc='5cc38bad' name='3'/>
+		<part crc='75e36cd6' name='11'/>
+		<part crc='ea437867' name='2'/>
+		<part crc='6d9e3f0f' name='7'/>
+		<part crc='151b22b4' name='8'/>
+		<part crc='3ad1049c' name='1'/>
+		<part crc='3c3f16f6' name='15'/>
+		<part crc='e92f91f4' name='14'/>
+		<part crc='fe42df5d' name='27'/>
+		<part crc='e157319f' name='23'/>
+		<part crc='4a4a085d' name='25'/>
+		<part crc='32ab0897' name='21'/>
+		<part crc='882f99b1' name='17'/>
+		<part crc='0e1c6c63' name='18'/>
+		<part crc='fdb130a9' name='21j-k-0'/>
+		<part crc='46339529' name='prom.16'/>
+	</rom>
+</misterromdescription>
